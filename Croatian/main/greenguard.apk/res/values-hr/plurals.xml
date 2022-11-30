@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notification_today_steps_start">
+        <item quantity="other">Danas ste prohodali %d koraka.</item>
+        <item quantity="one">Danas ste prohodali %d korak.</item>
+    </plurals>
+</resources>

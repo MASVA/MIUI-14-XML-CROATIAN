@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="google">
+        <item>Google</item>
+        <item>google.com</item>
+        <item>http://www.google.com/favicon.ico</item>
+        <item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+    </string-array>
+    <string-array name="pre_webapp_text_sizes">
+        <item>Veći</item>
+        <item>Veliki</item>
+        <item>Normalan</item>
+        <item>Sitan</item>
+    </string-array>
+    <string-array name="pref_content_plugins_choices">
+        <item>Uvijek uključeno</item>
+        <item>Pitaj prvo</item>
+        <item>Isključeno</item>
+    </string-array>
+    <string-array name="pref_data_preload_choices">
+        <item>Nikad</item>
+        <item>Samo na Wi-Fi-ju</item>
+        <item>Uvijek</item>
+    </string-array>
+    <string-array name="pref_fling_gesture_entries">
+        <item>Stranica natrag-naprijed</item>
+        <item>Promjeni kartice</item>
+        <item>Ništa</item>
+    </string-array>
+    <string-array name="pref_fling_on_border_choices">
+        <item>Stranica naprijed/natrag</item>
+        <item>Zamijeni zaslone</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Zadana početna stranica</item>
+        <item>Prilagođeno</item>
+    </string-array>
+    <string-array name="pref_images_preload_choices">
+        <item>Nikad</item>
+        <item>Samo na Wi-Fi-ju</item>
+        <item>Uvijek</item>
+    </string-array>
+    <string-array name="pref_link_prefetch_choices">
+        <item>Nikad</item>
+        <item>Samo na Wi-Fi-ju</item>
+        <item>Uvijek</item>
+    </string-array>
+    <string-array name="pref_nav_mode_summary">
+        <item>Telefon</item>
+        <item>Pad</item>
+    </string-array>
+    <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Pločice</item>
+        <item>Okomiti prikaz</item>
+        <item>Vodoravni prikaz</item>
+    </string-array>
+    <string-array name="pref_tab_restore_array">
+        <item>Uvijek pitaj</item>
+        <item>Otvori</item>
+        <item>Zatvori</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>Sitan</item>
+        <item>Malen</item>
+        <item>Normalan</item>
+        <item>Velik</item>
+        <item>Ogroman</item>
+    </string-array>
+    <string-array name="pref_text_zoom_choices">
+        <item>Sitni</item>
+        <item>Mali</item>
+        <item>Normalni</item>
+        <item>Veliki</item>
+        <item>Ogroman</item>
+    </string-array>
+    <string-array name="pref_video_preload_choices">
+        <item>Nikad</item>
+        <item>Samo na Wi-Fi-ju</item>
+        <item>Uvijek</item>
+    </string-array>
+    <string-array name="pref_volume_key_choices">
+        <item>Stranica naprijed/natrag</item>
+        <item>Kartica naprijed/natrag</item>
+    </string-array>
+    <string-array name="quick_link_tabs">
+        <item>Oznake</item>
+        <item>Povijest</item>
+    </string-array>
+    <string-array name="shortcut_dialog_delete">
+        <item>Izbriši</item>
+        <item>Ne hvala</item>
+    </string-array>
+    <string-array name="shortcut_dialog_keep">
+        <item>U redu</item>
+        <item>Prati</item>
+    </string-array>
+    <string-array name="shortcut_dialog_title">
+        <item>Poruka iz Preglednika</item>
+        <item>Pratite OI sa Mi</item>
+    </string-array>
+    <string-array name="suggestion_weather_condition_message">
+        <item>Vedro</item>
+        <item>Djelomična naoblaka</item>
+        <item>Oblačno</item>
+        <item>Pljusak</item>
+        <item>Oluja</item>
+        <item>Tuča</item>
+        <item>Kiša s snijegom</item>
+        <item>Lagana kiša</item>
+        <item>Umjerena kiša</item>
+        <item>Pljusak</item>
+        <item>Kišna oluja</item>
+        <item>Prolom oblaka</item>
+        <item>Iznenadna oluja</item>
+        <item>Gust snijeg</item>
+        <item>Snijeg</item>
+        <item>Umjeren snijeg</item>
+        <item>Gust snijeg</item>
+        <item>Mećava</item>
+        <item>Magla</item>
+        <item>Ledena kiša</item>
+        <item>Pješčana oluja</item>
+        <item>Mala do umjerena kiša</item>
+        <item>Umjerena do jaka kiša</item>
+        <item>Umjerena do iznenadna kiša</item>
+        <item>Iznenadna kiša do pljusak</item>
+        <item>Pjusak do ekstremna kiša</item>
+        <item>Lagan do umjeren snijeg</item>
+        <item>Umjeren do jak snijeg</item>
+        <item>Jak snijeg do mećava</item>
+        <item>Prašina</item>
+        <item>Pijesak</item>
+        <item>Pješčana oluja</item>
+        <item>Gusta magla</item>
+        <item>Gusta magla</item>
+        <item>Sumaglica</item>
+        <item>Umjerena sumaglica</item>
+        <item>Gusta sumaglica</item>
+        <item>Umjerena sumaglica</item>
+        <item>Gusta magla</item>
+        <item>Gusta magla</item>
+        <item>Ništa</item>
+        <item>Kiša</item>
+        <item>Snijeg</item>
+    </string-array>
+</resources>

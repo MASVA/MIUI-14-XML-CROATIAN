@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_earth">
+        <item>Dom</item>
+        <item>Slika pozadine/Super Slika pozadine/Početna</item>
+        <item>Zemlja;Super Slika pozadine;Zemlja izdanje;Slika pozadine</item>
+    </string-array>
+    <string-array name="settings_search_mars">
+        <item>Crveni planet</item>
+        <item>Slika pozadine/Super Slika pozadine/Crveni planet</item>
+        <item>Mars;Mars izdanje;Super Slika pozadine;Slika pozadine</item>
+    </string-array>
+    <string-array name="settings_search_saturn">
+        <item>Prstenovi Saturna</item>
+        <item>Slika pozadine/Super Slika pozadine/Prstenovi Saturna</item>
+        <item>Planet;Saturn;Super Slika pozadine;Slika pozadine</item>
+    </string-array>
+    <string-array name="settings_search_superwp">
+        <item>Super Slika pozadine</item>
+        <item>Slika pozadine/Super Slika pozadine</item>
+        <item>Super Slika pozadine;Slika pozadine;Dinamična pozadina;3D Slika pozadine</item>
+    </string-array>
+</resources>

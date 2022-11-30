@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">Dodajte česte fraze</string>
+    <string name="call">Poziv</string>
+    <string name="edit_frequent_phrases">Uredite česte fraze</string>
+    <string name="floating_toolbar_close_overflow_description">Zatvorite preljev</string>
+    <string name="floating_toolbar_open_overflow_description">Više opcija</string>
+    <string name="frequent_phrases">Česte raze</string>
+	 <string name="google_call">Poziv</string>
+    <string name="google_email">E-pošta</string>
+    <string name="google_map">Karta</string>
+    <string name="google_open">Otvori</string>
+    <string name="google_translate">Prevedi</string>
+    <string name="open">Pregledaj</string>
+    <string name="query">Query</string>
+    <string name="select">Odaberi</string>
+    <string name="translate">Prevedi</string>
+    <string name="translation_more">Više</string>
+    <string name="translation_query_error">"Nije moguće pronaći rezultate"</string>
+    <string name="translation_query_error_network">"Nije moguće dobiti informacije, provjerite mrežnu vezu i pokušajte ponovno"</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="app_name">HybridAccessory</string>
+    <string name="short_cut_dialog_cancel_button_text">Ne</string>
+    <string name="short_cut_dialog_cotent">Sljedeće aplikacije mogu se koristiti bez instalacije. Spremiti prečace?</string>
+    <string name="short_cut_dialog_create_button_text">Da</string>
+    <string name="short_cut_dialog_not_tip_check_box">"Podsjeti opet za 2 tjedna"</string>
+    <string name="short_cut_dialog_title">Izradi prečac</string>
+</resources>

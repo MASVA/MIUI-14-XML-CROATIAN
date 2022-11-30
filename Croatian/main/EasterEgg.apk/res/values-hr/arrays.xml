@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="food_names">
+        <item>Prazan tanjur</item>
+        <item>Komadići</item>
+        <item>Riba</item>
+        <item>Piletina</item>
+        <item>Poslastica</item>
+    </string-array>
+</resources>
+

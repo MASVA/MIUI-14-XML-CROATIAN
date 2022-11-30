@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">prije 1 sat</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">prije 1 sat</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Prije pola sata</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Za 1 sat</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Za pola sata</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Odmah</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">za %d min</item>
+        <item quantity="one">za 1 min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Upravo sada</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">prije %d min</item>
+        <item quantity="one">prije 1 min</item>
+    </plurals>
+    <plurals name="adblock_rules_number_text">
+        <item quantity="other">Blokirano stavki: %d</item>
+        <item quantity="one">%d stavka blokirana</item>
+    </plurals>
+    <plurals name="comment_detail_title">
+        <item quantity="other">%d odgovora</item>
+        <item quantity="one">%d odgovor</item>
+    </plurals>
+    <plurals name="comment_hour_ago">
+        <item quantity="other">prije %d sati</item>
+        <item quantity="one">prije %d sat</item>
+    </plurals>
+    <plurals name="comment_look_all">
+        <item quantity="other">Prikaži %d komentara</item>
+        <item quantity="one">View %d komentar</item>
+    </plurals>
+    <plurals name="comment_minute_ago">
+        <item quantity="other">prije %d min.</item>
+        <item quantity="one">prije %d min.</item>
+    </plurals>
+    <plurals name="comment_selected">
+        <item quantity="other">Odabrano %d razloga</item>
+        <item quantity="one">Odabran %d razlog</item>
+    </plurals>
+    <plurals name="find_on_page_matches">
+        <item quantity="other">%d podudaranja</item>
+        <item quantity="one">%d podudaranje</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Prije pola sata</item>
+    </plurals>
+    <plurals name="hot_word_hot_count">
+        <item quantity="other">%d pregleda</item>
+        <item quantity="one">%d pregled</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Za 1 sat</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Za pola sata</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Odmah</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">za %d min</item>
+        <item quantity="one">za 1 minutu</item>
+    </plurals>
+    <plurals name="info_flow_tips">
+        <item quantity="other">Pronađeno %d novih stavki za vas</item>
+        <item quantity="one">Pronađena %d nova stavka za vas</item>
+    </plurals>
+    <plurals name="last_num_days">
+        <item quantity="other">Posljednjih %d dana</item>
+        <item quantity="one">Posljednji %d dan</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Upravo sada</item>
+    </plurals>
+    <plurals name="matches_found">
+        <item quantity="other">%1$d od %2$d</item>
+        <item quantity="one">1 podudaranje</item>
+    </plurals>
+    <plurals name="mw_last_num_days">
+        <item quantity="other">Zadnjih ovoliko dana: %d</item>
+    </plurals>
+    <plurals name="mw_matches_found">
+        <item quantity="other">%1$d od %2$d</item>
+        <item quantity="one">1 podudaranje</item>
+    </plurals>
+    <plurals name="nav_screen_incognito_time">
+        <item quantity="other">Nakon %d sek. automatski će stvoriti nova stranica</item>
+        <item quantity="one">Nakon %d sek. automatski će stvoriti nova stranica</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">prije %d min</item>
+        <item quantity="one">prije 1 minutu</item>
+    </plurals>
+    <plurals name="transfer_prompt">
+        <item quantity="other">Reproduciraj videzapis za %1$d sek</item>
+        <item quantity="one">Reproduciraj videzapis za %1$d sek</item>
+    </plurals>
+    <plurals name="v5_edit_mode_title">
+        <item quantity="other">Odabrano: %1$d</item>
+        <item quantity="one">Odabrano: %1$d</item>
+    </plurals>
+    <plurals name="video_download_clear_info">
+        <item quantity="other">Uspješno uklonjeni videozapisi: %1$d.</item>
+        <item quantity="one">Uspješno uklonjen %1$d videozapis.</item>
+    </plurals>
+    <plurals name="video_download_clear_prompt">
+        <item quantity="other">Izbrisati videozapise: %1$d?</item>
+        <item quantity="one">Izbrisati %1$d videozapis?</item>
+    </plurals>
+    <plurals name="video_history_clear_info">
+        <item quantity="other">Uspješno izbrisano %1$d stavki iz povijesti.</item>
+        <item quantity="one">Uspješno izbrisana %1$d stavka iz povijesti.</item>
+    </plurals>
+    <plurals name="video_history_clear_prompt">
+        <item quantity="other">Izbrisati %1$d stavki iz povijesti?</item>
+        <item quantity="one">Izbrisati %1$d stavku iz povijesti?</item>
+    </plurals>
+    <plurals name="video_playback_error">
+        <item quantity="other">"Ne mogu učitati videozapise.
+Reproducirat će se sljedeći za %d sek…"</item>
+        <item quantity="one">"Ne mogu učitati videozapis.
+Reproducirat će se sljedeći za %d sek…"</item>
+    </plurals>
+    <plurals name="video_subtitle_last_message">
+        <item quantity="other">Preostalo je %d min.</item>
+        <item quantity="one">Preostala je %d minuta</item>
+    </plurals>
+    <plurals name="vo_comment">
+        <item quantity="other">%s komentara</item>
+        <item quantity="one">%s komentar</item>
+    </plurals>
+    <plurals name="vo_image_mark">
+        <item quantity="other">%d slika</item>
+        <item quantity="one">%d slika</item>
+    </plurals>
+    <plurals name="vo_short_video_play_count">
+        <item quantity="other">%s pregleda</item>
+        <item quantity="one">%s pregled</item>
+    </plurals>
+    <plurals name="vo_source_comment">
+        <item quantity="other">%1$s | %2$s komentara</item>
+        <item quantity="one">%1$s | %2$s komentar</item>
+    </plurals>
+    <plurals name="vo_vote_num">
+        <item quantity="other">%d osoba je već glasalo</item>
+        <item quantity="one">%d osoba je već glasali</item>
+    </plurals>
+    <plurals name="vo_wei_bo_publish_time_hour">
+        <item quantity="other">· prije %s sati</item>
+        <item quantity="one">· prije %s sat</item>
+    </plurals>
+    <plurals name="vo_wei_bo_publish_time_minute">
+        <item quantity="other">· prije %s min.</item>
+        <item quantity="one">· prije %s min.</item>
+    </plurals>
+    <plurals name="vo_zhi_hu_answer">
+        <item quantity="other">%d odgovora na Zhihu</item>
+        <item quantity="one">%d odgovor na Zhihu</item>
+    </plurals>
+</resources> 
