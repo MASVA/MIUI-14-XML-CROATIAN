@@ -1,4 +1,4 @@
-[![MIUI14 logo](https://i.ibb.co/3ytLQjj/Untitledmiui14.jpg)](https://xiaomi.eu/)
+[![MIUI14 logo](https://i.imgur.com/idmH8Nu.png)](https://xiaomi.eu/)
 
 # MIUI 14-XML-CROATIAN
 

@@ -60,10 +60,12 @@
     <string name="alert_title_restore">Obnovi bilješku</string>
     <string name="all_folder_name">Sve bilješke</string>
     <string name="all_terms">%1$s i %2$s</string>
-    <string name="am">AM</string>
     <string name="app_name">Bilješke</string>
     <string name="app_notification_info">Bilješke su pokrenute u pozadini</string>
     <string name="app_widget">Bilješke</string>
+	 <string name="app_widget_name_create_note">Izradite bilješke</string>
+    <string name="app_widget_name_create_todo">Izradite zadatke</string>
+    <string name="app_widget_name_fast_entry">Prečaci</string>
     <string name="app_widget_name_new">Bilješke</string>
     <string name="application_icon">Ikona aplikacije</string>
     <string name="attachment_camera">Snimi fotografiju</string>
@@ -976,6 +978,9 @@ Dopustite aplikaciji Bilješke snimanje zvuka."</string>
     <string name="welcome_note_for_cm">"I još puno velikih mogućnosti!
   - Sinkronizacija s Mi Cloudom
   - Postavljanje podsjetnika"</string>
+    <string name="widget_all_notes_name">Sve bilješke</string>
+    <string name="widget_all_todo_name">Svi zadaci</string>
+    <string name="widget_click_check">Dodirnite za prikaz</string>
     <string name="widget_content_loading">Samo trenutak…</string>
     <string name="widget_create_select_size">Odaberite veličinu</string>
     <string name="widget_empty_content">Dodirnite za odabir bilješke</string>

@@ -598,6 +598,10 @@ biste koristili prednju kameru</string>
     <string name="voice_input_error_network">"Ne mogu se povezati na mrežu. Provjerite mrežne postavke i pokušajte ponovno."</string>
     <string name="voice_input_error_other">Dogodila se pogreška. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
 	 <string name="voice_assist">Mi AI</string>
+	 <string name="wallpaper_group_curves_title">Krivulje</string>
+    <string name="wallpaper_group_light_cycles_title">Neonski krugovi</string>
+    <string name="wallpaper_group_macaron_title">Šljunak</string>
+    <string name="wallpaper_group_petros_koublis_title">Sanjarenja</string>
     <string name="wallpaper_group_black_gobi_title">Pijesak Gobija</string>
     <string name="wallpaper_group_black_white_title">Crno i bijelo</string>
     <string name="wallpaper_group_color_move_title">Tekuće boje</string>

@@ -2772,6 +2772,7 @@ https://appleid.apple.com/#!&amp;page=signin da zatvorite"</string>
   <string name="common_issue">FAQ</string>
   <string name="common_settings">Brze postavke</string>
   <string name="complete_parameters">Sve specifikacije</string>
+  <string name="complete_parameters_new">Detaljne informacije i specifikacije</string>
   <string name="complete_settings">Opće postavke</string>
   <string name="compute_backup_info">Dobivanje podataka Sig. kopije…</string>
   <string name="compute_delete_contact_info">Dobivanje informacija…</string>
@@ -3141,6 +3142,7 @@ Ako ga prekinete, izgubiti ćete neke ili sve svoje podatke."</string>
   <string name="dark_wallpaper_mode">Podesite pozadinu na Tamni način rada</string>
   <string name="dashboard_suggestion_condition_footer_content_description">Sažmi</string>
   <string name="dashboard_title">Postavke</string>
+  <string name="data_acceleration_summery">Koristite Wi-Fi i mobilne podatke za povećanje brzine kada je Wi-Fi veza loša</string>
   <string name="data_connection_3_5g">H</string>
   <string name="data_connection_3_5g_plus">H+</string>
   <string name="data_connection_3g">3G</string>
@@ -3321,6 +3323,7 @@ Ta postavka utječe na sve korisnike telefona."</string>
   <string name="dc_light_summary_new">Spriječite opsežno treperenje i smanjite naprezanje očiju u uvjetima slabog osvjetljenja</string>
   <string name="dc_light_title">Način rada protiv treperenja</string>
   <string name="dclight_unavailable_prompt">Način rada protiv treperenja podržava samo vanjski zaslon</string>
+  <string name="dds_preference_smart_dds_switch_is_on">Smart DDS prekidač je uključen</string>
   <string name="debug_app">Aplikacija za otklanjanje pogrešaka</string>
   <string name="debug_app_not_set">Nema aplikacije za otklanjanje pogrešaka</string>
   <string name="debug_app_set">Aplikacija za otklanjanje pogrešaka: %1$s</string>
@@ -3673,7 +3676,7 @@ Ako se problem ponovi, možda biste trebali deinstalirati tu aplikaciju da biste
   <string name="display_order_text">Poredati prema:</string>
   <string name="display_preview_label">Pregled:</string>
   <string name="display_prompt_confirm">Razumijem</string>
-  <string name="display_settings">Prikaz</string>
+  <string name="display_settings">Zaslon</string>
   <string name="display_settings_title">Zaslon</string>
   <string name="display_summary">Mirovanje nakon %1$s neaktivnosti</string>
   <string name="display_summary_example">Mirovanje nakon 10 minuta neaktivnosti</string>
@@ -4035,6 +4038,7 @@ Možete vidjeti generirane zapise u aplikaciji Datoteke."</string>
   <string name="enable_sizecompat_freeform">Prisilno dopusti promjenu veličine prozora</string>
   <string name="enable_sizecompat_freeform_summary">Omogućuje aplikacijama s ograničenjima kompatibilnosti da se izvode u prozorima promjenjive veličine</string>
   <string name="enable_snapshot_screenlock">Dugi pritisnite tipku Natrag da snimite fotografiju</string>
+  <string name="enable_snpn">Omogući SNPN</string>
   <string name="enable_tcp_rtt_support">TCP RTT prikaz</string>
   <string name="enable_tcp_rtt_support_summary">Ocijenite izvedbu kvalitete mrežne komunikacije</string>
   <string name="enable_terminal_summary">Omogući aplikaciju terminala koja nudi pristup lokalnoj ovojnici</string>
@@ -4984,6 +4988,8 @@ Područje u kojem možete potvrditi zaključavanje zaslona pomaknut će se udesn
   <string name="handy_mode_tips_full_screen">"Kada koristite geste na cijelom zaslonu, možete uključiti Rad jednom rukom pomoću Izbornika Prečaca. Možete se prebaciti i na tipke umjesto gestama cijelog zaslona.."</string>
   <string name="haptic_agent_completion_01_content_description">Izvršen zadatak</string>
   <string name="haptic_cursor_movement_07_content_description">Podešavanje svjetline</string>
+  <string name="haptic_descripthion_for_middle_level">Zadano</string>
+  <string name="haptic_descripthion_for_min_level">Svjetlo</string>
   <string name="haptic_experience">Demo</string>
   <string name="haptic_experience_details">Taktilna povratna inf. &amp; pristupačnost</string>
   <string name="haptic_feedback_enable_title">Vibracija na dodir</string>
@@ -5234,6 +5240,7 @@ prvo morate izraditi iCloud Sig. kopiju."</string>
   <string name="ims_reg_status_registered">Registrirano</string>
   <string name="ims_reg_title">Stanje registracije IMS-a</string>
   <string name="imsi_protection_warning">Ova mreža prima jedinstveni ID koji se može koristiti za praćenje lokacije uređaja. &lt;annotation id="url"&gt;Saznajte vi&amp;#353;e&lt;/annotation&gt;</string>
+  <string name="immersive_audio_sources">Immersion audio</string>
   <string name="inactive_app_active_summary">Aktivno. Dodirnite da biste to promijenili.</string>
   <string name="inactive_app_inactive_summary">Nije aktivno. Dodirnite da biste to promijenili.</string>
   <string name="inactive_apps_title">Aplikacije u stanju mirovanja</string>
@@ -5773,7 +5780,7 @@ Bočne ploče
   <string name="legacy_dhcp_client_summary">Upotrebljavajte DHCP klijent iz Lollipopa umjesto novog Android DHCP klijenta.</string>
   <string name="legacy_navigation_summary">Za povratak, otvaranje početnog zaslona i promjenu aplikacije koristite se tipkama pri dnu zaslona.</string>
   <string name="legacy_navigation_title">Navigacija pomoću tri tipke</string>
-  <string name="legacy_power_menu">Stari Power izbornik</string>
+  <string name="legacy_power_menu">Legacy izbornik Power</string>
   <string name="legal_information">Pravne informacije</string>
   <string name="legal_workday">Radni dani</string>
   <string name="legal_workday_invalidate">Pon-Pet (istekli podaci o praznicima)</string>
@@ -7221,6 +7228,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="multi_face_name_prefix">"Lice "</string>
   <string name="multi_face_number_reach_limit">"Ne mogu dodati više od dva lica"</string>
   <string name="multi_network_acceleration_app_settings">Mrežno ubrzanje za aplikacije</string>
+  <string name="multi_network_acceleration_summery">Povežite se na više Wi-Fi mreža u isto vrijeme kako biste povećali brzinu</string>
   <string name="multi_select_title">Odabrano: %1$s</string>
   <string name="multi_touch_points_category_title">Točke višestrukog dodira</string>
   <string name="multi_touch_points_preference">Ova postavka će stupiti na snagu nakon što ponovno pokrenete uređaj</string>
@@ -7385,6 +7393,9 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="network_and_internet_preferences_summary">Poveži se s javnim mrežama</string>
   <string name="network_and_internet_preferences_title">Postavke mreže</string>
   <string name="network_assistant">Uporaba podataka</string>
+  <string name="network_acceleration">Ubrzanje mreže</string>
+  <string name="network_auto_switch">Prebacivanje između mreža</string>
+  <string name="network_auto_switch_summery">"Prebaci se na mobilne podatke kada je Wi-Fi signal slab ili mreža nije dostupna"</string>
   <string name="network_changed_noti_summary">Uporaba mobilnih podataka</string>
   <string name="network_changed_noti_title">Prekinuta veza s Wi-Fi-jem</string>
   <string name="network_changed_notification_text">Vaša se mobilna mreža promijenila</string>
@@ -10636,6 +10647,7 @@ Dvaput dodirnite za otvaranje Nedavno."</string>
   <string name="sms_received_sound_title">Primljena poruka</string>
   <string name="sms_title">SMS</string>
   <string name="snooze_options_title">Dopusti odgodu obavijesti</string>
+  <string name="solid_text">Koristi niskofrekventnu taktilnu povratnu informaciju i odgovarajuće vizualne prijelaze za stvaranje čvrstog, moćnog iskustva pokreta</string>
   <string name="soft_ap_create_failed">"Ne mogu izraditi hotspot"</string>
   <string name="soft_ap_creating">Izrada hotspot-a…</string>
   <string name="softbank_apn_lock_toast">APN je zaključan. Ne mogu urediti.</string>
@@ -13163,6 +13175,7 @@ Ovu značajku možete isključiti u Postavke &gt; Wi-Fi &gt; Dodatne postavke."<
   <string name="wifi_generation_summary">Dodajte broj generacije bežične tehnologije na ikonu Wi-Fi-ja</string>
   <string name="wifi_generation_title">Tehnologija</string>
   <string name="wifi_hand_sel_wapi_cert">WAPI certifikat</string>
+  <string name="wifi_hidden_gbk">GBK kodiranje</string>
   <string name="wifi_hidden_network">Skrivena mreža</string>
   <string name="wifi_hidden_network_warning">"Ako vaš usmjerivač ne emitira ID mreže, ali biste ga htjeli povezati ubuduće, mrežu možete postaviti kao skrivenu.
 
@@ -13295,6 +13308,7 @@ Postavljanjem mreže kao skrivene neće se promijeniti postavke usmjerivača."</
   <string name="wifi_password">Zaporka</string>
   <string name="wifi_poor_network_detection">Izbjegavaj slabe veze</string>
   <string name="wifi_poor_network_detection_summary">Ne upotrebljavaj Wi-Fi mrežu ako internetska veza nije zadovoljavajuća</string>
+  <string name="wifi_primary">Primarna mreža</string>
   <string name="wifi_priority_changed" formatted="false">Stara vrijednost %s | Nova vrijednost %s</string>
   <string name="wifi_priority_label">Prednost</string>
   <string name="wifi_priority_settings_label">Postavke prednosti</string>
@@ -13321,6 +13335,7 @@ Postavljanjem mreže kao skrivene neće se promijeniti postavke usmjerivača."</
   <string name="wifi_rssi_threshold_check_summary">Nemoj spajati na AP, ako je RSSI loš</string>
   <string name="wifi_sap_no_channel_error">U ovoj zemlji nije dostupna frekvencija od 5 GHz</string>
   <string name="wifi_save">Spremi</string>
+  <string name="wifi_saved_access_point">Spremljene mreže</string>
   <string name="wifi_saved_access_points_label">Spremljene mreže</string>
   <string name="wifi_saved_access_points_titlebar">Spremljene mreže</string>
   <string name="wifi_saved_other_networks_tab">Ostale mreže</string>
@@ -13473,8 +13488,8 @@ Dodirnite "<b>Natrag</b> za povezivanje s drugom Wi-Fi mrežom."</string>
   <string name="wifi_speed">Brzina veze</string>
   <string name="wifi_ssid">Naziv mreže</string>
   <string name="wifi_ssid_hint">Unesite SSID</string>
-  <string name="wifi_ssid_is_empty">Polje SSID-a ne može ostati prazno</string>
-  <string name="wifi_ssid_length_is_max">SSID ne smije premašivati 32 znakova</string>
+  <string name="wifi_ssid_is_empty">SSID polje ne može ostati prazno</string>
+  <string name="wifi_ssid_length_is_max">SSID ne smije premašiti duljinu od 32 znaka</string>
   <string name="wifi_ssid_too_long">Mreža ima predugačak naziv.</string>
   <string name="wifi_starting">Uključivanje Wi-Fi-ja…</string>
   <string name="wifi_state_disabled">Onemogućeno</string>
@@ -13555,14 +13570,14 @@ Dodirnite "<b>Natrag</b> za povezivanje s drugom Wi-Fi mrežom."</string>
   <string name="wifi_wakeup_summary_scanning_disabled">Nije dostupno jer je pretraživanje Wi-Fi signala isključeno</string>
   <string name="wifi_wakeup_summary_scoring_disabled">Za korištenje odaberite ocjenjivača mreže</string>
   <string name="wifi_wakeup_title">Uključite dodatne značajke</string>
-  <string name="wifi_wapi_as_cert">AS Certifikat</string>
-  <string name="wifi_wapi_as_certificate">AS Certifikat</string>
+  <string name="wifi_wapi_as_cert">AS certifikat</string>
+  <string name="wifi_wapi_as_certificate">AS certifikat</string>
   <string name="wifi_wapi_cert_cancel_button">Odustani</string>
   <string name="wifi_wapi_cert_create_subdir">Kreiraj mapu</string>
   <string name="wifi_wapi_cert_delet_subdir">Odaberi certifikat</string>
-  <string name="wifi_wapi_cert_install">Instaliraj WAPI Certifikat</string>
+  <string name="wifi_wapi_cert_install">Instaliraj WAPI certifikat</string>
   <string name="wifi_wapi_cert_install_button">"Instaliraj"</string>
-  <string name="wifi_wapi_cert_mgmt_as_dont_exist">"SD kartica nema AS Certifikat."</string>
+  <string name="wifi_wapi_cert_mgmt_as_dont_exist">"SD kartica nema AS certifikat."</string>
   <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">Format AS certifikata je neispravan.</string>
   <string name="wifi_wapi_cert_mgmt_as_name_is_empty">Unesi naziv AS certifikata</string>
   <string name="wifi_wapi_cert_mgmt_subdir_create_fail">"Ne mogu napraviti mapu."</string>
@@ -13579,7 +13594,7 @@ Dodirnite "<b>Natrag</b> za povezivanje s drugom Wi-Fi mrežom."</string>
   <string name="wifi_wapi_fail_to_auth">"WAPI autentifikacija nije uspjela
 Provjerite valjanost certifikata"</string>
   <string name="wifi_wapi_fail_to_init">"Nije moguće otvoriti WAPI certifikate
-Pohrana vjerodajnica možda neće biti omogućiena"</string>
+Pohrana vjerodajnica možda nije omogućena"</string>
   <string name="wifi_wapi_psk_type">Vrsta zaporke</string>
   <string name="wifi_wapi_user_cert">Korisnički certifikat</string>
   <string name="wifi_wapi_user_certificate">Korisnički certifikat</string>

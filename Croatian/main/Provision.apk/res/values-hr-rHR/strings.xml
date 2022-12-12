@@ -84,7 +84,8 @@
     <string name="cookies_content_two">"Odlučite želite li da naši pouzdani pružatelji sadržaja treće strane koriste kolačiće za prilagodbu preporuka sadržaja i oglasa na temelju vaših interesa."</string>
     <string name="cookies_title">Personalizirani sadržaj i kolačići</string>
     <string name="copy">Kopiraj</string>
-	 <string name="create_shortcut">Prečac Poč. zaslona</string>
+	  <string name="create_shortcut">Prečac Poč. zaslona</string>
+	  <string name="check_box_label"><Data>"Uključivanjem ove značajke prihvaćate &lt;a href=%1$s>Politika privatnosti Xiaomi Interconnectivity Services&lt;/a >."</Data></string>
     <string name="data_traffic_enable_dialog_title">"Ako sada niste povezani s Wi-Fi mrežom, vaš će uređaj koristiti mobilne podatke. Korištenje mobilnih podataka može generirati dodatne troškove mobilnog operatera."</string>
     <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
     <string name="desc_extra_fingerprint"/>
@@ -140,7 +141,40 @@
     <string name="input_method_setting">Odaberite tipkovnicu</string>
     <string name="install_preinstall_app">Učitavanje aplikacija…</string>
     <string name="interconnection_communication_introduction">Xiaomi internetske komunikacijske usluge omogućuju vam otkrivanje, povezivanje i komunikaciju s drugim Xiaomi uređajima.</string>
-    <string name="item_contents_wwarning">"Ako izgubite svoj uređaj, nećete moći spriječiti druge ljude da ga koriste i pristupaju vašim podacima ako ne postavite Zaklj. zaslona. Svejedno preskočiti?"</string>
+    <string name="intent_filter_verification_service">Intent Filter Verification Service</string>
+    <string name="interconnection_service_summary">"Xiaomi Interconnectivity Services omogućuju vašim uređajima međusobnu bežičnu interakciju. Ove usluge uključuju Mi Smart Hub, Mi Smart Play, MIUI+ Beta, Mi Share i kasting.
+Da bi mogli normalno raditi, ovi servisi moraju se povezati na internet i zahtijevati sljedeća dopuštenja:
+\u0009\u0009Mi Smart Hub:
+\u0009\u0009Uključiti i isključiti Wi-Fi
+\u0009\u0009Za prijenos stavki putem Wi-Fi mreže
+\u0009\u0009Snimanje zvuka
+\u0009\u0009Za prijenos audio reprodukcije na povezane uređaje tijekom emitiranja ili zrcaljenja zaslona
+\u0009\u0009Pristupi pohrani
+\u0009\u0009Za bežični prijenos i primanje datoteka
+\u0009\u0009Mi Share:
+\u0009\u0009Pristup i spremnje datoteke i fotografije na svoj uređaj
+\u0009\u0009Za bežični prijenos i primanje datoteka
+\u0009\u0009Pristup lokaciji
+\u0009\u0009Za prijenos stavki na uređaje u blizini putem Wi-Fi i Bluetooth veze
+\u0009\u0009Uključiti i isključiti Bluetooth
+\u0009\u0009Za pronalaženje uređaja u blizini
+\u0009\u0009Uključiti i isključiti Wi-Fi
+\u0009\u0009Za pronalaženje uređaja u blizini i bežični prijenos datoteka
+\u0009\u0009Povezivanje s uređajima u blizini
+\u0009\u0009Za pronalaženje uređaja u blizini i povezivanje s njima
+\u0009\u0009Emitiranje:
+\u0009\u0009Uključiti i isključiti Bluetooth
+\u0009\u0009Za pronalaženje uređaja u blizini
+\u0009\u0009Uključiti i isključiti Wi-Fi
+\u0009\u0009Za pronalaženje uređaja u blizini
+\u0009\u0009Pristup lokaciji
+\u0009\u0009Za dobivanje informacija o uređajima u blizini
+\u0009\u0009Snimanje zvuka
+\u0009\u0009Za prijenos audio reprodukcije na povezani tijekom emitiranja
+Ako se ne slažete s davanjem takvih dopuštenja, nećete moći koristiti Xiaomi Interconnectivity Services.
+Značajke su podložne promjenama. Neke od gore navedenih značajki možda neće biti dostupne na svim modelima uređaja ili za sve verzije sustava. Posjetite MIUI web stranicu (www.miui.com) da provjerite kompatibilnost."</string>
+    <string name="interconnection_service_title">Xiaomi Interconnectivity Services</string>
+	 <string name="item_contents_wwarning">"Ako izgubite svoj uređaj, nećete moći spriječiti druge ljude da ga koriste i pristupaju vašim podacima ako ne postavite Zaklj. zaslona. Svejedno preskočiti?"</string>
     <string name="item_facerecognition">Otključavanje licem</string>
 	 <string name="item_fingerprint">Otisak prsta</string>
     <string name="item_lock_screen_password">Samo Zaklj. zaslona</string>

@@ -460,7 +460,7 @@ Duže izlaganje glasnim zvukovima može uzrokovati probleme sa sluhom."</string>
     <string name="wireless_charging_fg_control_cancel">Odustani</string>
     <string name="wireless_charging_fg_control_messgae">"Obrnuto bežično punjenje je isključeno jer je ostalo manje od %d%% baterije. Možete prilagoditi postavke kako biste omogućili da obrnuto bežično punjenje radi dulje."</string>
     <string name="wireless_charging_fg_control_ok">Prilagodi</string>
-    <string name="wireless_charging_low_battery_level_message">"Nije moguće koristiti obrnuto bežično punjenje kada je baterija manje od 30% napunjena."</string>
+    <string name="wireless_charging_low_battery_level_message">"Nije moguće koristiti obrnuto bežično punjenje kada je baterija manje od %d%% napunjena."</string>
     <string name="wireless_charging_ok">Razumijem</string>
     <string name="wireless_charging_saver_cancel">Isključi</string>
     <string name="wireless_charging_saver_message">Štednja baterije je uključena. Zadržati obrnuto bežično punjenje dostupnim?</string>

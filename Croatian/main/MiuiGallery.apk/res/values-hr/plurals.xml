@@ -636,7 +636,7 @@
         <item quantity="one"></item>
     </plurals>
 	<plurals name="tran_notification_complete_msg">
-        <item quantity="other">"Nije moguće prenijeti %1$d stavke"</item>
+        <item quantity="other">"Nije moguće prenijeti %1$d stavki"</item>
         <item quantity="one">"Nije moguće prenijeti %1$d stavku"</item>
     </plurals>
     <plurals name="transfer_status_banner_msg_file_failed">
@@ -668,8 +668,8 @@
         <item quantity="one">Stavka ovdje može biti pohranjena %1$d dan (%2$s)</item>
     </plurals>
 	<plurals name="trash_vip_info_text_login_medium_or_low_level">
-        <item quantity="other">Stavke ovdje mogu biti pohranjene do %1$d dana. Dodirnite za produljenje ovog razdoblja.</item>
-        <item quantity="one">Stavke ovdje mogu biti pohranjene do %1$d dan. Dodirnite za produljenje ovog razdoblja.</item>
+        <item quantity="other">Stavke ovdje mogu biti pohranjene do %1$s dana. Dodirnite za produljenje ovog razdoblja.</item>
+        <item quantity="one">Stavke ovdje mogu biti pohranjene do %1$s dan. Dodirnite za produljenje ovog razdoblja.</item>
     </plurals>
     <plurals name="trash_vip_info_text_no_sync_server">
         <item quantity="other">Izbrisane stavke se pohranjuju u cloudu %1$d dana</item>
@@ -734,5 +734,9 @@
      <plurals name="share_album_sync_textline_sharer_upload_error">
         <item quantity="other">"Nije moguće sinkronizirati %d stavki. Nadogradite svoj plan za pohranu."</item>
         <item quantity="one">"Nije moguće sinkronizirati %d stavku. Nadogradite svoj plan za pohranu."</item>
+     </plurals>
+	      <plurals name="share_album_home_pref_screen_devices">
+        <item quantity="other">%1$d zaslona</item>
+        <item quantity="one">%1$d zaslon</item>
      </plurals>
 </resources>

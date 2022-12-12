@@ -157,6 +157,7 @@
     <string name="app_drawer_guide_title">Ladica aplikacija</string>
     <string name="app_drawer_tip_title">"Feed sadržaja zamijenili smo ladicom za aplikacije."</string>
     <string name="app_install_state">Instalirano</string>
+	 <string name="app_set_icon">Postavi ikonu</string>
     <string name="application_name">MIUI Pokretač</string>
     <string name="apply">Postavi</string>
     <string name="apply_action">Postavi</string>
@@ -348,6 +349,11 @@
 	 <string name="fold_pair_install_shortcut_long_click">Pritisnite i držite za dodavanje na Poč. zaslon</string>
     <string name="fold_pair_installed_shortcut_launcher">Ovaj prečac već postoji</string>
     <string name="folder_name">Mapa</string>
+	 <string name="folder_picker_big_text">Uvećano</string>
+    <string name="folder_picker_default_text">Regularno</string>
+    <string name="folder_picker_options_tab_text">Veličina</string>
+    <string name="folder_picker_sliding_button_tab_text">Predloži istaknute aplikacije</string>
+    <string name="folder_picker_tab_text">Mapa</string>
     <string name="frame_load_failed">"Ne mogu učitati okvir"</string>
     <string name="free_style_apps_title">Odaberi aplikaciju</string>
     <string name="free_style_drawer_title">Sve aplikacije</string>
@@ -431,6 +437,7 @@
     <string name="image_too_small_message">"Originalna slika nije dovoljno velika"</string>
     <string name="in_app_result_by">Rezultati unutar aplikacije prema</string>
     <string name="install">Instaliraj</string>
+	  <string name="intelligent_exposed_button_summary_text">Koristite pametne prijedloge na temelju vaše upotrebe aplikacije za isticanje aplikacija u povećanim mapama</string>
     <string name="invalid_contact_shortcut">Nevažeći kontakt</string>
     <string name="is_setting_wallpaper_message">Postavljanje slike pozadine…</string>
     <string name="is_system_wallpaper_message">"Ne mogu izbrisati resurse sustava"</string>

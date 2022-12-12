@@ -241,7 +241,8 @@
     <string name="installing">Instaliranje…</string>
     <string name="insufficient_space">Nema dovoljno prostora za pohranu</string>
     <string name="invalid_address">Putanja datoteke koje ste unijeli nije važeća</string>
-    <string name="jump_rank_hint">"Bacite pogled na današnji poredak preuzimanja &gt;"</string>
+    <string name="jump_rank_hint">"Pogledajte današnji poredak preuzimanja &gt;"</string>
+	 <string name="jump_rank_hint2">Pogledajte najpopularnija preuzimanja</string>
     <string name="keep_queued_download">Zadrži</string>
     <string name="load_finish_hint">Možete nastaviti gledati sutra</string>
     <string name="loading">Samo trenutak…</string>

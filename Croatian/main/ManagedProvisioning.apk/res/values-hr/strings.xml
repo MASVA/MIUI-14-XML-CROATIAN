@@ -120,7 +120,10 @@
     <string name="error_icon_content_description">Pogreška</string>
     <string name="error_installation_failed">Instaliranje administratorske aplikacije nije uspjelo</string>
     <string name="error_package_invalid">Upotreba administratorske aplikacije nije uspjela. Nedostaju joj neke komponente ili je oštećena. Ako vam je potrebna pomoć, obratite se IT administratoru.</string>
-    <string name="error_wifi">Povezivanje s Wi-Fijem nije uspjelo</string>
+    <string name="error_role_holder_download_install_failed">Pokušajte ponovno kasnije ili se obratite svom IT administratoru za pomoć</string>
+    <string name="error_role_holder_hash_mismatch">Postavljanje uređaja nije moguće. Za pomoć se obratite svom IT administratoru i navedite \"nevažeći kontrolni zbroj\".</string>
+    <string name="error_role_holder_package_invalid">Postavljanje uređaja nije moguće. Za pomoć se obratite svom IT administratoru i navedite \"komponente koje nedostaju ili koje su oštećene\".</string>
+	 <string name="error_wifi">Povezivanje s Wi-Fijem nije uspjelo</string>
     <string name="expand">Proširivanje</string>
     <string name="expand_button_title">Napredno</string>
     <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>

@@ -98,8 +98,8 @@
         <item quantity="one">za 1 minutu</item>
     </plurals>
     <plurals name="le_notification_download_completed">
-        <item quantity="other">Preuzeto %d stavke uspješno</item>
-        <item quantity="one">Preuzeta %d stavka uspješno</item>
+        <item quantity="other">%1$s stavki uspješno preuzeto</item>
+        <item quantity="one">%1$s stavka uspješno preuzeta</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Upravo sada</item>

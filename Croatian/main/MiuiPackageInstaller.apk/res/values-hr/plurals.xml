@@ -30,12 +30,12 @@
         <item quantity="one">prije 1 min</item>
     </plurals>
 		<plurals name="app_info_permission_count">
-        <item quantity="other">%d dopuštenja</item>
-        <item quantity="one">%d dopuštenje</item>
+        <item quantity="other">%1$s dopuštenja</item>
+        <item quantity="one">%1$s dopuštenje</item>
     </plurals>
     <plurals name="app_info_permission_count_">
-        <item quantity="other">%d dopuštenja,</item>
-        <item quantity="one">%d dopuštenje,</item>
+        <item quantity="other">%1$s dopuštenja,</item>
+        <item quantity="one">%1$s dopuštenje,</item>
     </plurals>
     <plurals name="app_info_private_permission_count">
         <item quantity="other">%1$s dopuštenja vezanih uz privatnost</item>

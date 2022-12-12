@@ -272,6 +272,7 @@
     <string name="common_signin_button_text">Prijava</string>
     <string name="common_signin_button_text_long">Prijava uslugom Google</string>
     <string name="copy">Kopiraj</string>
+	  <string name="copy_toast_msg">Poveznica kopirana u međuspremnik</string>
     <string name="data_selected">Odabrane stavke</string>
     <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
     <string name="dc_activity_title">Duboko čišćenje</string>
@@ -395,6 +396,9 @@
     <string name="facebook_group_gif">GIF-ovi</string>
     <string name="facebook_group_image">Slike</string>
     <string name="facebook_group_video">Videozapisi</string>
+	 <string name="fallback_menu_item_copy_link">Kopiraj poveznicu</string>
+    <string name="fallback_menu_item_open_in_browser">Otvori u pregledniku</string>
+    <string name="fallback_menu_item_share_link">Podijelite poveznicu</string>
     <string name="file">Datoteka</string>
     <string name="file_not_found">Datoteka nije pronađena</string>
     <string name="find_device_operation_failure_rpc">"Nije moguće izvršiti radnju zbog RPC pogreške. "</string>

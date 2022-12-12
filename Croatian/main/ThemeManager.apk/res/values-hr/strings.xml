@@ -481,6 +481,7 @@ Dopustite Temama da pristupaju vašem ID-u Mi Računa i Mi Community statusima k
     <string name="has_mamual_hide_aod">Ova je stavka sada skriven</string>
     <string name="has_mamual_hide_font">Skriveno</string>
     <string name="has_mamual_hide_icons">Skrivene ikone</string>
+	 <string name="has_mamual_hide_large_icons">Super ikona uspješno skrivena</string>
     <string name="has_mamual_hide_theme">Skriveno</string>
     <string name="has_mamual_hide_wallpaper">Skriveno</string>
     <string name="head_portraits">Fotografija profila</string>
@@ -495,6 +496,7 @@ Dopustite Temama da pristupaju vašem ID-u Mi Računa i Mi Community statusima k
     <string name="hide_mamual_hide_aod">"Ne prikazuj ručno skrivene stavke"</string>
     <string name="hide_mamual_hide_font">"Ne prikazuj skrivene fontove"</string>
     <string name="hide_mamual_hide_icons">"Ne prikazuj ručno skrivene ikone"</string>
+	 <string name="hide_mamual_hide_large_icons">"Ne prikazuj skrivene Super ikone"</string>
     <string name="hide_mamual_hide_miwallpaper">"Ne prikazuj skrivene efekte Poč. zaslona"</string>
     <string name="hide_mamual_hide_theme">"Ne prikazuj skrivene teme"</string>
     <string name="hide_mamual_hide_wallpaper">"Ne prikazuj skrivene pozadine"</string>
@@ -544,6 +546,22 @@ Da biste ovu značajku isključili, idite u Postavke > Zvuk &amp; vibracija > Pr
     <string name="kuyin_user_agreement_content_href">iFlytek Pravila o privatnosti</string>
     <string name="lab">Beta značajke</string>
     <string name="label">Oznaka</string>
+	 <string name="large_icon_apply_fail_for_in_dock">"Ne mogu koristiti Super ikone za aplikacije u docku za aplikacije"</string>
+	 <string name="large_icon_apply_fail_for_in_folder">"Ne mogu koristiti Super ikone za aplikacije u mapama"</string>
+    <string name="large_icon_apply_fail_for_in_oldmode">"Super ikone nisu podržane u Lite načinu rada"</string>
+    <string name="large_icon_apply_fail_for_not_in_launcher">"Ne mogu koristiti Super ikone za aplikacije koje nisu na početnom zaslonu"</string>
+    <string name="large_icon_detail_title">%s Super ikone</string>
+    <string name="large_icon_no_more">Ovdje nema ništa</string>
+    <string name="large_icon_no_network">"Ne mogu se povezati na mrežu"</string>
+    <string name="large_icon_not_support">"Ne mogu postaviti ikone za %s"</string>
+    <string name="large_icon_official">Službeno</string>
+    <string name="large_icon_picker_haven">Dostupne ikone</string>
+    <string name="large_icon_picker_more">Više</string>
+    <string name="large_icon_picker_size">Veličina ikone</string>
+    <string name="large_icon_to_find_more">Pogledajte više</string>
+    <string name="large_icon_warning_install">Instaliraj</string>
+    <string name="large_icon_warning_not_install">Instaliraj %s</string>
+    <string name="large_icon_warning_not_install_msg">Instalirajte %s da biste mogli koristiti Super ikonu. Instalirati sada?</string>
     <string name="like_list">Stavke koje su mi sviđaju</string>
     <string name="live_wallpaper">Dinamične pozadine</string>
     <string name="load_from_local_photos">Galerija</string>
@@ -1327,6 +1345,7 @@ Svaki sat vidjet ćete novu sliku."</string>
     <string name="show_mamual_hide_aod">Prikaži ručno skrivene stavke</string>
     <string name="show_mamual_hide_font">Prikaži skrivene fontove</string>
     <string name="show_mamual_hide_icons">Prikaži ručno skrivene ikone</string>
+	 <string name="show_mamual_hide_large_icons">Prikaži skrivene Super ikone</string>
     <string name="show_mamual_hide_miwallpaper">Prikaži skrivene efekte Poč. zaslona</string>
     <string name="show_mamual_hide_theme">Prikaži skrivene teme</string>
     <string name="show_mamual_hide_wallpaper">Prikaži skrivene pozadine</string>
@@ -1410,6 +1429,7 @@ Svaki sat vidjet ćete novu sliku."</string>
     <string name="theme_component_title_framework">Okvir</string>
     <string name="theme_component_title_homepage">Početna</string>
     <string name="theme_component_title_icon">Ikone</string>
+	 <string name="theme_component_title_large_icon">Super ikone</string>
     <string name="theme_component_title_launcher">Početni zaslon</string>
     <string name="theme_component_title_lockstyle">Stil Zaključavanja</string>
     <string name="theme_component_title_lockwallpaper">Zaklj. zaslon</string>

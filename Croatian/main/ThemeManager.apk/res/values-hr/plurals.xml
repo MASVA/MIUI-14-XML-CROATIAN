@@ -204,4 +204,16 @@
         <item quantity="other">%1$s | %2$d slika</item>
         <item quantity="one">%1$s | %2$d slika</item>
     </plurals>
+	     <plurals name="large_icon_batch_has_update_text">
+        <item quantity="other">Dostupno je ažuriranje za %1$d super ikona</item>
+        <item quantity="one">Dostupno je ažuriranje za %1$d super ikone</item>
+     </plurals>
+     <plurals name="large_icon_batch_updating_text">
+        <item quantity="other">Ažuriranje %1$d super ikona</item>
+        <item quantity="one">Ažuriranje %1$d super ikone</item>
+     </plurals>
+     <plurals name="resource_mibi_per_set">
+        <item quantity="other">%1$s Mi Coins/set</item>
+        <item quantity="one">%1$s Mi Coin/set</item>
+     </plurals>
 </resources>

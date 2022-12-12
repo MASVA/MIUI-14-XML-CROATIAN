@@ -3608,6 +3608,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pc_battery_history_total_consumption_title">Ukupna potrošnja energije</string>
   <string name="pc_battery_history_usetime_title">Aktivan</string>
   <string name="pc_endurance_calculation">Izračun…</string>
+  <string name="pc_emergency_call">Hitna pomoć</string>
   <string name="pc_fast_charge_notifi_action_text_off">Stop</string>
   <string name="pc_fast_charge_notifi_action_text_on">Povećaj</string>
   <string name="pc_fast_charge_notifi_power_threshold_title">Postavite razinu napunjenosti baterije za podsjetnike</string>
@@ -3627,6 +3628,9 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pc_hidemode_performance">Performanse</string>
   <string name="pc_hidemode_performance_title">Način rada Performanse</string>
   <string name="pc_hidemode_power_save">Štednja baterije</string>
+  <string name="pc_high_temp_protection_noti_bt_text">Razumijem</string>
+  <string name="pc_high_temp_protection_noti_summary">"Sada ne mogu koristiti hotspot, mobilne podatke i usluge lokacije"</string>
+  <string name="pc_high_temp_protection_noti_tile">Vaš uređaj je pregrijan</string>
   <string name="pc_install_manager">Instaliraj putem USB-a</string>
   <string name="pc_main_activity_back">Natrag</string>
   <string name="pc_main_battery_text_day">Dodano %1$sm, preostalo oko %2$sd</string>
@@ -3643,6 +3647,9 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pc_performance_mode_dialog_title">Način rada Performanse</string>
   <string name="pc_performance_mode_noti_summary">Način rada Performanse može povećati potrošnju energije i dovesti do problema s pregrijavanjem</string>
   <string name="pc_performance_mode_noti_title">Poboljšane performanse uređaja</string>
+  <string name="pc_temperature_too_high">Uređaj se pregrijao</string>
+  <string name="pc_wait_device_cools_down">Pričekajte da se vaš uređaj ohladi da biste mogli koristiti ovu značajku.</string>
+  <string name="permission_instruction_shake">"Ovo dopuštenje omogućuje aplikacijama praćenje orijentacije i kretanja vašeg uređaja (npr. drmanje, naginjanje i rotacija)"</string>
   <string name="pc_search_keywords_battery">Baterija</string>
   <string name="pc_search_keywords_battery_save">Štednja baterije</string>
   <string name="pc_search_keywords_battery_use">Korištenje baterije</string>
@@ -4176,6 +4183,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="power_setting_wireless_reverse_charging_summary">Bežično punite kompatibilne uređaje</string>
   <string name="power_setting_wireless_reverse_charging_title">Obrnuto bežično punjenje</string>
   <string name="power_settings_category_title">Izgled baterije</string>
+  <string name="power_settings_firmware_update_title">Ažuriranja firmvera</string>
   <string name="power_settings_lock_screen_saver_title">Postavke Zaklj. zaslona</string>
   <string name="power_settings_number">Postotak</string>
   <string name="power_settings_saver_title">Štednja energije</string>
@@ -5541,6 +5549,7 @@ Za korištenje ovog ^1 s ovim uređajem prvo ga morate postaviti."</string>
   <string name="storage_system_memory_expansion">Proširenje memorije</string>
   <string name="storage_system_memory_expansion_tip">Proširite RAM zauzimanjem prostora za pohranu</string>
   <string name="storage_system_other_tip">Podaci potrebni za normalan rad sustava (veličina datoteke se može promijeniti tijekom vremena)</string>
+  <string name="storage_system_other_tip_new">Uključuje prostor za pohranu neophodan za rad sustava i nadogradnje. Veličina ove particije će varirati u skladu sa statusom sustava.</string>
   <string name="storage_unmount_failure">"Ne mogu izbaciti %1$s"</string>
   <string name="storage_unmount_success">%1$s uspješno izbačen</string>
   <string name="storage_wizard_format_confirm_v2_action">Formatiraj ^1</string>
@@ -6348,6 +6357,9 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="vb_video_effects_dolby_open">Dolby Atmos je uključen</string>
   <string name="vb_video_effects_dolby_stereo_expansion">Prošireni stereo</string>
   <string name="vb_video_effects_liquid_summary">Poboljšajte jasnoću dijaloga u videozapisima</string>
+  <string name="vb_video_effects_immersion_sound">Imerzivni zvuk</string>
+  <string name="vb_video_effects_immersion_sound_summary">Iskusite uranjanje i osjećaj prostora kada se podržani zvuk reproducira putem slušalica</string>
+  <string name="vb_video_effects_spatial_summary_new">Doživite poboljšani osjećaj prostora i smjera za podržani audio i video te prilagodite impresivan zvuk na temelju pokreta glave</string>
   <string name="vb_video_effects_only_headphone">Radi samo sa slušalicama</string>
   <string name="vb_video_effects_setting_black_white">B&amp;W</string>
   <string name="vb_video_effects_setting_cinema">Cinema</string>

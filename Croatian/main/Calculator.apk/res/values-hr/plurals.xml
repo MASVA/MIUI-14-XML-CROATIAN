@@ -49,10 +49,6 @@
         <item quantity="other">Stavki: %d</item>
         <item quantity="one">%d stavka</item>
     </plurals>
-    <plurals name="godina_držanja">
-        <item quantity="other">%d godina</item>
-        <item quantity="one">%d godina</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Prije pola sata</item>
     </plurals>

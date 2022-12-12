@@ -425,6 +425,8 @@
         <item>Onemogućeno</item>
         <item>Filtrirano</item>
         <item>Omogućeno</item>		
+		   <item>Omogućeno \"Zaglavlja filtrirana\"</item>
+        <item>Omogućeno \"Paketi medija filtrirani\"</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 sekunda</item>
@@ -780,6 +782,7 @@
         <item>SPN</item>
         <item>IMSI</item>
         <item>GID</item>
+		   <item>ICCID</item>
     </string-array>
     <string-array name="network_speed_slow_summary">
         <item>Mreža je spora zbog previše prometa</item>
@@ -1738,4 +1741,8 @@
          <item>Dodir</item>
          <item>Izravan dodir</item>
 	   </string-array>
+	   <string-array name="wifi_hidden_gbk_entries">
+        <item>Ne</item>
+        <item>Da</item>
+     </string-array>
 </resources>

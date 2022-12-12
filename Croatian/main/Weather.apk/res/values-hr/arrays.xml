@@ -25,6 +25,7 @@
         <item>Varazdin</item>
         <item>Cakovec</item>
         <item>Karlovac</item>
+		   <item>Knin</item>
         <item>Sisak</item>
         <item>Koprivnica</item>
         <item>Bjelovar</item>
@@ -32,9 +33,10 @@
         <item>Osijek</item>
         <item>Pozega</item>
         <item>Slavonski Brod</item>
+		   <item>Vinkovci</item>
         <item>Vukovar</item>
         <item>Rijeka</item>
-        <item>Pazin</item>
+        <item>Pula</item>
         <item>Gospic</item>
         <item>Zadar</item>
         <item>Sibenik</item>

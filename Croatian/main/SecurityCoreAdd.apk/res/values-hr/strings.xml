@@ -216,7 +216,9 @@ Provjerite je li naziv vaše korporacije točan. Prije aktivacije pročitajte i 
     <string name="greenguard_install_cancle">Ne hvala</string>
     <string name="greenguard_install_confirm">Instaliraj</string>
     <string name="greenguard_install_message">"Family Guard je sistemska aplikacija. Ne treba vam internet da biste je instalirali."</string>
-    <string name="greenguard_install_title">Instaliraj Family Guard</string>
+    <string name="greenguard_install_title">Instalirajte Family Guard</string>
+	 <string name="greenguard_new_install_message">Family Guard je sistemska aplikacija. Možete instalirati ovu aplikaciju bez preuzimanja.</string>
+    <string name="greenguard_new_install_title">Instalirajte Family Guard</string>
     <string name="greenguard_parent_des">Upravljajte uređajima svojih prijatelja i obitelji</string>
     <string name="greenguard_parent_des_title">Koristite Kite Guard za dodavanje uređaja</string>
     <string name="guide_contact_sub_title_desc">"Kontakti dodani u Drugi prostor će biti privatni.
