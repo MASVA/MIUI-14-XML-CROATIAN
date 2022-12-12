@@ -680,7 +680,7 @@ Ako trebate ručno otvoriti funkciju Miracast, možete pritisnuti tipku [Menu] n
     <string name="upgrade_now">Ažuriraj</string>
 	  <string name="upgrade_phone_device_tip">*Ažuriranja osigurava Xiaomi telefon</string>
     <string name="upgrade_ver_can_upgrade_1to2s">Ažuriranje s verzije %1$s na %2$s</string>
-    <string name="upgrade_ver_latest1s">Trenutna verzija (%1$s) je ažurna</string></resources>
+    <string name="upgrade_ver_latest1s">Trenutna verzija (%1$s) je ažurna</string>
     <string name="upgrade_test_package">"Da biste dovršili ažuriranje,
 provjerite sadrži li paket najnovije verzije svih aplikacija."</string>
     <string name="v7_preference_off">ISKLJUČENO</string>
@@ -695,4 +695,4 @@ provjerite sadrži li paket najnovije verzije svih aplikacija."</string>
     <string name="wifi_scan_btn_text">Skenirajte ponovno</string>
     <string name="wifi_username_et_hint">Unesite ID računa</string>
     <string name="yesterday">Jučer</string>
-</resources>
+	</resources>
