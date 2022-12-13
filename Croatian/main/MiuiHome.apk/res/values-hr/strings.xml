@@ -156,8 +156,8 @@
     <string name="app_drawer_guide_description">"Pronađite ono što tražite u svojim omiljenim aplikacijama"</string>
     <string name="app_drawer_guide_title">Ladica aplikacija</string>
     <string name="app_drawer_tip_title">"Feed sadržaja zamijenili smo ladicom za aplikacije."</string>
+	 <string name="app_edit_icon">Uredi ikonu</string>
     <string name="app_install_state">Instalirano</string>
-	 <string name="app_set_icon">Postavi ikonu</string>
     <string name="application_name">MIUI Pokretač</string>
     <string name="apply">Postavi</string>
     <string name="apply_action">Postavi</string>
@@ -304,6 +304,8 @@
     <string name="dialog_work_profile_content_2">Radne aplikacije &amp; podaci vidljivi su vašem IT administratoru</string>
     <string name="dialog_work_profile_title">Radni profil</string>
     <string name="disable_wallpaper_scroll">Isključi pomicanje slike</string>
+	 <string name="dock_and_folder_not_edit_icon_tip">Za uređivanje prvo premjestite aplikaciju iz docka i mape</string>
+    <string name="dock_not_edit_icon_tip">Za uređivanje najprije premjestite aplikaciju iz docka</string>
     <string name="double_tap_to_lock_title">Dvaput dodirnite da Zaklj. zaslon</string>
     <string name="download_action">Preuzmi</string>
     <string name="drag_icon_to_homescreen_guide">Dodirnite i držite ikonu aplikacije, a zatim je povucite da dodate prečac na početni zaslon</string>
@@ -346,9 +348,11 @@
     <string name="failed_to_drop_widget_invalid">Ovaj widget nije valjan</string>
     <string name="failed_to_drop_widget_nospace">Na ovom zaslonu više nema mjesta</string>
     <string name="failed_to_load_image">"Ne mogu učitati sliku"</string>
+	 <string name="fold_pair_install_shortcut_launcher_success">Uspješno izrađeno</string>
 	 <string name="fold_pair_install_shortcut_long_click">Pritisnite i držite za dodavanje na Poč. zaslon</string>
     <string name="fold_pair_installed_shortcut_launcher">Ovaj prečac već postoji</string>
     <string name="folder_name">Mapa</string>
+	 <string name="folder_not_edit_icon_tip">Za uređivanje prvo premjestite aplikaciju iz mape</string>
 	 <string name="folder_picker_big_text">Uvećano</string>
     <string name="folder_picker_default_text">Regularno</string>
     <string name="folder_picker_options_tab_text">Veličina</string>
@@ -783,8 +787,10 @@ Poboljšana sigurnost."</string>
     <string name="quick_search_guide_quick_search">Brzo pretraživanje</string>
     <string name="quick_search_guide_title">Odaberite zadani način rada</string>
     <string name="recent_apps">Nedavno</string>
-	 <string name="recent_menu_item_add_pair">Izradite prečac Poč. zaslona za ovu kombinaciju podijeljenog zaslona</string>
-    <string name="recent_menu_item_add_pair_first_toast">Izradite prečac Poč. zaslona za ovu kombinaciju podijeljenog zaslona</string>
+	 <string name="recent_menu_item_add_pair">Izradite prečac na Poč. zaslonu za ovu kombinaciju podijeljenog zaslona</string>
+    <string name="recent_menu_item_add_pair_first_toast">Izradite prečac na Poč. zaslonu za ovu kombinaciju podijeljenog zaslona</string>
+	 <string name="recent_menu_item_add_pair">Izradite prečac na Poč. zaslonu za ovu kombinaciju podijeljenog zaslona</string>
+    <string name="recent_menu_item_add_pair_first_toast">Izradite prečac na Poč. zaslonu za ovu kombinaciju podijeljenog zaslona</string>
     <string name="recent_menu_item_info">Info</string>
     <string name="recent_menu_item_lock">Zaključaj</string>
     <string name="recent_menu_item_multi_window">Podijeli</string>

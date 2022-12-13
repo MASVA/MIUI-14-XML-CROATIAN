@@ -534,12 +534,14 @@ Alternativno, možete isključiti Lite način rada i pokušati ponovo."</string>
     <string name="mtrl_picker_toggle_to_year_selection">Dodirnite za prelazak na odabir godine</string>
     <string name="net_work_error_msg">"Ne mogu se povezati s mrežom radi izvođenja sigurnosne provjere"</string>
     <string name="net_work_error_retry">Pokušajte ponovo</string>
+	 <string name="network_error_info">Došlo je do mrežne pogreške. Provjerite mrežne postavke i pokušajte ponovno.</string>
+   <string name="network_timeout_info">"Nije moguće spojiti se na mrežu. Pokušajte ponovno."</string>
     <string name="never_ask_again">"Ne pitaj ponovno"</string>
     <string name="newPerms">Novo</string>
     <string name="new_permissions_category">Nova dopuštenja</string>
     <string name="next">Dalje</string>
     <string name="no_apps">Nema aplikacija</string>
-	 <string name="no_check_risk">Nisu otkriveni rizici</string>
+	 <string name="no_check_risk">Nema otkrivenih rizika</string>
 	 <string name="no_install_permission_tip">"%1$s nema dopuštenje za instalaciju"</string>
     <string name="no_new_perms">"Ovo ažuriranje ne zahtijeva nova dopuštenja."</string>
     <string name="no_permissions">Nema dopuštenja</string>
@@ -660,6 +662,7 @@ Alternativno, možete isključiti Lite način rada i pokušati ponovo."</string>
     <string name="pref_key_app_store_title">Preporučite sigurne verzije</string>
     <string name="preference_copied">\"%1$s\" je kopiran u međuspremnik.</string>
     <string name="prepare_install">Priprema instalacije…</string>
+	 <string name="progressbar_title">Provjera sigurnosnih problema…</string>
     <string name="privacyPerms">Privatnost</string>
     <string name="privacy_relative">Privatnost</string>
     <string name="pure_guarding">Uključeno</string>
@@ -782,9 +785,6 @@ Alternativno, možete isključiti Lite način rada i pokušati ponovo."</string>
    <string name="settings_security_mode_status_off_msg">Isključeno</string>
    <string name="settings_security_mode_status_on_msg">Sigurni način rada je uključen</string>
    <string name="settings_security_mode_title_off_msg">Sigurni način rada</string>
-    <string name="settings_warning_dialog_detail">"Biti će zatraženo od vas u sljedećim slučajevima:
- "&lt;li&gt;Kada aplikacija sadrži viruse.&lt;/li&gt;"
- "&lt;li&gt;Instalacijski paket dolazi iz nepoznatog izvora.&lt;/li&gt;</string>
     <string name="settings_warning_dialog_msg">"Vaš je telefon sklon sigurnosnim rizicima. Ako isključite ovu značajku, od vas se neće tražiti da instalirate sigurne verzije aplikacije. Isključiti svejedno? "</string>
     <string name="settings_warning_dialog_msg_tablet">"Vaš uređaj je izložen sigurnosnim rizicima. Ako isključite ovu značajku, nećete biti upitani za instaliranje sigurnih verzija aplikacija. Svejedno isključiti?"</string>
     <string name="settings_warning_dialog_title">Pažnja</string>
@@ -802,6 +802,7 @@ Alternativno, možete isključiti Lite način rada i pokušati ponovo."</string>
     <string name="sunday_shortest">N</string>
     <string name="sure_close">Isključi</string>
 	 <string name="sure_ok">Razumijem</string>
+	 <string name="system_error_info">Sustav je zauzet. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
     <string name="system_warning">Ako ne odobrite ovo dopuštenje, osnovne značajke vašeg uređaja možda više neće funkcionirati pravilno.</string>
     <string name="thursday">Četvrtak</string>
     <string name="thursday_short">Čet</string>
@@ -821,7 +822,7 @@ Alternativno, možete isključiti Lite način rada i pokušati ponovo."</string>
     <string name="uninstall_activity_text">Aktivnost %1$s dio je sljedeće aplikacije:</string>
     <string name="uninstall_all_blocked_profile_owner">Ta je aplikacija obavezna za neke korisnike ili profile, deinstalirana je za ostale</string>
     <string name="uninstall_application_text">Želite li deinstalirati ovu aplikaciju?</string>
-    <string name="uninstall_application_text_all_users">Želite li deinstalirati tu aplikaciju za &lt;b&gt;sve&lt;/b&gt; korisnike? Aplikacija i njezini podaci bit &amp;#263;e uklonjeni sa &lt;b&gt;svih&lt;/b&gt; korisnika na ure&amp;#273;aju.</string>
+    <string name="uninstall_application_text_all_users">Želite li deinstalirati tu aplikaciju za <b>sve</b> korisnike? Aplikacija i njezini podaci bit će uklonjeni iz <b>svih</b> korisnika na uređaju.</string>
     <string name="uninstall_application_text_user">Želite li deinstalirati tu aplikaciju za korisnika %1$s?</string>
     <string name="uninstall_application_title">Deinstaliraj aplikaciju</string>
     <string name="uninstall_blocked_device_owner">Ta je aplikacija neophodna administratoru uređaja i nije ju moguće deinstalirati.</string>
@@ -839,6 +840,7 @@ Alternativno, možete isključiti Lite način rada i pokušati ponovo."</string>
     <string name="uninstalling">Deinstaliranje…</string>
     <string name="unknown">Nepoznato</string>
     <string name="unknown_apps_admin_dlg_text">Vaš administrator ne dopušta instaliranje aplikacija iz nepoznatih izvora</string>
+	 <string name="unknown_error_info">Nepoznata pogreška</string>
     <string name="unknown_apps_dlg_text">Iz sigurnosnih razloga, vaš je telefon postavljen da blokira instalaciju aplikacija dobivenih iz nepoznatih izvora.</string>
     <string name="unknown_installer">Neidentificirani PC alati</string>
     <string name="unknown_source_allow">Dopusti</string>

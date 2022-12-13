@@ -317,6 +317,7 @@ Dopustite Temama da pristupaju vašem ID-u Mi Računa i Mi Community statusima k
     <string name="download_failed">"Ne mogu preuzeti"</string>
     <string name="download_preview_failed">"Ne mogu učitati pregled"</string>
     <string name="download_success">Preuzimanje dovršeno!</string>
+	 <string name="dynamic_large_icon_not_support_current_type">"%s nije podržan za ovu dinamičku ikonu"</string>
     <string name="dynamic_video_wallpaper">24-na slika pozadine</string>
     <string name="early_morning">AM</string>
     <string name="enable_accessibility">Potrebno je dopuštenje</string>
@@ -551,10 +552,15 @@ Da biste ovu značajku isključili, idite u Postavke > Zvuk &amp; vibracija > Pr
     <string name="large_icon_apply_fail_for_in_oldmode">"Super ikone nisu podržane u Lite načinu rada"</string>
     <string name="large_icon_apply_fail_for_not_in_launcher">"Ne mogu koristiti Super ikone za aplikacije koje nisu na početnom zaslonu"</string>
     <string name="large_icon_detail_title">%s Super ikone</string>
+	 <string name="large_icon_detail_warning_dialog_btn_keep">Super ikone</string>
+    <string name="large_icon_detail_warning_dialog_btn_not_keep">Zadane ikone</string>
+    <string name="large_icon_detail_warning_dialog_msg">"Neke aplikacije koriste Super ikone. Nastaviti koristiti Super ikone ili se vratiti na zadane ikone teme?"</string>
+    <string name="large_icon_detail_warning_dialog_title">Postavke Super ikona</string>
     <string name="large_icon_no_more">Ovdje nema ništa</string>
     <string name="large_icon_no_network">"Ne mogu se povezati na mrežu"</string>
     <string name="large_icon_not_support">"Ne mogu postaviti ikone za %s"</string>
-    <string name="large_icon_official">Službeno</string>
+    <string name="large_icon_not_support_current_type">"%s nije podržan za ovu ikonu"</string>
+    <string name="large_icon_official">Zadano</string>
     <string name="large_icon_picker_haven">Dostupne ikone</string>
     <string name="large_icon_picker_more">Više</string>
     <string name="large_icon_picker_size">Veličina ikone</string>

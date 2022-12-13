@@ -53,7 +53,7 @@
 	<string name="acc_video_play_btn">Reproduciraj</string>
 	<string name="accept">Prihvati</string>
 	<string name="accept_or_deny">%1$s je podijelio album %2$s s tobom.</string>
-	 <string name="access_denied_info">Previše pokušaja. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
+	<string name="access_denied_info">Previše pokušaja. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
 	<string name="account_crop_user_avatar">Obreži fotografiju</string>
 	<string name="account_empty_user_name">Unesite svoje korisničko ime za Mi Račun</string>
 	<string name="account_error_all_space_user_name">"Korisničko ime ne može sadržavati samo razmake"</string>
@@ -83,7 +83,7 @@
 	<string name="account_user_phone">Telefon za oporavak</string>
 	<string name="actionbar_button_up_description">Natrag</string>
 	<string name="actionbar_overflow_item_desc">Više opcija</string>
-	 <string name="activate_email_notice">Obavezno aktivirajte svoj račun unutar 24 sata</string>
+	<string name="activate_email_notice">Obavezno aktivirajte svoj račun unutar 24 sata</string>
 	<string name="activity_not_found_notice">"Ne mogu pronaći aplikaciju"</string>
 	<string name="add_automatically_alert_msg">Dodati fotografije od \"%1$s\" u ovaj album automatski?</string>
 	<string name="add_automatically_alert_title">Dodaj fotografije automatski</string>
@@ -105,7 +105,7 @@
 	<string name="add_to_secret_failed_with_reason">"Ne mogu dodati u privatni album. %1$s."</string>
 	<string name="add_to_secret_successful">Dodano u privatni album</string>
 	<string name="add_to_share_album_not_delete">"Ne mogu izbrisati fotografiju u dijeljenom albumu"</string>
-	 <string name="add_to_trust_device">Ovo je pouzdani uređaj</string>
+	<string name="add_to_trust_device">Ovo je pouzdani uređaj</string>
 	<string name="added_to_favorites">Dodano u favorite</string>
 	<string name="added_to_favorites_desc">Dodano u favorite</string>
 	<string name="added_to_favorites_tip">Dodano u album \"Favoriti\"</string>
@@ -237,7 +237,7 @@
 	<string name="alert_selection_title">Odaberite najbolju fotografiju</string>
 	<string name="all_faces">Fotografije s tom osobom</string>
 	<string name="all_items_synced">Svi su albumi sinkronizirani s Mi Cloudom</string>
-	 <string name="all_story_empty_desc">Ovdje još nema uspomena</string>
+	<string name="all_story_empty_desc">Ovdje još nema uspomena</string>
 	<string name="all_story_empty_tip">"Ovdje još nema uspomena.
 Spojite punjač i isključite zaslon da se pojave uspomene."</string>
 	<string name="all_story_title">Sve uspomene</string>
@@ -252,7 +252,7 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
 	<string name="annual_group_people_title">Zajedno</string>
 	<string name="annual_pets_title">Šapa u šapi</string>
 	<string name="annual_year_title">Ove godine</string>
-	 <string name="annual_speci_year_title">Osvrt na %d</string>
+	<string name="annual_speci_year_title">Osvrt na %d</string>
 	<string name="annula_sports_title">Kretati se naprijed</string>
 	<string name="app_is_launching">Aplikacija %s se pokreće…</string>
 	<string name="app_is_launching_common">Pokretanje aplikacije…</string>
@@ -283,11 +283,11 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
 	<string name="assistant_page_discovery">Otkrij</string>
 	<string name="assistant_page_label">Uspomene</string>
 	<string name="assistant_page_server_error">Provjerite postavke mreže</string>
-	 <string name="assistant_today_of_year_function_closed_tip">Uključi</string>
+	<string name="assistant_today_of_year_function_closed_tip">Uključi</string>
 	<string name="assistant_today_of_year_function_no_address_tip">Povratak u prošlost</string>
 	<string name="assistant_today_of_year_function_no_photo_tip">Početak</string>
 	<string name="associate_face_album">Odaberi album</string>
-	 <string name="auth_fail_warning">Sesija je istekla. Prijavite se ponovno.</string>
+	<string name="auth_fail_warning">Sesija je istekla. Prijavite se ponovno.</string>
 	<string name="authorize_to_device_failed">"Ne mogu autorizirati"</string>
 	<string name="authorize_watch_on_tv_failed">"Ne mogu autorizirati za gledanje na TV"</string>
 	<string name="auto_backup_introduce">Automatski sinkroniziraj fotografije i videozapise (potreban Mi Račun)</string>
@@ -327,7 +327,7 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
 	<string name="baby_sexy">Spol</string>
 	<string name="baby_suffix">Dijete</string>
 	<string name="back">Natrag</string>
-	 <string name="back_up_gp_btn_no">Ne sada</string>
+	<string name="back_up_gp_btn_no">Ne sada</string>
 	<string name="back_up_gp_btn_no_again">"Ne prikazuj više"</string>
 	<string name="back_up_gp_btn_no_migrating">Ne hvala</string>
 	<string name="back_up_gp_btn_setup">Uključi sigurnosno kopiranje</string>
@@ -375,7 +375,7 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
 	<string name="backup_pause_title">Sinkronizacija je pauzirana</string>
 	<string name="backup_pending">Sig. kopije automatski će se izraditi</string>
 	<string name="backup_settings">Sinkroniziraj s Mi Cloudom</string>
-	 <string name="backup_settings_banner_msg_off">Sigurnosno kopirajte svoje fotografije i videozapise pomoću Google fotografija kako biste sačuvali sve svoje uspomene</string>
+	<string name="backup_settings_banner_msg_off">Sigurnosno kopirajte svoje fotografije i videozapise pomoću Google fotografija kako biste sačuvali sve svoje uspomene</string>
 	<string name="backup_settings_banner_msg_on">Pogledajte status sigurnosne kopije u Google fotografijama</string>
 	<string name="backup_settings_banner_title_not_allow">Sigurnosna kopija Google fotografija</string>
 	<string name="backup_settings_banner_title_off">Sigurnosno kopiranje je isključeno</string>
@@ -477,15 +477,15 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
 	<string name="cd_btn_back">Tipka Natrag</string>
 	<string name="cd_revoke">Poništi</string>
 	<string name="cd_zidingyianniu">Tipka za prilagodbu veličine slike</string>
-	  <string name="change_activate_email">Promjeni adresu e-pošte</string>
-	  <string name="change_baby_album_choose_from_photos">Galerija</string>
+	<string name="change_activate_email">Promjeni adresu e-pošte</string>
+	<string name="change_baby_album_choose_from_photos">Galerija</string>
 	<string name="change_baby_album_dialog_title">Promjeni fotografiju profila</string>
 	<string name="change_baby_album_name">Promjeni fotografiju profila</string>
 	<string name="change_baby_album_take_photos">Fotoaparat</string>
 	<string name="change_to_face_mode">Prikaži samo lice</string>
 	<string name="change_to_photo_mode">Prikaži pune preglede</string>
 	<string name="change_to_visible">Vratiti ovu osobu?</string>
-	 <string name="change_password">Promjeni zaporku</string>
+	<string name="change_password">Promjeni zaporku</string>
 	<string name="channel_default_name">Nove značajke</string>
 	<string name="channel_low_name">Nove poruke</string>
 	<string name="channel_min_name">Obavijesti aplikacije</string>
@@ -521,7 +521,7 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
 	<string name="cleaner_slim_description">Zadrži optimizirane fotografije na uređaju. Originalne datoteke pohranjuju se u Mi Cloudu.</string>
 	<string name="cleaner_slim_start">Optimiziraj</string>
 	<string name="cleaner_slim_title">Optimiziraj fotografije</string>
-	 <string name="cleaner_size">Očisti smeće (%s)</string>
+	<string name="cleaner_size">Očisti smeće (%s)</string>
 	<string name="cleaner_space_description">može biti oslobođeno</string>
 	<string name="cleaner_space_detail_description">Izbrišite fotografije u Galeriji kako biste oslobodili prostor za pohranu</string>
 	<string name="cleaner_stop_scan">Zaustavi skeniranje</string>
@@ -551,7 +551,7 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
 	<string name="close_dialog_desc">Zatvori dijaloški okvir</string>
 	<string name="cloud_action_open">Uključi</string>
 	<string name="cloud_action_upgrade">Nadogradi</string>
-	 <string name="cloud_action_upgrade_free">Besplatna nadogradnja</string>
+	<string name="cloud_action_upgrade_free">Besplatna nadogradnja</string>
 	<string name="cloud_action_view">Pregled</string>
 	<string name="cloud_authorize_to_share_to_device">Autorizirajte gledanje stavki na televizorima povezanim s vašim Mi Računom</string>
 	<string name="cloud_authorizing_to_device">Autorizacija…</string>
@@ -569,7 +569,7 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
 	<string name="cloud_full_space_tip_negative">Ne sad</string>
 	<string name="cloud_full_space_tip_positive">Nadogradi</string>
 	<string name="cloud_full_space_tip_title">Nedovoljno prostora u cloudu</string>
-	 <string name="cloud_full_space_tip_title_completely">Pohrana u cloudu je puna</string>
+	<string name="cloud_full_space_tip_title_completely">Pohrana u cloudu je puna</string>
 	<string name="cloud_guide_auto_backup_title">Odaberite albume za sinkronizaciju</string>
 	<string name="cloud_guide_login_title">Automatski izradi Sig. kopiju fotografija i videozapisa</string>
 	<string name="cloud_guide_slim_text">Automatski izradi Sig. kopiju. Uštedite više od 90% lokalne pohrane.</string>
@@ -625,7 +625,7 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
 	<string name="collage_title_poster">Poster</string>
 	<string name="collage_title_stitching">Filmska rola</string>
 	<string name="collaps_people">Sakrij</string>
-	 <string name="collect_diagnosis_log">Prikupljanje zapisa</string>
+	<string name="collect_diagnosis_log">Prikupljanje zapisa</string>
 	<string name="com.qzonex.module.operation.ui.QZonePublishMoodActivity">QQ Zone</string>
 	<string name="com.sina.weibo.composerinde.ComposerDispatchActivity">Weibo</string>
 	<string name="com.tencent.mm.ui.tools.ShareImgUI">WeChat</string>
@@ -633,7 +633,7 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
 	<string name="com.tencent.mobileqq.activity.JumpActivity">QQ</string>
 	<string name="comma_separator">,</string>
 	<string name="confirm">U redu</string>
-	 <string name="confirm_activate_email">Potvrđeno</string>
+	<string name="confirm_activate_email">Potvrđeno</string>
 	<string name="confirm_cancel_task_files">Otkazati slanje datoteka na %1$s?</string>
 	<string name="confirm_cancel_task_images">Otkazati slanje slika na %1$s?</string>
 	<string name="confirm_delete_selected_albums">Izbrisati odabrane albume?</string>
@@ -655,7 +655,7 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
 	<string name="context_menu_add_contact">Dodaj u kontakte</string>
 	<string name="context_menu_copy">Kopiraj</string>
 	<string name="context_menu_copy_notice">Kopirano u međuspremnik</string>
-	  <string name="continue_back_up_gp_btn_setup">Otvori</string>
+	<string name="continue_back_up_gp_btn_setup">Otvori</string>
 	<string name="continue_back_up_gp_msg">Da biste dovršili uključivanje sigurnosnog kopiranja, otvorite Google fotografije.</string>
 	<string name="continue_back_up_gp_title">Otvori Google fotografije</string>
 	<string name="continue_migration_msg">Neke od vaših fotografija i videozapisa prebačene su u Google fotografije. Nastavite prijenos sada kako ne biste izgubili ništa važno kada sinkronizacija s Xiaomi Cloudom više ne bude dostupna.</string>
@@ -669,7 +669,7 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
 	<string name="correct_photo_time">Ispravi datum i vrijeme za fotografije</string>
 	<string name="correct_time_success">Uspješno ispravljeno</string>
 	<string name="correct_time_tip">Ispravljanje datuma i vremena…</string>
-	 <string name="create_album_failed_because_dup">Ovaj album već postoji. Želite li sada dodati stavke u ovaj album?</string>
+	<string name="create_album_failed_because_dup">Ovaj album već postoji. Želite li sada dodati stavke u ovaj album?</string>
 	<string name="create_baby_album">Izradi Dječji album</string>
 	<string name="create_baby_album_dialog_msg">Izraditi album za \"%s\"?</string>
 	<string name="create_baby_album_later_toast">Izradite Dječji album bilo kada u Postavkama</string>
@@ -677,7 +677,7 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
 	<string name="create_new_album_failed">"Ne mogu izraditi"</string>
 	<string name="create_new_face">Nova osoba</string>
 	<string name="create_quick_icon_on_desk">Napravi prečac</string>
-	 <string name="create_new_share_album">Izradi zajednički album</string>
+	<string name="create_new_share_album">Izradi zajednički album</string>
 	<string name="creating_baby_album">Izrada albuma…</string>
 	<string name="creativity_summary">Prikaži dodatne mogućnosti kreativnosti i uređivanja</string>
 	<string name="creativity_title">Kreativnost</string>
@@ -690,7 +690,7 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
 	<string name="crossprocess">Pomak boja</string>
 	<string name="cta_agreement_declare"><Data>Kako biste u potpunosti razumjeli vaša prava kao korisnika kao i načine na koje koristimo vaše podatke, pročitajte i prihvatite naše &lt;a href=\"%1$s\">Korisnički ugovor&lt;/a> i &lt;a href=\"%2$s\">Pravila o privatnosti&lt;/a> prije korištenja ove aplikacije.</Data></string>
 	<string name="cta_network_declare">Za sinkronizaciju fotografija i videozapisa s Mi Cloudom ova se aplikacija mora povezati s internetom.</string>
-	 <string name="cta_screenthrow_declare">"Da biste mogli emitirati zaslon ovog uređaja na vanjske monitore, ova se aplikacija mora povezati s internetom."</string>
+	<string name="cta_screenthrow_declare">"Da biste mogli emitirati zaslon ovog uređaja na vanjske monitore, ova se aplikacija mora povezati s internetom."</string>
 	<string name="custom_select_title_deselect_all">Poništi odabir</string>
 	<string name="custom_select_title_quickly_share">Podijeli</string>
 	<string name="custom_select_title_select_all">Odaberi sve</string>
@@ -749,14 +749,14 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
 	<string name="device_storage_space_low_textline_button">Start</string>
 	<string name="device_storage_space_low_textline_des">"Oslobodite %s prostora za pohranu. "</string>
 	<string name="device_type_pc">Računalo</string>
-	 <string name="diagnosis_log_send_failed">"Nije moguće poslati zapise. Pokušajte ponovo."</string>
+	<string name="diagnosis_log_send_failed">"Nije moguće poslati zapise. Pokušajte ponovo."</string>
 	<string name="diagnosis_log_sent_format">"Zapisi su uspješno poslani.
 ID:%s
 Pošaljite ovaj kod nadzorniku."</string>
 	<string name="disable_auto_upload_tip">"Isključiti sinkr. s Mi Cloudom za ovaj album?"</string>
 	<string name="disable_auto_upload_title">Isključi sinkr. s Mi Cloudom</string>
-	 <string name="disable_secret_album_upload_message">Nove fotografije više se neće sinkronizirati s cloudom ako isključite ovu značajku. Svejedno isključiti?</string>
-	 <string name="disconnect_migration_btn_disconnect">Zaustavi</string>
+	<string name="disable_secret_album_upload_message">Nove fotografije više se neće sinkronizirati s cloudom ako isključite ovu značajku. Svejedno isključiti?</string>
+	<string name="disconnect_migration_btn_disconnect">Zaustavi</string>
 	<string name="disconnect_migration_msg">Fotografije i videozapisi koji su već preneseni ostat će u Google fotografijama.</string>
 	<string name="disconnect_migration_title">Zaustaviti slanje?</string>
 	<string name="do_not_remind_me">"Ne prikazuj ponovno"</string>
@@ -766,8 +766,8 @@ Pošaljite ovaj kod nadzorniku."</string>
 	<string name="document_provider_guide_step_3">%d. Dodirni tipku izbornika sa strane.</string>
 	<string name="document_provider_guide_step_4">%d. Odaberi \"SD kartica\".</string>
 	<string name="document_provider_guide_step_5">%d. Dodirni \"Odaberi\".</string>
-	 <string name="doing_query_account">Provjera podataka o računu…</string>
-	 <string name="dolby_vision_icon">Ikona Dolby Vision</string>
+	<string name="doing_query_account">Provjera podataka o računu…</string>
+	<string name="dolby_vision_icon">Ikona Dolby Vision</string>
 	<string name="documentary">Dokumentarni</string>
 	<string name="doodle">Crtarija</string>
 	<string name="doodle_big_size">Veliko</string>
@@ -785,7 +785,7 @@ Pošaljite ovaj kod nadzorniku."</string>
 	<string name="doodle_super_big_size">Ogromno</string>
 	<string name="doodle_tooltip">Dodirni za crtariju</string>
 	<string name="double_tap_for_hr_preview_108m">Dvaput dodirnite za prelazak na 108MP pregled</string>
-	 <string name="double_tap_for_hr_preview_200m">Dodirnite dvaput ponovo za prebacivanje na 200MP pregled</string>
+	<string name="double_tap_for_hr_preview_200m">Dodirnite dvaput ponovo za prebacivanje na 200MP pregled</string>
 	<string name="double_tap_to_higher_definition">Dvaput dodirnite ponovo da biste otvorili HD pregled</string>
 	<string name="download">Preuzimanje</string>
 	<string name="download_canceled">Preuzimanje otkazano</string>
@@ -794,7 +794,7 @@ Pošaljite ovaj kod nadzorniku."</string>
 	<string name="download_delete_error_title">Stavka nedostaje</string>
 	<string name="download_error_format">"Ne mogu preuzeti %s"</string>
 	<string name="download_error_tip">. Preuzimanja su prekinuta.</string>
-	  <string name="download_library_dialog_message">Galerija treba predloške da bi mogla lokalno stvarati uspomene na ovom uređaju. Preporučujemo korištenje Wi-Fi veze za preuzimanje predložaka.</string>
+	<string name="download_library_dialog_message">Galerija treba predloške da bi mogla lokalno stvarati uspomene na ovom uređaju. Preporučujemo korištenje Wi-Fi veze za preuzimanje predložaka.</string>
 	<string name="download_library_dialog_title">Preuzmite predloške</string>
 	<string name="download_origin_dialog_message">"Originalne će se slike preuzeti sa Mi Clouda. Lokalne fotografije neće biti optimizirane."</string>
 	<string name="download_retry_message">"Ne mogu preuzeti datoteke, provjerite mrežnu vezu i pokušajte ponovno"</string>
@@ -849,7 +849,7 @@ Pošaljite ovaj kod nadzorniku."</string>
 	<string name="empty_recommend_back">Natrag</string>
 	<string name="empty_recommend_face_page_view">Nema više preporuka</string>
 	<string name="empty_relation">"Naziv grupe ne može biti prazan"</string>
-	 <string name="empty_tip_btn">Snimite fotografiju</string>
+	<string name="empty_tip_btn">Snimite fotografiju</string>
 	<string name="empty_title_no_cards">Uspomene</string>
 	<string name="empty_title_no_photos">Nema fotografija ili videozapisa</string>
 	<string name="enable_auto_upload_tip">"Uključiti sinkr. s Mi Cloudom za ovaj album?"</string>
@@ -858,11 +858,12 @@ Pošaljite ovaj kod nadzorniku."</string>
 	<string name="enable_face_album_summary">Automatski poredaj fotografije osoba koje su na njima</string>
 	<string name="enable_face_album_title">Poredaj po osobama</string>
 	<string name="enable_midrop">Uključi</string>
-	 <string name="enable_secret_album_upload_message">Sve privatne stavke sinkronizirat će se s cloudom nakon što uključite ovu značajku. Uključiti sada?</string>
+	<string name="enable_secret_album_upload_message">Sve privatne stavke sinkronizirat će se s cloudom nakon što uključite ovu značajku. Uključiti sada?</string>
 	<string name="enable_slim_title">Optimiziraj</string>
 	<string name="enabling_face_feature">Samo trenutak…</string>
 	<string name="enter_choice_mode">Otvori dijalog za dijeljenje</string>
 	<string name="enter_email_hint">"Unesite adresu e-pošte"</string>
+	<string name="equivalent_focal_length">(Ekvivalentna žarišna duljina %dmm)</string>
 	<string name="eras_ad">CE</string>
 	<string name="eras_bc">BCE</string>
 	<string name="error_album_not_exist">"Album ne postoji."</string>
@@ -873,13 +874,13 @@ Pošaljite ovaj kod nadzorniku."</string>
 	<string name="error_change_storage_msg">Idite u Postavke > Pohrana, promjenite pohranu i pokušajte ponovno.</string>
 	<string name="error_check_network_later">Check your network settings and try again</string>
 	<string name="error_create_share_album_fail_default">"Couldn't create due to an unknown error"</string>
-	  <string name="error_cloud_not_active">Nema fotografija u Mi Cloudu.</string>
+	<string name="error_cloud_not_active">Nema fotografija u Mi Cloudu.</string>
 	<string name="error_connect_timeout_action">Odaberi mrežu</string>
 	<string name="error_connect_timeout_msg">Povežite se s drugom mrežom i pokušajte ponovno.</string>
 	<string name="error_connect_timeout_tip">Veza je istekla.</string>
 	<string name="error_decode_tip">"Format datoteke nije podržan ili su datoteke oštećene."</string>
 	<string name="error_download_tip">"Ne mogu preuzeti"</string>
-	  <string name="error_dup_binded_email">Ova adresa e-pošte već je povezana s drugim Mi Računom.</string>
+	<string name="error_dup_binded_email">Ova adresa e-pošte već je povezana s drugim Mi Računom.</string>
 	<string name="error_external_sdcard_write_action">Promjeni pohranu</string>
 	<string name="error_external_sdcard_write_msg">Idite u Postavke > Pohrana, promjenite pohranu i pokušajte ponovno.</string>
 	<string name="error_external_sdcard_write_tip">"Nije moguće spremiti stavke na SD karticu."</string>
@@ -888,7 +889,7 @@ Pošaljite ovaj kod nadzorniku."</string>
 	<string name="error_install_sdcard_not_available">"Ne mogu učitati dodatak zbog pogreške SD kartice."</string>
 	<string name="error_install_storage_not_enough">Oslobodite nešto prostora na vašem uređaju za učitavanje dodatka.</string>
 	<string name="error_internal_sdcard_write_tip">Dogodila se pogreška. Ponovno pokrenite uređaj i pokušajte ponovno.</string>
-	  <string name="error_invalid_bind_address">Adresa e-pošte koju ste unijeli je nevažeća.</string>
+	<string name="error_invalid_bind_address">Adresa e-pošte koju ste unijeli je nevažeća.</string>
 	<string name="error_invalid_link">Poveznica nije valjana</string>
 	<string name="error_link_has_expired">Poveznica je istekla</string>
 	<string name="error_network_restrict_action">Prikaži detalje</string>
@@ -932,7 +933,7 @@ Pošaljite ovaj kod nadzorniku."</string>
 	<string name="error_unknown_host">"Ne mogu se povezati na mrežu. Provjerite vašu mrežnu vezu i pokušajte ponovno."</string>
 	<string name="error_unknown_msg">Dogodila se pogreška. Pošaljite nam povratne informacije.</string>
 	<string name="error_unknown_tip">Dogodila se pogreška.</string>
-	 <string name="exceed_binded_phone_times_notice">Ovaj telefonski broj već je povezan s drugim Mi Računom.</string>
+	<string name="exceed_binded_phone_times_notice">Ovaj telefonski broj već je povezan s drugim Mi Računom.</string>
 	<string name="exif_tag_smart_fusion">Smart Fusion</string>
 	<string name="exif_title_smart_fusion">Poboljšanje slike:</string>
 	<string name="exit">Izlaz</string>
@@ -978,9 +979,9 @@ Napravite više fotografija vaših prijatelja!"</string>
 	<string name="face_recommend">Preporuke</string>
 	<string name="facelift">Sjaj lica</string>
 	<string name="facetan">Preplanulo lice</string>
-	 <string name="facebook_login_btn_content_description">Prijavite se s Facebookom</string>
+	<string name="facebook_login_btn_content_description">Prijavite se s Facebookom</string>
 	<string name="fail_hint">"Ne mogu dovršiti radnju"</string>
-	 <string name="fail_reason_migrate">Obrada stavki… Pričekajte minutu ili dvije i pokušajte ponovo.</string>
+	<string name="fail_reason_migrate">Obrada stavki… Pričekajte minutu ili dvije i pokušajte ponovo.</string>
 	<string name="fail_to_pick_email">Nevažeća adresa e-pošte</string>
 	<string name="fail_to_sync_album">"Ne mogu sinkronizirati album. Provjerite vašu podatkovnu vezu i pokušajte ponovno."</string>
 	<string name="family_member_invitation_text">Ostali članovi obitelji</string>
@@ -990,7 +991,7 @@ Napravite više fotografija vaših prijatelja!"</string>
 	<string name="feature_guidance_photo_effects">"Dostupni su novi efekti
 za fotografije"</string>
 	<string name="feature_guidance_video_editor_smart_effects">Dostupni su novi efekti</string>
-	 <string name="feedback_my_reports">Povratne informacije</string>
+	<string name="feedback_my_reports">Povratne informacije</string>
 	<string name="feedback_problem">Prijavite problem</string>
 	<string name="feedback_suggest">Pošaljite prijedlog</string>
 	<string name="file_cannot_print">"Ne mogu ispisati ovu stavku."</string>
@@ -1260,7 +1261,7 @@ za fotografije"</string>
 	<string name="foods_travel_title_one">Okus %1$s</string>
 	<string name="foods_travel_title_three">"Za gurmane %1$s"</string>
 	<string name="foods_travel_title_two">%1$s hrana</string>
-	  <string name="for_diagnosis_usage_only">Zapisi se koriste samo za dijagnostiku.</string>
+	<string name="for_diagnosis_usage_only">Zapisi se koriste samo za dijagnostiku.</string>
 	<string name="frame_black">Crna</string>
 	<string name="frame_button">Okvir</string>
 	<string name="frame_classic">Klasično</string>
@@ -1278,30 +1279,30 @@ za fotografije"</string>
 	<string name="functions_are_being_developed">Ova će značajka uskoro biti dostupna. Ostanite u toku!</string>
 	<string name="gallery_setting">Postavke</string>
 	<string name="gallery_sync_disable_toast">Sinkr. Galerije nije omogućena</string>
-	 <string name="gallery_uninstall_description_content">"Galerija je aplikacija sustava koja vam omogućuje pregled, upravljanje i sinkronizaciju fotografija i videozapisa na svim povezanim uređajima. Ako deinstalirate Galeriju, izgubit ćete stavke koje ste učinili privatnima i druge povezane značajke za gledanje i odabir. Stavke galerije također vam više neće biti dostupne. Svejedno deinstalirati?"</string>
+	<string name="gallery_uninstall_description_content">"Galerija je aplikacija sustava koja vam omogućuje pregled, upravljanje i sinkronizaciju fotografija i videozapisa na svim povezanim uređajima. Ako deinstalirate Galeriju, izgubit ćete stavke koje ste učinili privatnima i druge povezane značajke za gledanje i odabir. Stavke galerije također vam više neće biti dostupne. Svejedno deinstalirati?"</string>
 	<string name="gallery_uninstall_description_title">Deinstalirati Galeriju?</string>
 	<string name="generate_story_summary">"Snimite dovoljno fotografija, priključite punjač i isključite zaslon kako bi se uspomene pojavile. Već generirane uspomene neće nestati ako isključite ovu značajku."</string>
 	<string name="generate_story_title">Uspomene</string>
-	 <string name="get_GP_app_btn_install">Instaliraj</string>
+	<string name="get_GP_app_btn_install">Instaliraj</string>
 	<string name="get_GP_app_msg">Da biste uključili sigurnosno kopiranje, morate instalirati Google fotografije. Za nastavak se vratite na ovu stranicu nakon što instalirate Google fotografije.</string>
 	<string name="get_GP_app_title">Instalirajte Google fotografije</string>
-	 <string name="get_user_info_btn_text">Traži</string>
+	<string name="get_user_info_btn_text">Traži</string>
 	<string name="get_user_info_edit_text_hint">Račun telefona/e-pošte/Xiaomi</string>
 	<string name="get_user_info_failed_hint">"Nisam mogao pronaći ovu osobu"</string>
 	<string name="get_user_info_top_hint_text">Pozovi putem Xiaomi računa</string>
 	<string name="get_album_info_in_process">"Dobivanje pojedinosti dijeljenog albuma…"</string>
-	 <string name="get_phone_verifycode_exceed_limit">Previše kontrolnih kodova je poslano na ovaj broj. Pričekajte 24 sata i pokušajte ponovno.</string>
+	<string name="get_phone_verifycode_exceed_limit">Previše kontrolnih kodova je poslano na ovaj broj. Pričekajte 24 sata i pokušajte ponovno.</string>
 	<string name="gif_tip">GIF</string>
 	<string name="gigabyteShort">GB</string>
 	<string name="global_pad">Moj tablet</string>
 	<string name="global_pc">Moj laptop</string>
 	<string name="global_phone">Moj telefon</string>
 	<string name="grain">Zrnatost filma</string>
-	 <string name="google_login_btn_content_description">Prijava s Googleom</string>
+	<string name="google_login_btn_content_description">Prijava s Googleom</string>
 	<string name="grant_permission_go_and_set">Postavi</string>
 	<string name="grant_permission_go_and_set_2">Postavke</string>
 	<string name="grant_permission_go_and_set_3">Postavke</string>
-	 <string name="grant_permission_manage_storage">Potrebna su dopuštenja</string>
+	<string name="grant_permission_manage_storage">Potrebna su dopuštenja</string>
 	<string name="grant_permission_manage_storage_unlock">Otključajte svoj uređaj i dopustite ovoj aplikaciji pristup svim datotekama kako biste mogli vidjeti stavke.</string>
 	<string name="grant_permission_shortcut">Dopustite ovoj aplikaciji da prvo stvara prečace na početnom zaslonu.</string>
 	<string name="grant_permission_storage">Dopustite ovoj aplikaciji prvo pristup pohrani.</string>
@@ -1318,9 +1319,9 @@ za fotografije"</string>
 	<string name="group_header_title_user_create_album">Moji albumi</string>
 	<string name="has_invalid_recipient">Nevažeći primatelj: %1$s</string>
 	<string name="have_known">Razumijem</string>
-	 <string name="hdr_show_hint">Prilagodite zaslon za prikaz više detalja u sjenama i istaknutim dijelovima na stavkama s visokim dinamičkim rasponom</string>
+	<string name="hdr_show_hint">Prilagodite zaslon za prikaz više detalja u sjenama i istaknutim dijelovima na stavkama s visokim dinamičkim rasponom</string>
 	<string name="hdr_show_title">Prikaži HDR</string>
-	  <string name="header_help">Pomoć</string>
+	<string name="header_help">Pomoć</string>
 	<string name="help">"Ne možete pronaći uređaje?"</string>
 	<string name="help_content">"Ako ne možete pronaći uređaj koji vam je potreban, zamolite drugu osobu da ga uključi Mi Share."</string>
 	<string name="hidden_album_display_name">Skriveni album</string>
@@ -1345,9 +1346,9 @@ za fotografije"</string>
 	<string name="home_page_custom">Vlastito</string>
 	<string name="home_page_empty">Prazno</string>
 	<string name="home_page_empty_action">Snimi fotografiju</string>
-	 <string name="home_page_empty_action_new">Uvezite sa starog uređaja</string>
+	<string name="home_page_empty_action_new">Uvezite sa starog uređaja</string>
 	<string name="home_page_label">Fotografije</string>
-	 <string name="home_sdcard_op_tip_msg">"Nije moguće dovršiti ovu radnju za sve odabrane slike. Isključite i ponovo montirajte svoju SD karticu."</string>
+	<string name="home_sdcard_op_tip_msg">"Nije moguće dovršiti ovu radnju za sve odabrane slike. Isključite i ponovo montirajte svoju SD karticu."</string>
 	<string name="home_sdcard_tip_msg">Izgleda da je vaša SD kartica samo za čitanje. Isključite je i ponovno montirajte u Postavkama > O telefonu > Pohrana.</string>
 	<string name="home_page_tab_photo">Fotografije</string>
 	<string name="homepage_allphotos_tip_dialog_button_negative">Preskoči</string>
@@ -1358,7 +1359,7 @@ za fotografije"</string>
 	<string name="homepage_allphotos_tip_dialog_title">Koje slike želite vidjeti u \"Fotografije\"?</string>
 	<string name="how_to_set_relation">Pritisnite &amp; držite album za izradu grupe</string>
 	<string name="hr_preview_108m">Promjenjeno na pregled od 108MP</string>
-	 <string name="hr_preview_200m">Promjenjeno na pregled od 200MP</string>
+	<string name="hr_preview_200m">Promjenjeno na pregled od 200MP</string>
 	<string name="hybrid_check_network">Postavke mreže</string>
 	<string name="hybrid_data_error">Došlo je do pogreške</string>
 	<string name="hybrid_locating_fail">"Ne mogu pronaći vašu lokaciju"</string>
@@ -1370,7 +1371,7 @@ za fotografije"</string>
 	<string name="hybrid_pull_to_refresh_release_label">Pusti za osvježiti…</string>
 	<string name="hybrid_service_unavailiable">Usluga nije dostupna</string>
 	<string name="hybrid_try_again">Pokušaj ponovno</string>
-	 <string name="i_know">Razumijem</string>
+	<string name="i_know">Razumijem</string>
 	<string name="id_photo_cancel_download">Odustani</string>
 	<string name="id_photo_download">Preuzmi</string>
 	<string name="id_photo_download_failed_for_notwork">"Ne mogu preuzeti. Provjerite mrežne postavke i pokušajte ponovo."</string>
@@ -1402,12 +1403,12 @@ za fotografije"</string>
 	<string name="input_a_name">Unesite ime</string>
 	<string name="input_baby_name">Unesite ime</string>
 	<string name="input_baby_nick_name">Unesite nadimak</string>
-	 <string name="input_email_address_notice">"Ovu ćemo e-poštu koristiti za potvrdu vašeg računa"</string>
+	<string name="input_email_address_notice">"Ovu ćemo e-poštu koristiti za potvrdu vašeg računa"</string>
 	<string name="input_nickname_toast">"Unesite ime djeteta"</string>
 	<string name="input_or_select_a_name">Unesite ili odaberite ime</string>
 	<string name="input_relation_name">Unesi naziv grupe</string>
 	<string name="install_fail">"Ne mogu učitati dodatak zbog pogreške."</string>
-	 <string name="install_media_editor_download_description">Preuzimanje…</string>
+	<string name="install_media_editor_download_description">Preuzimanje…</string>
 	<string name="install_media_editor_download_title">Preuzimanje dodatka za Gallery Editor…</string>
 	<string name="install_media_editor_function_message">Preuzmite najnoviju verziju Gallery Editor da biste mogli koristiti \"%1$s\".</string>
 	<string name="install_media_editor_latest_message">Da biste mogli uređivati stavke, prvo preuzmite najnoviji dodatak.</string>
@@ -1422,7 +1423,7 @@ za fotografije"</string>
 	<string name="invite_sharer_phone_number_tip">Unesite broj telefona</string>
 	<string name="invite_sharer_relation_tip">"%1$s rođak"</string>
 	<string name="invite_sharer_title">"Pozovite %1$s %2$s"</string>
-	 <string name="invite_user_activity_title">Dijeli</string>
+	<string name="invite_user_activity_title">Dijeli</string>
 	<string name="invite_user_exist_toast">Ova je osoba već pozvana</string>
 	<string name="invite_user_fail_toast">Došlo je do pogreške. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
 	<string name="invite_user_has_joined">Ovaj je album već podijeljen s ovom osobom</string>
@@ -1434,7 +1435,7 @@ za fotografije"</string>
 	<string name="invited_tip">Pozvan</string>
 	<string name="is">Da</string>
 	<string name="is_higher_definition">HD prikaz</string>
-	 <string name="is_in_ocr">Prepoznavanje…</string>
+	<string name="is_in_ocr">Prepoznavanje…</string>
 	<string name="keyboard_shortcut_copy">Kopiraj</string>
 	<string name="keyboard_shortcut_cut">Obreži</string>
 	<string name="keyboard_shortcut_day">Dan</string>
@@ -1458,7 +1459,7 @@ za fotografije"</string>
 	<string name="last_some_day_travel_title_one">Za %1$s</string>
 	<string name="last_some_day_travel_title_three">Istraživanje %1$s</string>
 	<string name="last_some_day_travel_title_two">Sjećanja na %1$s</string>
-	  <string name="last_some_performance_title">Stvari koje sam vidio</string>
+	<string name="last_some_performance_title">Stvari koje sam vidio</string>
 	<string name="lenovo">Lenovo</string>
 	<string name="lenovo_phone">Lenovo telefon</string>
 	<string name="limit_height">Visina treba biti > 0</string>
@@ -1489,16 +1490,16 @@ za fotografije"</string>
 	<string name="loading_video_fail_sync_without_network">Povežite se na mrežu da biste preuzeli metapodatke</string>
 	<string name="loading_video_fail_syncing">Pričekajte dok metapodaci nisu u potpunosti preuzeti i pokušajte ponovno</string>
 	<string name="loading_video_thumbnail">Preuzimanje naslovnice videozapisa…</string>
-	 <string name="local_secret_tip">Sve privatne stavke sinkroniziraju se s cloudom kada je ova značajka uključena. Svoje postavke možete promijeniti u Postavke > Sinkroniziraj s Mi Cloudom > Upravljanje sinkroniziranim albumima > Privatni album.</string>
+	<string name="local_secret_tip">Sve privatne stavke sinkroniziraju se s cloudom kada je ova značajka uključena. Svoje postavke možete promijeniti u Postavke > Sinkroniziraj s Mi Cloudom > Upravljanje sinkroniziranim albumima > Privatni album.</string>
 	<string name="local_space_full_button_text">Očisti prostor</string>
 	<string name="login_and_enable_service">Prijavite se kako bi koristili Mi Cloud</string>
-	 <string name="login_by_local_phone_long_text">Prijavite se sada</string>
+	<string name="login_by_local_phone_long_text">Prijavite se sada</string>
 	<string name="login_by_local_phone_short_text">Prijava</string>
 	<string name="login_other">Još jedan Mi Račun</string>
 	<string name="login_register_by_local_phone_long_text">Izradi račun</string>
 	<string name="login_with_sns">Drugi načini prijave</string>
 	<string name="logout_account">Odjava</string>
-	 <string name="look_baby_info">Pogledajte informacije o albumu djeteta</string>
+	<string name="look_baby_info">Pogledajte informacije o albumu djeteta</string>
 	<string name="lomoish">Lomo</string>
 	<string name="long_press_to_refocus">Dodirni &amp; zadrži za ponovno fokusiranje</string>
 	<string name="macarons_download_dialog_confirm">U redu</string>
@@ -1641,7 +1642,7 @@ za fotografije"</string>
 	<string name="media_type_fast_motion_video">Time-lapse</string>
 	<string name="media_type_front_photo">Selfiji</string>
 	<string name="media_type_gif">GIF</string>
-	 <string name="media_type_hd">Visoka definicija</string>
+	<string name="media_type_hd">Visoka definicija</string>
 	<string name="media_type_live_vv">Vlog</string>
 	<string name="media_type_motion_photo">Dinamično</string>
 	<string name="media_type_pano_photo">Panorame</string>
@@ -1654,7 +1655,7 @@ za fotografije"</string>
 	<string name="member_menu_vipname_premium">Premium</string>
 	<string name="member_menu_vipname_ultra">Ultra</string>
 	<string name="menu_album_new_album">Novi album</string>
-	 <string name="menu_album_new_share_album">Novi dijeljeni album</string>
+	<string name="menu_album_new_share_album">Novi dijeljeni album</string>
 	<string name="menu_detail_sort_create_date">Izrađeno</string>
 	<string name="menu_detail_sort_name">Naziv datoteke</string>
 	<string name="menu_detail_sort_size">Veličina datoteke</string>
@@ -1674,7 +1675,7 @@ za fotografije"</string>
 	<string name="mi_drop">Mi Share</string>
 	<string name="mi_mover_working_desc">Mi Mover prenosi stavke…</string>
 	<string name="micloud_introduce">Automatski sinkroniziraj fotografije i videozapise (potreban Mi Račun)</string>
-	 <string name="migrate_gp_bottom_msg_0">Da biste svoje stavke premjestili na Google fotografije, trebate dodati Google račun i dati Xiaomiju dopuštenje za:</string>
+	<string name="migrate_gp_bottom_msg_0">Da biste svoje stavke premjestili na Google fotografije, trebate dodati Google račun i dati Xiaomiju dopuštenje za:</string>
 	<string name="migrate_gp_bottom_msg_1">Nakon što premjestite svoje stavke u Google fotografije, sve vaše galerijske mape (uključujući privatne stavke) bit će izbrisane.</string>
 	<string name="migrate_gp_bottom_msg_li_0">Pogledajte svoje uvjete za članstvo u usluzi Google One i preporuke za pohranu</string>
 	<string name="migrate_gp_bottom_msg_li_1">Dodajte u svoju biblioteku Google fotografija</string>
@@ -1688,14 +1689,14 @@ za fotografije"</string>
 	<string name="miplay_adjust_volume">Postavi glasnoću na %d</string>
 	<string name="miplay_circulate_failed">"Nije moguće prenijeti reprodukciju. Pričekajte minutu ili dvije i pokušajte ponovo."</string>
 	<string name="miplay_circulation_msg">Prijenos reprodukcije…</string>
-	 <string name="miplay_circulating_msg">Prijenos reprodukcije…</string>
+	<string name="miplay_circulating_msg">Prijenos reprodukcije…</string>
 	<string name="miplay_pause_video">Pauza</string>
 	<string name="miplay_play_video">Reproduciraj</string>
 	<string name="miplay_seekbar_content_description">Napredak reprodukcije: %1$s %2$s</string>
 	<string name="miplay_stop_video">Zaustavi reprodukciju videozapisa</string>
 	<string name="miplay_volume_btn">Glasnoća</string>
 	<string name="mishare_all_devices">Svi uređaji</string>
-	 <string name="mishop_login_other">Drugi raćun</string>
+	<string name="mishop_login_other">Drugi raćun</string>
 	<string name="miuix_access_state_desc">Odabrano</string>
 	<string name="miuix_alphabet_indexer_name">Traka indeksa</string>
 	<string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
@@ -1872,10 +1873,10 @@ za fotografije"</string>
 	<string name="need_to_turn_on_wlan">Povežite se prvo na Wi-Fi</string>
 	<string name="negative">Negativan</string>
 	<string name="network_connected_rescan">"Ne mogu se povezati na mrežu"</string>
-	 <string name="network_error_info">Došlo je do mrežne pogreške. Provjerite mrežne postavke i pokušajte ponovno.</string>
+	<string name="network_error_info">Došlo je do mrežne pogreške. Provjerite mrežne postavke i pokušajte ponovno.</string>
 	<string name="network_message">"Ova se značajka mora povezati s mrežom da bi normalno radila. Čini se da ovaj uređaj nije povezan s Wi-Fi mrežom. Upotrijebiti mob. podatke za nastavak? Korištenje mob. podataka može generirati dodatne naknade operatera."</string>
 	<string name="network_title">Povežite se na mrežu</string>
-	 <string name="network_timeout_info">"Ne mogu se povezati na mrežu. Pokušajte ponovno."</string>
+	<string name="network_timeout_info">"Ne mogu se povezati na mrežu. Pokušajte ponovno."</string>
 	<string name="network_unsatisfied_button_text">Povežite se na mrežu</string>
 	<string name="new_album_invalid_byte">Naziv je predugačak</string>
 	<string name="new_album_invalid_char">"Nazivi ne mogu sadržavati \"%s\", unesite slovo ili broj."</string>
@@ -1887,7 +1888,7 @@ za fotografije"</string>
 	<string name="next">Dalje</string>
 	<string name="night">Večer</string>
 	<string name="no">Ne</string>
-	 <string name="no_account">Niste prijavljeni</string>
+	<string name="no_account">Niste prijavljeni</string>
 	<string name="no_ignore_faces">Nema osoba</string>
 	<string name="no_map_app">Nije pronađena aplikacija za obradu ove radnje</string>
 	<string name="no_network">"Ne mogu se povezati na mrežu"</string>
@@ -1895,7 +1896,7 @@ za fotografije"</string>
 	<string name="no_network_connected">Nema otkrivenih mreža</string>
 	<string name="noon">Podne</string>
 	<string name="not_ask_any_more">"Ne pitaj ponovno za \"%s\" odgovore"</string>
-	  <string name="not_enough_space_msg_with_email">"Ovaj Google račun %1$s nema dovoljno prostora za pohranu u cloudu za početak prijenosa. Ponovno pokrenite prijenos i nadogradite svoj plan za pohranu kada vidite odgovarajući upit."</string>
+	<string name="not_enough_space_msg_with_email">"Ovaj Google račun %1$s nema dovoljno prostora za pohranu u cloudu za početak prijenosa. Ponovno pokrenite prijenos i nadogradite svoj plan za pohranu kada vidite odgovarajući upit."</string>
 	<string name="not_enough_space_ok">Kreni ispočetka</string>
 	<string name="not_enough_space_title">Nema dovoljno prostora za pohranu</string>
 	<string name="not_is">Ne</string>
@@ -1908,11 +1909,11 @@ za fotografije"</string>
 	<string name="ocr_abnormal_pic_format">"Ne mogu prepoznati tekst. Ovaj format slike nije podržan."</string>
 	<string name="ocr_abnormal_pic_too_large">"Ne mogu prepoznati tekst. Ova je slika prevelika."</string>
 	<string name="ocr_abnormal_pic_too_long">"Ne mogu prepoznati tekst. Ova je slika predugačka."</string>
-	 <string name="ocr_aiasst_version">Prvo ažurirajte Mi AI</string>
+	<string name="ocr_aiasst_version">Prvo ažurirajte Mi AI</string>
 	<string name="ocr_cancelled">Prepoznavanje teksta je otkazano</string>
 	<string name="ocr_copy">Koporaj</string>
 	<string name="ocr_entrance">Prepoznaj tekst</string>
-	 <string name="ocr_extract">Izdvoji</string>
+	<string name="ocr_extract">Izdvoji</string>
 	<string name="ocr_no_network">"Ne mogu se povezati na mrežu"</string>
 	<string name="ocr_no_text_recognized">"Ne mogu pronaći tekst za prepoznavanje"</string>
 	<string name="ocr_note_not_existed">Instalirajte najprije Bilješke aplikaciju</string>
@@ -1921,13 +1922,13 @@ za fotografije"</string>
 	<string name="ocr_save_to_note">Spremi</string>
 	<string name="ocr_save_to_note_new">Spremi u Bilješke</string>
 	<string name="ocr_send">Podijeli</string>
-	 <string name="ocr_switch_hint">Prepoznajte tekst prikazan na slikama kako biste ga mogli odabrati ili poduzeti radnju</string>
+	<string name="ocr_switch_hint">Prepoznajte tekst prikazan na slikama kako biste ga mogli odabrati ili poduzeti radnju</string>
 	<string name="ocr_switch_title">Prepoznavanje teksta na slikama</string>
 	<string name="ocr_text_copied">Uspješno kopirano</string>
-	 <string name="ocr_text_copied_selected">Uspješno kopirano</string>
+	<string name="ocr_text_copied_selected">Uspješno kopirano</string>
 	<string name="ocr_text_link">URL</string>
 	<string name="ocr_title">Rezultat</string>
-	  <string name="ocr_translation">Prevedi</string>
+	<string name="ocr_translation">Prevedi</string>
 	<string name="ocr_using_cellular_negative">Prepoznaj</string>
 	<string name="ocr_using_cellular_positive">Odustani</string>
 	<string name="ocr_using_cellular_text">Prepoznavanje teksta putem mob. podataka moglo bi stvoriti dodatne troškove mobilnog operatera. Prepoznati svejedno?</string>
@@ -1945,7 +1946,7 @@ za fotografije"</string>
 	<string name="open">Uključi</string>
 	<string name="open_public_message">Generiraj poveznicu i pošalji je prijateljima</string>
 	<string name="open_public_title">Podijeli</string>
-	 <string name="open_settings">Postavke</string>
+	<string name="open_settings">Postavke</string>
 	<string name="operate_processing_file_error">Pričekajte dok se ne obrade sve fotografije.</string>
 	<string name="operate_with_metered_network_msg">Vaš je uređaj povezan s mrežom s plaćanjem. Nastaviti svejedno?</string>
 	<string name="operation_add_album">Dodaj u album</string>
@@ -2010,7 +2011,7 @@ za fotografije"</string>
 	<string name="operation_too_often">Previše je zahtjeva napravljeno s vaše IP adrese. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
 	<string name="operation_unforce_top">Otkači</string>
 	<string name="operation_unhide">Prikaži</string>
-	 <string name="operation_upgrade_gallery">Ažuriraj</string>
+	<string name="operation_upgrade_gallery">Ažuriraj</string>
 	<string name="operation_video_compress">Sažmi videozapis</string>
 	<string name="operation_watermark">Zaštitna oznaka</string>
 	<string name="orientation_lock_tip">Autom. rotacija isključena</string>
@@ -2025,7 +2026,7 @@ za fotografije"</string>
 	<string name="other_album_operation_remove_from_other_albums">Ukloni iz suvišnih albuma</string>
 	<string name="other_settings">Dodatne postavke</string>
 	<string name="owner_album_subtitle">Podijeljeno s %1$s osoba</string>
-	 <string name="passport_access_denied">Pristup odbijen</string>
+	<string name="passport_access_denied">Pristup odbijen</string>
 	<string name="passport_account_name">"Račun: %1$s "</string>
 	<string name="passport_area_code_title">Pozivni broj</string>
 	<string name="passport_bad_authentication">Nevažeće korisničko ime ili zaporka</string>
@@ -2048,7 +2049,7 @@ za fotografije"</string>
 	<string name="passport_email">Adresa e-pošte</string>
 	<string name="passport_empty_password">"Zaporka ne može biti prazna"</string>
 	<string name="passport_error_auth_fail">Sesija je istekla. Prijavite se ponovno.</string>
-	 <string name="passport_error_device_id">"Ne mogu dobiti ID uređaja"</string>
+	<string name="passport_error_device_id">"Ne mogu dobiti ID uređaja"</string>
 	<string name="passport_error_dynamic_token_error">Kod za provjeru nije točan</string>
 	<string name="passport_error_email">Adresa e-pošte koju ste unijeli nije važeća</string>
 	<string name="passport_error_empty_email">Unesite svoju adresu e-pošte</string>
@@ -2070,7 +2071,7 @@ za fotografije"</string>
 	<string name="passport_error_unknown">Nepoznata pogreška</string>
 	<string name="passport_error_user_agreement">Prvo prihvatite naš korisnički ugovor</string>
 	<string name="passport_error_user_name">Korisničko ime koje ste unijeli nije valjano</string>
-	 <string name="passport_error_user_password">"Zaporke se ne podudaraju"</string>
+	<string name="passport_error_user_password">"Zaporke se ne podudaraju"</string>
 	<string name="passport_get_login_type_next">Dalje</string>
 	<string name="passport_header_back">Natrag</string>
 	<string name="passport_identification_expired">Kod za provjeru je istekao. Počni ispočetka.</string>
@@ -2091,7 +2092,7 @@ za fotografije"</string>
 	<string name="passport_password_req_notice">Zaporka mora imati 8-16 znakova i sadržavati najmanje dva od sljedećeg: znamenke, slova i posebne simbole (npr. 123abc@#, ili 123abc, ili abc@#).</string >
 	<string name="passport_password_show">Prikaži zaporku</string>
 	<string name="passport_querying_phone_info">Traženje informacija o računu…</string>
-	 <string name="passport_quick_login_title">Unesite svoju zaporku</string>
+	<string name="passport_quick_login_title">Unesite svoju zaporku</string>
 	<string name="passport_reging">Izrada računa…</string>
 	<string name="passport_register_restricted">Previše je računa povezano s ovim brojem. Pokušajte s drugim.</string>
 	<string name="passport_relogin_notice">Morate se ponovo prijaviti</string>
@@ -2112,7 +2113,7 @@ za fotografije"</string>
 	<string name="passport_to_verify_code_login">Prijavite se SMS-om</string>
 	<string name="passport_unknow_host_network_error">Provjerite mrežne postavke i pokušajte ponovno</string>
 	<string name="passport_user_id_hint">E-mail/broj telefona/ID Mi Računa</string>
-	 <string name="passport_user_id_intro">Unesite zaporku za %1$s</string>
+	<string name="passport_user_id_intro">Unesite zaporku za %1$s</string>
 	<string name="passport_user_password_hint">Zaporka</string>
 	<string name="passport_wechat_not_install">Prvo instalirajte WeChat</string>
 	<string name="passport_wrong_captcha">Kôd koji ste unijeli nije točan</string>
@@ -2134,7 +2135,7 @@ za fotografije"</string>
 	<string name="people_mark_mode_title">Odaberi \"%s\"</string>
 	<string name="people_mark_mode_title_no_mark_name">Odaberi osobu</string>
 	<string name="people_page_label">Osobe</string>
-	 <string name="people_page_photo">Sličica osobe</string>
+	<string name="people_page_photo">Sličica osobe</string>
 	<string name="people_page_unname">Bez imena</string>
 	<string name="permissin_contract_desc">Za imenovanje ljudi na fotografijama</string>
 	<string name="permission_account_desc">Za prijavu i upravljanje računom sustava</string>
@@ -2161,10 +2162,10 @@ za fotografije"</string>
 	<string name="permission_use_desc">Dopuštenja</string>
 	<string name="pet_album_display_name">Fotografije ljubimaca</string>
 	<string name="petabyteShort">PB</string>
-	 <string name="phone_auto_login_register_with_local_number">Izradi račun</string>
+	<string name="phone_auto_login_register_with_local_number">Izradi račun</string>
 	<string name="phone_number_empty_alert">Dodaj broj telefona</string>
 	<string name="photo">Fotografija</string>
-	 <string name="photoPickerNotFoundText">Nema dostupnih fotografija.</string>
+	<string name="photoPickerNotFoundText">Nema dostupnih fotografija.</string>
 	<string name="photo_edit_file_not_exits_tip">Preuzmite fotografiju prije uređivanja</string>
 	<string name="photo_editor_adjust">Prilagodi</string>
 	<string name="photo_editor_beautify">Uljepšaj</string>
@@ -2316,7 +2317,7 @@ za fotografije"</string>
 	<string name="photo_vlog_module_finish">Uređivač videozapisa uspješno preuzet</string>
 	<string name="photo_vlog_module_loading">Preuzimanje Uređivača videozapisa…</string>
 	<string name="photodetail_failed_already_exist">Ova datoteka već postoji</string>
-	 <string name="photodetail_rename_invalid_prefix">"Imena datoteka ne mogu počinjati s \".\""</string>
+	<string name="photodetail_rename_invalid_prefix">"Imena datoteka ne mogu počinjati s \".\""</string>
 	<string name="photodetail_rename_failed">"Nije moguće preimenovati"</string>
 	<string name="photodetail_rename_invalid">"Nazivi datoteka ne mogu sadržavati ove znakove: /\\:*?&lt;>|.\""</string>
 	<string name="photodetail_rename_success">Uspješno preimenovano</string>
@@ -2359,8 +2360,8 @@ za fotografije"</string>
 	<string name="places_album_empty_title">Fotografije se mogu razvrstati prema lokaciji</string>
 	<string name="play_gif_desc">Reproduciraj GIF</string>
 	<string name="play_video_desc">Reproduciraj video</string>
-	 <string name="please_agree_protocal">Prihvatite protokol</string>
-	 <string name="pref_today_of_year_summary">"Podsjetite se na trenutke koje ste zabilježili na ovaj dan tijekom godina. Već stvorene uspomene neće nestati ako isključite ovu značajku."</string>
+	<string name="please_agree_protocal">Prihvatite protokol</string>
+	<string name="pref_today_of_year_summary">"Podsjetite se na trenutke koje ste zabilježili na ovaj dan tijekom godina. Već stvorene uspomene neće nestati ako isključite ovu značajku."</string>
 	<string name="posterize">Posterizacija</string>
 	<string name="preference_copied">Sažetak \"%1$s\" je kopiran u međuspremnik.</string>
 	<string name="prepare_to_drop">Spremanje u %s</string>
@@ -2409,14 +2410,14 @@ za fotografije"</string>
 	<string name="privacy_rejected_map_detail">"Vaše povlačenje suglasnosti na Pravila o privatnosti Gallery Map smatrat će se odbijanjem prihvaćanja njezinih usluga. Ostale osnovne značajke i usluge neće biti pogođene. Svejedno povući?"</string>
 	<string name="privacy_rejected_map_new">Povlačenje suglasnosti za Gallery Map Third Party Data Sharing Statement</string>
 	<string name="privacy_rejected_pos_btn">Povuci</string>
-	 <string name="privacy_share_album_confirm">Uvjeti i odredbe</string>
+	<string name="privacy_share_album_confirm">Uvjeti i odredbe</string>
 	<string name="privacy_share_album_confirm_detail">Dijeljene albume pokreće Mi Cloud. Prije korištenja ove značajke, pročitajte i prihvatite naše &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Korisnički sporazum>&lt;/a>&lt;/font> i &lt;font color=\"#ff32b4ff\">&lt;a href=\"%2$s\" style=\"color:#ff32b4ff;\">Pravila o privatnosti&lt;/a>&lt;/font>.</string> 
-	 <string name="private_entry_lock_state_activated_text">Otpusti za otvaranje privatne mape</string>
+	<string name="private_entry_lock_state_activated_text">Otpusti za otvaranje privatne mape</string>
 	<string name="private_entry_lock_state_enterd_text">Povuci dolje za otvaranje privatne mape</string>
 	<string name="problem_feedback">Povratne inf.</string>
 	<string name="produce_dialog_text_multi">Više stavki</string>
 	<string name="produce_dialog_text_single">Jedna stavka</string>
-	 <string name="progressbar_title">Provjera sigurnosnih problema…</string>
+	<string name="progressbar_title">Provjera sigurnosnih problema…</string>
 	<string name="projection_cancel">Odustani</string>
 	<string name="projection_checkbox_text">Zapamti ovaj zaslon</string>
 	<string name="projection_device_connection_failed">Ne mogu povezati projektor</string>
@@ -2431,14 +2432,14 @@ za fotografije"</string>
 	<string name="projection_switch_title">Promjeni na</string>
 	<string name="projection_video_quit">Dodirnite za izlaz</string>
 	<string name="prompt_not_support_format">"Ne možete upotrijebiti ovu sliku za stvaranje čarobne vinjete"</string>
-	 <string name="protocal_dialog_confirm">Prihvaćam</string>
+	<string name="protocal_dialog_confirm">Prihvaćam</string>
 	<string name="protocal_dialog_title">Pažnja</string>
 	<string name="public_url_descript">Svatko može pristupiti albumu koristeći ovu poveznicu</string>
 	<string name="publish_failed">"Ne mogu objaviti"</string>
 	<string name="publish_succeeded">Album je objavljen</string>
 	<string name="publishing">Objavljivanje…</string>
 	<string name="purge_or_recovery_processing">Obrada…</string>
-	 <string name="qq_login_btn_content_description">Prijavite se s QQ</string>
+	<string name="qq_login_btn_content_description">Prijavite se s QQ</string>
 	<string name="quarterly_pets_title">Puhljasti prijatelji</string>
 	<string name="quotation">\"%s\"</string>
 	<string name="recent_album_empty_title">"Niste nedavno dodali nove fotografije"</string>
@@ -2466,7 +2467,7 @@ za fotografije"</string>
 	<string name="redmi_note_7">Redmi Note 7</string>
 	<string name="redmi_note_7_pro">Redmi Note 7 Pro</string>
 	<string name="refocus_desc">Fokusiraj ponovno</string>
-	 <string name="register_by_local_phone_long_text">Izradi račun</string>
+	<string name="register_by_local_phone_long_text">Izradi račun</string>
 	<string name="register_by_local_phone_short_text">Izradi račun</string>
 	<string name="refocus_discard_confirm_message">Spremiti promjene?</string>
 	<string name="refocus_discard_negative_btn">Odbaci</string>
@@ -2520,7 +2521,7 @@ za fotografije"</string>
 	<string name="rename_face_album">Promjeni naziv</string>
 	<string name="rename_fail_msg">"Ne mogu promjeniti naziv"</string>
 	<string name="rename_from_contact">Ime iz kontakata</string>
-	  <string name="request_agree">Dopusti</string>
+	<string name="request_agree">Dopusti</string>
 	<string name="request_camera_permission_message">"Zaštitit ćemo vaše osobne podatke u skladu s relevantnim zakonima i propisima. Ova aplikacija treba sljedeća dopuštenja za normalan rad:&lt;br>&lt;br>&lt;b>Korištenje kamere (za postavljanje vaše profilne fotografije)&lt;/b>&lt;br>&lt;br>Ako se ne slažete s davanjem takvih dopuštenja, nećete moći koristiti neke značajke ove aplikacije; međutim, njezine će osnovne funkcije i dalje biti vam dostupan. Uvijek možete ograničiti dopuštenja ili opozvati svoju suglasnost u Postavkama."</string>
 	<string name="request_cancel">Odustani</string>
 	<string name="request_error_invalid_token">"Nije moguće potvrditi"</string>
@@ -2532,7 +2533,7 @@ za fotografije"</string>
 	<string name="request_sms_url_failed">"Ne mogu dobiti QR kod"</string>
 	<string name="request_sms_url_msg">Traženje informacija…</string>
 	<string name="request_sms_url_title">Savjet</string>
-	 <string name="resend_active_email">Ponovo pošalji</string>
+	<string name="resend_active_email">Ponovo pošalji</string>
 	<string name="resend_email_reach_limit_message">"Zatražili ste previše poruka e-pošte za potvrdu. Uvjerite se da poruka e-pošte za potvrdu nije u mapi neželjene pošte vaše pristigle pošte."</string>
 	<string name="resend_email_reach_limit_title">Previše pokušaja</string>
 	<string name="resend_email_success">Uspješno poslano</string>
@@ -2554,7 +2555,7 @@ za fotografije"</string>
 	<string name="qr_invite_scan_hint">Skenirajte QR kod</string>
 	<string name="qr_invite_time_hint">Ovaj QR kod vrijedi 7 dana</string>
 	<string name="qr_invite_title">Pozivnica s QR kodom</string>
-	 <string name="saf_hyper_link_text">Upravljajte dopuštenjima</string>
+	<string name="saf_hyper_link_text">Upravljajte dopuštenjima</string>
 	<string name="saf_operation_guide_1">"Galerija treba vaše dopuštenje da bi mogla zaštititi i upravljati vašim podacima."</string>
 	<string name="saf_operation_guide_2">Da biste dali dopuštenje, dodirnite \"%1$s\" a zatim odaberite \"%2$s\".</string>
 	<string name="saf_operation_guide_param1">Dalje</string>
@@ -2564,7 +2565,7 @@ za fotografije"</string>
 	<string name="saf_secret_album">Privatni album</string>
 	<string name="saf_secret_album_guide">Ova aplikacija treba dopuštenja za prikaz stavki iz vašeg privatnog albuma.</string>
 	<string name="same_name_album_exist_and_toast">"Album sa istim imenom već postoji. Umjesto njega je izrađen '%s'."</string>
-	 <string name="same_new_and_old_pwd">"Ne može biti ista kao trenutna zaporka"</string>
+	<string name="same_new_and_old_pwd">"Ne može biti ista kao trenutna zaporka"</string>
 	<string name="saturation">Saturacija</string>
 	<string name="saturation_abbr">S</string>
 	<string name="saturday">Subota</string>
@@ -2578,7 +2579,7 @@ za fotografije"</string>
 	<string name="scan_barcode_to_join">Skeniraj QR kod za dodavanje albuma</string>
 	<string name="scan_qr_code">Skenirajte QR kod</string>
 	<string name="scan_qr_to_accept_invitation">Skenirajte QR kod da prihvatite pozivnicu</string>
-	 <string name="scan_qr_code_buttom_text">Skeniraj QR kod za pregled ovog albuma</string>
+	<string name="scan_qr_code_buttom_text">Skeniraj QR kod za pregled ovog albuma</string>
 	<string name="scanning_device_tips">Traženje uređaja u blizini… Provjerite nalazi li se drugi uređaj u načinu otkrivanja.</string>
 	<string name="scope_storage_dialog_cancel_btn">Odustani</string>
 	<string name="scope_storage_dialog_confirm_btn">Dalje</string>
@@ -2619,7 +2620,7 @@ za fotografije"</string>
 	<string name="screen_talkback_small">Jako malo</string>
 	<string name="screen_talkback_text">Tekst</string>
 	<string name="sea_title">Valovi</string>
-	 <string name="search_edit_hint">Tražite datoteke ili albume</string>
+	<string name="search_edit_hint">Tražite datoteke ili albume</string>
 	<string name="search_no_smart_sort_tag">Identificirajte objekte na fotografijama da biste dobili više rezultata pretraživanja</string>
 	<string name="search_no_sync_tag">Uključite sinkronizaciju da biste dobili više rezultata pretraživanja</string>
 	<string name="search_wait_msg">Tražim…</string>
@@ -2640,7 +2641,7 @@ za fotografije"</string>
 	<string name="share_album_family_invite_default">Podijeli</string>
 	<string name="share_album_family_invite_family_cate_title">Obiteljska grupa</string>
 	<string name="share_album_family_invite_link">Poveznica</string>
-	  <string name="share_album_family_invite_miaccount">Mi Račun</string>
+	<string name="share_album_family_invite_miaccount">Mi Račun</string>
 	<string name="share_album_family_invite_other_cate_title">Prijatelji</string>
 	<string name="share_album_family_invite_qr">QR kod</string>
 	<string name="share_album_family_invite_resend">Pozovi ponovno</string>
@@ -2688,7 +2689,7 @@ za fotografije"</string>
 	<string name="share_album_sync_textline_sharer_cloud_full">"Nije moguće sinkronizirati. Vlasnik ovog albuma nema više prostora za pohranu u oblaku."</string>
 	<string name="share_album_sync_textline_synced">Uspješno sinkronizirano</string>
 	<string name="share_album_type_baby">Album za bebe</string>
-	  <string name="share_album_type_home">Obiteljski čuvar zaslona</string>
+	<string name="share_album_type_home">Obiteljski čuvar zaslona</string>
 	<string name="share_from">Od %1$s</string>
 	<string name="search_album_jump_failed">Pričekajte dok se albumi sinkroniziraju s Mi Cloudom i pokušajte ponovno</string>
 	<string name="search_backup_full_screen">Uključite sinkr. sa Mi Cloudom bi se pronašli više objekata i osoba</string>
@@ -2761,7 +2762,7 @@ za fotografije"</string>
 	<string name="secret_album_display_name">Privatni album</string>
 	<string name="secret_album_password_first_use_msg">Koristiti će se Zaporka zaštite privatnosti. Ona funkcionira za fotografije, bilješke i skrivene mape itd.</string>
 	<string name="secret_album_password_first_use_title">Zaporka zaštite privatnosti</string>
-	 <string name="secret_album_password_first_use_with_sms_msg">Koristit će se lozinka za zaštitu privatnosti. Radi za poruke, fotografije, bilješke i skrivene mape.</string>
+	<string name="secret_album_password_first_use_with_sms_msg">Koristit će se lozinka za zaštitu privatnosti. Radi za poruke, fotografije, bilješke i skrivene mape.</string>
 	<string name="secret_album_password_update_with_sms_dialog_msg">Zaporka za zaštitu privatnosti funkcionira za poruke, fotografije, bilješke i skrivene mape.</string>
 	<string name="secret_album_set_pc_password_with_sms_dialog_msg">Koristit će se lozinka za zaštitu privatnosti. Radi za poruke, fotografije, bilješke i skrivene mape.</string>
 	<string name="secret_album_password_update_dialog_cancel">Odustani</string>
@@ -2788,10 +2789,10 @@ za fotografije"</string>
 	<string name="select_item_face">"Na fotog. je %s ?"</string>
 	<string name="select_origin_tip">Izvorna datoteka (%s)</string>
 	<string name="send">Pošalji</string>
-	 <string name="send_diagnosis_log">Pošalji zapise</string>
-	 <string name="send_dolby_vision_duration_more_than_40s">Dolby Vision video zapisi duži od 4 minute mogu se dijeliti samo u izvornom video formatu koji prijemni uređaj možda ne podržava. Svejedno nastaviti?</string>
+	<string name="send_diagnosis_log">Pošalji zapise</string>
+	<string name="send_dolby_vision_duration_more_than_40s">Dolby Vision video zapisi duži od 4 minute mogu se dijeliti samo u izvornom video formatu koji prijemni uređaj možda ne podržava. Svejedno nastaviti?</string>
 	<string name="send_dolby_vision_video_continue">Nastavi</string>
-	 <string name="send_email_activate_message">Uspješno poslana e-pošta za potvrdu</string>
+	<string name="send_email_activate_message">Uspješno poslana e-pošta za potvrdu</string>
 	<string name="send_file_beautify_failed">"Ne mogu podijeliti"</string>
 	<string name="send_files_by">Podijelite datoteke putem</string>
 	<string name="send_files_to">Pošalji stavke na</string>
@@ -2803,7 +2804,7 @@ za fotografije"</string>
 	<string name="send_secret_file_failed">"Ne mogu podijeliti"</string>
 	<string name="send_secret_file_space_low">Nema dovoljno prostora za pohranu</string>
 	<string name="send_too_many_files_error">"Mogu poslati najviše %d stavki odjednom"</string>
-	 <string name="service_error">Pogreška poslužitelja</string>
+	<string name="service_error">Pogreška poslužitelja</string>
 	<string name="sepia">Sepija</string>
 	<string name="service_is_provided_by_miui_cloud_service">Ovu uslugu pruža Mi Cloud</string>
 	<string name="set_as_baby_lock_wallpaper">Postavi za pozadinu Zaklj. zaslona</string>
@@ -2857,7 +2858,7 @@ za fotografije"</string>
 	<string name="size_peta_byte">PB</string>
 	<string name="size_suffix">%1$s%2$s</string>
 	<string name="size_tera_byte">TB</string>
-	 <string name="skip_query_account">Preskoči</string>
+	<string name="skip_query_account">Preskoči</string>
 	<string name="sky_dynamic">Dinamičko</string>
 	<string name="sky_night">Večer</string>
 	<string name="sky_nocturne">Noć</string>
@@ -3004,10 +3005,10 @@ za fotografije"</string>
 	<string name="sticker_tab_talkback_summer_day">Ljeto</string>
 	<string name="sticker_tab_talkback_words">Tekst</string>
 	<string name="sticker_words">Riječi</string>
-	 <string name="stop_migration_msg">"Nećete moći nastaviti prijenos ako ga zaustavite sada. Ako odlučite zaustaviti prijenos, možete posjetiti i.mi.com za preuzimanje stavki koje su još uvijek pohranjene u Xiaomi Cloudu ."</string>
+	<string name="stop_migration_msg">"Nećete moći nastaviti prijenos ako ga zaustavite sada. Ako odlučite zaustaviti prijenos, možete posjetiti i.mi.com za preuzimanje stavki koje su još uvijek pohranjene u Xiaomi Cloudu ."</string>
 	<string name="stop_migration_ok">Zaustavi</string>
 	<string name="stop_migration_title">Zaustaviti prijenos sada?</string>
-	 <string name="stop_use_secret_cancel">Ne sada</string>
+	<string name="stop_use_secret_cancel">Ne sada</string>
 	<string name="stop_use_secret_msg">"Vaše fotografije i videozapisi više nisu sinkronizirani s Mi Cloudom. Nećete moći koristiti svoj privatni album jer se oslanja na enkripciju u oblaku.
 Do %1$s možete premjestiti svoje stavke na Google fotografije ili posjetiti i.mi.com da ih preuzmete. Nakon toga, stavke koje su još uvijek pohranjene u Mi Cloudu bit će trajno izbrisane.
 %2$s"</string>
@@ -3024,7 +3025,7 @@ Do %1$s možete premjestiti svoje stavke na Google fotografije ili posjetiti i.m
 	<string name="story_cancel_download">Odustani</string>
 	<string name="story_download">Preuzmi</string>
 	<string name="story_download_failed_for_notwork">"Ne mogu preuzeti. Povežite se s mrežom i pokušajte ponovo."</string>
-	 <string name="story_guide_tip_download_btn">Preuzmi</string>
+	<string name="story_guide_tip_download_btn">Preuzmi</string>
 	<string name="story_guide_tip_download_desc">Preuzmite predloške za svoje uspomene</string>
 	<string name="story_guide_tip_download_title">Preuzmite predloške</string>
 	<string name="story_guide_tip_generate_btn">Pokreni</string>
@@ -3044,7 +3045,7 @@ Do %1$s možete premjestiti svoje stavke na Google fotografije ili posjetiti i.m
 	<string name="story_remove_confirm_title">Uklanjanje fotografija…</string>
 	<string name="story_rename_invalid_char">"Ne može se koristiti \"%s\" u naslovu uspomene. Upotrijebite slova i znamenke."</string>
 	<string name="story_rename_invalid_prefix">"Naslovi uspomena ne mogu počinjati sa \".\" ili \"_\""</string>
-	 <string name="str_scan_form">Prepoznaj tablicu</string>
+	<string name="str_scan_form">Prepoznaj tablicu</string>
 	<string name="straighten">Prilagodi</string>
 	<string name="straighten_tooltip">Povucite fotografiju da je poravnate</string>
 	<string name="sub_discard_confirm_message">Spremiti promjene?</string>
@@ -3056,7 +3057,7 @@ Do %1$s možete premjestiti svoje stavke na Google fotografije ili posjetiti i.m
 	<string name="sunday_shortest">N</string>
 	<string name="support_single_image">Odaberite jednu sliku</string>
 	<string name="support_single_video">Odaberite jedan videozapis</string>
-	 <string name="switch_account_continue">Nastavi</string>
+	<string name="switch_account_continue">Nastavi</string>
 	<string name="switch_account_msg_with_email">Prethodno ste zaustavili prijenos na %1$s. Želite li nastaviti s prijenosom na ovaj Google račun ili početi iznova koristeći drugi račun?</string>
 	<string name="switch_account_switch">Počni iznova</string>
 	<string name="switch_account_title">Nastaviti prijenos?</string>
@@ -3080,7 +3081,7 @@ Do %1$s možete premjestiti svoje stavke na Google fotografije ili posjetiti i.m
 	<string name="syncing_metadata_title">Sinkronizacija Mi Cloud podataka</string>
 	<string name="syncing_normal_title">Izrada Sig. kopije fotografija i videozapisa</string>
 	<string name="system_album">Album sustava</string>
-	 <string name="system_error_info">Sustav je zauzet. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
+	<string name="system_error_info">Sustav je zauzet. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
 	<string name="talkback_album_item_content">%1$s, %2$s stavki</string>
 	<string name="talkback_delete_search_history">Izbriši povijest pretraživanja</string>
 	<string name="talkback_doc_with_time">Dokument, %s</string>
@@ -3100,7 +3101,7 @@ Do %1$s možete premjestiti svoje stavke na Google fotografije ili posjetiti i.m
 	<string name="talkback_story_album_playicon">Reproduciraj ovu memoriju</string>
 	<string name="talkback_video_with_time">Videozapis, %s</string>
 	<string name="talkback_video_with_time_and_location">Videozapis, %1$s, %2$s</string>
-	 <string name="temporary_not_available">"Ova značajka još nije dostupna"</string>
+	<string name="temporary_not_available">"Ova značajka još nije dostupna"</string>
 	<string name="temperature">Nijansa</string>
 	<string name="terabyteShort">TB</string>
 	<string name="text_append">Tekst</string>
@@ -3186,7 +3187,7 @@ Do %1$s možete premjestiti svoje stavke na Google fotografije ili posjetiti i.m
 	<string name="text_item_type_talkback_spot_xihu">West Lake</string>
 	<string name="text_item_type_talkback_spot_yiheyuan">Summer Palace</string>
 	<string name="text_item_type_talkback_spot_zhangjiajie">Zhangjiajie</string>
-	 <string name="text_recognition">Prepoznaj tekst</string>
+	<string name="text_recognition">Prepoznaj tekst</string>
 	<string name="text_tab_bubble">Mjehurići</string>
 	<string name="text_tab_city">Grad</string>
 	<string name="text_tab_festival">Praznik</string>
@@ -3226,7 +3227,7 @@ Do %1$s možete premjestiti svoje stavke na Google fotografije ili posjetiti i.m
 	<string name="tip_file_path">Putanja: </string>
 	<string name="tip_not_download">Nije na uređaju. Biti će preuzeto s Mi Clouda tijekom reprodukcije.</string>
 	<string name="tip_screenshot_package_info">Naziv aplikacije: </string>
-	 <string name="tips_for_photo_page_selection">Možete dodirnuti stavke da biste ih vidjeli</string>
+	<string name="tips_for_photo_page_selection">Možete dodirnuti stavke da biste ih vidjeli</string>
 	<string name="tips_prompt_enable_midrop">Mi Share</string>
 	<string name="title_set_name">Unesite ime</string>
 	<string name="title_tip">Savjet</string>
@@ -3245,15 +3246,15 @@ Do %1$s možete premjestiti svoje stavke na Google fotografije ili posjetiti i.m
 	<string name="toast_orientation_unlock">Orijentacija zaslona je otključana</string>
 	<string name="toast_rename_exit">Ova datoteka već postoji</string>
 	<string name="today">Danas</string>
-	 <string name="today_of_year">Na današnji dan</string>
+	<string name="today_of_year">Na današnji dan</string>
 	<string name="today_of_year_empty_tip">Ovdje još nema uspomena</string>
-	 <string name="today_of_year_function_closed_btn_tip">Uključi</string>
+	<string name="today_of_year_function_closed_btn_tip">Uključi</string>
 	<string name="today_of_year_function_closed_tip">"Još niste uključili \"Na današnji dan\""</string>
 	<string name="today_of_year_location_num">Lokacije</string>
 	<string name="today_of_year_photo_num">Fotografije</string>
 	<string name="tomorrow">Sutra</string>
 	<string name="too_many_recipients">"Ne možete dodati više od %2$s primatelja (Trenutno ste dodali %1$s)."</string>
-	 <string name="tran_notification_complete_title">Prijenos dovršen</string>
+	<string name="tran_notification_complete_title">Prijenos dovršen</string>
 	<string name="tran_notification_paused_msg">Pokušajte sada nastaviti prijenos</string>
 	<string name="tran_notification_paused_title">Prijenos pauziran</string>
 	<string name="tran_notification_preparing_msg">Priprema stavki…</string>
@@ -3279,7 +3280,7 @@ Do %1$s možete premjestiti svoje stavke na Google fotografije ili posjetiti i.m
 	<string name="trash_bin_summary">Pregledajte pohranjene fotografije koje su izbrisane nedavno</string>
 	<string name="trash_bin_summary_local">Pogledajte nedavno izbrisane fotografije i videozapise</string>
 	<string name="trash_empty">Ovdje nema stavki.</string>
-	 <string name="trash_high_occupied_tip_banner">Veličina smeća dosegla je %1$s. Očistite smeće da biste oslobodili prostor.</string>
+	<string name="trash_high_occupied_tip_banner">Veličina smeća dosegla je %1$s. Očistite smeće da biste oslobodili prostor.</string>
 	<string name="trash_high_occupied_tip_toast">Veličina smeća dosegla je %1$s. Očistite smeće da biste oslobodili prostor.</string>
 	<string name="trash_menu_delete">Izbriši</string>
 	<string name="trash_menu_recovery">Vrati</string>
@@ -3294,7 +3295,7 @@ Do %1$s možete premjestiti svoje stavke na Google fotografije ili posjetiti i.m
 	<string name="trash_vip_button_unlogin">Prijava</string>
 	<string name="try_again_later">Pokušajte ponovno kasnije.</string>
 	<string name="try_to_send">Poslano</string>
-	 <string name="tsb_action_backup_apk_err">Postavljanje sigurnosne kopije</string>
+	<string name="tsb_action_backup_apk_err">Postavljanje sigurnosne kopije</string>
 	<string name="tsb_action_completed_allow_closed">Uključi sigurnosno kopiranje</string>
 	<string name="tsb_action_completed_open">Pogledajte status sigurnosne kopije</string>
 	<string name="tsb_action_err">Došlo je do pogreške. Pokušajte ponovno.</string>
@@ -3311,7 +3312,7 @@ Do %1$s možete premjestiti svoje stavke na Google fotografije ili posjetiti i.m
 	<string name="turn_on_sync">Uključi sinkronizaciju</string>
 	<string name="unchecked">Poništi odabir</string>
 	<string name="unchecked_something">Poništi odabir %s</string>
-	 <string name="unknown_error_info">Nepoznata pogreška</string>
+	<string name="unknown_error_info">Nepoznata pogreška</string>
 	<string name="unpublish_failed">"Ne mogu poništiti objavljivanje"</string>
 	<string name="unpublish_succeeded">Album nije objavljen!</string>
 	<string name="unpublishing">Otkazivanje…</string>
@@ -3326,7 +3327,7 @@ Do %1$s možete premjestiti svoje stavke na Google fotografije ili posjetiti i.m
 	<string name="unsupported_media_downloading_tip_format">"Gledanje originalnih %s slika nije podržano u ovoj verziji Androida. Preuzeti svejedno?"</string>
 	<string name="unsupported_media_scanned_tip">"Otkriveno je %1$s slika. Gledanje %2$s slika nije podržano u ovoj verziji Androida."</string>
 	<string name="unsupported_media_view_tip">"Gledanje originalnih %s slika nije podržano u ovoj verziji Androida"</string>
-	 <string name="update_GP_app_btn_update">Ažuriraj</string>
+	<string name="update_GP_app_btn_update">Ažuriraj</string>
 	<string name="update_GP_app_msg">Da biste uključili sigurnosno kopiranje, trebate ažurirati Google fotografije. Za nastavak se vratite na ovu stranicu nakon što ažurirate Google fotografije.</string>
 	<string name="update_GP_app_title">Ažuriraj Google fotografije</string>
 	<string name="update_apk_size">Veličina ažuriranja: %s MB</string>
@@ -3335,7 +3336,7 @@ Do %1$s možete premjestiti svoje stavke na Google fotografije ili posjetiti i.m
 	<string name="update_btn_positive">Ažuriraj</string>
 	<string name="update_check">Provjerite ima li ažuriranja</string>
 	<string name="update_check_title">Trenutna verzija: %s</string>
-	 <string name="update_email_address_dialog_message">Morate potvrditi svoj identitet prije ažuriranja e-pošte za oporavak.</string>
+	<string name="update_email_address_dialog_message">Morate potvrditi svoj identitet prije ažuriranja e-pošte za oporavak.</string>
 	<string name="update_email_address_dialog_title">Ažuriraj e-poštu za oporavak</string>
 	<string name="update_ignore">Zanemari ovu verziju</string>
 	<string name="update_latest_version">Trenutna verzija je ažurirana</string>
@@ -3346,7 +3347,7 @@ Do %1$s možete premjestiti svoje stavke na Google fotografije ili posjetiti i.m
 	<string name="user_agree">Prihvaćam</string>
 	<string name="user_agreement2">Uvjeti pružanja usluge</string>
 	<string name="user_agreement4">Pravila o privatnosti</string>
-	 <string name="user_agreement_hint_3rd_app"><Data>"Pročitao sam i prihvaćam &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a> i Mi Račun &lt;a href=%3$s>Korisnički ugovor&lt;/a> i &lt;a href=%4$s>Pravila o privatnosti&lt;/a>."</Data></string>
+	<string name="user_agreement_hint_3rd_app"><Data>"Pročitao sam i prihvaćam &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a> i Mi Račun &lt;a href=%3$s>Korisnički ugovor&lt;/a> i &lt;a href=%4$s>Pravila o privatnosti&lt;/a>."</Data></string>
 	<string name="user_agreement_hint_3rd_app_mobile"><Data>"Pročitao sam i prihvaćam &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>, Mi Račun &lt;a href=%3$s>Korisnički ugovor&lt;/a> i &lt;a href=%4$s>Pravila o privatnosti&lt;/a>, kao i &lt;a href=%5$s>Odredbe i uvjete usluga provjere China Mobile&lt;/a>."</Data></string>
 	<string name="user_agreement_hint_3rd_app_with_telecom"><Data>"Pročitao sam i prihvaćam &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>, Mi Račun &lt;a href=%3$s>Korisnički ugovor&lt;/a> i &lt;a href=%4$s>Pravila o privatnosti&lt;/a>, kao i &lt;a href=%5$s>Odredbe i uvjete usluga verifikacije računa eSurfing&lt;/a>."</Data></string>
 	<string name="user_agreement_hint_3rd_app_with_unicom"><Data>"Pročitao sam i prihvaćam &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>, Mi Račun &lt;a href=%3$s>Korisnički ugovor&lt;/a> i &lt;a href=%4$s>Pravila o privatnosti&lt;/a>, kao i &lt;a href=%5$s>Odredbe i uvjete usluga provjere China Unicom&lt;/a>."</Data></string>
@@ -3358,7 +3359,7 @@ Do %1$s možete premjestiti svoje stavke na Google fotografije ili posjetiti i.m
 	<string name="user_agreement_hint_with_telecom"><Data>"Pročitao sam i prihvaćam Mi Račun &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>, kao i &lt;a href=%3$s>Odredbe i uvjete usluga verifikacije računa eSurfing&lt;/a>."</Data></string>
 	<string name="user_agreement_hint_with_unicom"><Data>"Pročitao sam i prihvaćam Mi Račun &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>, kao i &lt;a href=%3$s>Odredbe i uvjete usluga provjere China Unicom&lt;/a>."</Data></string>
 	<string name="user_alias_self">Osobno</string>
-	 <string name="user_avatar_update_title">Promjena fotografije profila</string>
+	<string name="user_avatar_update_title">Promjena fotografije profila</string>
 	<string name="user_avatar_uploading">Samo trenutak…</string>
 	<string name="user_name_phone_number">Telefonski broj</string>
 	<string name="user_notice_identify_summary_format"><Data>"Korištenjem ove usluge prihvaćate Xiaomi &lt;a href=\"%1$s\">\"Uvjeti pružanja usluge\"&lt;/a> i &lt;a href=\"%2$s\">\"Pravila o privatnosti\"&lt;/a>."</Data></string>
@@ -3745,7 +3746,7 @@ Do %1$s možete premjestiti svoje stavke na Google fotografije ili posjetiti i.m
 	<string name="where_is_barcode">"Gdje je QR kod?"</string>
 	<string name="who_is_this">Tko je to?</string>
 	<string name="widget_custom_store_detail_desc">"Dodajte widget, a zatim ga dodirnite za odabir fotografija"</string>
-	 <string name="widget_disable">"Widgeti ove veličine nisu podržani na ovom uređaju"</string>
+	<string name="widget_disable">"Widgeti ove veličine nisu podržani na ovom uređaju"</string>
 	<string name="widget_editor_confirm">Gotovo</string>
 	<string name="widget_editor_load_fail">"Ne mogu učitati sliku"</string>
 	<string name="widget_editor_reselect">Odaberite ponovno</string>
