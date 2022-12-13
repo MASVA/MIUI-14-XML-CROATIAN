@@ -789,8 +789,6 @@ Poboljšana sigurnost."</string>
     <string name="recent_apps">Nedavno</string>
 	 <string name="recent_menu_item_add_pair">Izradite prečac na Poč. zaslonu za ovu kombinaciju podijeljenog zaslona</string>
     <string name="recent_menu_item_add_pair_first_toast">Izradite prečac na Poč. zaslonu za ovu kombinaciju podijeljenog zaslona</string>
-	 <string name="recent_menu_item_add_pair">Izradite prečac na Poč. zaslonu za ovu kombinaciju podijeljenog zaslona</string>
-    <string name="recent_menu_item_add_pair_first_toast">Izradite prečac na Poč. zaslonu za ovu kombinaciju podijeljenog zaslona</string>
     <string name="recent_menu_item_info">Info</string>
     <string name="recent_menu_item_lock">Zaključaj</string>
     <string name="recent_menu_item_multi_window">Podijeli</string>
