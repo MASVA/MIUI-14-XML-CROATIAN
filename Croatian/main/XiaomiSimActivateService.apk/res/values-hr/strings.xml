@@ -274,7 +274,7 @@ Unesite broj telefona povezan s vašom novom SIM karticom da ponovno aktivirate 
     <string name="phone_verify_title">Dopuštam da %1$s provjeri moj broj telefona</string>
     <string name="privacy_revoke_failed_msg">Aktivacija zahtijeva dodjeljivanje autorizacije tako da aplikacija Poruke može dobiti vaš broj telefona.</string>
     <string name="privacy_revoke_failed_msg_tip">Najprije dopustite ovoj usluzi da pristupi vašem broju telefona.</string>
-    <string name="privacy_revoke_tips">Nakon opoziva autorizacije, aplikacija Poruke će prestati prikupljati podatke i izbrisati će sve podatke s poslužitelja. Sinkronizacija s Mi Cloudom, Mi Poruke i ostale značajke za razmjenu poruka više neće biti dostupne. Svejedno opozvati autorizaciju?</string>
+    <string name="privacy_revoke_tips">Nakon opoziva autorizacije, aplikacija Poruke će prestati prikupljati podatke i izbrisati će sve podatke s poslužitelja. Sinkronizacija s Xiaomi Cloudom, Mi Poruke i ostale značajke za razmjenu poruka više neće biti dostupne. Svejedno opozvati autorizaciju?</string>
     <string name="saturday">Subota</string>
     <string name="saturday_short">Sub</string>
     <string name="saturday_shortest">S</string>

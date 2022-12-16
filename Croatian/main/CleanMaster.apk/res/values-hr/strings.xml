@@ -337,7 +337,7 @@
     <string name="delete_confirm_msg">Izbrisati trajno sve odabrane datoteke?</string>
     <string name="delete_slected_data">Poništi</string>
     <string name="desc_image">Slika</string>
-    <string name="dialog_content_checkbox_delete_cloud_image">Izbriši fotografije i s Mi Clouda</string>
+    <string name="dialog_content_checkbox_delete_cloud_image">Izbriši fotografije i s Xiaomi Clouda</string>
     <string name="dialog_content_delete_image_confirm">Izbrisati ovoliko %d fotografija?</string>
     <string name="dialog_content_select_all_confirm">Čuvati kopiju ove fotografije?</string>
     <string name="dialog_msg_add_white_list_error">"Ne mogu dodati ovu datoteku u iznimke"</string>

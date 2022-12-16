@@ -454,7 +454,7 @@ Ovom značajkom možete upravljati u Postavke&gt; Zaporke &amp; sigurnost &gt; P
     <string name="provision_inputmethod_policy_description1">Pravila o privatnosti</string>
     <string name="provision_next">Dalje</string>
     <string name="provision_skip_underline">Preskoči</string>
-    <string name="recorder_introduction">Možete koristiti ovu aplikaciju za snimanje zvuka i pohranu snimki na Mi Cloud.</string>
+    <string name="recorder_introduction">Možete koristiti ovu aplikaciju za snimanje zvuka i pohranu snimki na Xiaomi Cloud.</string>
     <string name="refuse_cookie">Odbijam kolačiće</string>
     <string name="require_authority_list_statement">Da bi mogla normalno raditi, ova usluga zahtijeva sljedeća dopuštenja:</string>
     <string name="require_authority_statement">Da biste nam omogućili da vam pružimo osnovne usluge, morate odobriti sljedeća dopuštenja kako bismo mogli prikupiti vaše osobne podatke:</string>
@@ -553,7 +553,7 @@ Ovom značajkom možete upravljati u Postavke&gt; Zaporke &amp; sigurnost &gt; P
     <string name="terms_of_use_label_app_vault">Zaklj. aplikacija</string>
     <string name="terms_of_use_label_back">Usluga sigurnosnog kopiranja</string>
     <string name="terms_of_use_label_ble">Davatelj spojenih lokacija</string>
-    <string name="terms_of_use_label_cloud">Mi Cloud</string>
+    <string name="terms_of_use_label_cloud">Xiaomi Cloud</string>
     <string name="terms_of_use_label_communication_service">Xiaomi Internet Communication Service</string>
     <string name="terms_of_use_label_finddevice">Pronađi uređaj</string>
     <string name="terms_of_use_label_game">Igre</string>
@@ -585,7 +585,7 @@ Ovom značajkom možete upravljati u Postavke&gt; Zaporke &amp; sigurnost &gt; P
     <string name="terms_of_use_label_use_location_and_network_global">Prije korištenja MIUI-a morate pročitati i prihvatiti naš Korisnički ugovor i Pravila o privatnosti. Zaštitit ćemo vaše osobne podatke u skladu s relevantnim zakonima, propisima i politikama privatnosti. Kad je vaš uređaj aktiviran, sljedeće će se usluge povezati s mrežom i pristupiti vašoj lokaciji:</string>
     <string name="terms_of_use_label_use_network_china">Prije korištenja MIUI-a morate pročitati i prihvatiti naš Korisnički ugovor i Pravila o privatnosti. Zaštitit ćemo vaše osobne podatke u skladu s relevantnim zakonima, propisima i politikama privatnosti. Kad je vaš uređaj aktiviran, na mrežu će se povezati sljedeće usluge:</string>
     <string name="terms_of_use_label_wallpaper">Slika pozadine</string>
-    <string name="terms_of_use_lable_apps_wifi_device">Mi Usluge, Mi Cloud, Pronađi uređaj, Početni zaslon, Igre, MIUI Daemon, MSA komponente sustava, usluge prevođenja, Brze aplikacije, Zaklj. aplikacija, statistike, Mi Link</string>
+    <string name="terms_of_use_lable_apps_wifi_device">Mi Usluge, Xiaomi Cloud, Pronađi uređaj, Početni zaslon, Igre, MIUI Daemon, MSA komponente sustava, usluge prevođenja, Brze aplikacije, Zaklj. aplikacija, statistike, Mi Link</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Morate prihvatiti Facemoji Pravila o privatnosti prije korištenja ove značajke."</string>

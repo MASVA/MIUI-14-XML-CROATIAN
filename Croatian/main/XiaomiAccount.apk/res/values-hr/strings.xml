@@ -139,7 +139,7 @@ Vaš profil je ažuriran sa informacijama iz vašeg %s računa.</string>
     <string name="cloud_member_vipname_mega">Mega</string>
     <string name="cloud_member_vipname_premium">Premium</string>
     <string name="cloud_member_vipname_ultra">Ultra</string>
-    <string name="cloud_service">Mi Cloud</string>
+    <string name="cloud_service">Xiaomi Cloud</string>
 	 <string name="cloud_service_cloud_open">Uključi</string>
     <string name="cloud_service_space_full">Pohrana puna</string>
     <string name="cloud_service_space_not_enough">Nedovoljno prostora za pohranu</string>
@@ -305,7 +305,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="input_new_pwd">Unesite novu zaporku</string>
     <string name="io_error_title">Potvrdite vašu mrežu</string>
     <string name="just_a_second">Samo trenutak…</string>
-    <string name="kr_license_desc">Za Mi Račun i Mi Cloud Usluge trebate prihvatiti Korisnički ugovor i Pravila o privatnosti.</string>
+    <string name="kr_license_desc">Za Mi Račun i Xiaomi Cloud Usluge trebate prihvatiti Korisnički ugovor i Pravila o privatnosti.</string>
     <string name="kr_permission_contacts_desc">Koristi se za čitanje informacija o kontaktima</string>
     <string name="kr_permission_desc">U nastavku pročitajte potrebna dopuštenja</string>
     <string name="kr_permission_phone_desc">Koristi se za sigurnost računa</string>
@@ -405,8 +405,8 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="more">Više</string>
     <string name="mtrl_chip_close_icon_content_description">Ukloni %1$s</string>
     <string name="multi_user_not_show_sync_activity_message_1">"Izgleda da koristite vaš Prvi prostor Mi Računa."</string>
-    <string name="multi_user_not_show_sync_activity_message_2">"U tom slučaju, svi podaci će se sinkronizirati na vaš Drugi prostor. Da bi to izbjegli, nemojte uključiti sinkronizaciju s Mi Cloudom"</string>
-    <string name="multi_user_not_show_sync_activity_title">"Nemojte uključiti sinkronizaciju s Mi Cloudom"</string>
+    <string name="multi_user_not_show_sync_activity_message_2">"U tom slučaju, svi podaci će se sinkronizirati na vaš Drugi prostor. Da bi to izbjegli, nemojte uključiti sinkronizaciju s Xiaomi Cloudom"</string>
+    <string name="multi_user_not_show_sync_activity_title">"Nemojte uključiti sinkronizaciju s Xiaomi Cloudom"</string>
     <string name="my_device_title">Trenutan uređaj</string>
     <string name="need_install_wechat">Prvo instalirajte WeChat</string>
 	 <string name="network_error">Dogodila se mrežna pogreška.</string>
@@ -774,7 +774,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="search_menu_title">Traži</string>
     <string name="search_mi_account">Mi Račun</string>
     <string name="search_mi_account_desc">Mi Račun</string>
-    <string name="search_mi_account_key_words">Mi Račun,Prijava,izradi račun,Mi Cloud,Mi Krediti,Mi Wallet,Mi Pass,Mi Insurance,Postavke računa,Upravljanje računa</string>
+    <string name="search_mi_account_key_words">Mi Račun,Prijava,izradi račun,Xiaomi Cloud,Mi Krediti,Mi Wallet,Mi Pass,Mi Insurance,Postavke računa,Upravljanje računa</string>
     <string name="search_mi_account_path">Postavke/Mi Račun</string>
     <string name="search_user_detail">Osobne informacije</string>
     <string name="search_user_detail_bottom_key_words">Promijeni Telefon,Promijeni E-poštu,Promijeni dohodak,Promijeni obrazovanje,Promijeni lokaciju,Promijeni regiju</string>

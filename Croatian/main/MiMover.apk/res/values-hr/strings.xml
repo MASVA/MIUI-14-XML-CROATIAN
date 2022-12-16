@@ -328,7 +328,7 @@ Otvorite WeChat i idite na Ja > Postavke > Općenito > Sigurnosno kopiranje &amp
     <string name="install_app_to_another_phone_content">Instalirajte Mi Mover na svoj novi uređaj</string>
     <string name="install_complete_count_down_time">Uspješno instalirano. Prijenos počinje (%1$d)</string>
     <string name="install_mi_cloud_app_summary">Skenirajte ovaj QR kôd sa svojim iPhoneom kako biste preuzeli i instalirali aplikaciju.</string>
-    <string name="install_mi_cloud_app_title">Instalirajte Mi Cloud</string>
+    <string name="install_mi_cloud_app_title">Instalirajte Xiaomi Cloud</string>
     <string name="install_new_app_link_text">Instalirajte Mi Mover na svoj novi uređaj kako biste se mogli povezati. Dodirnite za instaliranje.</string>
     <string name="instruction">Važne sigurnosne informacije</string>
     <string name="international_new_trans_intro_desc_8">Prijenos tekstualnih poruka spriječen je zbog problemom s kompatibilnošću. Aplikacije trećih strana možda ograničuju prijenos podataka svojih aplikacija iz sigurnosnih razloga.</string>
@@ -622,7 +622,7 @@ Otvorite WeChat i idite na Ja > Postavke > Općenito > Sigurnosno kopiranje &amp
 - SMS poruke
 - Pohrana"</string>
     <string name="request_all_permission_title">Potrebna su dopuštenja</string>
-    <string name="restore_data_to_device_content">"Vaše su stavke sinkronizirane s Mi Cloudom.
+    <string name="restore_data_to_device_content">"Vaše su stavke sinkronizirane s Xiaomi Cloudom.
 Prijavite se na svoj Mi Račun kako biste ih vratili."</string>
     <string name="restore_data_to_device_title">Vratite stavke na ovaj uređaj</string>
     <string name="restore_right_now">Vrati</string>
@@ -730,7 +730,7 @@ Oslobodite barem %s."</string>
     <string name="switching_to_5g">Prebacujem na 5 GHz mrežu…</string>
     <string name="sync_data_to_mi_cloud_content1">%d. Dodirnite \"Sinkr. sada\" na kartici \"Kontakti\".</string>
     <string name="sync_data_to_mi_cloud_content2">%d. Dodirnite \"Pohrani sada\" na kartici \"Fotografije\".</string>
-    <string name="sync_data_to_mi_cloud_summary">Otvorite Mi Cloud na svom iPhoneu i slijedite ove korake za sinkronizaciju podataka. Dodirnite donji gumb kada je sinkronizacija dovršena.</string>
+    <string name="sync_data_to_mi_cloud_summary">Otvorite Xiaomi Cloud na svom iPhoneu i slijedite ove korake za sinkronizaciju podataka. Dodirnite donji gumb kada je sinkronizacija dovršena.</string>
     <string name="sync_data_to_mi_cloud_title">Sinkr. podatke</string>
     <string name="sync_one_time_sync">Dodirnite za sinkr. ( %1$s )</string>
     <string name="system_app_is_restore">Vraćanje stavki sustava…</string>

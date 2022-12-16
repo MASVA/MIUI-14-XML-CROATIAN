@@ -614,7 +614,7 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
     <string name="midrive_reset_privacy_and_check_availability_retry">"Nije moguće uključiti Mi Drive. Pokušajte ponovno."</string>
     <string name="midrive_network_connect_confirm">Mi Drive treba povezivanje s internetom da radi normalno.</string>
     <string name="midrive_space_full">Nema dovoljno prostora na Mi Drive-u.</string>
-    <string name="midrive_welcome_message">Vaši su KuaiPan podaci uspješno premješteni na Mi Drive. Dajemo vam tri mjeseca Mi Drive članstva. Mi Drive i Mi Cloud koriste isti prostor za pohranu. Možete pristupiti svojim datotekama na i.mi.com.</string>
+    <string name="midrive_welcome_message">Vaši su KuaiPan podaci uspješno premješteni na Mi Drive. Dajemo vam tri mjeseca Mi Drive članstva. Mi Drive i Xiaomi Cloud koriste isti prostor za pohranu. Možete pristupiti svojim datotekama na i.mi.com.</string>
     <string name="midrive_welcome_title">Dobrodošli na Mi Drive</string>
     <string name="midriver_install_button_text">Instaliraj</string>
     <string name="midriver_not_install_title">Mi Drive je deinstaliran</string>

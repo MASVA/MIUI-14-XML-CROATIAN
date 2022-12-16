@@ -3,7 +3,7 @@
     <string name="Approval">Primjeni</string>
     <string name="Enhance">Poboljšano</string>
     <string name="Fullmask_mode">Maskirano</string>
-<string name="Fullmask_mode_str1">Prikaži rezultate koje obrađuje WeChat skener bez prikazivanja procesa prepoznavanja</string>
+    <string name="Fullmask_mode_str1">Prikaži rezultate koje obrađuje WeChat skener bez prikazivanja procesa prepoznavanja</string>
     <string name="Fullmask_mode_str2">Prikaži rezultate koje je obradio WeChat skener uz svaki korak procesa prepoznavanja</string>
     <string name="WeChatqr_code_auto_processing">Otvaranje WeChata</string>
     <string name="Xiaomi_account_pending_approval">Pregled prijave</string>

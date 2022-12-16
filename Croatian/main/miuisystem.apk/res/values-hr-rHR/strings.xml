@@ -27,9 +27,9 @@
     <string name="chord">Akord</string>
     <string name="citylight">Svjetla grada</string>
     <string name="clank">Clank</string>
-    <string name="cloud_state_disabled">Sinkr. s Mi Cloudom je isključena</string>
-    <string name="cloud_state_finished">Sinkronizirano s Mi Cloudom</string>
-    <string name="cloud_state_syncing">Sinkronizirano s Mi Cloudom</string>
+    <string name="cloud_state_disabled">Sinkr. s Xiaomi Cloudom je isključena</string>
+    <string name="cloud_state_finished">Sinkronizirano s Xiaomi Cloudom</string>
+    <string name="cloud_state_syncing">Sinkronizirano s Xiaomi Cloudom</string>
     <string name="country">Country</string>
     <string name="countryside">Seoska strana</string>
     <string name="cowboy">Cowboy</string>

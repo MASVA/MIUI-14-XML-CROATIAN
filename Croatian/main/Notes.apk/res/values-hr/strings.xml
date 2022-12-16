@@ -142,7 +142,7 @@
     <string name="clear_text_end_icon_content_description">Izbriši tekst</string>
     <string name="clearable_edittext_clear_description">Izbriši</string>
     <string name="close">Zatvori</string>
-    <string name="cloud_trash_bin_title">Izbriši bilješke u Mi Cloudu</string>
+    <string name="cloud_trash_bin_title">Izbriši bilješke u Xiaomi Cloudu</string>
     <string name="confirm_cancel">"Ne slažem se"</string>
     <string name="confirm_ok">Slažem se</string>
     <string name="continuous_default_hint">Kopirajte tekst, spremajte slike i snimke zaslona kao isječke</string>
@@ -170,7 +170,7 @@
     <string name="date_time_picker_has_not_set_alarm">"Alarm nije postavljen"</string>
     <string name="date_time_picker_has_set_alarm">Alarm uspješno postavljen</string>
     <string name="db_downgrade_clear_button">Izbriši podatke aplikacije</string>
-    <string name="db_downgrade_clear_date_reminder">"Prebacivanje na drugu MIUI verziju zahtijeva brisanje podataka aplikacije za Bilješke. Prije nego što to učinite, provjerite jeste li napravili Sig. kopiju bilježaka na Mi Cloud."</string>
+    <string name="db_downgrade_clear_date_reminder">"Prebacivanje na drugu MIUI verziju zahtijeva brisanje podataka aplikacije za Bilješke. Prije nego što to učinite, provjerite jeste li napravili Sig. kopiju bilježaka na Xiaomi Cloud."</string>
     <string name="default_folder_name">"Mapa bez naziva"</string>
     <string name="default_update_documents">Dostupno je ažuriranje. Ažurirati sada?</string>
     <string name="delete_folder_dialog_tile">Izbriši mapu</string>
@@ -181,7 +181,7 @@
     <string name="dialog_button_continue_work">Nastavi</string>
     <string name="dialog_button_i_know">Razumijem</string>
     <string name="dialog_button_move">Premjesti</string>
-    <string name="dialog_privacy_revoke_tips">"Nakon opoziva autorizacije, aplikacija će prestati prikupljati podatke, a svi povezani podaci bit će izbrisani s poslužitelja. To bi moglo učiniti aplikaciju gotovo neupotrebljivom. Ipak opozvati autorizaciju? Da biste osigurali sigurnost računa, prijavite se na i.mi.com prije nego što opozovete autorizaciju za usluge Mi Cloud."</string>
+    <string name="dialog_privacy_revoke_tips">"Nakon opoziva autorizacije, aplikacija će prestati prikupljati podatke, a svi povezani podaci bit će izbrisani s poslužitelja. To bi moglo učiniti aplikaciju gotovo neupotrebljivom. Ipak opozvati autorizaciju? Da biste osigurali sigurnost računa, prijavite se na i.mi.com prije nego što opozovete autorizaciju za usluge Xiaomi Cloud."</string>
     <string name="dialog_share_as_pic">Podijeli bilješku kao sliku</string>
     <string name="dialog_share_as_text">Podijeli bilješku kao tekst</string>
     <string name="dialog_share_title">Podijeli bilješku</string>
@@ -554,7 +554,7 @@ Dodirnite + da napravite mapu"</string>
     <string name="not_now">Ne sada</string>
     <string name="not_set">Nije postavljeno</string>
     <string name="note_alert_expired">Isteklo</string>
-    <string name="note_description_content">Aplikacija Bilješke izvrstan je alat za snimanje vaših ideja. Ima ugrađene podsjetnike i sinkronizira vaše stavke u Mi Cloudu tako da im možete pristupiti bilo gdje i bilo kada.</string>
+    <string name="note_description_content">Aplikacija Bilješke izvrstan je alat za snimanje vaših ideja. Ima ugrađene podsjetnike i sinkronizira vaše stavke u Xiaomi Cloudu tako da im možete pristupiti bilo gdje i bilo kada.</string>
     <string name="note_description_title">O Bilješkama</string>
     <string name="note_dual_screen_dialog_content">"Izgleda da sada uređujete bilješke na računalu. Da biste izbjegli sukobljena uređivanja, zatvorite Bilješke na računalu."</string>
     <string name="note_dual_screen_dialog_title">Korištenje Combo zaslona…</string>
@@ -633,13 +633,13 @@ Dodirnite + da napravite mapu"</string>
     <string name="pc_todo_set_remind_time_hint">Postavite vrijeme</string>
     <string name="permdesc_accessNote">Zlonamjerne aplikacije mogu to iskoristiti za pristup vašim osobnim podacima."</string>
     <string name="permission_data_shared_desc">Bilješke Izjava o dijeljenju podataka treće strane</string>
-    <string name="permission_get_account_desc">Sinkroniziranje bilješki s Mi Cloudom</string>
+    <string name="permission_get_account_desc">Sinkroniziranje bilješki s Xiaomi Cloudom</string>
     <string name="permission_intro_contact">Za označavanje bilješki snimljenih tijekom poziva</string>
     <string name="permission_intro_microphone">Za snimanje glasovnih bilješki</string>
     <string name="permission_intro_phone">Za označavanje bilješki snimljenih tijekom poziva</string>
     <string name="permission_intro_storage">Za spremanje bilješki i privitaka</string>
     <string name="permission_microphone_desc">Izrada glasovnih bilješki</string>
-    <string name="permission_network_for_cloud_desc">Da biste sinkronizirali bilješke s Mi Cloudom, morate se povezati s internetom. Mobilni podaci mogu se koristiti za sinkronizaciju stavki. Povezati se sada?</string>
+    <string name="permission_network_for_cloud_desc">Da biste sinkronizirali bilješke s Xiaomi Cloudom, morate se povezati s internetom. Mobilni podaci mogu se koristiti za sinkronizaciju stavki. Povezati se sada?</string>
     <string name="permission_phone_state_desc">Za zaustavljanje snimanja glasovnih bilješki tijekom poziva</string>
 	 <string name="permission_photos_desc">Za dodavanje slika u bilješke</string>
     <string name="permission_photos_desc_pad">Za dodavanje slika u bilješke</string>
@@ -672,7 +672,7 @@ Dodirnite + da napravite mapu"</string>
     <string name="pref_remind_type_title">Zanemari Bešumni način</string>
     <string name="pref_remind_type_title_new">Podsjetnici visokog prioriteta</string>
     <string name="pref_title_alarm_when_silent">"Ne utišavaj podsjetnike"</string>
-    <string name="pref_title_cloud_trash_bin">Izbriši bilješke u Mi Cloudu</string>
+    <string name="pref_title_cloud_trash_bin">Izbriši bilješke u Xiaomi Cloudu</string>
     <string name="pref_title_common">"Dodatne postavke"</string>
     <string name="pref_title_excerpt_remind">Podsjetnici isječaka</string>
     <string name="pref_title_font_size">Veličina fonta</string>
@@ -758,7 +758,7 @@ Dodirnite + da napravite mapu"</string>
     <string name="setting_big_screen_layout_title">Raspored velikog zaslona</string>
     <string name="setting_cloud_service">Cloud usluge</string>
     <string name="setting_layout">Raspored</string>
-    <string name="setting_micloud_sync_title">Mi Cloud</string>
+    <string name="setting_micloud_sync_title">Xiaomi Cloud</string>
     <string name="setting_note_list_layout_title">Raspored</string>
     <string name="setting_other">OSTALO</string>
     <string name="setting_privacy">Pravila o privatnosti</string>
@@ -801,14 +801,14 @@ Dodirnite + da napravite mapu"</string>
     <string name="sunday_short">Ned</string>
     <string name="sunday_shortest">N</string>
     <string name="sync_all_terms">%1$s, %2$s, i %3$s</string>
-    <string name="sync_desc_state_complete">Sinkronizirano s Mi Cloudom</string>
+    <string name="sync_desc_state_complete">Sinkronizirano s Xiaomi Cloudom</string>
     <string name="sync_desc_state_complete_china">Sve %1$s je sinkronizirano</string>
-    <string name="sync_desc_state_disable">Uključite sinkronizaciju s Mi Cloudom</string>
-    <string name="sync_desc_state_running">Sinkronizacija s Mi Cloudom</string>
+    <string name="sync_desc_state_disable">Uključite sinkronizaciju s Xiaomi Cloudom</string>
+    <string name="sync_desc_state_running">Sinkronizacija s Xiaomi Cloudom</string>
     <string name="sync_folder_todo">%1$s i %2$s</string>
     <string name="sync_note_folder">%1$s i %2$s</string>
     <string name="sync_note_todo">%1$s i %2$s</string>
-    <string name="sync_tips">Dodirnite za sinkr. bilješki s Mi Cloudom.</string>
+    <string name="sync_tips">Dodirnite za sinkr. bilješki s Xiaomi Cloudom.</string>
 	 <string name="system_error_info">Sustav je zauzet. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
     <string name="theme_blue_description">Plava</string>
     <string name="theme_green_description">Zelena</string>
@@ -976,7 +976,7 @@ Dopustite aplikaciji Bilješke snimanje zvuka."</string>
     <string name="wednesday_short">Sri</string>
     <string name="wednesday_shortest">S</string>
     <string name="welcome_note_for_cm">"I još puno velikih mogućnosti!
-  - Sinkronizacija s Mi Cloudom
+  - Sinkronizacija s Xiaomi Cloudom
   - Postavljanje podsjetnika"</string>
     <string name="widget_all_notes_name">Sve bilješke</string>
     <string name="widget_all_todo_name">Svi zadaci</string>

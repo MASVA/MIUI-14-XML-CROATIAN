@@ -2616,8 +2616,8 @@ Ako instalirate CA certifikat, vlasnik certifikata mogao bi pristupiti vašim po
   <string name="clear_adb_keys">Opoziv autorizacija za otklanjanje pogrešaka putem USB-a</string>
   <string name="clear_all_data">Izbriši sve podatke</string>
   <string name="clear_cache_btn_text">Isprazni predmemoriju</string>
-  <string name="clear_data_alert_info">Sve Sig. kopije pohranjene na ovom uređaju trajno će se izbrisati. Izradite Sig. kopiju važnih stavki na računalo i Mi Cloud prije nego što nastavite.</string>
-  <string name="clear_data_alert_info_pad">Sve sigurnosne kopije pohranjene na ovom uređaju bit će trajno izbrisane. Sigurnosno kopirajte važne stavke na svoje računalo i Mi Cloud prije nego što nastavite.</string>
+  <string name="clear_data_alert_info">Sve Sig. kopije pohranjene na ovom uređaju trajno će se izbrisati. Izradite Sig. kopiju važnih stavki na računalo i Xiaomi Cloud prije nego što nastavite.</string>
+  <string name="clear_data_alert_info_pad">Sve sigurnosne kopije pohranjene na ovom uređaju bit će trajno izbrisane. Sigurnosno kopirajte važne stavke na svoje računalo i Xiaomi Cloud prije nego što nastavite.</string>
   <string name="clear_data_dlg_text">Podaci ove aplikacije, uključujući datoteke i postavke, trajno će se izbrisati s ovog uređaja</string>
   <string name="clear_data_dlg_title">Želite li izbrisati podatke aplikacije?</string>
   <string name="clear_data_failed">Podaci aplikacije nisu se mogli izbrisati.</string>
@@ -2662,24 +2662,24 @@ https://appleid.apple.com/#!&amp;page=signin da zatvorite"</string>
   <string name="close_twice_auth_steps">Slijedite ove korake kako biste isključili autorizaciju s dva faktora za Apple ID:</string>
   <string name="close_twice_auth_tutor">Isključi Apple ID autorizaciju s dva faktora</string>
   <string name="closed_beta">Stabilno (interno)</string>
-  <string name="cloud_app_name">Sig. kopija Mi Cloud</string>
+  <string name="cloud_app_name">Sig. kopija Xiaomi Cloud</string>
   <string name="cloud_backup_hint">Za pristup vašim Sig. kopijama, prijavite se sada</string>
   <string name="cloud_backup_login">Prijavite se u vaš Mi Račun</string>
-  <string name="cloud_backup_section_title">Mi Cloud Sig. kopija</string>
+  <string name="cloud_backup_section_title">Xiaomi Cloud Sig. kopija</string>
   <string name="cloud_backup_settings_section_title">Postavke Sig. kopije</string>
-  <string name="cloud_backup_window_title">Mi Cloud Sig. kopija</string>
-  <string name="cloud_category_text">Mi Cloud</string>
-  <string name="cloud_home_title">Mi Cloud</string>
-  <string name="cloud_item_info_summary">" (Lokalno : %1$s | Mi Cloud : %2$s)"</string>
+  <string name="cloud_backup_window_title">Xiaomi Cloud Sig. kopija</string>
+  <string name="cloud_category_text">Xiaomi Cloud</string>
+  <string name="cloud_home_title">Xiaomi Cloud</string>
+  <string name="cloud_item_info_summary">" (Lokalno : %1$s | Xiaomi Cloud : %2$s)"</string>
   <string name="cloud_last_backup">"Posljednja Sig. kopija"</string>
   <string name="cloud_no_backup">Nema Sig. kopija</string>
   <string name="cloud_restore_guide">Za vraćanje korisničkih podataka za %s, dodirnite Vraćanje</string>
   <string name="cloud_restore_section_summary">Vrati postavke sustava, raspored Poč. zaslona i aplikacije</string>
   <string name="cloud_restore_section_summary_new">Izradite Sig. kopiju izgleda Poč. zaslona, aplikacija, postavki sustava i još mnogo toga</string>
-  <string name="cloud_restore_section_title">Vrati iz Mi Clouda</string>
-  <string name="cloud_restore_section_title_new">U Mi Cloudu</string>
+  <string name="cloud_restore_section_title">Vrati iz Xiaomi Clouda</string>
+  <string name="cloud_restore_section_title_new">U Xiaomi Cloudu</string>
   <string name="cloud_restore_title">Vraćanje podataka Sig. kopije</string>
-  <string name="cloud_restore_window_title">Mi Cloud vraćanje</string>
+  <string name="cloud_restore_window_title">Xiaomi Cloud vraćanje</string>
   <string name="cloud_search">Pretraživanje…</string>
   <string name="cmcc_dm_settings_disable_summary">Onemogući autom. pokretanje</string>
   <string name="cmcc_dm_settings_enable_summary">Omogući autom. pokretanje</string>
@@ -4475,7 +4475,7 @@ Da biste saznali više, obratite se operateru."</string>
   <string name="find_my_device_enable">Uključeno</string>
   <string name="find_my_device_summary">Ova značajka zahtijeva prijavu u Mi Račun</string>
   <string name="findlost_contact">Vrati kontakte</string>
-  <string name="findlost_contact_online">Vrati kontakte s Mi Clouda</string>
+  <string name="findlost_contact_online">Vrati kontakte s Xiaomi Clouda</string>
   <string name="finger_add_user_info_dialog_cancel">Odustani</string>
   <string name="finger_add_user_info_dialog_message">"Da biste mogli koristiti otključavanje otiskom prsta i plaćati otiscima prstiju, moramo prikupiti vaš otisak prsta. Otisak prsta bit će pohranjen lokalno na ovom uređaju. Da biste ga izbrisali, potražite \"Otključavanje otiskom prsta\" u Postavkama, a zatim odaberite Otključavanje otiskom prsta > Otisak prsta. Ovu značajku nećete moći koristiti ako se ne slažete."</string>
   <string name="finger_add_user_info_dialog_next">Slažem se</string>
@@ -5136,7 +5136,7 @@ Napomena:
 Možete koristiti Mi PC Suite za izradu Sig. kopije i vraćanje stavki.
 
 Lokalne Sig. kopije:
-Možete bežično sigurnosno kopirati postavke sustava, izgled početnog zaslona, aplikacije i druge stavke u Mi Cloud.
+Možete bežično sigurnosno kopirati postavke sustava, izgled početnog zaslona, aplikacije i druge stavke u Xiaomi Cloud.
 
 USB Sig. kopije:
 Ova metoda omogućuje vam spremanje postavki sustava, računa, podataka aplikacija i drugih stavki na vanjski USB uređaj za pohranu.
@@ -5156,7 +5156,7 @@ Lokalne Sig. kopije:
 Kopirajte datoteku Sig. kopije s računala na uređaj (MIUI-backup-AllBackup). Idite u Postavke &gt; Izradi Sig. kopiju, vrati ili resetiraj &gt; Na ovom uređaju odaberite datoteku Sig. kopije.
 
 Cloud Sig. kopije:
-Prijavite se na svoj Mi Račun, idite u Postavke &gt; Izradi Sig. kopiju, vrati ili resetiraj &gt; U Mi Cloudu, i odaberite datoteku Sig. kopije.
+Prijavite se na svoj Mi Račun, idite u Postavke &gt; Izradi Sig. kopiju, vrati ili resetiraj &gt; U Xiaomi Cloudu, i odaberite datoteku Sig. kopije.
 
 USB Sig. kopije:
 Kopirajte datoteku Sig. kopije na vaš uređaj (MIUI-backup-AllBackup). Idite u Postavke &gt; Izradi Sig. kopiju, vrati ili resetiraj &gt; Na ovom uređaju i odaberite datoteku Sig. kopije.
@@ -6256,7 +6256,7 @@ Povežite barem 4 točke."</string>
   <string name="lockscreen_trivial_controls_summary">Kontrolirajte vanjske uređaje bez otključavanja telefona ili tableta ako to dopušta aplikacija za upravljanje uređajem</string>
   <string name="lockscreen_trivial_disabled_controls_summary">Za upotrebu najprije uključite opciju \"Prikaži kontrole uređaja\".</string>
   <string name="login">Prijava</string>
-  <string name="login_account_dialog_message">Prijavite se sa Mi Računom i uključite sinkronizaciju s Mi Cloudom.</string>
+  <string name="login_account_dialog_message">Prijavite se sa Mi Računom i uključite sinkronizaciju s Xiaomi Cloudom.</string>
   <string name="login_account_dialog_title">Prijavite se sa Mi Računom</string>
   <string name="login_account_summary">Upravljanje računima, uslugama u oblaku, plaćanjima i još mnogo toga</string>
   <string name="login_account_summary_temp">Upravljajte računima, uslugama u cloudu i još mnogo toga</string>
@@ -6596,7 +6596,7 @@ Ne možete poništiti ovu radnju!"</string>
   <string name="mic_toggle_title">Pristup mikrofonu</string>
   <string name="micloud_service_summary">Sinkronizirajte popis aplikacija, izradite Sig. kopiju postavki sustava i izgleda Poč. zaslona</string>
   <string name="micloud_service_summary_temp">Sinkronizirajte fotografije, videozapise, kontakte i još mnogo toga</string>
-  <string name="micloud_service_title">Mi Cloud</string>
+  <string name="micloud_service_title">Xiaomi Cloud</string>
   <string name="middle_function_key">Središnje područje</string>
   <string name="midnight">Night</string>
   <string name="miheadet_up_music">Prethodna pjesma</string>
@@ -6771,7 +6771,7 @@ Ne možete poništiti ovu radnju!"</string>
   <string name="miheadset_voiceIncrease">Pojačajte glas</string>
   <string name="miheadset_voice_control_summary">Kada je ova značajka uključena, možete reći Mi AI-u da upravlja vašim uređajem ili kontrolira reprodukciju zvuka pomoću glasovnih naredbi</string>
   <string name="miheadset_windnoise">Vjetar</string>
-  <string name="miliao_account_guide">Koristite svoj Mi Račun za prijavu na Mi Cloud, MIUI Teme, te druge Mi Usluge, s bilo kojeg mjesta.</string>
+  <string name="miliao_account_guide">Koristite svoj Mi Račun za prijavu na Xiaomi Cloud, MIUI Teme, te druge Mi Usluge, s bilo kojeg mjesta.</string>
   <string name="miliao_account_login">Prijavite se s Mi Talk</string>
   <string name="mipush_fake_channel_group_name">Mi Push</string>
   <string name="miracast_PC2THOR_streaming_on">Miracast nije dostupan jer računalo emitira na ovaj uređaj</string>
@@ -8025,7 +8025,7 @@ Aplikacija će također moći uključiti ili isključiti značajku DND i promije
   <string name="pad_backup_title">Mobilni uređaj</string>
   <string name="pad_computer_backup_summary">Napravite sigurnosnu kopiju i vratite stavke pomoću računala</string>
   <string name="pad_flash_drive_backup_enable">Upotrijebite USB pogon za sigurnosno kopiranje ili vraćanje stavki</string>
-  <string name="pad_how_backup_content">"Sigurnosne kopije možete spremiti lokalno ili u Mi Cloud. Lokalne sigurnosne kopije mogu se pohraniti na vaš mobilni uređaj, računalo ili USB pogon.
+  <string name="pad_how_backup_content">"Sigurnosne kopije možete spremiti lokalno ili u Xiaomi Cloud. Lokalne sigurnosne kopije mogu se pohraniti na vaš mobilni uređaj, računalo ili USB pogon.
 
 Mobilni uređaj
 Spremite postavke sustava, račune, podatke aplikacija i druge stavke u zasebnu datoteku pohranjenu na uređaju (MIUI-backup-AllBackup). Napomena: Vraćanjem na tvorničke postavke takve će se sigurnosne kopije trajno izbrisati. Ne zaboravite kopirati sigurnosne kopije na svoje računalo.
@@ -8036,8 +8036,8 @@ Napravite sigurnosnu kopiju na ovom uređaju, a zatim idite na MIUI-backup-AllBa
 USB pogon
 Spremite postavke sustava, račune, podatke aplikacija i druge stavke na USB pogon.
 
-Mi Cloud
-S Mi Cloudom sinkronizirajte svoje kontakte, fotografije, videozapise, popis aplikacija, postavke sustava i izgled početnog zaslona."</string>
+Xiaomi Cloud
+S Xiaomi Cloudom sinkronizirajte svoje kontakte, fotografije, videozapise, popis aplikacija, postavke sustava i izgled početnog zaslona."</string>
   <string name="pad_how_restore_backup_content">"Evo kako možete vratiti stavke koje su sigurnosno kopirane različitim metodama:
 
 Mobilni uređaj
@@ -8049,8 +8049,8 @@ Kopirajte sigurnosnu kopiju s računala na MIUI-backup-AllBackup putem USB kabel
 USB pogon
 Kopirajte sigurnosnu kopiju s USB pogona u MIUI-backup-AllBackup i odaberite opciju za vraćanje stavki s USB pogona da biste nastavili.
 
-Mi Cloud
-Otvorite Mi Cloud i odatle vratite stavke."</string>
+Xiaomi Cloud
+Otvorite Xiaomi Cloud i odatle vratite stavke."</string>
   <string name="page_layout_1">Nedjelja, Kolovoz 16</string>
   <string name="page_layout_10">Postavke</string>
   <string name="page_layout_11">Vrijeme</string>
@@ -8188,7 +8188,7 @@ Pročitajte i pristanite na %s prije korištenja ove usluge."</string>
   <string name="path_children_mode_settings">Postavke/Dodatne postavke/Dječji način</string>
   <string name="path_choose_timezone">Postavke/Dodatne postavke/Datum &amp; vrijeme/Odabir vremenske zone</string>
   <string name="path_cloud_backup_settings_section_title">Postavke/Dodatne postavke/Izradi Sig. kopiju &amp; poništi/Postavke Sig. kopije</string>
-  <string name="path_cloud_restore_section_title">Postavke/Dodatne postavke/Izradi Sig. kopiju &amp; poništi/Vrati iz Mi Clouda</string>
+  <string name="path_cloud_restore_section_title">Postavke/Dodatne postavke/Izradi Sig. kopiju &amp; poništi/Vrati iz Xiaomi Clouda</string>
   <string name="path_copyright">Postavke/O uređaju/Pravne informacije/Autorska prava</string>
   <string name="path_credentials_install">Postavke/Dodatne postavke/Privatnost/Instaliraj iz memorije</string>
   <string name="path_date_time_settings">Postavke/Dodatne postavke/Datum &amp; vrijeme</string>
@@ -8714,7 +8714,7 @@ istovremeno pritisnite tipku za uključivanje/isključivanje i tipku za glasnoć
   <string name="privacy_advanced_settings">Više postavki privatnosti</string>
   <string name="privacy_advanced_settings_summary">Automatsko popunjavanje, kontrole aktivnosti i ostalo</string>
   <string name="privacy_applock">Zaklj. aplik.</string>
-  <string name="privacy_authorize_cloud_msg">"Da biste osigurali sigurnost računa, prijavite se na i.mi.com ako želite opozvati authotizaciju za usluge Mi Cloud (uključujući sinkronizaciju i sigurnosne kopije)."</string>
+  <string name="privacy_authorize_cloud_msg">"Da biste osigurali sigurnost računa, prijavite se na i.mi.com ako želite opozvati authotizaciju za usluge Xiaomi Cloud (uključujući sinkronizaciju i sigurnosne kopije)."</string>
   <string name="privacy_authorize_dialog_agree">Prihvaćam</string>
   <string name="privacy_authorize_dialog_exit">Izlaz</string>
   <string name="privacy_authorize_dialog_message">&lt;Data&gt;"Da biste koristili osnovne značajke ove usluge, morate prihvatiti da će Xiaomi prikupljati, obrađivati i koristiti vaše osobne podatke. Pogledajte naša Pravila o privatnosti kako biste saznali kako prikupljamo i obrađujemo osobne podatke. Odabirom \"Prihvaćam\" znači da ste pročitali i složili se s našim &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt; i &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
@@ -9138,7 +9138,7 @@ Ponovo pokrenite uređaj i pokušajte još jednom."</string>
   <string name="reset_network_title">Poništavanje Wi-Fi-ja, mobilne mreže i Bluetootha</string>
   <string name="reset_network_title_noSim">Poništi Wi-Fi i Bluetooth</string>
   <string name="reset_network_wifi">Wi-Fi</string>
-  <string name="reset_remove_data_hint">Sve gore navedene stavke trajno se brišu. Izradite Sig. kopiju svih važnih stavki na računalo ili Mi Cloud prije nego što nastavite.</string>
+  <string name="reset_remove_data_hint">Sve gore navedene stavke trajno se brišu. Izradite Sig. kopiju svih važnih stavki na računalo ili Xiaomi Cloud prije nego što nastavite.</string>
   <string name="reset_second_space_passwd">Poništi zaporku Drugog prostora</string>
   <string name="reset_second_space_passwd_cancel">Odustani</string>
   <string name="reset_second_space_passwd_confirm">Nastavi</string>
@@ -9311,7 +9311,7 @@ Podaci koji nisu uvezeni moraju se ponovno uvesti."</string>
   <string name="sc_others">Došlo je do pogreške</string>
   <string name="sc_precondition_failed">Morate prvo dodati adresu e-pošte na vaš Mi Račun</string>
   <string name="sc_request_timeout">Zahtjev je istekao</string>
-  <string name="sc_service_unavailable">Mi Cloud nedostupan</string>
+  <string name="sc_service_unavailable">Xiaomi Cloud nedostupan</string>
   <string name="sc_unaccess_password_file">"Ne mogu naći zaporku Wi-Fi mreže"</string>
   <string name="sc_unauthorized">Prijavite se ponovno</string>
   <string name="scan_list_label">Rezultati skeniranja:</string>
@@ -9632,7 +9632,7 @@ Kako upotrebljavati prikvačivanje aplikacije: \u0009
   <string name="search_children_mode_title">Dječji način;Dijete;Roditeljski nadzor</string>
   <string name="search_choose_timezone">Odaberi vremensku zonu;Vremensku zona;Vremenske zone</string>
   <string name="search_cloud_backup_settings_section_title">Postavke Sig. kopije;Sig. kopija;Sig. kopija;Sig. kopije</string>
-  <string name="search_cloud_restore_section_title">Vrati iz Mi Clouda;Mi Cloud;Mi Cloud Sig. kopije</string>
+  <string name="search_cloud_restore_section_title">Vrati iz Xiaomi Clouda;Xiaomi Cloud;Xiaomi Cloud Sig. kopije</string>
   <string name="search_connection_and_sharing">Više;Bežično</string>
   <string name="search_copyright">Autorsko pravo</string>
   <string name="search_copyright_title">Autorsko pravo</string>
@@ -9695,7 +9695,7 @@ Kako upotrebljavati prikvačivanje aplikacije: \u0009
   <string name="search_master_clear_title">Vraćanje na tvorničke postavke</string>
   <string name="search_menu">Pretražite postavke</string>
   <string name="search_menu_title">Pretraži</string>
-  <string name="search_micloud">Sinkr.;Mi Cloud;Cloud sinkr;Sinkr. sa Mi Cloud</string>
+  <string name="search_micloud">Sinkr.;Xiaomi Cloud;Cloud sinkr;Sinkr. sa Xiaomi Cloud</string>
   <string name="search_music_audio_effect_optimize">Postavke zvuka;Postavke zvuka</string>
   <string name="search_music_equalizer">Equalizer</string>
   <string name="search_music_headset_calibrate">Dodijeli tipke;tipke</string>
@@ -10249,7 +10249,7 @@ Napomena: ovaj uređaj ne možete otključati otiskom prsta. Više informacija m
   <string name="settings_manual_activity_title">Priručnik</string>
   <string name="settings_manual_activity_unavailable">Došlo je do problema prilikom učitavanja priručnika.</string>
   <string name="settings_new_version_btn">Ažuriraj</string>
-  <string name="settings_notify_need_backup">Sigurnosno kopirajte svoje postavke na Mi Cloud da im pristupite nakon što promjenite telefone.</string>
+  <string name="settings_notify_need_backup">Sigurnosno kopirajte svoje postavke na Xiaomi Cloud da im pristupite nakon što promjenite telefone.</string>
   <string name="settings_notify_new_version">Dostupno je ažuriranje. Dodirnite za prikaz pojedinosti.</string>
   <string name="settings_notify_phone_recycled">Vaš je broj telefona recikliran. Dodirnite za dodavanje drugog broja telefona.</string>
   <string name="settings_package">com.android.settings</string>
@@ -11796,7 +11796,7 @@ da preuzmete i instalirate Mi Mover."</string>
   <string name="trans_intro_desc_new">"Dodirnite \"Ja sam primatelj\". Generirat će se QR kôd."</string>
   <string name="trans_intro_desc_old">"Dodirnite \"Ja sam pošiljatelj\". Skenirajte QR kôd na novom telefonu, pričekajte dok Mi Mover ne odredi koje datoteke šaljete i dodirnite \"Pošalji\"."</string>
   <string name="trans_intro_desc_old_market">Dodirnite \"Start\". Skenirajte QR kod na novom telefonu, pričekajte da Mi Mover odredi koje datoteke šaljete i dodirnite \"Pošalji\".</string>
-  <string name="trans_intro_desc_private">"Mi Mover ne može pristupiti fotografijama u skrivenom albumu jer su šifrirane. Te fotografije možete vratiti sa Mi Clouda na novom uređaju."</string>
+  <string name="trans_intro_desc_private">"Mi Mover ne može pristupiti fotografijama u skrivenom albumu jer su šifrirane. Te fotografije možete vratiti sa Xiaomi Clouda na novom uređaju."</string>
   <string name="trans_intro_question_1">%d. Kako koristiti Mi Mover za premještanje podataka s iOS uređaja?</string>
   <string name="trans_intro_question_10">"%d. Ne možete pronaći hotspot na starom uređaju?"</string>
   <string name="trans_intro_question_2">%d. Kako koristiti Mi Mover za premještanje podataka s Android uređaja?</string>
@@ -13767,9 +13767,9 @@ Pohrana vjerodajnica možda nije omogućena"</string>
   <string name="xiaoai_shortcut_settings_title">Pokrenite Mi AI pomoću tipke i gesta</string>
   <string name="xiaomi_account">Mi Račun</string>
   <string name="xiaomi_cloud_find_device">Pronađi uređaj</string>
-  <string name="xiaomi_cloud_service">Mi Cloud</string>
-  <string name="xiaomi_cloud_service_description">Mi Cloud sinkronizira vaše kontakte i fotografije, radi Sig. kopiju vaših aplikacija i postavki, i pomaže vam pronaći telefon pomoću usluge Pronađi uređaj.</string>
-  <string name="xiaomi_cloud_service_description_without_contacts">Mi Cloud sinkronizira vaše fotografije, radi Sig. kopiju vaših aplikacija i postavki, i pomaže vam pronaći telefon pomoću usluge Pronađi uređaj.</string>
+  <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
+  <string name="xiaomi_cloud_service_description">Xiaomi Cloud sinkronizira vaše kontakte i fotografije, radi Sig. kopiju vaših aplikacija i postavki, i pomaže vam pronaći telefon pomoću usluge Pronađi uređaj.</string>
+  <string name="xiaomi_cloud_service_description_without_contacts">Xiaomi Cloud sinkronizira vaše fotografije, radi Sig. kopiju vaših aplikacija i postavki, i pomaže vam pronaći telefon pomoću usluge Pronađi uređaj.</string>
   <string name="xiaomi_cloud_service_disabled">Isključeno</string>
   <string name="xiaomi_cloud_service_unknown">Nepoznato</string>
   <string name="xiaomi_connect_download_manager_fail">"Ne mogu započeti preuzimanje. Uvjerite se da Upravitelj preuzimanja radi normalno."</string>

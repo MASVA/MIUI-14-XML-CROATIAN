@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">MiCloudSync</string>
     <string name="error_data_in_transfer">Sinkronizacija će završiti za %s h.</string>
-    <string name="error_data_in_transfer_title">Mi Cloud nije dostupan</string>
+    <string name="error_data_in_transfer_title">Xiaomi Cloud nije dostupan</string>
     <string name="error_forbidden">Sinkronizacija je onemogućena zbog problema s Mi Računom.</string>
     <string name="error_not_acceptable">Sinkronizacija je onemogućena.</string>
     <string name="error_title">"Ne mogu sinkr."</string>

@@ -32,10 +32,10 @@
     <string name="account_error">Pogreška računa</string>
     <string name="actionbar_button_up_description">Natrag</string>
     <string name="app_is_running">Aplikacija se izvodi…</string>
-    <string name="app_name">Sig. kopija Mi Clouda</string>
+    <string name="app_name">Sig. kopija Xiaomi Clouda</string>
     <string name="arrange_restore_order">Preraspodjela aplikacija…</string>
     <string name="as_new_device">Zamijenite prethodni Početni zaslon i postavke</string>
-    <string name="as_new_device_summary">Izbriši prethodne Sig. kopije Mi Clouda</string>
+    <string name="as_new_device_summary">Izbriši prethodne Sig. kopije Xiaomi Clouda</string>
     <string name="authentication_failed">"Ne mogu potvrditi račun."</string>
     <string name="back_up_task_in_process">Izrada u tijeku…</string>
     <string name="back_up_task_unfinished">"Ne mogu izraditi Sig. kopiju"</string>
@@ -54,7 +54,7 @@
     <string name="backup_fail">"Ne mogu izraditi Sig. kopiju"</string>
     <string name="backup_fail_wifi_needed">"Za izradu Sig. kopije potreban je Wi-Fi."</string>
     <string name="backup_failed_reason_app_usage_denied">Dodijelite potrebna dopuštenja za sigurnosno kopiranje stavki</string>
-    <string name="backup_failed_reason_cloud_space_not_enough">Nema dovoljno prostora za pohranu u Mi Cloudu. Nadogradite svoj plan ili oslobodite prostor za pohranu.</string>
+    <string name="backup_failed_reason_cloud_space_not_enough">Nema dovoljno prostora za pohranu u Xiaomi Cloudu. Nadogradite svoj plan ili oslobodite prostor za pohranu.</string>
     <string name="backup_failed_reason_disk_space_not_enough">Nema dovoljno prostora za pohranu. Oslobodite prostor za pohranu.</string>
     <string name="backup_failed_reason_network_error">Provjerite mrežne postavke i pokušajte ponovo.</string>
     <string name="backup_finished_notification_content">Pohranjene su aplikacije Poč. zaslona, postavke sustava, itd.</string>
@@ -103,7 +103,7 @@ Pokušajte ponovo"</string>
     <string name="click_try_to_restore_again">Dodirnite da pokušate ponovo</string>
     <string name="close">Zatvori</string>
     <string name="cloud_app_backup_success">Sig. kopija aplikacija završena</string>
-    <string name="cloud_app_check_data">Provjera Mi Cloud podataka…</string>
+    <string name="cloud_app_check_data">Provjera Xiaomi Cloud podataka…</string>
     <string name="cloud_app_current_device">Trenutan uređaj</string>
     <string name="cloud_app_dont_restore">"Koristi kao novi uređaj"</string>
     <string name="cloud_app_no_data">Nema otkrivenih Sig. kopija</string>
@@ -113,20 +113,20 @@ Pokušajte ponovo"</string>
     <string name="cloud_app_restore_data">Osobni podaci i prethodno instalirane aplikacije će se pojaviti na vašem uređaju automatski</string>
     <string name="cloud_app_restore_error">"Ne mogu vratiti"</string>
     <string name="cloud_app_restore_success">Aplikacije su vraćene</string>
-    <string name="cloud_app_restore_wifi_prompt">Vrati iz Sig. kopije na Mi Cloudu.</string>
+    <string name="cloud_app_restore_wifi_prompt">Vrati iz Sig. kopije na Xiaomi Cloudu.</string>
     <string name="cloud_back_up_date_format">HH:mm dd.MM.yyyy</string>
-    <string name="cloud_back_up_detail_discription">"Ove stavke će biti pohranjene na vaš Mi Cloud kada je uređaj povezan na Wi-Fi: 
+    <string name="cloud_back_up_detail_discription">"Ove stavke će biti pohranjene na vaš Xiaomi Cloud kada je uređaj povezan na Wi-Fi: 
 *  Aplikacije, izgled Poč. zaslona i slike pozadine
 *  Postavke alarma, sata i vremena 
 *  Postavke obavijesti
 *  MIUI i postavke sustava 
-Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Cloud."</string>
-    <string name="cloud_back_up_detail_discription_china">"Ove stavke će biti pohranjene na vaš Mi Cloud kada je uređaj povezan na Wi-Fi: 
+Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Xiaomi Cloud."</string>
+    <string name="cloud_back_up_detail_discription_china">"Ove stavke će biti pohranjene na vaš Xiaomi Cloud kada je uređaj povezan na Wi-Fi: 
 *  Aplikacije, izgled Poč. zaslona i slike pozadine
 *  Postavke alarma, sata i vremena 
 *  Postavke obavijesti
 *  MIUI i postavke sustava 
-Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Cloud."</string>
+Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Xiaomi Cloud."</string>
     <string name="cloud_back_up_frequence_choice_title">Raspored Sig. kopije</string>
     <string name="cloud_back_up_frequence_long">Svakih 7 dana</string>
     <string name="cloud_back_up_frequence_short">Svaki dan</string>
@@ -137,7 +137,7 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
     <string name="cloud_back_up_subscribe_vip_discription">Dobijte više prostora za pohranu dnevnih Sig. kopija i više.</string>
     <string name="cloud_back_up_subscribe_vip_title">Nadogradi Mi Račun</string>
     <string name="cloud_back_up_task">Izrada Sig. kopije…</string>
-    <string name="cloud_backup">Mi Cloud Sig. kopije</string>
+    <string name="cloud_backup">Xiaomi Cloud Sig. kopije</string>
     <string name="cloud_backup_derail_size_summary">Veličina: %s</string>
     <string name="cloud_backup_detail_app_data">Svi WeChat podaci</string>
     <string name="cloud_backup_detail_app_data_summary">Uključuje povijest chata i datoteke</string>
@@ -149,11 +149,11 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
     <string name="cloud_backup_detail_manage">Upravljanje sigurnosnim kopijama</string>
     <string name="cloud_backup_detail_no_time">Nema Sig. kopija</string>
     <string name="cloud_backup_detail_state">Automatske Sig. kopije</string>
-    <string name="cloud_backup_detail_state_summary">Automatski kreirajte Sig. kopije Mi Clouda kada ste povezani na Wi-Fi.</string>
+    <string name="cloud_backup_detail_state_summary">Automatski kreirajte Sig. kopije Xiaomi Clouda kada ste povezani na Wi-Fi.</string>
     <string name="cloud_backup_detail_state_summary_china">Uređaj mora biti povezan na Wi-Fi, puniti se i zaključan</string>
     <string name="cloud_backup_detail_time">Posljednja sigurnosna kopija: %1$s</string>
     <string name="cloud_backup_detail_title">Sigurnosno kopirajte stavke</string>
-    <string name="cloud_backup_have_data">Pronađena je Sig. kopija na Mi Cloudu</string>
+    <string name="cloud_backup_have_data">Pronađena je Sig. kopija na Xiaomi Cloudu</string>
     <string name="cloud_backup_in_cancel">Odustani</string>
     <string name="cloud_backup_in_process">Izrada Sig. kopije…</string>
     <string name="cloud_backup_permission_allow">Odobreno</string>
@@ -162,8 +162,8 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
     <string name="cloud_backup_phone_state_title">Pristup informacijama o uređaju</string>
     <string name="cloud_backup_rw_storage_summary">Za sigurnosnu kopiju izgleda početnog zaslona, podataka aplikacije i postavki aplikacije u cloudu</string>
     <string name="cloud_backup_rw_storage_title">Pristup pohrani</string>
-    <string name="cloud_backup_select_recover">Odaberite Sig. kopiju sa Mi Clouda</string>
-    <string name="cloud_backup_title">Mi Cloud Sig. kopije</string>
+    <string name="cloud_backup_select_recover">Odaberite Sig. kopiju sa Xiaomi Clouda</string>
+    <string name="cloud_backup_title">Xiaomi Cloud Sig. kopije</string>
     <string name="cloud_restore_from_other_device">"Zaustaviti vraćanje %s i izbrisati ovu Sig. kopiju? Ne možete poništiti ovu radnju."</string>
     <string name="cloud_restore_task">Vraćanje…</string>
     <string name="cloud_task_in_process">"Zaustaviti %s i izbrisati ovu Sig. kopiju? Ne možete poništiti ovu radnju."</string>
@@ -188,9 +188,9 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Mi Clo
     <string name="desktop_recovering">Vraćanje</string>
     <string name="desktop_wait_network">Čekanje…</string>
     <string name="desktop_waiting">Čekanje</string>
-    <string name="device_corrupt">Mi Telefon (podaci su oštećeni)</string>
+    <string name="device_corrupt">Xiaomi Telefon (podaci su oštećeni)</string>
     <string name="device_delete_prompt">Izbrisati Sig. kopiju za %s?</string>
-    <string name="device_xiaomi">Mi Telefon</string>
+    <string name="device_xiaomi">Xiaomi Telefon</string>
     <string name="diagnosis_log_send_failed">Slanje zapisa dijagnoze nije uspjelo.</string>
     <string name="diagnosis_log_sent_format">"Zapis dijagnoze je poslan.
 ID:%s
@@ -211,10 +211,10 @@ Molimo pošaljite ovaj kod tehničaru."</string>
     <string name="dialog_cancel_backup_confirm">U redu</string>
     <string name="dialog_cancel_backup_msg">Promjena će uzrokovati prekid izrade Sig. kopije.</string>
     <string name="dialog_cancel_backup_title">Otkazati izradu Sig. kopije u tijeku?</string>
-    <string name="dialog_cloud_space_not_enough">Ova Sig. kopija zahtijeva %1$s besplatnog prostora za pohranu u Mi Cloudu. Nadogradite svoj plan za pohranu da biste izradili Sig. kopije stavki.</string>
+    <string name="dialog_cloud_space_not_enough">Ova Sig. kopija zahtijeva %1$s besplatnog prostora za pohranu u Xiaomi Cloudu. Nadogradite svoj plan za pohranu da biste izradili Sig. kopije stavki.</string>
     <string name="dialog_content_cancel_backup">Već preneseni podaci bit će izgubljeni ako otkažete sigurnosnu kopiju. Želite li ipak otkazati?</string>
     <string name="dialog_content_cancel_restore">Podaci koji su već vraćeni bit će zadržani ako prestanete s vraćanjem. Prestati s vraćanjem sada?</string>
-	 <string name="dialog_msg_overwrite_backup">Lokalna Sig. kopija razlikuje se od one u Mi Cloudu. Ako nastavite, trenutna Sig. kopija će prebrisati postojeću.</string>
+	 <string name="dialog_msg_overwrite_backup">Lokalna Sig. kopija razlikuje se od one u Xiaomi Cloudu. Ako nastavite, trenutna Sig. kopija će prebrisati postojeću.</string>
     <string name="dialog_msg_restore_require_wlan">Vraćanje Sig. kopija zahtijeva povezivanje s Wi-Fi mrežom.</string>
     <string name="dialog_msg_restore_require_wlan_china">Vraćanje Sig. kopija zahtijeva povezivanje s Wi-Fi mrežom.</string>
     <string name="dialog_need_permission">Potrebna su dopuštenja</string>
@@ -335,8 +335,8 @@ Molimo pošaljite ovaj kod tehničaru."</string>
     <string name="month_september_short">Ruj</string>
     <string name="month_september_shortest">R</string>
     <string name="more">Više</string>
-    <string name="msg_alert_cancel_restore">Vraćanje stavki iz Mi Clouda. Zaustaviti?</string>
-    <string name="msg_alert_restore_error">Ne mogu vratiti stavke sa Mi Clouda. Pokušaj ponovno.</string>
+    <string name="msg_alert_cancel_restore">Vraćanje stavki iz Xiaomi Clouda. Zaustaviti?</string>
+    <string name="msg_alert_restore_error">Ne mogu vratiti stavke sa Xiaomi Clouda. Pokušaj ponovno.</string>
     <string name="msg_restore_start_with_metered_network">"Ako vratite ovu Sig. kopiju, vaš će se početni zaslon vratiti na zadano, a vaše će se aplikacije automatski preuzeti i instalirati.&lt;br />&lt;b>&lt;font color='red'>Veličina Sig. kopije: %s&lt;/font>&lt;/b>"</string>
     <string name="msg_restore_with_metered_network_hint">Ako nastavite s vraćanjem tih stavki, za preuzimanje će se koristiti mobilni podaci.</string>
     <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'&gt;&lt;b&gt;%s&lt;/b&gt;&lt;/font&gt; datoteka će biti preuzeto."</string>
@@ -345,7 +345,7 @@ Molimo pošaljite ovaj kod tehničaru."</string>
     <string name="network_error_info">Dogodila se mrežna pogreška. Provjerite postavke mreže i pokušajte ponovno.</string>
     <string name="network_timeout_info">"Ne mogu se povezati s mrežom. Pokušajte ponovo."</string>
     <string name="no_account">Niste prijavljeni u Mi Račun.</string>
-    <string name="no_backup">Nema Sig. kopija na Mi Cloudu</string>
+    <string name="no_backup">Nema Sig. kopija na Xiaomi Cloudu</string>
     <string name="not_set">Nije postavljeno</string>
     <string name="notification_channel_remind">Podsjetnik</string>
     <string name="notification_channel_service">Usluga</string>
@@ -369,9 +369,9 @@ Molimo pošaljite ovaj kod tehničaru."</string>
     <string name="provision_restore_data">Vraćanje stavki</string>
     <string name="provision_restore_item_backup_name_with_size">%1$s %2$s</string>
     <string name="provision_skip_underline">Preskoči</string>
-    <string name="query_restore_back_view">Mi Cloud Sig. kopija</string>
+    <string name="query_restore_back_view">Xiaomi Cloud Sig. kopija</string>
     <string name="query_restore_description">"Ako vratite izgled i postavke početnog zaslona, aplikacije koje su već instalirane bit će vraćene na svoje izvorne pozicije na početnom zaslonu. Aplikacije koje nisu dio ove Sig. kopije bit će premještene na posljednju stranicu početnog zaslona."</string>
-    <string name="query_restore_summary">Pronađena je Sig. kopija na Mi Cloudu za ovaj uređaj. Vratiti aplikacije i postavke Poč. zaslona ili koristiti kao novi uređaj i izbrisati prethodne Sig. kopije na Mi Cloudu?</string>
+    <string name="query_restore_summary">Pronađena je Sig. kopija na Xiaomi Cloudu za ovaj uređaj. Vratiti aplikacije i postavke Poč. zaslona ili koristiti kao novi uređaj i izbrisati prethodne Sig. kopije na Xiaomi Cloudu?</string>
     <string name="recover_home_settings">Vrati postavke Poč. zaslona</string>
 	  <string name="recover_miui_settings">Vrati postavke sustava</string>
     <string name="recover_settings_description">Držite vaš uređaj uključenim</string>
@@ -394,7 +394,7 @@ Provjerite postavke mreže i pokušajte ponovno."</string>
     <string name="restore_finish_description">Vraćanje je završeno</string>
     <string name="restore_home_failed">"Nije moguće vratiti početni zaslon."</string>
     <string name="restore_init_description">Započni vraćanje</string>
-	  <string name="restore_cloud_backup_to_phone">Vrati stavke iz Mi Clouda</string>
+	  <string name="restore_cloud_backup_to_phone">Vrati stavke iz Xiaomi Clouda</string>
     <string name="restore_data_summary">Ova značajka zahtijeva internetsku vezu.</string>
     <string name="restore_data_title">Vrati kor. podatke</string>
     <string name="restore_detail_category_app_data">WeChat podaci</string>
@@ -410,8 +410,8 @@ Provjerite postavke mreže i pokušajte ponovno."</string>
     <string name="restore_failed_reason_network_error">Pogreška mreže. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
     <string name="restore_file_empty">Ovdje nema sigurnosnih kopija</string>
     <string name="restore_finished_notification_content">Vraćene su aplikacije Poč. zaslona, postavke sustava itd.</string>
-    <string name="restore_from_cloud">Vrati Sig. kopiju iz Mi Clouda</string>
-    <string name="restore_from_mimover">Pošaljite sa starog uređaja pomoću Mi Mover-a</string>
+    <string name="restore_from_cloud">Vrati Sig. kopiju iz Xiaomi Clouda</string>
+    <string name="restore_from_mimover">Pošaljite sa starog uređaja pomoću Xiaomi Mover-a</string>
     <string name="restore_from_this_device">Odaberite sigurnosnu kopiju</string>
     <string name="restore_header_backup_size">Veličina: %s</string>
     <string name="restore_header_msg">"Prije nego što vratite WeChat podatke, provjerite da WeChat nije instaliran na ovom uređaju. Dok se podaci vraćaju, nemojte otvarati niti koristiti WeChat."</string>
@@ -432,7 +432,7 @@ Provjerite postavke mreže i pokušajte ponovno."</string>
     <string name="restoring_app_data_title_no_progress">Vraćanje WeChat podataka…</string>
     <string name="restoring_data">Vraćanje podataka…</string>
     <string name="restoring_file_title_no_progress">Vraćanje aplikacija…</string>
-    <string name="restoring_home_screen_apps">Vraćanje sa Mi Clouda…</string>
+    <string name="restoring_home_screen_apps">Vraćanje sa Xiaomi Clouda…</string>
     <string name="restoring_settings">Vraćanje postavki…</string>
     <string name="retry">Pokušaj ponovno</string>
     <string name="saturday">Subota</string>
@@ -462,7 +462,7 @@ Provjerite postavke mreže i pokušajte ponovno."</string>
     <string name="session_failed_disk_no_space_title">Nedovoljno unutarnje memorije. Očistite pohranu i pokušajte ponovno.</string>
     <string name="session_failed_dist_no_space_btn_text">Očisti pohranu</string>
     <string name="session_failed_no_server_response_title">"Nisam se mogao povezati s poslužiteljem."</string>
-    <string name="session_failed_override_detail">Lokalna sigurnosna kopija razlikuje se od one u Mi Cloudu. Ako nastavite, trenutna sigurnosna kopija će prepisati prethodnu. Prepisati sada?</string>
+    <string name="session_failed_override_detail">Lokalna sigurnosna kopija razlikuje se od one u Xiaomi Cloudu. Ako nastavite, trenutna sigurnosna kopija će prepisati prethodnu. Prepisati sada?</string>
     <string name="session_failed_override_title">Prepisivanje Sig. kopije</string>
     <string name="session_failed_restore_app_data_btn_text">Natrag</string>
     <string name="session_failed_restore_app_data_detail">"Uvjerite se da WeChat nije instaliran na ovom uređaju prije nego što vratite stavke. Nemojte otvarati niti koristiti WeChat dok se podaci vraćaju."</string>
@@ -485,9 +485,9 @@ Provjerite postavke mreže i pokušajte ponovno."</string>
     <string name="session_waiting_network">Čeka se mrežna veza…</string>
     <string name="settings_backup">Postavke sustava</string>
     <string name="size_unknown">Nepoznata veličina</string>
-    <string name="start_backup_to_micloud">Izradi Sig. kopiju aplikacija na Mi Cloud</string>
+    <string name="start_backup_to_micloud">Izradi Sig. kopiju aplikacija na Xiaomi Cloud</string>
     <string name="start_recover">Vraćanje %s</string>
-    <string name="storage_manage_title">Promjena plana Mi Cloud pohrane</string>
+    <string name="storage_manage_title">Promjena plana Xiaomi Cloud pohrane</string>
     <string name="storage_unit_gb">%s GB</string>
     <string name="storage_unit_mb">%s MB</string>
     <string name="success_open_cloudbackup">Uključena izrada Sig. kopije aplik. Poč. zaslona</string>

@@ -136,7 +136,7 @@ Unesite broj telefona povezan s vašom novom SIM karticom da ponovno aktivirate 
     <string name="app_update_dialog_tag_save_traffic">Uštedite promet</string>
     <string name="app_update_dialog_title">Dostupno je ažuriranje</string>
     <string name="error_device_id_message">"Neispravan ID Uređaja: %s
-ID Uređaja mora biti valjana IMEI ili MAC adresa. Bez ID Uređaja, neki Mi Računi i Mi Cloud značajke neće biti dostupne."</string>
+ID Uređaja mora biti valjana IMEI ili MAC adresa. Bez ID Uređaja, neki Mi Računi i Xiaomi Cloud značajke neće biti dostupne."</string>
     <string name="error_device_id_title">"Ne mogu dobiti valjani ID Uređaja"</string>
     <string name="explain_send_sms_permission_button">Provjeri</string>
     <string name="explain_send_sms_permission_msg">Da uključite %s, Xiaomi Service Framework će poslati SMS da provjeri vaš broj telefona. Moguće redovne naknade od strane vašeg davatelja usluga.</string>
@@ -150,6 +150,6 @@ ID Uređaja mora biti valjana IMEI ili MAC adresa. Bez ID Uređaja, neki Mi Rač
     <string name="size_unit_megabyte">%1$s MB</string>
     <string name="sim_unactivated_title">"Vaša SIM kartica nije aktivirana"</string>
     <string name="sync_notification_title_format">Sink.: %1$s</string>
-    <string name="xiaomi_cloud_service">Mi Cloud</string>
+    <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
     <string name="xmsf_activate_info">XMSF detalji aktivacije</string>
 </resources>

@@ -5088,8 +5088,8 @@ Povući suglasnost sada?"</string>
   <string name="sim_lock_setting_keyguard_enable_title">Potvrdite PIN nakon uključivanja zaslona</string>
   <string name="sim_lock_setting_title">Sigurnost SIM kartice</string>
   <string name="sim_lock_start_account_dialog_enable">Prijavite se</string>
-  <string name="sim_lock_start_account_dialog_message">Vaša će SIM kartica biti povezana s ovim uređajem putem Mi Cloud-a. Prijaviti se za nastavak?</string>
-  <string name="sim_lock_start_account_dialog_title">Prijavite se u Mi Cloud</string>
+  <string name="sim_lock_start_account_dialog_message">Vaša će SIM kartica biti povezana s ovim uređajem putem Xiaomi Cloud-a. Prijaviti se za nastavak?</string>
+  <string name="sim_lock_start_account_dialog_title">Prijavite se u Xiaomi Cloud</string>
   <string name="sim_lock_start_bind_device_summary">Automatski potvrdite PIN prilikom upotrebe na ovom uređaju</string>
   <string name="sim_lock_start_bind_device_superscript">Preporučeno</string>
   <string name="sim_lock_start_bind_device_title">Zaključajte USIM i povežite ga s ovim uređajem</string>
@@ -5949,7 +5949,7 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="title_chain_start">Ograniči lančano pokretanje</string>
   <string name="title_cleaner_cloudscan">Skeniraj cloud smeće</string>
   <string name="title_cloud_account">Mi Račun</string>
-  <string name="title_cloud_service">Mi Cloud</string>
+  <string name="title_cloud_service">Xiaomi Cloud</string>
   <string name="title_cloud_space_almost_full">Cloud pohrana je gotovo puna, neke stavke neće biti sink.</string>
   <string name="title_cloud_space_full">"Cloud pohrana je puna"</string>
   <string name="title_cmcc_app_check">"Provjera nije potpuna"</string>

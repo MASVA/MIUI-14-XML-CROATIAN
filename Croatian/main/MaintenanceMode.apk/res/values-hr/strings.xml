@@ -28,9 +28,9 @@
     <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
     <string name="abc_toolbar_collapse_description">Sažmi</string>
     <string name="actionbar_button_up_description">Natrag</string>
-    <string name="agree">Slažem se</string>
+    <string name="agree">Prihvaćam</string>
     <string name="cancel">Odustani</string>
-    <string name="check_protocol_msg">Za korištenje načina održavanja kliknite ovdje slažem se</string>
+    <string name="check_protocol_msg">Za korištenje načina održavanja kliknite prihvaćam</string>
     <string name="check_protocol_msg_detail">Prije pokretanja načina održavanja, provjerite jesu li podaci sigurnosno kopirani, a postprodajna služba nije odgovorna za mogući gubitak podataka uzrokovan popravljenim proizvodom.</string>
     <string name="check_protocol_msg_sub">Odricanje od odgovornosti za korisničke podatke</string>
     <string name="clearable_edittext_clear_description">Izbriši</string>

@@ -105,8 +105,8 @@
     <string name="bh_call_used">Iskorištene minute</string>
     <string name="bh_cancel">Odustani</string>
     <string name="bh_cancellation_of_carrier_services">Otkažite usluge</string>
-    <string name="bh_cancellation_of_carrier_services_des">Otkažite Mi Carrier usluge</string>
-    <string name="bh_cancellation_of_carrier_services_result">"Ako nastavite, otkazat ćete Mi Carrier usluge. Nakon toga prestat ćemo prikupljati i koristiti vaše osobne podatke te ćemo trajno izbrisati vašu povijest narudžbi. Provjerite jesu li sve vaše transakcije dovršene prije nego što otkažete usluge."</string>
+    <string name="bh_cancellation_of_carrier_services_des">Otkažite Xiaomi Carrier usluge</string>
+    <string name="bh_cancellation_of_carrier_services_result">"Ako nastavite, otkazat ćete Xiaomi Carrier usluge. Nakon toga prestat ćemo prikupljati i koristiti vaše osobne podatke te ćemo trajno izbrisati vašu povijest narudžbi. Provjerite jesu li sve vaše transakcije dovršene prije nego što otkažete usluge."</string>
     <string name="bh_cannot_action">"Ne mogu koristiti %1$s. Prvo instalirajte odgovarajuću aplikaciju."</string>
     <string name="bh_cannot_fetch_num">Nepoznati broj telefona</string>
     <string name="bh_cannot_login_miacount">"Ne mogu se prijaviti na Mi Račun"</string>
@@ -144,7 +144,7 @@
     <string name="bh_express_number">Br. paketa</string>
     <string name="bh_fetch_balance">Provjeri stanje</string>
     <string name="bh_flow_exceed">Premašeno ograničenje</string>
-    <string name="bh_funtion_desc">Dobrodošli u Mi Usluge operatera! Ovu aplikaciju možete koristiti za provjeru stanja na telefonu, kupnju minuta poziva, mobilnih podataka i još mnogo toga.</string>
+    <string name="bh_funtion_desc">Dobrodošli u Xiaomi Usluge operatera! Ovu aplikaciju možete koristiti za provjeru stanja na telefonu, kupnju minuta poziva, mobilnih podataka i još mnogo toga.</string>
     <string name="bh_gb">GB</string>
     <string name="bh_get_balance_success">Uspješno provjereno. Informacije se ovdje mogu ažurirati s odgodom.</string>
     <string name="bh_get_charge_phone_number">Odaberite iz kontakata</string>
@@ -177,9 +177,9 @@
     <string name="bh_not_contact">"Ovaj broj nije u vašim kontaktima"</string>
     <string name="bh_notice">Pažnja</string>
     <string name="bh_online_service">Online podrška</string>
-    <string name="bh_open_carrier_services_short">Mi Carrier usluge</string>
-    <string name="bh_open_carrier_services_short_reason">Uključite usluge Mi Carrier da biste mogli koristiti ovu značajku.</string>
-    <string name="bh_option_agree_dec">Dopustite Mi Carrier usluge da se povežu s internetom i dodijelite potrebna dopuštenja prije upotrebe aplikacije.</string>
+    <string name="bh_open_carrier_services_short">Xiaomi Carrier usluge</string>
+    <string name="bh_open_carrier_services_short_reason">Uključite usluge Xiaomi Carrier da biste mogli koristiti ovu značajku.</string>
+    <string name="bh_option_agree_dec">Dopustite Xiaomi Carrier usluge da se povežu s internetom i dodijelite potrebna dopuštenja prije upotrebe aplikacije.</string>
     <string name="bh_order_detail">Detalji narudžbe</string>
     <string name="bh_order_id">Order ID</string>
     <string name="bh_order_loading">Samo trenutak…</string>
@@ -192,7 +192,7 @@
     <string name="bh_pay_fail_desc">"Nije moguće povezati se s mrežom. Vratite se i ponovno dovršite plaćanje."</string>
     <string name="bh_pay_fee">Iznos</string>
     <string name="bh_pay_success_desc">Vaš saldo može biti pripisan s kašnjenjem</string>
-    <string name="bh_perm_ask_read_contacts">Prvo dopustite uslugama Mi Carrier pristup vašim kontaktima.</string>
+    <string name="bh_perm_ask_read_contacts">Prvo dopustite uslugama Xiaomi Carrier pristup vašim kontaktima.</string>
     <string name="bh_perm_desc_read_contacts">Za prikaz kontakata tijekom nadoplate</string>
     <string name="bh_permission_contact">Pristup kontaktima</string>
     <string name="bh_permission_contact_desc">Za nadoplatu stanja vaših kontakata</string>
@@ -223,9 +223,9 @@
     <string name="bh_should_login_to_buy">Prijavite se na Mi Račun da biste mogli kupiti minute poziva i mobilne podatke</string>
     <string name="bh_sim">SIM %1$d</string>
     <string name="bh_similar_number_hint">Ovaj broj je sličan %1$s. Svejedno nadoplatiti ovaj broj?</string>
-    <string name="bh_stop_carrier_services">Isključi Mi Carrier Services</string>
-    <string name="bh_stop_carrier_services_short">Uključi Mi Carrier Services</string>
-    <string name="bh_stop_result">"Nećete moći upravljati svojim planom operatera ili kupovati podatke i minute poziva ako isključite usluge Mi Carrier. Isključiti svejedno?"</string>
+    <string name="bh_stop_carrier_services">Isključi Xiaomi Carrier Services</string>
+    <string name="bh_stop_carrier_services_short">Uključi Xiaomi Carrier Services</string>
+    <string name="bh_stop_result">"Nećete moći upravljati svojim planom operatera ili kupovati podatke i minute poziva ako isključite usluge Xiaomi Carrier. Isključiti svejedno?"</string>
     <string name="bh_system_recommend">Preporuke sustava</string>
     <string name="bh_system_recommend_des">"Kada su prilagođene preporuke isključene, i dalje ćete vidjeti istu količinu oglasa kao kada je značajka uključena, ali oni neće biti toliko relevantni za vas"</string>
     <string name="bh_tag_phones">Često korišteni telefonski brojevi</string>
@@ -250,16 +250,16 @@
     <string name="bh_used_today">Korišteno danas</string>
     <string name="bh_user_agreement">Korisnički ugovor</string>
     <string name="bh_vs">Mi Roaming</string>
-    <string name="bh_where_to_restart_carrier_services">Uvijek možete ponovno uključiti Mi Carrier usluge u Kontakti &gt; Postavke.</string>
+    <string name="bh_where_to_restart_carrier_services">Uvijek možete ponovno uključiti Xiaomi Carrier usluge u Kontakti &gt; Postavke.</string>
     <string name="bh_will_open">Otvaranje %1$s…</string>
     <string name="bh_withdraw_permission_failure_description">Pričekajte minutu ili dvije i pokušajte ponovno.</string>
     <string name="bh_withdraw_permission_failure_title">"Ne mogu povući suglasnost"</string>
     <string name="bh_withdraw_permission_success">Suglasnost uspješno povučena</string>
     <string name="bh_withdrawal_of_consent">Povlačenje suglasnosti</string>
     <string name="bh_withdrawal_of_consent_and_cancellation_of_services">Povlačenje suglasnosti i otkazivanje usluge</string>
-    <string name="bh_withdrawal_of_consent_des">Povlačenje suglasnosti Pravila o privatnosti Mi Carrier usluga</string>
+    <string name="bh_withdrawal_of_consent_des">Povlačenje suglasnosti Pravila o privatnosti Xiaomi Carrier usluga</string>
     <string name="bh_withdrawal_of_consent_long">Povlačenje suglasnosti</string>
-    <string name="bh_withdrawal_of_consent_result">"Ako nastavite, povući ćete svoju suglasnost na Pravila o privatnosti Mi Carrier usluga. Nakon toga prestat ćemo prikupljati i koristiti vaše osobne podatke te ćemo trajno izbrisati vašu povijest narudžbi. Provjerite jesu li sve vaše transakcije dovršene prije nego što povučete suglasnost."</string>
+    <string name="bh_withdrawal_of_consent_result">"Ako nastavite, povući ćete svoju suglasnost na Pravila o privatnosti Xiaomi Carrier usluga. Nakon toga prestat ćemo prikupljati i koristiti vaše osobne podatke te ćemo trajno izbrisati vašu povijest narudžbi. Provjerite jesu li sve vaše transakcije dovršene prije nego što povučete suglasnost."</string>
     <string name="bh_wrong_number_hint">Unesite važeći telefonski broj</string>
     <string name="bh_yuan">CNY</string>
     <string name="bills_info_label">Pojedinosti</string>
@@ -450,12 +450,12 @@
     <string name="cloud_antispam_mark">Prijavi</string>
     <string name="cloud_antispam_marked">Prijavljeno</string>
     <string name="cloud_antispam_title">ID Pozivatelja</string>
-    <string name="cloud_recommend_msg">Dodirnite za sinkr. kontakata s Mi Cloudom.</string>
-    <string name="cloud_state_disabled">Sinkronizirajte kontakte s Mi Cloudom</string>
+    <string name="cloud_recommend_msg">Dodirnite za sinkr. kontakata s Xiaomi Cloudom.</string>
+    <string name="cloud_state_disabled">Sinkronizirajte kontakte s Xiaomi Cloudom</string>
     <string name="cloud_state_loading">Samo trenutak…</string>
-    <string name="cloud_state_sync_finished">Sinkronizirano s Mi Cloud</string>
-    <string name="cloud_state_syncing">Sinkronizirano s Mi Cloud</string>
-    <string name="cloud_upgrade_recommend">"Ne mogu se sinkronizirati kontaktE zbog nedostatnog prostora za pohranu na Mi Cloudu. Nadogradite svoj plan za pohranu."</string>
+    <string name="cloud_state_sync_finished">Sinkronizirano s Xiaomi Cloud</string>
+    <string name="cloud_state_syncing">Sinkronizirano s Xiaomi Cloud</string>
+    <string name="cloud_upgrade_recommend">"Ne mogu se sinkronizirati kontaktE zbog nedostatnog prostora za pohranu na Xiaomi Cloudu. Nadogradite svoj plan za pohranu."</string>
     <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
     <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
 %2$s"</string>
@@ -465,7 +465,7 @@
     <string name="conference_call_disable_tip">"Nije moguće upućivati pozive. Provjerite je li uređaj spojen na 4G mrežu s podrškom za VoLTE."</string>
     <string name="confirm_call_log_dial_summary">Prije biranja iz popisa poziva zatraži potvrdu kako biste spriječili slučajne pozive.</string>
     <string name="confirm_call_log_dial_title">Potvrdite biranje iz popisa poziva</string>
-    <string name="confirm_delete_cloud_all_call_logs">Izbrisati svu povijest poziva povezanu sa %s, iz Mi Clouda i ovog uređaja?</string>
+    <string name="confirm_delete_cloud_all_call_logs">Izbrisati svu povijest poziva povezanu sa %s, iz Xiaomi Clouda i ovog uređaja?</string>
     <string name="confirm_delete_contact_all_call_logs">Izbrisati svu povijest poziva od %s?</string>
     <string name="confirm_delete_selected_all_call_logs">Izbrisati svu povijest poziva?</string>
     <string name="confirm_delete_sim_entry_miui_title">Izbriši</string>
@@ -526,7 +526,7 @@ Kartice kontakata su isključene"</string>
     <string name="contact_editor_prompt_one_account">Novi kontakt bit će sinkroniziran s računom %1$s.</string>
     <string name="contact_editor_prompt_zero_accounts">Pohrani na uređaju ili na novom mrežnom računu</string>
     <string name="contact_import_methods_dialog_bluetooth">Bluetooth</string>
-    <string name="contact_import_methods_dialog_mi_mover">Mi Mover</string>
+    <string name="contact_import_methods_dialog_mi_mover">Xiaomi Mover</string>
     <string name="contact_import_methods_dialog_title">Odaberite način uvoza</string>
     <string name="contact_is_deleted">Ovaj kontakt je izbrisan</string>
     <string name="contact_is_readOnly">Nije moguće uređivanje kontakata samo za čitanje.</string>
@@ -569,7 +569,7 @@ Kartice kontakata su isključene"</string>
     <string name="create_qrcode_fail_message">"Ne mogu kreirati QR kod"</string>
     <string name="create_voip_shortcut_success">Prečac je napravljen</string>
     <string name="cta_content_seg1"><Data>"&lt;strong>Važna obavijest
-Dodirom na \"Prihvaćam\" u nastavku prihvaćate &lt;font color=#33aaff>&lt;a href ='https://static.account.xiaomi.com/html/agreement/account/en.html'>Ugovor o usluzi Mi Račun&lt;/a>&lt;/font>, &lt;font color=#33aaff>&lt;a href ='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'>Mi Roaming Korisnički ugovor&lt;/a>&lt;/font>, i &lt;font color=#33aaff>&lt;a href ='http://www.miui.com/res/doc/privacy/en.html'>Pravila o privatnosti&lt;/a>&lt;/font>. Pažljivo pročitajte ove dokumente i u potpunosti razumite sve povezane odredbe i uvjete prije nego što prihvatite.&lt;/strong>"</Data></string>
+Dodirom na \"Prihvaćam\" u nastavku prihvaćate &lt;font color=#33aaff>&lt;a href ='https://static.account.xiaomi.com/html/agreement/account/en.html'>Ugovor o usluzi Mi Račun&lt;/a>&lt;/font>, &lt;font color=#33aaff>&lt;a href ='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'>Xiaomi Roaming Korisnički ugovor&lt;/a>&lt;/font>, i &lt;font color=#33aaff>&lt;a href ='http://www.miui.com/res/doc/privacy/en.html'>Pravila o privatnosti&lt;/a>&lt;/font>. Pažljivo pročitajte ove dokumente i u potpunosti razumite sve povezane odredbe i uvjete prije nego što prihvatite.&lt;/strong>"</Data></string>
     <string name="cta_content_seg2">"
 Mi Roaming mora se povezati s internetom i pristupiti podacima o vašoj lokaciji da bi normalno radio. Uz to, Mi Roaming može prikupljati, koristiti i dijeliti vaše osobne podatke. Vaši osobni podaci bit će zaštićeni u skladu s lokalnim zakonima i propisima."</string>
     <string name="cta_dialog_cancel">Odbijam</string>
@@ -588,7 +588,7 @@ Mi Roaming mora se povezati s internetom i pristupiti podacima o vašoj lokaciji
     <string name="date_time_set">Postavi</string>
     <string name="date_year_toggle">Navesti godinu</string>
     <string name="default_ringtone">"Zadana melodija zvona"</string>
-    <string name="deleteCloudConfirmationDetail">Izbrisati podatke o kontaktu %s i iz Mi Clouda i s ovog uređaja?</string>
+    <string name="deleteCloudConfirmationDetail">Izbrisati podatke o kontaktu %s i iz Xiaomi Clouda i s ovog uređaja?</string>
     <string name="deleteConfirmation">Ovaj kontakt će biti izbrisan.</string>
     <string name="deleteConfirmationDetail">Izbrisati \"%s\"?</string>
     <string name="deleteConfirmation_title">"Izbrisati ovaj kontakt?"</string>
@@ -709,7 +709,7 @@ Mi Roaming mora se povezati s internetom i pristupiti podacima o vašoj lokaciji
     <string name="dialer_useDtmfDialpad">"Koristi dodirnu zvučnu tipkovnicu"</string>
     <string name="dialog_delete_contact_button_delete">Izbriši</string>
     <string name="dialog_delete_contact_button_keep">Zadrži</string>
-    <string name="dialog_delete_contact_content">Mi Cloud želi izbrisati neke vaše kontakte. Želite li izbrisati?</string>
+    <string name="dialog_delete_contact_content">Xiaomi Cloud želi izbrisati neke vaše kontakte. Želite li izbrisati?</string>
     <string name="dialog_delete_contact_title">Brisanje kontakata</string>
     <string name="dialog_device_info_hardware_version">Hardware verzija: %s</string>
     <string name="dialog_device_info_miui_version">MIUI verzija: %s</string>
@@ -783,7 +783,7 @@ Razlog: \"%s\""</string>
     <string name="exporting_contact_list_title">"Izvoz podataka o kontaktu"</string>
     <string name="exporting_vcard_canceled_title">"Izvoz datoteke %s otkazan je."</string>
     <string name="exporting_vcard_finished_title">"Završetak izvoza datoteke %s."</string>
-    <string name="external_profile_title">Moj %1$s Mi profil</string>
+    <string name="external_profile_title">Moj %1$s Xiaomi profil</string>
     <string name="fail_reason_could_not_initialize_exporter">"Alat za izvoz ne može se pokrenuti: \"%s\"."</string>
     <string name="fail_reason_could_not_open_file">"Ne mogu otvoriti \"%1$s\": %2$s."</string>
     <string name="fail_reason_error_occurred_during_export">Tijekom izvoza došlo je do pogreške: \"%s\".</string>
@@ -1307,7 +1307,7 @@ Za dodavanje kontakta na listu favorita :
     <string name="no_phone_no_shortcut">"Ne mogu stvoriti prečace za kontakte bez telefonskih brojeva"</string>
     <string name="no_sdcard_message">"Pohrana nije pronađena."</string>
     <string name="no_setting_menu">Nema dostupnih opcija izbornika</string>
-    <string name="no_voip_contacts">Nema Mi Voice kontakata</string>
+    <string name="no_voip_contacts">Nema Xiaomi Voice kontakata</string>
     <string name="non_phone_add_to_contacts">Dodaj postojećem kontaktu</string>
     <string name="non_phone_caption">Broj telefona</string>
     <string name="non_phone_close">"Zatvori"</string>
@@ -1317,7 +1317,7 @@ Za dodavanje kontakta na listu favorita :
     <string name="not_set">Nije postavljeno</string>
     <string name="notification_action_voicemail_play">"Reproduciraj"</string>
     <string name="notification_click_detail">Dodirnite za prikaz pojedinosti</string>
-    <string name="notification_micloudsync_delete_contact">Mi Cloud želi izbrisati neke vaše kontakte</string>
+    <string name="notification_micloudsync_delete_contact">Xiaomi Cloud želi izbrisati neke vaše kontakte</string>
 	 <string name="notification_missedCallTitle">Propušten poziv</string>
     <string name="notification_missedCall_call_back">Uzvrati poziv</string>
     <string name="notification_missedCall_message">Pošalji SMS</string>
@@ -1933,7 +1933,7 @@ Odaberite jednu od sljedećih opcija:</string>
     <string name="yellowPageNavigationLabel">Direktorij</string>
     <string name="yellowpage_address_tag">Adresa</string>
     <string name="yellowpage_fc_toast">"Ne mogu nastaviti koristiti jer je Direktorij prestao raditi."</string>
-    <string name="yellowpage_mi_family">Mi Obitelj</string>
+    <string name="yellowpage_mi_family">Xiaomi Obitelj</string>
     <string name="yellowpage_navigation_ad_hint">Oglas</string>
     <string name="yellowpage_navigation_balance_refresh_failed">"Stanje i mobilni podaci ne mogu biti provjereni, pokušajte ponovno kasnije."</string>
     <string name="yellowpage_navigation_balance_refresh_succeed">Stanje i mobilni podaci su provjereni</string>

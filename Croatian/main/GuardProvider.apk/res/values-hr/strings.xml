@@ -12,28 +12,28 @@
     <string name="avast_dialog_cloudscan"/>
     <string name="avast_dialog_dbupdate"/>
     <string name="avast_dialog_header">"Ova značajka šifrira i šalje ID vašeg uređaja na Avast poslužitelje (%s)."</string>
-    <string name="avast_dialog_policy">Prikaz Pravila o Privatnosti</string>
-    <string name="avast_dialog_title">"Avast Pravila o Privatnosti"</string>
+    <string name="avast_dialog_policy">Prikaži Pravila o privatnosti</string>
+    <string name="avast_dialog_title">"Avast Pravila o privatnosti"</string>
     <string name="avast_dialog_url">http://api.sec.miui.com/policy/proxy?p=avast&amp;l=en_US</string>
     <string name="avast_virus_type_adware_description">Ovo je adware. On automatski donosi reklame.</string>
     <string name="avast_virus_type_cryportor_description">Ovo je Crypter virus. To je zlonamjerni softver koji se prenosi repliciranjem samog sebe u prostor za pohranu.</string>
-    <string name="avast_virus_type_dropper_description">Ovo je  Dropper virus. Nosi kôd koji instalira drugi zlonamjerni virus.</string>
-    <string name="avast_virus_type_exploit_description">The virus is an exploit. It takes advantage of a bug or vulnerability in system in order to cause unintended or unanticipated behavior.</string>
-    <string name="avast_virus_type_heuristic_description">The infection is inferred by using a specific heuristic. A specific heuristic analysis says that it is a virus.</string>
-    <string name="avast_virus_type_joke_description">The virus is a joke. It creates some annoying or humorous effect as a joke. It normally has less damage on the system.</string>
-    <string name="avast_virus_type_pup_description">The virus is a potentially unwanted program (PUP). It is a program that may be unwanted (like spyware, adware, etc), despite the possibility that users give consen to download it.</string>
-    <string name="avast_virus_type_rootkit_description">The virus is a rootkit. It is a type of software designed to hide the fact that an operating system has been compromised. It is used to gain control over the device by hiding deep inside the system. Rootkits allow viruses and malware to “hide in plain sight” by disguising as necessary files that normal antivirus software will overlook.</string>
-    <string name="avast_virus_type_spyware_description">"The virus is a spyware. It a software that covertly gathers user information through the user' Internet connection without his or her knowledge."</string>
-    <string name="avast_virus_type_suspicious_description">A common suspicious type. The antivirus system is trying to classify it.</string>
-    <string name="avast_virus_type_tool_description">The virus is a potentially evil tool infecting by means similar to PUP.</string>
-    <string name="avast_virus_type_trjan_description">The virus is a trojan. It is a a malware designed to provide unauthorized, remote access to a user’s device. Trojans normally do not have the ability to replicate themselves like viruses; however, they can lead to other malware being installed on a machine, various data being stolen, or other malicious activities.</string>
-    <string name="avast_virus_type_unknown_description">Unknown type of infection.</string>
-    <string name="avast_virus_type_worm_description">The virus is a worm. It is a standalone malware that replicates itself in order to spread to other devices. Takes advantage of file or information transport features of system (such like network), it can travel without any human action. Worms almost always cause at least some harm to the network.</string>
-    <string name="avl_dialog_cloudscan"/>
+    <string name="avast_virus_type_dropper_description">Ovo je virus Dropper. Nosi kod koji instalira drugi zlonamjerni virus.</string>
+    <string name="avast_virus_type_exploit_description">Virus je iskorištavanje. Iskorištava grešku ili ranjivost u sustavu kako bi uzrokovao nenamjerno ili neočekivano ponašanje.</string>
+    <string name="avast_virus_type_heuristic_description">Zaključak o infekciji se izvodi pomoću određene heuristike. Specifična heuristička analiza kaže da se radi o virusu.</string>
+    <string name="avast_virus_type_joke_description">Virus je šala. Stvara neugodan ili duhovit učinak kao šala. Obično ima manje štete na sustavu.</string>
+    <string name="avast_virus_type_pup_description">Virus je potencijalno neželjeni program (PUP). To je program koji može biti neželjen (kao što je spyware, adware itd.), unatoč mogućnosti da korisnici daju pristanak za njegovo preuzimanje.</string>
+    <string name="avast_virus_type_rootkit_description">Virus je rootkit. To je vrsta softvera dizajniranog za skrivanje činjenice da je operativni sustav ugrožen. Koristi se za stjecanje kontrole nad uređajem skrivanjem duboko u sustavu. Rootkitovi omogućuju virusima i zlonamjernom softveru da se "sakriju na vidljivom mjestu" prerušavanjem u potrebne datoteke koje će normalni antivirusni softver previdjeti.</string>
+    <string name="avast_virus_type_spyware_description">"Virus je špijunski softver. To je softver koji tajno prikuplja podatke o korisniku putem internetske veze korisnika bez njegovog ili njezinog znanja."</string>
+    <string name="avast_virus_type_suspicious_description">Uobičajena sumnjiva vrsta. Antivirusni sustav ga pokušava klasificirati.</string>
+    <string name="avast_virus_type_tool_description">Virus je potencijalno zao alat koji inficira sredstvima sličnim PUP-u.</string>
+    <string name="avast_virus_type_trjan_description">Virus je trojanac. To je zlonamjerni softver dizajniran za pružanje neovlaštenog, udaljenog pristupa korisnikovom uređaju. Trojanci obično nemaju sposobnost umnožavanja kao virusi; međutim, mogu dovesti do instaliranja drugog zlonamjernog softvera na stroj, krađe raznih podataka ili drugih zlonamjernih aktivnosti.</string>
+    <string name="avast_virus_type_unknown_description">Nepoznata vrsta infekcije.</string>
+    <string name="avast_virus_type_worm_description">Virus je crv. To je samostalan zlonamjerni softver koji se replicira kako bi se proširio na druge uređaje. Iskorištava značajke sustava za prijenos datoteka ili informacija (kao što je mreža), može putovati bez ikakvog ljudskog djelovanja. Crvi gotovo uvijek uzrokuju barem neku štetu mreži.</string>
+	  <string name="avl_dialog_cloudscan"/>
     <string name="avl_dialog_dbupdate"/>
     <string name="avl_dialog_header">"Ova značajka šifrira i šalje ID vašeg uređaja na AVL poslužitelje (%s)."</string>
-    <string name="avl_dialog_policy">Prikaz Pravila o Privatnosti</string>
-    <string name="avl_dialog_title">"AVL Pravila o Privatnosti"</string>
+    <string name="avl_dialog_policy">Prikaz Pravila o privatnosti</string>
+    <string name="avl_dialog_title">"AVL Pravila o privatnosti"</string>
     <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
     <string name="common_ids_permission_label">Avast ids zajednička dopuštenja</string>
     <string name="hello_world">Pozdrav svijete!</string>
@@ -41,8 +41,8 @@
     <string name="tencent_dialog_cloudscan">Pošalji imena i detalje aplikacija i skenirajte pomoću online definicije virusa.</string>
     <string name="tencent_dialog_dbupdate">Ažuriraj automatski definicije virusa</string>
     <string name="tencent_dialog_header">"Ova značajka šifrira i šalje ID vašeg uređaja na Tencent poslužitelje (%s)."</string>
-    <string name="tencent_dialog_policy">Prikaz Pravila o Privatnosti</string>
-    <string name="tencent_dialog_title">Tencent Pravila o Privatnosti</string>
+    <string name="tencent_dialog_policy">Prikaz Pravila o privatnosti</string>
+    <string name="tencent_dialog_title">Tencent Pravila o privatnosti</string>
     <string name="tencent_dialog_url">http://api.sec.miui.com/policy/proxy?p=tencent&amp;l=en_US</string>
     <string name="title_activity_main">MainActivity</string>
 </resources>

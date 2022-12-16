@@ -37,13 +37,13 @@
     <string name="agree_revoke_permission_title">Povlačenje dopuštenja</string>
     <string name="alert_button_agree_and_continue">Dopusti</string>
     <string name="alert_button_deny">Odbijam</string>
-    <string name="alert_message_backup_to_miasist">Mi PC Suite traži dopuštenje za izradu Sig. kopije na računalo. Dopustiti?</string>
-    <string name="alert_message_restore_from_miasist">Mi PC Suite traži dopuštenje za vraćanje stavki na vaš telefon. Dopustiti?</string>
-    <string name="alert_miasist_occupy_backup">Sigurnosno kopiranje stavki koristeći Mi PC Suite… Pričekajte dok se Sig. kopija ne dovrši i pokušajte ponovo.</string>
-    <string name="alert_miasist_occupy_restore">Vraćanje stavki koristeći Mi PC Suite… Pričekajte dok stavke nisu vraćene i pokušajte ponovo.</string>
-    <string name="alert_phone_occupy_backup">"Ne mogu sada koristiti Mi PC Suite. Dovršite izradu Sig. kopije ili vraćanje stavki na telefon i pokušajte ponovo."</string>
-    <string name="alert_second_space_not_support_miasist">"Ne mogu sada koristiti Mi PC Suite u Drugom prostoru. Prebacite se u Prvi prostor."</string>
-    <string name="alert_title_backup_to_miasist">Izraditi Sig. kpiju stavki koristeći Mi PC Suite?</string>
+    <string name="alert_message_backup_to_miasist">Xiaomi PC Suite traži dopuštenje za izradu Sig. kopije na računalo. Dopustiti?</string>
+    <string name="alert_message_restore_from_miasist">Xiaomi PC Suite traži dopuštenje za vraćanje stavki na vaš telefon. Dopustiti?</string>
+    <string name="alert_miasist_occupy_backup">Sigurnosno kopiranje stavki koristeći Xiaomi PC Suite… Pričekajte dok se Sig. kopija ne dovrši i pokušajte ponovo.</string>
+    <string name="alert_miasist_occupy_restore">Vraćanje stavki koristeći Xiaomi PC Suite… Pričekajte dok stavke nisu vraćene i pokušajte ponovo.</string>
+    <string name="alert_phone_occupy_backup">"Ne mogu sada koristiti Xiaomi PC Suite. Dovršite izradu Sig. kopije ili vraćanje stavki na telefon i pokušajte ponovo."</string>
+    <string name="alert_second_space_not_support_miasist">"Ne mogu sada koristiti Xiaomi PC Suite u Drugom prostoru. Prebacite se u Prvi prostor."</string>
+    <string name="alert_title_backup_to_miasist">Izraditi Sig. kpiju stavki koristeći Xiaomi PC Suite?</string>
     <string name="alert_title_restore_from_miasist">Vratiti stavke na vaš telefon?</string>
     <string name="already_enable_encrypt">Šifriranje je već uključeno</string>
     <string name="alternative_ui_content">Ova vam značajka omogućuje sigurnosno kopiranje i vraćanje stavki pomoću mobilnog uređaja i računala. Ova značajka mora se povezati s internetom i zahtijeva sljedeća obvezna dopuštenja da bi mogla normalno raditi:</string>
@@ -129,17 +129,17 @@
     <string name="close_twice_auth_step_3">3. Kliknite \"Isključi autorizaciju s dva faktora\". Kliknite ponovno za potvrdu.</string>
     <string name="close_twice_auth_steps">Slijedite ove korake kako biste isključili autorizaciju s dva faktora za Apple ID:</string>
     <string name="close_twice_auth_tutor">Isključi Apple ID autorizaciju s dva faktora</string>
-    <string name="cloud_app_name">Sig. kopija Mi Cloud</string>
+    <string name="cloud_app_name">Sig. kopija Xiaomi Cloud</string>
     <string name="cloud_backup_hint">Za pristup vašim Sig. kopijama, prijavite se sada</string>
     <string name="cloud_backup_login">Prijavite se u vaš Mi Račun</string>
-    <string name="cloud_backup_window_title">Mi Cloud Sig. kopija</string>
-    <string name="cloud_home_title">Mi Cloud</string>
-    <string name="cloud_item_info_summary">" (Lokalno : %1$s | Mi Cloud : %2$s)"</string>
+    <string name="cloud_backup_window_title">Xiaomi Cloud Sig. kopija</string>
+    <string name="cloud_home_title">Xiaomi Cloud</string>
+    <string name="cloud_item_info_summary">" (Lokalno : %1$s | Xiaomi Cloud : %2$s)"</string>
     <string name="cloud_last_backup">"Posljednja Sig. kopija"</string>
     <string name="cloud_no_backup">Nema Sig. kopija</string>
     <string name="cloud_restore_guide">Za vraćanje korisničkih podataka za %s, dodirnite Vraćanje</string>
     <string name="cloud_restore_title">Vraćanje podataka Sig. kopije</string>
-    <string name="cloud_restore_window_title">Mi Cloud vraćanje</string>
+    <string name="cloud_restore_window_title">Xiaomi Cloud vraćanje</string>
     <string name="cloud_search">Pretraživanje…</string>
     <string name="compute_backup_info">Dobivanje podataka Sig. kopije…</string>
     <string name="compute_delete_contact_info">Dobivanje informacija…</string>
@@ -149,7 +149,7 @@
     <string name="confirm_exit_link_title">Prekid prijenosa</string>
     <string name="connect_soft_ap_label">Povezivanje s novim uređajem…</string>
     <string name="connect_wifi">Povežite se na Wi-Fi</string>
-    <string name="connect_wifi_tip">Niste povezani s Wi-Fi mrežom. Za uvoz podataka iz Mi Clouda, povežite se s Wi-Fi mrežom.</string>
+    <string name="connect_wifi_tip">Niste povezani s Wi-Fi mrežom. Za uvoz podataka iz Xiaomi Clouda, povežite se s Wi-Fi mrežom.</string>
     <string name="contact_title">Kontakti</string>
     <string name="copy">Kopiraj</string>
     <string name="current_account">Trenutan račun: %s</string>
@@ -227,7 +227,7 @@
     <string name="file_uploading">Učitavanje…</string>
     <string name="files_backup_info">Sve datoteke na SD kartici (uključujući fotografije, pjesme, videozapise, podatke aplikacija, itd.)</string>
     <string name="findlost_contact">Vrati kontakte</string>
-    <string name="findlost_contact_online">Vrati kontakte s Mi Clouda</string>
+    <string name="findlost_contact_online">Vrati kontakte s Xiaomi Clouda</string>
     <string name="flash_drive_backup_btn">Izradi Sig. kopiju na USB uređaj</string>
     <string name="flash_drive_backup_note">"Izradi Sig. kopiju apliakcija na USB uređaj.
 Provjerite da USB uređaj ima dovoljno prostora za pohranu prije nego što počnete."</string>
@@ -273,12 +273,12 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
     <string name="icloud_need_wifi_title">Poveži se na Wi-Fi</string>
     <string name="import_again">Uvezi ponovno</string>
     <string name="import_data_from_icloud">Uvezi podatke iz iClouda</string>
-    <string name="import_from_xiaomi_account_hint1">"1.\u0009Preuzmite Mi Talk aplikaciju i prijavite se.
+    <string name="import_from_xiaomi_account_hint1">"1.\u0009Preuzmite Xiaomi Talk aplikaciju i prijavite se.
 \u0009http://www.miliao.com
 
-2.\u0009Idite u Mi Talk postavke i odaberite ”Pohrani kontakte na Mi Račun”"</string>
+2.\u0009Idite u Xiaomi Talk postavke i odaberite ”Pohrani kontakte na Mi Račun”"</string>
     <string name="import_from_xiaomi_account_hint2">Ako već imate napravljenu Sig. kopiju, dodirnite Dalje.</string>
-    <string name="import_from_xiaomi_account_hint_title">Koristite Mi Talk za Sig. kopiju kontakata između uređaja</string>
+    <string name="import_from_xiaomi_account_hint_title">Koristite Xiaomi Talk za Sig. kopiju kontakata između uređaja</string>
     <string name="import_tip_summary">Zbog problema s kompatibilnošću možete prenositi samo djelomične podatke s iOS uređaja. Svakako izradite Sig. kopiju na iCloud prije pokretanja prijenosa.</string>
     <string name="lack_perm_msg">Mi Mover treba sljedeća dopuštenja: &lt;b&gt;%s&lt;/b&gt;.</string>
     <string name="lack_perm_title">Potrebno je dopuštenje</string>
@@ -328,8 +328,8 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
     <string name="login">Prijava</string>
     <string name="login_failed">"Ne mogu se prijaviti. Pokušajte ponovno."</string>
     <string name="logining">Prijavljivanje…</string>
-    <string name="miliao_account_guide">Koristite svoj Mi Račun za prijavu na Mi Cloud, MIUI Teme, te druge Mi Usluge, s bilo kojeg mjesta.</string>
-    <string name="miliao_account_login">Prijavite se s Mi Talk</string>
+    <string name="miliao_account_guide">Koristite svoj Mi Račun za prijavu na Xiaomi Cloud, MIUI Teme, te druge Xiaomi Usluge, s bilo kojeg mjesta.</string>
+    <string name="miliao_account_login">Prijavite se s Xiaomi Talk</string>
     <string name="miuix_access_state_desc">Odabrano</string>
     <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
@@ -476,8 +476,8 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
     <string name="notif_backup_content">Izrada Sig. kopije kor. podataka</string>
     <string name="notif_backup_title">Izradi Sig. kopiju podataka</string>
     <string name="notif_calculating_app">Izračunavanje %1$s (%2$s)…</string>
-    <string name="notif_connect_miasist">Povezano s Mi PC Suite</string>
-    <string name="notif_disconnect_miasist">Nije povezano s Mi PC Suite</string>
+    <string name="notif_connect_miasist">Povezano s Xiaomi PC Suite</string>
+    <string name="notif_disconnect_miasist">Nije povezano s Xiaomi PC Suite</string>
     <string name="notif_icloud_canceled_summary">Otkazano</string>
     <string name="notif_icloud_canceling_summary">Otkazivanje…</string>
     <string name="notif_icloud_import_title">Uvezi podatke iz iClouda</string>
@@ -487,7 +487,7 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
     <string name="notif_icloud_need_wifi_summary">Čekanje na Wi-Fi</string>
     <string name="notif_icloud_saved_summary">Uspješno uvezeno</string>
     <string name="notif_icloud_saving_summary">Vraćanje podataka…</string>
-    <string name="notif_miasist_try_to_connect">Mi PC Suite se pokušava povezati s vašim uređajem</string>
+    <string name="notif_miasist_try_to_connect">Xiaomi PC Suite se pokušava povezati s vašim uređajem</string>
     <string name="notif_parse_select_descript_error">"Ne mogu sinkronizirati popis pohranjenih stavki."</string>
     <string name="notif_receiving_transingsd">Primanje %1$s (%2$s)…</string>
     <string name="notif_restore_complete_title">Uspješno vraćeno</string>
@@ -556,7 +556,7 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
     <string name="permission_write_storage">Spremanje stavki u pohranu</string>
     <string name="phone_title">Postavke telefona</string>
     <string name="platform_chooser_item_android">Uvezi s Android uređaja</string>
-    <string name="platform_chooser_item_android_mi">Mi Telefon</string>
+    <string name="platform_chooser_item_android_mi">Xiaomi Telefon</string>
     <string name="platform_chooser_item_android_others">Ostale marke</string>
     <string name="platform_chooser_item_ios">Uvezi s iOS uređaja</string>
     <string name="platform_chooser_title">Odaberite stari uređaj</string>
@@ -609,7 +609,7 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
     <string name="sc_others">Došlo je do pogreške</string>
     <string name="sc_precondition_failed">Morate prvo dodati adresu e-pošte na vaš Mi Račun</string>
     <string name="sc_request_timeout">Zahtjev je istekao</string>
-    <string name="sc_service_unavailable">Mi Cloud nedostupan</string>
+    <string name="sc_service_unavailable">Xiaomi Cloud nedostupan</string>
     <string name="sc_unaccess_password_file">"Ne mogu naći zaporku Wi-Fi mreže"</string>
     <string name="sc_unauthorized">Prijavite se ponovno</string>
     <string name="scan_soft_ap">Traženje novog uređaja…</string>
@@ -619,7 +619,7 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
     <string name="sdcard_no_enough_space_message">"Nema dovoljno prostora za pohranu na SD kartici."</string>
     <string name="sdcard_unmounted">Umetnite sada SD karticu</string>
     <string name="search_menu_title">Traži</string>
-    <string name="see_backup_files_on_router">Pregled Sig. kopija na Mi Routeru %s</string>
+    <string name="see_backup_files_on_router">Pregled Sig. kopija na Xiaomi Routeru %s</string>
     <string name="select_all">Odaberi sve</string>
     <string name="select_backup_item">Odaberite stavke</string>
     <string name="select_empty">Odaberite stavke za uvoz</string>
@@ -762,10 +762,10 @@ da preuzmete i instalirate Mi Mover."</string>
     <string name="trans_install_guide_step1_title">Korak 1</string>
     <string name="trans_install_guide_step2_content">Nakon dovršetka instalacije, dodirnite \"Start\".</string>
     <string name="trans_install_guide_step2_title">Korak 2</string>
-    <string name="trans_intro_desc_1">"Na Mi telefonu, ovežite se na Wi-Fi i dodirnite \"Ja sam primatelj\". Odaberite iOS uređaj, prijavite se na iCloud i uvezite podatke."</string>
+    <string name="trans_intro_desc_1">"Na Xiaomi telefonu, ovežite se na Wi-Fi i dodirnite \"Ja sam primatelj\". Odaberite iOS uređaj, prijavite se na iCloud i uvezite podatke."</string>
     <string name="trans_intro_desc_10">Dodirnite \"Povežite se pomoću QR koda\" na novom uređaju i skenirajte QR kod kako biste uspostavili vezu.</string>
     <string name="trans_intro_desc_3">Otkažite prijenos, izađite iz Mi Movera i počnite iznova. Duplicirane datoteke bit će prebrisane tijekom novog prijenosa.</string>
-    <string name="trans_intro_desc_4">"Mi Mover koristi Wi-Fi za prijenos datoteka. Zato se ne možete povezati s internetom koristeći Wi-Fi na bilo kojem uređaju tijekom prijenosa. Ipak, i dalje možete upotrebljavati mobilne podatke. Međutim, neki noviji uređaji (primjerice Mi 6) i dalje će se moći povezati s internetom putem Wi-Fi veze tijekom prijenosa."</string>
+    <string name="trans_intro_desc_4">"Mi Mover koristi Wi-Fi za prijenos datoteka. Zato se ne možete povezati s internetom koristeći Wi-Fi na bilo kojem uređaju tijekom prijenosa. Ipak, i dalje možete upotrebljavati mobilne podatke. Međutim, neki noviji uređaji (primjerice Xiaomi 6) i dalje će se moći povezati s internetom putem Wi-Fi veze tijekom prijenosa."</string>
     <string name="trans_intro_desc_4_market">"Mi Mover koristi Wi-Fi za prijenos datoteka. Zato se ne možete povezati s internetom koristeći Wi-Fi na bilo kojem uređaju tijekom prijenosa. Ipak, i dalje možete upotrebljavati mobilne podatke."</string>
     <string name="trans_intro_desc_5">Prostor za pohranu na starim uređajima koristi se za stvaranje paketa prijenosa. Prije no što započnete prijenos, provjerite imate li najmanje 500 MB - 1 GB dostupnog prostora za pohranu na svom starom telefonu.</string>
     <string name="trans_intro_desc_6">Postoji nekoliko razloga zašto se to može dogoditi: problemi s kompatibilnošću sustava i aplikacijom, problemi s mrežom, problemi s kompatibilnošću specifični za određeni uređaj itd.</string>
@@ -784,7 +784,7 @@ da preuzmete i instalirate Mi Mover."</string>
     <string name="trans_intro_desc_new">"Dodirnite \"Ja sam primatelj\". Generirat će se QR kôd."</string>
     <string name="trans_intro_desc_old">"Dodirnite \"Ja sam pošiljatelj\". Skenirajte QR kôd na novom telefonu, pričekajte dok Mi Mover ne odredi koje datoteke šaljete i dodirnite \"Pošalji\"."</string>
     <string name="trans_intro_desc_old_market">Dodirnite \"Start\". Skenirajte QR kod na novom telefonu, pričekajte da Mi Mover odredi koje datoteke šaljete i dodirnite \"Pošalji\".</string>
-    <string name="trans_intro_desc_private">"Mi Mover ne može pristupiti fotografijama u skrivenom albumu jer su šifrirane. Te fotografije možete vratiti sa Mi Clouda na novom uređaju."</string>
+    <string name="trans_intro_desc_private">"Mi Mover ne može pristupiti fotografijama u skrivenom albumu jer su šifrirane. Te fotografije možete vratiti sa Xiaomi Clouda na novom uređaju."</string>
     <string name="trans_intro_question_1">%d. Kako koristiti Mi Mover za premještanje podataka s iOS uređaja?</string>
     <string name="trans_intro_question_10">"%d. Ne možete pronaći hotspot na starom uređaju?"</string>
     <string name="trans_intro_question_2">%d. Kako koristiti Mi Mover za premještanje podataka s Android uređaja?</string>
@@ -934,8 +934,8 @@ Nemojte zatvoriti stranicu prije uspostavljanja veze."</string>
     <string name="wifi_title">Postavke Wi-Fi-ja</string>
     <string name="xiaomi_connect_download_manager_fail">"Ne mogu započeti preuzimanje. Uvjerite se da Upravitelj preuzimanja radi normalno."</string>
     <string name="xiaomi_external_storage_unavailable">"Prostor za pohranu nije dostupan, provjerite SD karticu."</string>
-    <string name="xiaomi_router">Mi Router</string>
-    <string name="xiaomi_router_location">Mi Router %s</string>
+    <string name="xiaomi_router">Xiaomi Router</string>
+    <string name="xiaomi_router_location">Xiaomi Router %s</string>
     <string name="xiaomi_update_dialog_message">"Predstavljamo verziju %1$s
  Veličina: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Predstavljamo verziju %1$s 
