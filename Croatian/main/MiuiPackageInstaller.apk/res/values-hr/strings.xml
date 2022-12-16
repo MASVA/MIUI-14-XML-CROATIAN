@@ -169,7 +169,7 @@
     <string name="learn_more">Saznajte više</string>
     <string name="lock_finger">Potvrdite otisak prsta za instalaciju</string>
     <string name="lock_screen_password_authrioze">Potvrdite Zaklj. zaslona za instalaciju</string>
-    string name="lock_screen_risk">Otisak prsta ili Zaklj. zaslona</string>
+    <string name="lock_screen_risk">Otisak prsta ili Zaklj. zaslona</string>
     <string name="lockscreen_access_pattern_cell_added">Dodana ćelija</string>
     <string name="lockscreen_access_pattern_cleared">Uzorak izbrisan</string>
     <string name="lockscreen_access_pattern_start">Uzorak pokrenut</string>
