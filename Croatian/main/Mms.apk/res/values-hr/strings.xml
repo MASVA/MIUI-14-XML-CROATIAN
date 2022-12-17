@@ -1214,7 +1214,7 @@ Pogledajte one preporučene!"</string>
     <string name="rms_video_body">[Video]</string>
     <string name="rms_video_cannt_send_original">"Nije moguće poslati izvorni video. Datoteka je prevelika."</string>
     <string name="rms_view_emoticon_title">Pogledajte emoji</string>
-    string name="rms_view_file_cant_resize">"Ne mogu komprimirati ovu datoteku"</string>
+    <string name="rms_view_file_cant_resize">"Ne mogu komprimirati ovu datoteku"</string>
     <string name="rms_view_file_notsupport">"Ne mogu poslati ovu datoteku kao sliku ili video"</string>
     <string name="rms_view_file_size_notsupport">"Ne mogu poslati ovu datoteku. Datoteka je prevelika."</string>
     <string name="rms_view_file_too_large">Ova datoteka je prevelika. Bit će poslana komprimirana verzija.</string>
