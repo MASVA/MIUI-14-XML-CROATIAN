@@ -521,8 +521,7 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
 	<string name="cleaner_slim_description">Zadrži optimizirane fotografije na uređaju. Originalne datoteke pohranjuju se u Xiaomi Cloudu.</string>
 	<string name="cleaner_slim_start">Optimiziraj</string>
 	<string name="cleaner_slim_title">Optimiziraj fotografije</string>
-	<string name="cleaner_size">Očisti smeće (%s)</string>
-	<string name="cleaner_space_description">može biti oslobođeno</string>
+	<string name="cleaner_size">Izbrišite nedavno obrisane stavke (%s)</string>
 	<string name="cleaner_space_detail_description">Izbrišite fotografije u Galeriji kako biste oslobodili prostor za pohranu</string>
 	<string name="cleaner_stop_scan">Zaustavi skeniranje</string>
 	<string name="cleaner_title">Čistač</string>
@@ -723,8 +722,8 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
 	<string name="delete_from_local_and_cloud">sa ovog uređaja i Xiaomi Clouda</string>
 	<string name="delete_from_this_album_and_cloud">iz ovog albuma i Xiaomi Clouda</string>
 	<string name="delete_from_web">Web albumi</string>
-	<string name="delete_in_album">Odabrane stavke bit će izbrisane iz Xiaomi Clouda i svih povezanih uređaja i pohranjene u kantu za smeće tijekom %d dana ako imate besplatan plan pohrane u Xiaomi Clouda. Svejedno izbrisati?</string>
-	<string name="delete_in_home_page">Odabrane stavke bit će izbrisane iz Xiaomi Clouda i svih povezanih uređaja i pohranjene u kantu za smeće tijekom %d dana ako imate besplatan plan pohrane u Xiaomi Clouda. Svejedno izbrisati?</string>
+	<string name="delete_in_album">Odabrane stavke bit će izbrisane iz Xiaomi Clouda i svih povezanih uređaja i pohranjene među nedavno izbrisanim stavkama za %d dana ako imate besplatan plan pohrane u Xiaomi Clouda. Svejedno izbrisati?</string>
+	<string name="delete_in_home_page">Odabrane stavke bit će izbrisane iz Xiaomi Clouda i svih povezanih uređaja i pohranjene među nedavno izbrisanim stavkama za %d dana ako imate besplatan plan pohrane u Xiaomi Clouda. Svejedno izbrisati?</string>
 	<string name="delete_in_process">Brisanje…</string>
 	<string name="delete_origin">Izbriši stavke iz izvornog albuma</string>
 	<string name="delete_other_shared_images">"Ne mogu izbrisati fotografije podijeljenje od drugih"</string>
@@ -1321,6 +1320,8 @@ za fotografije"</string>
 	<string name="have_known">Razumijem</string>
 	<string name="hdr_show_hint">Prilagodite zaslon za prikaz više detalja u sjenama i istaknutim dijelovima na stavkama s visokim dinamičkim rasponom</string>
 	<string name="hdr_show_title">Prikaži HDR</string>
+	<string name="hdr_switch_show_hint">Koristite HDR za prikaz više detalja u svijetlim i sjenama</string>
+   <string name="hdr_switch_show_title">Prikaz visokog dinamičkog raspona</string>
 	<string name="header_help">Pomoć</string>
 	<string name="help">"Ne možete pronaći uređaje?"</string>
 	<string name="help_content">"Ako ne možete pronaći uređaj koji vam je potreban, zamolite drugu osobu da ga uključi Mi Share."</string>
@@ -3275,18 +3276,18 @@ Do %1$s možete premjestiti svoje stavke na Google fotografije ili posjetiti i.m
 	<string name="transfer_status_banner_msg_processing">"Prijenos fotografija i videozapisa%1$s
 (%2$d/%3$d)"</string>
 	<string name="transfer_status_banner_msg_unbinding">Uklanjanje računa sada. Pričekajte minutu ili dvije i ponovno pokrenite prijenos%1$s</string>
-	<string name="trash_bin">Kanta za smeće</string>
+	<string name="trash_bin">Izbrisane stavke</string>
 	<string name="trash_bin_key_word">Izbrisane fotografije</string>
 	<string name="trash_bin_summary">Pregledajte pohranjene fotografije koje su izbrisane nedavno</string>
 	<string name="trash_bin_summary_local">Pogledajte nedavno izbrisane fotografije i videozapise</string>
 	<string name="trash_empty">Ovdje nema stavki.</string>
-	<string name="trash_high_occupied_tip_banner">Veličina smeća dosegla je %1$s. Očistite smeće da biste oslobodili prostor.</string>
-	<string name="trash_high_occupied_tip_toast">Veličina smeća dosegla je %1$s. Očistite smeće da biste oslobodili prostor.</string>
+	<string name="trash_high_occupied_tip_banner">Nedavno izbrisane stavke zauzimaju %1$s. Izbrišite neke da biste oslobodili prostor.</string>
+	<string name="trash_high_occupied_tip_toast">Nedavno izbrisane stavke zauzimaju %1$s. Izbrišite neke da biste oslobodili prostor.</string>
 	<string name="trash_menu_delete">Izbriši</string>
 	<string name="trash_menu_recovery">Vrati</string>
-	<string name="trash_purge_all">"Sve fotografije i videozapisi bit će izbrisani iz Xiaomi Clouda. Nećete ih moći vratiti. Izbrisati svejedno?</string>
-	<string name="trash_purge_all_cloud">Sve stavke u smeću trajno će se izbrisati iz Clouda i sa svih sinkroniziranih uređaja. Izbrisati svejedno?</string>
-	<string name="trash_purge_all_local">Sve stavke u smeću bit će trajno izbrisane. Izbrisati svejedno?</string>
+	<string name="trash_purge_all">"Sve nedavno izbrisane stavke bit će trajno izbrisane iz Xiaomi Clouda i svih sinkroniziranih uređaja. Izbrisati svejedno?</string>
+	<string name="trash_purge_all_cloud">Sve nedavno izbrisane stavke bit će trajno izbrisane iz Xiaomi Clouda i svih sinkroniziranih uređaja. Izbrisati svejedno?</string>
+	<string name="trash_purge_all_local">Sve nedavno izbrisane stavke bit će trajno izbrisane. Izbrisati svejedno?</string>
 	<string name="trash_purge_dialog_title">Očisti smeće</string>
 	<string name="trash_purge_positive_button">Izbriši</string>
 	<string name="trash_size">Izbrisane stavke (%s)</string>

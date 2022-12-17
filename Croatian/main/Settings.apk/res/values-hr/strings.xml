@@ -6911,7 +6911,7 @@ Nastavite pristupiti dodatnim postavkama."</string>
   <string name="miui_sos_exit_emergency_title">Isključi</string>
   <string name="miui_sos_exit_send_location_title">Dijeljenje vaše lokacije s kontaktima za hitne slučajeve u stvarnom vremenu</string>
   <string name="miui_sos_green_guard_summary">Podijeli informacije o lokaciji u stvarnom vremenu</string>
-  <string name="miui_sos_green_guard_title">Roditeljski nadzor</string>
+  <string name="miui_sos_green_guard_title">Family Guard</string>
   <string name="miui_sos_hospital_card">Medicinska iskaznica</string>
   <string name="miui_sos_hospital_card_important_info">Vaše kritične medicinske informacije za prve odgovore</string>
   <string name="miui_sos_launch_error">"Ne mogu aktivirati Hitni SOS"</string>

@@ -467,11 +467,14 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
     <string name="video_call_not_allowed_if_tty_enabled">Isključite prvo TTY način</string>
     <string name="video_conference_caller_info_name">"Video konferencijski poziv od %1$s"</string>
     <string name="video_crbt_title">"Reproducira se zvuk videozapisa drugog partnera"</string>
+	 <string name="vilte_call">ViLTE</string>
+    <string name="viwifi_call">ViWifi</string>
     <string name="video_switch_to_voice_call_prompt">Prebaci na glasovni poziv</string>
     <string name="voice_control_deny_permission_msg">"Sada se ne mogu koristiti glasovne kontrole. Dopustite ovoj aplikaciji da prvo snimi zvuk."</string>
     <string name="voicemail">GOVORNA POŠTA</string>
     <string name="voicemail_abbreviated">VM:</string>
-    <string name="volte_call">VoLTE poziv</string>
+    <string name="volte_call">"Vo
+LTE"</string>
     <string name="volume_boost_text">Glasnoća uspješno pojačana</string>
     <string name="wait_prompt_str">"Poslati sljedeće tonove?"
 "</string>
@@ -479,6 +482,7 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
     <string name="wednesday">Srijeda</string>
     <string name="wednesday_short">Sri</string>
     <string name="wednesday_shortest">S</string>
-    <string name="wifi_call">VoWifi poziv</string>
+    <string name="wifi_call">"Vo
+WiFi"</string>
     <string name="yesterday">Jučer</string>
 </resources>

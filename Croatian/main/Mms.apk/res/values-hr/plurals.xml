@@ -87,6 +87,26 @@
         <item quantity="other">Označeno kao %2$s od strane %1$d osoba</item>
         <item quantity="one">Označeno kao %2$s od strane %1$d osobe</item>
     </plurals>
+	 <plurals name="max_audio_length">
+        <item quantity="other">Audioporuke mogu trajati do %1$4d sek.</item>
+        <item quantity="one">Audioporuka može trajati do %1$4d sek.</item>
+    </plurals>
+    <plurals name="max_file_size">
+        <item quantity="other">Pošalji datoteke do %1$4d MB</item>
+        <item quantity="one">Pošalji datoteke do %1$4d MB</item>
+    </plurals>
+    <plurals name="max_recipients_size">
+        <item quantity="other">Poruke može poslati do %1$4d kontakata</item>
+        <item quantity="one">Poruku možete poslati do %1$4d kontaktu</item>
+    </plurals>
+    <plurals name="max_text_size">
+        <item quantity="other">Poruke mogu sadržavati do %1$4d znakova</item>
+        <item quantity="one">Poruka može sadržavati do %1$4d znakova</item>
+    </plurals>
+    <plurals name="max_video_length">
+        <item quantity="other">Videozapisi mogu trajati do %1$4d sek.</item>
+        <item quantity="one">Videozapis može trajati do %1$4d sek.</item>
+    </plurals>
     <plurals name="message_count">
         <item quantity="other">Poruka: %1$s</item>
         <item quantity="one">%1$s poruka</item>

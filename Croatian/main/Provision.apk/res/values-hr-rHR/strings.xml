@@ -63,12 +63,18 @@
     <string name="calculator_introduction">Ovu aplikaciju možete koristiti za izračunavanje, pretvaranje jedinica i valuta i procjenu otplate hipoteke.</string>
     <string name="camera_application_introduction">Ovu aplikaciju možete koristiti za snimanje fotografija i videozapisa.</string>
     <string name="camera_introduction">Kameru možete koristiti za snimanje fotografija i videozapisa.</string>
+    <string name="carousel_cookies_content"><Data>Kada dodirnete slike i priče u Wallpaper Carouselu, njihove pune verzije otvorit će se u vašem pregledniku. Naš davatelj sadržaja treće strane od povjerenja tada može preporučiti dodatni sadržaj i oglase koji su prilagođeni vašim interesima. Ako pristanete aktivirati ovu značajku, oni će postaviti kolačiće u vaš preglednik, kao što je opisano u ovome &lt;a href=\"%1$s\">Cookie Policy&lt;/a>. If you decline cookies, Wallpaper Carousel will still work but its content and recommendations might stop being relevant to you. You can always change your preferences in Settings.</Data></string>
+    <string name="carousel_cookies_subtitle">Kolačići nam omogućuju da personaliziramo vaše iskustvo Zaklj. zaslona.</string>
+    <string name="carousel_cookies_title">Personalizirani sadržaj i kolačići</string>
+    <string name="carousel_privacy"><Data>"Pročitajte i prihvatite našeg pouzdanog pružatelja treće strane &lt;a href=\"%1$s\">Pravila o privatnosti&lt;/a> i &lt;a href=\"%2$s\">Korisnički ugovor&lt;/a> prije korištenja Wallpaper Carousela."</Data></string>
+    <string name="carousel_setting">Postavite svoj Zaklj. zaslon</string>
+    <string name="carousel_setting_sub">Wallpaper Carousel pokazat će vam nove priče svaki put kada otključate svoj uređaj</string>
     <string name="carrier_introduction_china">"Kako bi vam pružili bolje usluge, procesi koji se izvode na vašem uređaju (uključujući SystemHelper, RegService i Carrier Services) mogu povremeno slati podatke koji se odnose na vaš uređaj i SIM karticu (uključujući IMEI, IMSI, MSISDN, MEID, ICCID, MAC adresu, MIUI verziju, Android verziju, model uređaja i osnovne hardverske specifikacije), kao i približne informacije o lokaciji (uključujući regiju, koordinate, identifikator područja i ID bazne stanice) operateru putem Wi-Fi-ja, mobilne podatkovne mreže ili besplatnog SMS-a. Prijevoznik obećava da će analizirati relevantne informacije samo radi poboljšanja kvalitete usluga ili pružanja prilagođenih usluga ili tehnologija i neće otkriti relevantne informacije trećim stranama u bilo kojem obliku koji vas osobno identificira. Posebna izjava prijevoznika ima prednost. U vezi troškova korištenja ove usluge posavjetujte se sa svojim operaterom."</string>
+    <string name="check_box_label"><Data>"Uključivanjem ove značajke prihvaćate &lt;a href=%1$s>Xiaomi Interconnectivity Services Privacy Policy&lt;/a >."</Data></string>
     <string name="clearable_edittext_clear_description">Izbriši</string>
     <string name="clock_introduction">Ovu aplikaciju možete koristiti za prikaz vremena, kao i korištenje timera, svjetskog sata, štoperice, postavljanje alarma i još mnogo toga.</string>
     <string name="close">Zatvori</string>
     <string name="close_location_service_setting">Pristup lokaciji možete isključiti u Postavke &gt; Dodatne postavke &gt; Privatnost ili ograničiti dopuštenja za pojedine aplikacije u aplikaciji Sigurnost.</string>
-    <string name="cloud_service_discount">Popusti na plan pohrane</string>
     <string name="cm_terms_content">"U cilju poboljšanja usluge koje vam pruža operater mobilne mreže po vašem izboru može učitati Vaše osobne podatke i informacije o ovom uređaju na svoje poslužitelje koji koriste Wi-Fi mreže ili mobilnu podatkovnu vezu. Ove će se informacije koristiti isključivo u statističke svrhe, kako bi se poboljšala kvaliteta usluga i pruži vam se više personaliziranih sadržaja. Ti se podaci neće koristiti za vašu osobnu identifikaciju i neće biti dani na uvid trećim osobama."</string>
     <string name="cm_terms_title">Sporazum operatera mobilne mreže</string>
     <string name="compass_introduction">Ovu aplikaciju možete koristiti za navigaciju, kao i za pregled koordinata, atmosferskog tlaka i nadmorske visine.</string>
@@ -76,6 +82,7 @@
     <string name="congratulation_swipe">Povucite prema gore za ulaz u sustav</string>
     <string name="congratulation_title">Postavljanje je dovršeno</string>
     <string name="content_description_complete">Dovršeno</string>
+	 <string name="content_description_miui_version">MIUI 14</string>
     <string name="content_description_language_picker">Odaberi jezik</string>
     <string name="content_description_start">Start</string>
     <string name="content_introduction">Centar za sadržaj objedinjuje sadržaj i usluge s više kanala. Ovdje možete čitati članke, gledati videozapise, pregledavati svakodnevno predstavljene stavke i primati preporuke za sadržaj.</string>
@@ -84,8 +91,7 @@
     <string name="cookies_content_two">"Odlučite želite li da naši pouzdani pružatelji sadržaja treće strane koriste kolačiće za prilagodbu preporuka sadržaja i oglasa na temelju vaših interesa."</string>
     <string name="cookies_title">Personalizirani sadržaj i kolačići</string>
     <string name="copy">Kopiraj</string>
-	  <string name="create_shortcut">Prečac Poč. zaslona</string>
-	  <string name="check_box_label"><Data>"Uključivanjem ove značajke prihvaćate &lt;a href=%1$s>Politika privatnosti Xiaomi Interconnectivity Services&lt;/a >."</Data></string>
+    <string name="create_shortcut">Prečac Poč. zaslona</string>
     <string name="data_traffic_enable_dialog_title">"Ako sada niste povezani s Wi-Fi mrežom, vaš će uređaj koristiti mobilne podatke. Korištenje mobilnih podataka može generirati dodatne troškove mobilnog operatera."</string>
     <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
     <string name="desc_extra_fingerprint"/>
@@ -183,20 +189,17 @@ Značajke su podložne promjenama. Neke od gore navedenih značajki možda neće
     <string name="item_skip">Preskoči</string>
     <string name="ktposition_header">Dijeljenje informacija o lokaciji s hitnim spasilačkim agencijama</string>
     <string name="language_picker_other_languages_title">Više jezika</string>
-    <string name="language_picker_popular_languages_title">Odaberi jezik</string>
-    <string name="language_settings">Postavke jezika</string>
+    <string name="language_settings">Odaberi jezik</string>
     <string name="locale_picker_other_locale_title">Više regija</string>
     <string name="locale_picker_title">Odaberite vašu regiju</string>
+    <string name="location_U">U+ GPSnWPS</string>
     <string name="location_content">U skladu sa zakonom, mobilni operateri mogu dobiti informacije o lokaciji mobilnih uređaja kako bi udovoljili zahtjevima hitnih spasilačkih agencija (vatrogasne službe i policija) koje provode sigurnosne i hitne spasilačke svrhe.</string>
     <string name="location_introduction">Usluge lokacije pružaju razne usluge temeljene na lokaciji na temelju vaših podataka o lokaciji.</string>
-    <string name="location_location">Agencije za hitno spašavanje mogu dobiti vaše trenutno mjesto na zahtjev</string>
     <string name="location_introduction_qcom">Usluge lokacije koriste pozicioniranje za pružanje usluga specifičnih za lokaciju. Kada vaš uređaj koristi usluge lokacije, QCC modul će se povezati s mrežom kako bi se ubrzao proces pozicioniranja.</string>
-	 <string name="lockscreen_introduction">Wallpaper Carousel omogućava vam da svakodnevno dobijate nove slike pozadina Zaklj. zaslona.</string>
-    <string name="member_exclusive_medal">Članska značka</string>
-    <string name="membership_rights_tip">Prijavite se na svoj Mi Račun da dobijete ekskluzivne pogodnosti</string>
+    <string name="location_location">Agencije za hitno spašavanje mogu dobiti vaše trenutno mjesto na zahtjev</string>
+    <string name="lockscreen_introduction">Wallpaper Carousel omogućava vam da svakodnevno dobijate nove slike pozadina Zaklj. zaslona.</string>
     <string name="message_introduction">Ovu aplikaciju možete koristiti za slanje i primanje SMS poruka.</string>
     <string name="mi_account_introduction">Mi Račun vam omogućuje registraciju, prijavu i upravljanje računima sustava.</string>
-    <string name="miliao_account_login">Prijavite se s Mi Talk</string>
     <string name="mint_keyboard_oobe_checkbox">"Pročitao sam i prihvatio Pravila o privatnosti Mint Keyboard"</string>
     <string name="mint_keyboard_oobe_terms">Pravila o privatnosti Mint Keyboard</string>
     <string name="miui_privacy_policy_no_network">"Niste povezani s internetom. Pogledajte Pravila o privatnosti na %s."</string>
@@ -232,7 +235,6 @@ Značajke su podložne promjenama. Neke od gore navedenih značajki možda neće
     <string name="monday">Ponedjeljak</string>
     <string name="monday_short">Pon</string>
     <string name="monday_shortest">P</string>
-    <string name="month">Mjesec</string>
     <string name="month_april">Travanj</string>
     <string name="month_april_short">Tra</string>
     <string name="month_april_shortest">T</string>
@@ -260,9 +262,6 @@ Značajke su podložne promjenama. Neke od gore navedenih značajki možda neće
     <string name="month_may">Svibanj</string>
     <string name="month_may_short">Svi</string>
     <string name="month_may_shortest">S</string>
-    <string name="month_medium_april">Tra</string>
-    <string name="month_medium_august">Kol</string>
-    <string name="month_medium_december">Pro</string>
     <string name="month_november">Studeni</string>
     <string name="month_november_short">Stu</string>
     <string name="month_november_shortest">S</string>
@@ -286,7 +285,6 @@ Značajke su podložne promjenama. Neke od gore navedenih značajki možda neće
     <string name="navigation_picker_gesture_guide">Vodič za geste</string>
     <string name="navigation_picker_radio_text_full_screen">Geste u cijelom zaslonu</string>
     <string name="navigation_picker_radio_text_virtual_key">Tipke</string>
-    <string name="network_access_warning">Trebate se povezati s internetom kako biste aktivirali Mi Service i \"Pronađi uređaj\"</string>
     <string name="next">Dalje</string>
     <string name="next_fingerprint">Dalje</string>
     <string name="not_set">Nije postavljeno</string>
@@ -307,13 +305,11 @@ Značajke su podložne promjenama. Neke od gore navedenih značajki možda neće
     <string name="other_settings_enhanced_lockscreen_privacy_index">Pravila o privatnosti</string>
     <string name="other_settings_enhanced_lockscreen_summary">Dobijte slike i priče koje se dnevno isporučuju na vaš Zaklj. zaslon. Primjenjuju se Uvjeti i odredbe.</string>
     <string name="other_settings_enhanced_lockscreen_summary_index">Uvjeti i odredbe</string>
-	 <string name="other_settings_get_apps">Automatski ažurirajte aplikacije</string>
+    <string name="other_settings_get_apps">Automatski ažurirajte aplikacije</string>
     <string name="other_settings_get_apps_summary">"Ažurirajte sustav i partnerske aplikacije trećih strana putem GetAppsa kako biste mogli koristiti njihove najnovije značajke.
 Autom. ažuriranja možete isključiti u GetApps > Postavke > Autom. ažuriranja."</string>
     <string name="other_settings_location">Lokacije</string>
     <string name="other_settings_location_summary">Dopustite aplikacijama i web-lokacijama pristup informacijama o vašoj lokaciji radi pružanja usluga temeljenih na lokaciji</string>
-    <string name="other_settings_mifg_online_content">Wallpaper Carousel</string>
-    <string name="other_settings_mifg_online_content_summary">Dopustite Wallpaper Carousel povezivanje na internet kako bi preuzeo nove slike pozadine.</string>
     <string name="other_settings_quality_service">Dopuštenja za MIUI Daemon</string>
     <string name="other_settings_quality_service_summary">MIUI Daemon koristi se za poboljšanje stabilnosti i performansi sustava. Da bi mogla normalno raditi, ovoj usluzi su potrebna dopuštenja za pristup i spremanje stavki u pohranu uređaja.</string>
     <string name="other_settings_upload_debug_log_detail">"Pomozite poboljšati doživljaj MIUI uređaja automatskim slanjem dijagnostičkih podataka, podataka o korištenju uređaja i aplikacija na Xiaomi. To će vam pomoći poboljšati vijek trajanja baterije, MIUI sustav i stabilnost aplikacije i još mnogo toga.
@@ -323,8 +319,7 @@ Ovom značajkom možete upravljati u Postavke&gt; Zaporke &amp; sigurnost &gt; P
     <string name="other_settings_upload_debug_log_summary">Pomozite poboljšati doživljaj MIUI uređaja automatskim slanjem dijagnostičkih podataka, podataka o korištenju uređaja i aplikacija na Xiaomi. To će vam pomoći poboljšati vijek trajanja baterije, MIUI sustav i stabilnost aplikacije i još mnogo toga.</string>
     <string name="other_settings_upload_debug_log_title">Pošaljite podatke o korištenju i dijagnostici</string>
     <string name="other_settings_user_experience">Program iskustva korisnika</string>
-    <string name="other_settings_user_experience_summary">Pomozite nam poboljšati naše proizvode i usluge dijeljenjem podataka o korištenju s nama</string>
-    <string name="other_settings_user_experience_summary1">Prikaži Pravila o privatnosti</string>
+    <string name="other_settings_user_experience_summary">Pomozite nam poboljšati naše proizvode i usluge tako što ćete s nama podijeliti svoju statistiku korištenja.</string>
     <string name="other_settings_user_experience_summary_index">Detalji</string>
     <string name="permission_MIUIDaemon_introduction">MIUI Daemon omogućuje vam prijenos podataka s uređaja kada je njegov zaslon oštećen.</string>
     <string name="permission_access_calendar">Pristup kalendaru</string>
@@ -439,7 +434,6 @@ Ovom značajkom možete upravljati u Postavke&gt; Zaporke &amp; sigurnost &gt; P
     <string name="pref_title_data_slot">Poželjni podaci SIM kartice</string>
     <string name="pref_title_voice_slot">Poželjne glas. usluge SIM kartice</string>
     <string name="preference_copied">Sažetak \"%1$s\" je kopiran u međuspremnik.</string>
-	 <string name="preinstall_tips">Priprema…</string>
     <string name="privacy_content_one">"Preporuke za Wallpaper Carousel pokreće Taboola, naš pouzdani pružatelj sadržaja treće strane. Da bi pružio ovaj sadržaj, Taboola mora pristupiti i pohraniti neosobne podatke s vašeg uređaja, uključujući jezik vašeg sustava i vrstu preglednika. Možete saznati kako Taboola koristi prikupljene podatke u Taboolinim &lt;a href =%1$s>Pravila o privatnosti&lt;/a> i &lt;a href =%2$s>Korisnički ugovor&lt;/a>. Pročitajte i prihvatite uvjete i odredbe navedene u ovim dokumentima prije nego nastavite. Ako se ne slažete, usluge Wallpaper Carousel bit će deaktivirane."</string>
     <string name="privacy_policy">Pravila o privatnosti</string>
     <string name="privacy_provision_more">Saznajte više o zaštiti privatnosti</string>
@@ -470,7 +464,7 @@ Ovom značajkom možete upravljati u Postavke&gt; Zaporke &amp; sigurnost &gt; P
     <string name="security_introduction">Ovom aplikacijom možete očistiti smeće na svom uređaju, pronaći i neutralizirati viruse, optimizirati performanse za igre, uštedjeti bateriju, upravljati aplikacijama, dopuštenjima i još mnogo toga.</string>
     <string name="security_mobile_account_introduction">Za prijavu i upravljanje sistemskim računima</string>
     <string name="send">Pošalji</string>
-    <string name="service_agreement">"Pročitao sam i pristao na uvjete i odredbe."</string>
+    <string name="service_agreement">"Pročitao sam i prihvatio uvjete i odredbe."</string>
     <string name="service_company_adjust_content">Xunlei Network Services User Agreement</string>
     <string name="service_fast_pairing_policy"><Data>Pročitajte i prihvatite &lt;a href=%1$s>Mi Link Privacy Policy&lt;/a > prije nego nastavite.</Data></string>
     <string name="service_interconnection_communication">Xiaomi Internet Communication Services</string>
@@ -585,7 +579,6 @@ Ovom značajkom možete upravljati u Postavke&gt; Zaporke &amp; sigurnost &gt; P
     <string name="terms_of_use_label_use_location_and_network_global">Prije korištenja MIUI-a morate pročitati i prihvatiti naš Korisnički ugovor i Pravila o privatnosti. Zaštitit ćemo vaše osobne podatke u skladu s relevantnim zakonima, propisima i politikama privatnosti. Kad je vaš uređaj aktiviran, sljedeće će se usluge povezati s mrežom i pristupiti vašoj lokaciji:</string>
     <string name="terms_of_use_label_use_network_china">Prije korištenja MIUI-a morate pročitati i prihvatiti naš Korisnički ugovor i Pravila o privatnosti. Zaštitit ćemo vaše osobne podatke u skladu s relevantnim zakonima, propisima i politikama privatnosti. Kad je vaš uređaj aktiviran, na mrežu će se povezati sljedeće usluge:</string>
     <string name="terms_of_use_label_wallpaper">Slika pozadine</string>
-    <string name="terms_of_use_lable_apps_wifi_device">Mi Usluge, Xiaomi Cloud, Pronađi uređaj, Početni zaslon, Igre, MIUI Daemon, MSA komponente sustava, usluge prevođenja, Brze aplikacije, Zaklj. aplikacija, statistike, Mi Link</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Morate prihvatiti Facemoji Pravila o privatnosti prije korištenja ove značajke."</string>
@@ -614,9 +607,7 @@ Prije korištenja ove značajke morate prihvatiti Pravila o privatnosti Mint Key
     <string name="tuesday">Utorak</string>
     <string name="tuesday_short">Uto</string>
     <string name="tuesday_shortest">U</string>
-    <string name="two_dimensional_code_scan">Skeniraj QR kod</string>
-    <string name="user_agreement">Uvjeti pružanja usluge</string>
-    <string name="user_strayed_warning">Ova je stranica dizajnirana za tvorničko ispitivanje. Dodirnite \"Natrag\" za izlaz.</string>
+    <string name="user_agreement">Korisnički ugovor</string>
     <string name="v7_preference_off">ISKLJUČENO</string>
     <string name="v7_preference_on">UKLJUČENO</string>
     <string name="voice_assist_advice">Mi AI omogućuje vam korištenje glasovnih kontrola, ali troši više energije (+1% svakih sat vremena).</string>
@@ -641,7 +632,6 @@ Prije korištenja ove značajke morate prihvatiti Pravila o privatnosti Mint Key
     <string name="withdraw_consent">Ako povučete suglasnost, usluge Wallpaper Carousel bit će deaktivirane.</string>
     <string name="xiaomi_game_discounts">Promocije igara</string>
     <string name="xiaomi_membership_rights">Xiaomi Cloud članstvo</string>
-    <string name="xiaomi_video_discount">Mi Video ponude</string>
     <string name="yesterday">Jučer</string>
     <string name="zone_picker_title">Odaberite vremensku zonu</string>
 </resources>

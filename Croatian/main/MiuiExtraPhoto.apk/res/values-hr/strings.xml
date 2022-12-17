@@ -202,6 +202,14 @@
     <string name="refocus_type_relighting_small_face">3D osvjetljenje radi na fotografijama gdje lica zauzimaju više prostora nego ovdje.</string>
     <string name="refocus_type_static">Nivo zamagljenja</string>
     <string name="refocus_type_video">Svjetlosne staze</string>
+	 <string name="saf_operation_guide_1">"Uređivač galerije treba vaše dopuštenje da bi mogao zaštititi vaše podatke i upravljati njima. "</string>
+	 <string name="saf_operation_guide_2">Da biste dali dopuštenje, dodirnite \"%1$s\", a zatim odaberite \"%2$s\".</string>
+	 <string name="saf_operation_guide_param1">Dalje</string>
+	 <string name="saf_operation_guide_param2">Pristup ovoj mapi</string>
+	 <string name="saf_requester_cancel">Odustani</string>
+	 <string name="saf_requester_title">Dopusti uređivaču galerije pristup \"%s\"</string>
+	 <string name="saf_secret_album">Privatni album</string>
+	 <string name="saf_secret_album_guide">Ova aplikacija treba dopuštenje za prikaz stavki iz vašeg privatnog albuma.</string>
     <string name="saturday">Subota</string>
     <string name="saturday_short">Sub</string>
     <string name="saturday_shortest">S</string>

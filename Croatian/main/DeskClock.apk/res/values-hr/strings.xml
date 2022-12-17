@@ -183,6 +183,8 @@
     <string name="expand_button_title">Napredno</string>
     <string name="expired_timers_dismissed">Timer je odbačen</string>
     <string name="fab_menu_sort">Poredaj</string>
+	 <string name="force_start_permission_desc">"Omogući normalno funkcioniranje alarma čak i kada ste zatvorili aplikaciju"</string>
+    <string name="force_start_permission_title">Autom. pokretanje</string>
     <string name="force_touch_add_alarm">Dodaj alarm</string>
     <string name="force_touch_enter_stopwatch">Štoperica</string>
     <string name="force_touch_enter_timer">Timer</string>

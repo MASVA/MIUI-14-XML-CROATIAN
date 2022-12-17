@@ -194,6 +194,8 @@ Pošaljite ovaj kôd nadzorniku."</string>
 	 <string name="facebook_login_btn_content_description">Prijavite se s Facebookom</string>
     <string name="failed_dup_secure_phone_number">Ovaj broj telefona je već povezan s drugim Mi Računom</string>
     <string name="failed_to_fetch_fql">"Ne mogu dobiti informacije o FAQ-u, provjerite mrežnu vezu"</string>
+	 <string name="feedback_account_inconsistent_login_hint">Čini se da ste promijenili račun. Prijavite se na svoj prethodni Mi Račun.</string>
+    <string name="feedback_account_login_hint">Prvo se prijavite na svoj Mi Račun</string>
     <string name="feedback_answer_detail_feedback_resolved">Da</string>
     <string name="feedback_answer_detail_feedback_result">Hvala na povratnim informacijama!</string>
     <string name="feedback_answer_detail_feedback_title">Je li ovo bilo od pomoći?</string>
@@ -370,6 +372,7 @@ Bočne ploče
     <string name="login_by_local_phone_long_text">Prijavite se sada</string>
     <string name="login_by_local_phone_short_text">Prijava</string>
     <string name="login_other">Još jedan Mi Račun</string>
+	 <string name="login_out">Odjava</string>
     <string name="login_register_by_local_phone_long_text">Izradi račun</string>
     <string name="login_with_sns">Drugi načini prijave</string>
     <string name="logo_title">Povratne inf.</string>

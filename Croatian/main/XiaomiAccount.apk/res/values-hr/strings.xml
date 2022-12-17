@@ -125,7 +125,6 @@ Vaš profil je ažuriran sa informacijama iz vašeg %s računa.</string>
     <string name="character_counter_content_description">Unešeno znakova %1$d od %2$d</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
 	 <string name="check_apk_update">Provjeri ažuriranja</string>
-    <string name="checking_phone_num_availible">Provjera telefona…</string>
 	 <string name="child_account_system_ad_disable_hint">Ova značajka nije dostupna za dječje račune</string>
     <string name="clearable_edittext_clear_description">Izbriši</string>
     <string name="close">Zatvori</string>
@@ -188,7 +187,7 @@ Vaš profil je ažuriran sa informacijama iz vašeg %s računa.</string>
     <string name="common_google_play_services_update_title">Ažuriraj usluge za Google Play</string>
     <string name="common_google_play_services_updating_text">"%1$s neće funkcionirati bez Google Play usluga koje se trenutačno ažuriraju."</string>
     <string name="common_google_play_services_wear_update_text">Potrebna je nova verzija Google Play usluga. Uskoro će se ažurirati.</string>
-    <string name="common_open_on_phone">Otvaranje na telefonu</string>
+    <string name="common_open_on_phone">Otvori na na telefonu</string>
     <string name="common_signin_button_text">Prijava</string>
     <string name="common_signin_button_text_long">Prijavi se sa Google</string>
     <string name="completed">Sve je postavljeno!</string>
@@ -227,11 +226,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="enable">Postavke</string>
     <string name="ep_unsupported">"Ne mogu se prijaviti na Mi Račun na vašem uređaju"</string>
     <string name="error_dup_binded_email">Ova adresa e-pošte već je povezana s drugom Mi Računom.</string>
-    <string name="error_duplicate_answers">"Nemojte koristiti duplicirane odgovore iz sigurnosnih razloga"</string>
-    <string name="error_incomplete_question_or_answer">Odaberite 4 pitanja i ponudite odgovore</string>
     <string name="error_invalid_bind_address">Adresa e-pošte koju ste unijeli nije važeća.</string>
-    <string name="error_longer_answer_length">Odgovor može sadržavati do 128 znakova</string>
-    <string name="error_shorter_answer_length">Odgovor bi trebao biti dugačak barem 2 znaka</string>
     <string name="exceed_binded_phone_times_notice">Ovaj broj telefona je već povezan s drugim Mi Računom.</string>
     <string name="exit">Izlaz</string>
     <string name="expand_button_title">Napredno</string>
@@ -271,9 +266,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="find_device_unknown_error">"Ne mogu dobiti status uređaja, pričekajte minutu ili dvije i pokušajte ponovno"</string>
     <string name="find_equipment">Pronađi uređaj</string>
 	 <string name="find_new_apk_version">Dostupno je ažuriranje</string>
-    <string name="first_login_time">Prvi pokušaj prijave: %s</string>
     <string name="for_diagnosis_usage_only">Koristi se samo za pronalaženje problema.</string>
-    <string name="forward_to_bind">Dodaj</string>
     <string name="friday">Petak</string>
     <string name="friday_short">Pet</string>
     <string name="friday_shortest">P</string>
@@ -299,7 +292,6 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="i_agree">U redu</string>
     <string name="i_agree_continue">Nastavi</string>
     <string name="identity">Identifikacija</string>
-    <string name="ignore">Ne sada</string>
     <string name="inconsistent_pwd">"Zaporke se ne podudaraju"</string>
     <string name="input_email_address_notice">"Ova adresa e-pošte će biti korištena za potvrdu vašeg računa"</string>
     <string name="input_new_pwd">Unesite novu zaporku</string>
@@ -481,7 +473,6 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="passport_continue">Nastavi</string>
     <string name="passport_copy_message_text_success">Uspješno kopirano</string>
     <string name="passport_copy_message_vcode">Kopiraj kod</string>
-    <string name="passport_country_code_notice">Kod zemlje</string>
     <string name="passport_delete_account">Odjava</string>
     <string name="passport_downlink_reg">Broj telefona</string>
     <string name="passport_email">E-pošta</string>
@@ -565,7 +556,6 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="passport_password_phone_login">Prijavite se s Mi Računom</string>
     <string name="passport_password_req_notice">Zaporka mora biti između 8-16 znakova i sadržavati brojeve i slova (velika i mala slova).</string>
     <string name="passport_phone_num_hint_text">Broj telefona</string>
-    <string name="passport_phone_num_notice">Broj telefona</string>
     <string name="passport_phone_ticket_login">Prijavite se sa SMS-om</string>
     <string name="passport_prev">Natrag</string>
     <string name="passport_privacy_policy">Pravila o privatnosti</string>
@@ -651,9 +641,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="passport_talkback_voice_captcha">Reproduciraj glasovni kontrolni kôd</string>
     <string name="passport_ticket_login_select_sim_card">Odaberite SIM karticu</string>
     <string name="passport_ticket_login_select_sim_card_1">SIM 1</string>
-    <string name="passport_ticket_login_select_sim_card_1_with_phone_number">SIM %1$d: %2$s</string>
     <string name="passport_ticket_login_select_sim_card_2">SIM 2</string>
-    <string name="passport_ticket_login_select_sim_card_2_with_phone_number">SIM %1$d: %2$s</string>
     <string name="passport_ticket_login_select_sim_card_cancel">Odustani</string>
     <string name="passport_title_reg">Izradi račun</string>
     <string name="passport_trust_device">Dodaj ovaj uređaj provjerenim uređajima</string>
@@ -680,9 +668,9 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="passport_vcode_notification_title">Vaš potvrda prijave je nepotpuna</string>
     <string name="passport_vcode_prompt_long">Unesite kôd za provjeru</string>
     <string name="passport_vcode_sms_send_prompt">Pošalji kôd za provjeru na %s</string>
+    <string name="passport_vcode_what_app_send_prompt">Vaš WhatsApp kontrolni kôd bit će dostavljen na vaš telefon za oporavak &lt;font color=#1F93FF>%s&lt;/font></string>
     <string name="passport_verification_failed">Ne mogu potvrditi račun</string>
     <string name="passport_verify">Provjeri</string>
-	 <string name="passport_vcode_what_app_send_prompt">Vaš WhatsApp kontrolni kôd bit će dostavljen na vaš telefon za oporavak &lt;font color=#1F93FF>%s&lt;/font></string>
     <string name="passport_verifying_activator_phone">Potvrđivanje sigurnosti telefona…</string>
     <string name="passport_wait_for_sms_prompt">"Započeti sada ponovno? Isporuka poruke provjere može potrajati do 10 minuta kada je telefon u dometu mreže vašeg operatera."</string>
     <string name="passport_wrong_captcha">Uneseni kôd nije ispravan</string>
@@ -713,7 +701,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="privacy_policy_reject_confirm_title">"Ne mogu koristiti Mi Račun"</string>
     <string name="privacy_policy_update_msg">Pravila o privatnosti Mi Računa su ažurirana:&lt;br/>%1$s&lt;br/>Pročitajte i prihvatite novu verziju &lt;a href=%2$s>&lt;u>Pravila o privatnosti&lt;/u>&lt;/a> prije nego nastavite.</string>
     <string name="privacy_policy_update_title">Ažurirana Pravila o privatnosti</string>
-	  <string name="progressbar_title">Provjera sigurnosnih problema…</string>
+    <string name="progressbar_title">Provjera sigurnosnih problema…</string>
     <string name="provision_back">Natrag</string>
     <string name="provision_next">Dalje</string>
     <string name="provision_skip_underline">Preskoči</string>
@@ -723,6 +711,11 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="push_notify_dialog_title">Provjera računa</string>
     <string name="pwd_width_phone_number_or_mail_num">"Zaporka ne može sadržavati vaš broj telefona, e-poštu ili ID Mi Računa"</string>
     <string name="qq">QQ</string>
+    <string name="qrcode_login_entry_text"><Data>Signed in on a different device? Use &lt;a href=>quick sign-in&lt;/a></Data></string>
+    <string name="qrcode_login_load_refresh"><Data>This QR code expired. Tap to &lt;a href=>refresh&lt;/a>.</Data></string>
+    <string name="qrcode_login_load_retry"><Data>"Couldn't load. &lt;a href=>Try again&lt;/a>."</Data></string>
+    <string name="qrcode_login_message">"Skenirajte aplikacijom Skener svog Xiaomi telefona ili tableta, Mi Home ili drugom Xiaomi aplikacijom za prijavu"</string>
+    <string name="qrcode_login_title">Skenirajte za prijavu</string>
     <string name="recycle_phone_notification_msg">Izgleda da je vaš broj telefona recikliran. Dodirnite za ažuriranje.</string>
     <string name="recycle_phone_notification_title">Sigurnosni rizik Mi Računa</string>
     <string name="removing_account">Odjava…</string>
@@ -748,54 +741,29 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="saturday">Subota</string>
     <string name="saturday_short">Sub</string>
     <string name="saturday_shortest">S</string>
-    <string name="scan_barcode">Skeniraj QR kod</string>
     <string name="scan_barcode_title">Da se prijavite u svoj Mi Račun, skenirajte QR kod</string>
-    <string name="search_account_protection">Zaštita računa</string>
-    <string name="search_account_protection_desc">Zaštita računa</string>
-    <string name="search_account_protection_key_words">Zaštita računa</string>
-    <string name="search_account_protection_path">Postavke/Mi Račun/Zaštita računa</string>
     <string name="search_account_security">Sigurnost računa</string>
     <string name="search_account_security_desc">Postavke računa</string>
     <string name="search_account_security_key_words">Promjeni broj,Promjeni E-poštu,Zaštita računa,Računi,Sina Weibo,QQ,Authorization,Uređaji</string>
     <string name="search_account_security_path">Postavke/Mi Račun/Siurnost računa</string>
     <string name="search_app_name">Mi Račun</string>
-    <string name="search_bind_Account">Računi</string>
-    <string name="search_bind_Account_desc">Računi</string>
-    <string name="search_bind_Account_key_words">Računi,Sina Weibo,QQ,Autorizacija</string>
-    <string name="search_bind_Account_path">Postavke/Mi Račun/Računi</string>
-    <string name="search_devices">Uređaji</string>
-    <string name="search_devices_desc">Uređaji</string>
-    <string name="search_devices_key_words">Uređaji</string>
-    <string name="search_devices_path">Postavke/Mi Račun/Uređaji</string>
-    <string name="search_logout_account">Odjava</string>
-    <string name="search_logout_account_desc">Mi Račun</string>
-    <string name="search_logout_account_key_words">Odjava</string>
-    <string name="search_logout_account_path">Postavke/Mi Račun</string>
     <string name="search_menu_title">Traži</string>
     <string name="search_mi_account">Mi Račun</string>
     <string name="search_mi_account_desc">Mi Račun</string>
-    <string name="search_mi_account_key_words">Mi Račun,Prijava,izradi račun,Xiaomi Cloud,Mi Krediti,Mi Wallet,Mi Pass,Mi Insurance,Postavke računa,Upravljanje računa</string>
+    <string name="search_mi_account_key_words">Xiaomi Cloud,Postavke računa, Mi Pay podaci, Odjava</string>
     <string name="search_mi_account_path">Postavke/Mi Račun</string>
     <string name="search_user_detail">Osobne informacije</string>
     <string name="search_user_detail_bottom_key_words">Promijeni Telefon,Promijeni E-poštu,Promijeni dohodak,Promijeni obrazovanje,Promijeni lokaciju,Promijeni regiju</string>
     <string name="search_user_detail_desc">Osobne informacije</string>
     <string name="search_user_detail_path">Postavke/Mi Račun/Osobne informacije</string>
     <string name="search_user_detail_top_key_words">Osobne informacije, Promijeni fotografiju profila, Promijeni korisničko ime, Promijeni nadimak, Promijeni rođendan, Promijeni spol</string>
-    <string name="security_question">Odaberite pitanje</string>
-    <string name="security_question_answer">Unesite odgovor</string>
-    <string name="security_question_notice_message">Dodajte svoj broj telefona prije nego što postavite sigurnosna pitanja da bi mogli poništiti pitanja u slučaju da ste zaboravili odgovore.</string>
-    <string name="security_question_notice_title">Dodaj Telefon</string>
-    <string name="security_question_prompt">"Sigurnosna pitanja mogu se koristiti kada promijenite ili poništite zaporku.
- Pobrinite se da zapamtite odgovore na ta pitanja."</string>
     <string name="select_all">Odaberi sve</string>
-    <string name="select_location_title">Odaberite vašu lokaciju</string>
     <string name="self_account_info">Osobne informacije</string>
     <string name="send">Pošalji</string>
     <string name="send_diagnosis_log">Pošalji zapis dijagnoze</string>
     <string name="send_email_activate_message">E-pošta provjere poslana</string>
     <string name="sending">Slanje…</string>
     <string name="service_error">Pogreška usluge</string>
-    <string name="set_security_question_title">Postavi sigurnosna pitanja</string>
     <string name="set_success">Uspješno promjenjeno</string>
     <string name="sign_in">Prijavi se</string>
     <string name="sim_card">SIM kartica</string>
@@ -807,9 +775,6 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="sns_access_token_expired_warning">Isteklo je vrijeme je prijave u račun. Prijavite se opet za ponovno povezivanje s ovim računom.</string>
     <string name="state_data_error">"Ne mogu dobiti podatke"</string>
     <string name="state_loading">Samo trenutak…</string>
-    <string name="submit_answers">Pošalji</string>
-    <string name="success">Dovršeno</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Nedjelja</string>
     <string name="sunday_short">Ned</string>
     <string name="sunday_shortest">N</string>
@@ -845,6 +810,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="unbind_sns_description">Nakon što prekinete vezu s ovim računom, nećete biti u mogućnosti koristiti informacije vašeg %s Računa, za prijavu u vaš Mi Račun."</string>
 	 <string name="unit_gb">" GB"</string>
     <string name="unit_mb">" MB"</string>
+    <string name="unknown_error_info">Nepoznata pogreška</string>
     <string name="unlock_help_notice">"Pomoć:
 1. Ako ste zaboravili svoju zaporku, idite na id.mi.com da je poništite.
 2. Ako ne možete poništiti zaporku ili je netko zaključao vaš uređaj, idite na i.mi.com da biste ga otključali.
@@ -855,7 +821,6 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="update_email_address_dialog_title">Ažuriraj E-poštu</string>
     <string name="update_phone_notice">Promijeni sigurnosne postavke</string>
     <string name="update_phone_number_notice_message">Morate potvrditi svoj identitet prije nego što možete ažurirati broj telefona.</string>
-    <string name="unknown_error_info">Nepoznata pogreška</string>
 	 <string name="used_cloud_storage_info">Iskorišteno %s</string>
     <string name="user_agreement_device_permission_desc">Za osiguravanje sigurnosti okruženja za prijavu</string>
     <string name="user_agreement_device_permission_title">Pristup informacijama o uređaju</string>
@@ -870,7 +835,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="user_avatar_uploading">Samo trenutak…</string>
     <string name="user_instruction_all_purpose">Dobro došli u Mi Račun! Pomoću svog računa možete pristupiti uslugama koje pruža Xiaomi i njegove povezane tvrtke, poput Mi.com, Xiaomi Cloud i GetApps. Možete nabaviti Mi novčiće, kupiti virtualnu robu i uživati u uslugama s dodanom vrijednošću, uključujući igre, teme i e-knjige.</string>
     <string name="user_instruction_tip">Da biste se mogli prijaviti, pročitajte i prihvatite odredbe i uvjete.</string>
-    <string name="user_license_with_3rd_app"><Data>"Prijavom na svoj Mi račun potvrđujem da sam pročitao i prihvaćam &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a> i Mi Račun&lt;a href=%3$s>Korisnički ugovor&lt;/a> i &lt;a href=%4$s>Pravila o privatnosti&lt;/a>."</Data></string>
+    <string name="user_license_with_3rd_app"><Data>"Prijavom na svoj Mi Račun potvrđujem da sam pročitao i prihvaćam &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a> i Mi Račun&lt;a href=%3$s>Korisnički ugovor&lt;/a> i &lt;a href=%4$s>Pravila o privatnosti&lt;/a>."</Data></string>
     <string name="user_license_with_3rd_app_mobile"><Data>"Pročitao sam i prihvaćam &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>, Mi Račun &lt;a href=%3$s>Korisnički ugovor&lt;/a> i &lt;a href=%4$s>Pravila o privatnosti&lt;/a>, kao i &lt;a href=%5$s>Odredbe i uvjete usluga provjere China Mobile&lt;/a>."</Data></string>
     <string name="user_license_with_3rd_app_no_operator"><Data>"Pročitao sam i prihvaćam &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a> i Mi Račun &lt;a href=%3$s>Korisnički ugovor&lt;/a> i &lt;a href=%4$s>Pravila o privatnosti&lt;/a>."</Data></string>
     <string name="user_license_with_3rd_app_telcom"><Data>"Pročitao sam i prihvaćam &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>, Mi Račun &lt;a href=%3$s>Korisnički ugovor&lt;/a> i &lt;a href=%4$s>Pravila o privatnosti&lt;/a>, kao i &lt;a href=%5$s>Uvjete i odredbe usluge provjere računa eSurfing&lt;/a>."</Data></string>
@@ -887,12 +852,12 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="wednesday">Srijeda</string>
     <string name="wednesday_short">Sri</string>
     <string name="wednesday_shortest">S</string>
-	 <string name="xiaomi_market_sdk_update_dialog_cancel">Ne sad</string>
-    <string name="xiaomi_market_sdk_update_dialog_ok">Ažuriraj</string>
-    <string name="xiaomi_market_sdk_update_dialog_title">Dostupno je ažuriranje</string>
     <string name="weixin">WeChat</string>
     <string name="weixin_login">Prijavite se sa WeChat</string>
     <string name="xiao_mi_vip">Mi VIP</string>
-    <string name="yes">Da</string>
+    <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Ne sad</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Ažuriraj</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Dostupno je ažuriranje</string>
     <string name="yesterday">Jučer</string>
 </resources>

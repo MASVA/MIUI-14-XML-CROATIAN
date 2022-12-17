@@ -73,6 +73,16 @@
         <item>Promijeni zaporku Mi Računa</item>
         <item>Promijeni zaporku;Ažuriraj zaporku;Mi Račun;Račun</item>
     </string-array>
+	 <string-array name="settings_search_cloud_space_share">
+        <item>Obiteljski prostor za pohranu</item>
+        <item>Pogledajte/uključite Obiteljski prostor za pohranu</item>
+        <item>Obiteljski prostor za pohranu;Dijeljenje pohrane</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>Obiteljske usluge</item>
+        <item>Pogledajte/uključite obiteljske usluge</item>
+        <item>Obitelj;Obiteljske usluge;Dijeljenje s obitelji</item>
+    </string-array>
     <string-array name="settings_search_help_center">
         <item>Pomoć</item>
         <item>Dobij pomoć i podršku za Mi Račun</item>

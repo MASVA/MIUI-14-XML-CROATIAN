@@ -767,6 +767,8 @@ Pobrinite se da koristite trenutnu Mi Račun kao račun MIUI sustava."</string>
     <string name="sunday">Nedjelja</string>
     <string name="sunday_short">Ned</string>
     <string name="sunday_shortest">N</string>
+	 <string name="talkback_close">Zatvori</string>
+    <string name="talkback_close_open_picture">Odustani</string>
     <string name="system_alert">Internet povezivanje</string>
     <string name="talkback_continue">Nastavi</string>
     <string name="talkback_doc_filter">Filter tipka</string>
