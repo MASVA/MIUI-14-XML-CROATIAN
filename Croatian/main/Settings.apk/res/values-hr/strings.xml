@@ -25,7 +25,7 @@
   <string name="abc_action_bar_home_description">Idi na početnu</string>
   <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
   <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
-  <string name="abc_action_bar_up_description">Natrag</string>
+  <string name="abc_action_bar_up_description">Idi gore</string>
   <string name="abc_action_menu_overflow_description">Više opcija</string>
   <string name="abc_action_mode_done">Gotovo</string>
   <string name="abc_activity_chooser_view_see_all">Prikaži sve</string>
@@ -1528,8 +1528,8 @@ Rezervne kopije pohranjuju se u Xiaomi Cloudu i mogu im se pristupiti bežično.
   <string name="battery_saver_turn_on_automatically_never">Nikada</string>
   <string name="battery_saver_turn_on_automatically_pct">Na %1$s baterije</string>
   <string name="battery_saver_turn_on_automatically_title">Uključi automatski</string>
-  <string name="battery_saver_turn_on_summary">Produljenje trajanja baterije</string>
-  <string name="battery_screen_usage">Upotreba zaslona ^1</string>
+  <string name="battery_saver_turn_on_summary">Produžite trajanje baterije</string>
+  <string name="battery_screen_usage">Korištenje zaslona ^1</string>
   <string name="battery_settings">Baterija</string>
   <string name="battery_settings_title">Baterija</string>
   <string name="battery_since_reset">Upotreba baterije od poništavanja</string>
@@ -1686,7 +1686,7 @@ u razdoblju ^2"</string>
   <string name="block_list_dialog_content">Ova radnja će prekinuti vezu %s s ovim uređajem i dodati ga na Listu blokiranih</string>
   <string name="block_list_dialog_title">Prekinuti vezu?</string>
   <string name="block_list_mtk_dialog_content">Ova radnja će prekinuti vezu %s s ovim uređajem</string>
-  <string name="block_list_no_device">Nema povezanih uređaja na Listi blokiranih</string>
+  <string name="block_list_no_device">Nema povezanih uređaja na Popisu blokiranih</string>
   <string name="block_list_qcom_dialog_content">Ova radnja će prekinuti vezu %s s ovim uređajem i dodati ga na Listu blokiranih</string>
   <string name="block_list_remove_dialog_content">Uređaj %s će se moći povezati na ovaj hotspot</string>
   <string name="block_list_remove_dialog_title">Pažnja</string>
@@ -2489,6 +2489,7 @@ Ako instalirate CA certifikat, vlasnik certifikata mogao bi pristupiti vašim po
   <string name="captions_category_title">Titlovi</string>
   <string name="capture_system_heap_dump_title">Izradi snimku memorije sustava</string>
   <string name="capturing_system_heap_dump_message">Izrada snimke memorije sustava</string>
+  <string name="card_holder_header_title">Novčanik</string>
   <string name="card_main_hbassistant_title">Red envelope;Red packet;Money</string>
   <string name="cards_passes_lower">kartice i propusnice</string>
   <string name="cards_passes_sentence">Kartice i propusnice</string>
@@ -2763,7 +2764,6 @@ https://appleid.apple.com/#!&amp;page=signin da zatvorite"</string>
   <string name="color_temperature">Hladna temperatura boje</string>
   <string name="color_temperature_desc">Upotrebljavaj hladnije boje prikaza</string>
   <string name="color_temperature_toast">Da biste primijenili promjenu boje, isključite zaslon</string>
-  <string name="color_theme">Tema u boji</string>
   <string name="color_title">Boja</string>
   <string name="color_unspecified">Zadano</string>
   <string name="color_white">Bijela</string>
@@ -3149,7 +3149,7 @@ Ako ga prekinete, izgubiti ćete neke ili sve svoje podatke."</string>
   <string name="data_connection_4g">4G</string>
   <string name="data_connection_4g_lte">4G LTE</string>
   <string name="data_connection_4g_lte_plus">4G LTE+</string>
-  <string name="data_connection_4g_plus">4G i više</string>
+  <string name="data_connection_4g_plus">4G+</string>
   <string name="data_connection_5g">5G</string>
   <string name="data_connection_5g_basic">5GBasic</string>
   <string name="data_connection_5g_plus">5G+</string>
@@ -3269,7 +3269,6 @@ Ta postavka utječe na sve korisnike telefona."</string>
   <string name="data_usage_tab_4g">4G</string>
   <string name="data_usage_tab_ethernet">Ethernet</string>
   <string name="data_usage_tab_mobile">Mobilno</string>
-  <string name="data_usage_tab_slot">SIM</string>
   <string name="data_usage_tab_wifi">Wi-Fi</string>
   <string name="data_usage_template">%1$s iskorišteno %2$s</string>
   <string name="data_usage_title">Primarni podaci</string>
@@ -4988,6 +4987,7 @@ Područje u kojem možete potvrditi zaključavanje zaslona pomaknut će se udesn
   <string name="handy_mode_tips_full_screen">"Kada koristite geste na cijelom zaslonu, možete uključiti Rad jednom rukom pomoću Izbornika Prečaca. Možete se prebaciti i na tipke umjesto gestama cijelog zaslona.."</string>
   <string name="haptic_agent_completion_01_content_description">Izvršen zadatak</string>
   <string name="haptic_cursor_movement_07_content_description">Podešavanje svjetline</string>
+  <string name="haptic_descripthion_for_max_level">Jako</string>
   <string name="haptic_descripthion_for_middle_level">Zadano</string>
   <string name="haptic_descripthion_for_min_level">Svjetlo</string>
   <string name="haptic_experience">Demo</string>
@@ -5092,7 +5092,7 @@ Područje u kojem možete potvrditi zaključavanje zaslona pomaknut će se udesn
   <string name="hidden_ssid_label">Skriveni SSID:</string>
   <string name="hide">Sakrij</string>
   <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
-  <string name="hide_extra_apps">Prikaži potrošnju aplikacija</string>
+  <string name="hide_extra_apps">Prikaži korištenje aplikacije</string>
   <string name="hide_password_description">Sakrij zaporku</string>
   <string name="hide_screen_button">Sakrij tipke zaslona</string>
   <string name="hide_silent_icons_summary">Ikone iz neupadljivih obavijesti ne prikazuju se na traci statusa</string>
@@ -5446,8 +5446,8 @@ prvo morate izraditi iCloud Sig. kopiju."</string>
   <string name="keyboard_layout_dialog_title">Odaberite izgled tipkovnice</string>
   <string name="keyboard_layout_picker_title">Izgledi tipkovnice</string>
   <string name="keyboard_mouse_touch">Tipkovnica, miš i dodirna površina</string>
-  <string name="keyboard_select">Adjust size</string>
-  <string name="keyboard_select_summary">Adjust keyboard size to your grip</string>
+  <string name="keyboard_select">Prilagodi veličinu</string>
+  <string name="keyboard_select_summary">Prilagodite veličinu tipkovnice svom hvatu</string>
   <string name="keyboard_settings_category">Tipkovnica i načini unosa</string>
   <string name="keyboard_settings_title">Android tipkovnica</string>
   <string name="keyboard_shortcuts_helper">Tipkovni prečaci</string>
@@ -6230,8 +6230,8 @@ Povežite barem 4 točke."</string>
   <string name="lockscreen_access_pattern_start">Uzorak je pokrenut</string>
   <string name="lockscreen_bypass_summary">Nakon otključavanja licem otvori posljednji korišteni zaslon</string>
   <string name="lockscreen_bypass_title">Preskoči zaključan zaslon</string>
-  <string name="lockscreen_double_line_clock_setting_toggle">Double-line clock</string>
-  <string name="lockscreen_double_line_clock_summary">Show double-line clock when available</string>
+  <string name="lockscreen_double_line_clock_setting_toggle">Dvoredni sat</string>
+  <string name="lockscreen_double_line_clock_summary">Prikaži dvoredni sat kada je dostupan</string>
   <string name="lockscreen_glogin_checking_password">Provjera…</string>
   <string name="lockscreen_glogin_password_hint">Zaporka</string>
   <string name="lockscreen_glogin_submit_button">Prijavite se</string>
