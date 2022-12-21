@@ -58,6 +58,7 @@ vaše uređaje?"</string>
     <string name="appcirculate_toast_loading">Prebacivanje na drugi uređaj…</string>
     <string name="appcirculate_toast_not_support_device_pad">"Ne mogu otvoriti ovu aplikaciju na tabletima"</string>
     <string name="appcirculate_toast_not_support_device_pc">"Ne mogu otvoriti ovu aplikaciju na računalima"</string>
+    <string name="appcirculate_toast_not_support_device_phone">"Ne mogu otvoriti ovu aplikaciju na telefonu"</string>
     <string name="appcirculate_toast_not_support_device_tv">"Ne mogu otvoriti ovu aplikaciju na televizorima"</string>
     <string name="appcirculate_toast_not_support_device_tv_connected">Već povezan s ovim televizorom</string>
     <string name="appcirculate_toast_success_1">Uspješno prebačeno</string>
@@ -118,6 +119,7 @@ za zrcaljenje zaslona ovog tableta"</string>
     <string name="circulate_card_sticker_remote_control_center">U redu</string>
     <string name="circulate_card_sticker_remote_control_cut">Snimka zaslona</string>
     <string name="circulate_card_sticker_remote_control_home">Početna</string>
+    <string name="circulate_card_sticker_remote_control_keyboard">Tipkovnica</string>
     <string name="circulate_card_sticker_remote_control_left">Lijevo</string>
     <string name="circulate_card_sticker_remote_control_menu">Izbornik</string>
     <string name="circulate_card_sticker_remote_control_power">Power</string>
@@ -135,19 +137,51 @@ za zrcaljenje zaslona ovog tableta"</string>
     <string name="circulate_cta_exit">Izlaz</string>
     <string name="circulate_cta_premission_sound_subtitle">Za prijenos audio reprodukcije na druge uređaje</string>
     <string name="circulate_cta_premission_sound_title">Snimanje zvuka</string>
+    <string name="circulate_cta_premission_storage_pad_title">Pristup i spremanje stavki u pohranu</string>
     <string name="circulate_cta_premission_storage_subtitle">Za bežično slanje i primanje stavki</string>
     <string name="circulate_cta_premission_storage_title">Pristup i spremanje fotografija i datoteka na ovaj uređaj</string>
     <string name="circulate_cta_premission_wlan_subtitle">Za pronalaženje uređaja u blizini i prijenos zadataka putem Wi-Fi-ja</string>
-    <string name="circulate_cta_premission_wlan_subtitle_global">Za pronalaženje uređaja u blizini i prijenos zadataka putem Wi-Fi-ja</string>
     <string name="circulate_cta_premission_wlan_subtitle_miui_plus">Za prijenos zadataka putem Wi-Fi-ja</string>
-    <string name="circulate_cta_premission_wlan_subtitle_miui_plus_global">Za prijenos zadataka putem Wi-Fi-ja</string>
-    <string name="circulate_cta_premission_wlan_title">Uključite i isključite Wi-Fi</string>
-    <string name="circulate_cta_premission_wlan_title_global">Uključite i isključite Wi-Fi</string>
+    <string name="circulate_cta_user_agreement">Pročitajte i prihvatite naše &lt;txt href=\"%1$s\">Korisnički ugovor&lt;/txt> i &lt;txt href=\"%2$s\">Pravila o privatnosti&lt;/txt> prije nego nastavite.</string>
     <string name="circulate_device_type_name_pad">Tablet</string>
     <string name="circulate_device_type_name_pc">Računalo</string>
+    <string name="circulate_device_type_name_phone">Telefon</string>
     <string name="circulate_device_type_name_tv">TV</string>
     <string name="circulate_device_type_name_wifi_speaker">Zvučnik</string>
     <string name="circulate_device_type_name_wifi_speaker_with_screen">Zvučnik s dodirnim zaslonom</string>
+    <string name="circulate_headset_back_to_box_desc">"1. Stavite obje slušalice u kutiju za punjenje.
+2. Pritisnite i držite gumb na kućištu.
+3. Završite uparivanje na ciljnom uređaju."</string>
+	 <string name="circulate_headset_back_to_box_desc_err_308">Da biste mogli prenositi reprodukciju između uređaja, najprije uparite svoje slušalice s TV-om.</string>
+	 <string name="circulate_headset_back_to_box_desc_pad">"1. Stavite obje slušalice u torbicu.
+2. Pritisnite i držite gumb na kućištu.
+3. Dovršite uparivanje u Bluetooth postavkama ili pomoću skočnog dijaloškog okvira na ovom uređaju."</string>
+	 <string name="circulate_headset_back_to_box_desc_phone">"1. Stavite obje slušalice u torbicu.
+2. Pritisnite i držite gumb na kućištu.
+3. Dovršite uparivanje u Bluetooth postavkama ili pomoću skočnog dijaloškog okvira na ovom uređaju."</string>
+	 <string name="circulate_headset_back_to_box_desc_tv">"1. Stavite obje slušalice u kutiju za punjenje.
+2. Pritisnite i držite gumb na kućištu.
+3. Otvorite popis dostupnih Bluetooth uređaja na TV-u i potvrdite uparivanje."</string>
+	 <string name="circulate_headset_back_to_box_subtitle">"Ne mogu automatski upariti ove slušalice. Umjesto toga ih uparite ručno na ciljnom uređaju."</string>
+	 <string name="circulate_headset_back_to_box_title">Prvo uparite slušalice</string>
+	 <string name="circulate_headset_back_to_box_title_err_308">Uparite svoje slušalice</string>
+	 <string name="circulate_headset_back_to_box_title_pad">Uparite slušalice s ovim uređajem</string>
+	 <string name="circulate_headset_back_to_box_title_phone">Uparite slušalice s ovim uređajem</string>
+	 <string name="circulate_headset_back_to_box_title_tv">Uparite svoje slušalice</string>
+	 <string name="circulate_headset_duplicate_cancel">Odustani</string>
+	 <string name="circulate_headset_duplicate_dialog_message">Izgleda da je drugi set slušalica spojen na vaš %1$s. Želite li ih zamijeniti trenutnim skupom?</string>
+	 <string name="circulate_headset_duplicate_dialog_title">Zamijenite slušalice spojene na %1$s</string>
+	 <string name="circulate_headset_duplicate_ok">Zamijeni</string>
+	 <string name="circulate_headset_error_account_not_match">"Provjerite koristite li isti Xiaomi račun na oba uređaja"</string>
+	 <string name="circulate_headset_error_acquired_by_other_host">Sada koristim drugi uređaj. Pokušajte ponovno kasnije.</string>
+	 <string name="circulate_headset_error_default">Veza je istekla</string>
+	 <string name="circulate_headset_error_device_not_support">"Ne mogu spojiti slušalice na ovaj uređaj"</string>
+	 <string name="circulate_headset_error_headset_not_support">"Ne mogu povezati vaše slušalice s ovim računalom"</string>
+    <string name="circulate_headset_error_remote_host_bluetooth_unenable">"Uključite Bluetooth na svom TV-u
+i prijavite se na svoj Xiaomi račun"</string>
+	 <string name="circulate_headset_error_self_upgrade">"Nije moguće dovršiti ovu radnju. Prvo ažurirajte Mi Smart Hub."</string>
+	 <string name="circulate_headset_error_timeout">Veza je istekla</string>
+	 <string name="circulate_headset_error_upgrade">Prvo ažurirajte Mi Smart Hub na svom ciljnom uređaju</string>
     <string name="circulate_help_button_content_description">Pomoć</string>
     <string name="circulate_help_card_subtitle">Pogledajte pomoć</string>
     <string name="circulate_help_card_title">"Ne mogu pronaći
@@ -165,6 +199,7 @@ Vaši uređaji?"</string>
     <string name="circulate_video_capture_success">Uspješno napravljen snimak zaslona</string>
     <string name="circulate_video_retry_later">Pokušavam kontrolirati TV…</string>
     <string name="clear_text_end_icon_content_description">Izbriši tekst</string>
+    <string name="clearable_edittext_clear_description">Izbriši</string>
     <string name="close">Zatvori</string>
     <string name="close_hotspot_hint">Isključite prijenosni hotspot prije emitiranja</string>
     <string name="close_hotspot_hint_DFS">Za prijenos stavki na TV, prvo isključite hotspot.</string>
@@ -177,6 +212,7 @@ Vaši uređaji?"</string>
     <string name="config_wifi_label_china">Koniguruaj MiPaiPai Wi-Fi</string>
     <string name="config_wifi_label_global">Koniguruaj MiPaiPai Wi-Fi</string>
     <string name="connect_device_fail">"Povezivanje s uređajem nije uspjelo"</string>
+    <string name="connect_success">%1$s je povezan</string>
     <string name="console_guide_btn_got_it">Razumijem</string>
     <string name="console_guide_subtitle_hang_up">"Ne prekidajte emitiranje kada se zaslon telefona isključi. Ova značajka može povećati potrošnju energije."</string>
     <string name="console_guide_subtitle_private">"Ne emitiraj plutajuće obavijesti, obavijesti o dolaznim pozivima i druge stavke koje mogu sadržavati osobne podatke"</string>
@@ -199,8 +235,8 @@ Vaši uređaji?"</string>
     <string name="dialog_miplay_permission_positive">Postavke</string>
     <string name="dialog_miplay_permission_title">Potrebno je dopuštenje</string>
     <string name="dialog_nfc_cast_wifi_off">Uključite Wi-Fi kako biste mogli emitirati putem NFC-a. Uključiti sada?</string>
-    <string name="dialog_no_device_message">1. Povežite telefon i TV s istom Wi-Fi mrežom.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;2. Na nekim modelima televizora ova je značajka dostupna samo kada je emitiranje zaslona uključeno. Pogledajte &amp;lt;a href=milink://com.milink.service/specification&amp;gt;\"Pomoć\"&amp;lt;/a&amp;gt; kako bi saznali više.</string>
-    <string name="dialog_no_device_message_china">1. Povežite telefon i TV s istom Wi-Fi mrežom.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;2. Na nekim modelima televizora ova je značajka dostupna samo kada je emitiranje zaslona uključeno. Pogledajte &amp;lt;a href=milink://com.milink.service/specification&amp;gt;\"Pomoć\"&amp;lt;/a&amp;gt; kako bi saznali više.</string>
+    <string name="dialog_no_device_message"><Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Povežite svoj mobilni uređaj i TV na istu Wi-Fi mrežu.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. Na nekim modelima televizora ova je značajka dostupna samo kada je uključeno zrcaljenje zaslona. Pogledajte &lt;a href=milink://com.milink.service/specification>\"Pomoć\"&lt;/a> kako bi saznali više.</Data></string>
+    <string name="dialog_no_device_message_china"><Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Povežite svoj mobilni uređaj i TV na istu Wi-Fi mrežu.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. Na nekim modelima televizora ova je značajka dostupna samo kada je uključeno zrcaljenje zaslona. Pogledajte &lt;a href=milink://com.milink.service/specification>\"Pomoć\"&lt;/a> kako bi saznali više.</Data></string>
     <string name="dialog_ok">U redu</string>
     <string name="dialog_only_suport_content">Streamajte fotografije, videozapise ili glazbu</string>
     <string name="dialog_open_wifi_bt">Uključi</string>
@@ -208,12 +244,12 @@ Vaši uređaji?"</string>
 Pogledajte pomoć ako imate problema sa povezivanjem."</string>
     <string name="dialog_recent_connected">Nedavno</string>
     <string name="dialog_retry">Pokušajte ponovo</string>
-    <string name="dialog_scan_message">"1. Povežite telefon i TV s istom Wi-Fi mrežom.
+    <string name="dialog_scan_message">"%1$d. Povežite telefon i TV s istom Wi-Fi mrežom.
 
-2. Na nekim modelima televizora ova je značajka dostupna samo kada je emitiranje zaslona uključeno. Pogledajte \"Pomoć\" kako bi saznali više."</string>
-    <string name="dialog_scan_message_china">"1. Povežite telefon i TV s istom Wi-Fi mrežom.
+%2$d. Pogledajte \"Pomoć\" kako bi saznali više."</string>
+    <string name="dialog_scan_message_china">"%1$d. Povežite telefon i TV s istom Wi-Fi mrežom.
 
-2. Na nekim modelima televizora ova je značajka dostupna samo kada je emitiranje zaslona uključeno. Pogledajte \"Pomoć\" kako bi saznali više."</string>
+%2$d. Pogledajte \"Pomoć\" kako bi saznali više."</string>
     <string name="dialog_scanning_device">Traženje uređaja u blizini…</string>
     <string name="dialog_scanning_precondition">Uključite Wi-Fi i Bluetooth na svom telefonu za korištnje bežičnog zaslona.</string>
     <string name="dialog_scanning_precondition_new_china">Uključite Wi-Fi, Bluetooth i usluge lokacije da biste mogli koristiti emitiranje. Uključiti sada?</string>
@@ -226,8 +262,11 @@ Pogledajte pomoć ako imate problema sa povezivanjem."</string>
     <string name="enable_screen_projection_summary">Emitiraj sadržaj zaslona na vanjski monitor</string>
     <string name="err_toast_msg_audio_support_support_only">Ovaj uređaj podržava samo prijenos audio reprodukcije. Pokušajte povući audio karticu.</string>
     <string name="err_toast_msg_default">"Ova radnja nije podržana"</string>
+    <string name="err_toast_msg_mirror_and_bluetooth_support_only">"Nije moguće prenijeti reprodukciju zvuka"</string>
     <string name="err_toast_msg_mirror_support_support_only">"Ovaj uređaj podržava samo zrcaljenje zaslona. Pokušajte povući karticu sa zaslonom ovog uređaja."</string>
     <string name="err_toast_msg_not_support">"Ova radnja nije podržana"</string>
+    <string name="err_toast_msg_not_support_audio_protocol">"Nije moguće prenijeti reprodukciju zvuka na ovaj uređaj"</string>
+    <string name="err_toast_msg_not_support_video_protocol">"Ovaj uređaj ne podržava MIUI+"</string>
     <string name="err_toast_msg_retry_later">"Nije moguće izvesti ovu radnju. Pričekajte minutu ili dvije i pokušajte ponovno."</string>
     <string name="err_toast_msg_try_switch_network">Povežite svoj mobilni uređaj i računalo na istu Wi-Fi mrežu</string>
     <string name="err_toast_msg_upgrade_pc_version">Ažurirajte MIUI+ na svom računalu da biste mogli koristiti ovu značajku</string>
@@ -274,32 +313,34 @@ Pogledajte pomoć ako imate problema sa povezivanjem."</string>
     <string name="help_page_text_02">Što je emitiranje?</string>
     <string name="help_page_text_03">"Emitiranje projicira stavke s zaslona vašeg telefona na veći vanjski monitor. Omogućuje vam da dijelite slike i videozapise s prijateljima i obitelji, pa čak i da zajedno igrate igre. Potrošnja energije vašeg telefona obično se ne mijenja kada koristite ovu značajku."</string>
     <string name="help_page_text_04">Kako mogu emitirati stavke na veći zaslon?</string>
-    <string name="help_page_text_05">Korak 1</string>
-    <string name="help_page_text_06">"1. Koristite mali ručni telefon za spajanje na televizor s malim zaslonom, možete uspostaviti okomitu vezu sa zaslonom bez mrežnog okruženja.
-2. Neki Xiaomi televizori ili televizori drugih marki koji ne podržavaju pametno pregledavanje, morate povezati televizor (ili uređaj velikog zaslona) s mobilnim telefonom na istu bežičnu mrežu."</string>
-    <string name="help_page_text_06_global">"1. Mi TV, Mi Boxes, i Mi Projektori:
-Za najbolji učinak povežite telefon i vanjski monitor s istom Wi-Fi mrežom. Ako su povezani na različite mreže, možda će trebati više vremena da pronađete vanjski monitor i povežete se s njim.
-Napomena: Stariji Mi televizori možda ne podržavaju emitiranje na različitim mrežama.
-2. Ako koristite televizore, prijemnike ili projektore drugih marki, povežite i svoj telefon i vanjski monitor s istom Wi-Fi mrežom.
-Ako dva uređaja ne mogu biti povezana na istu mrežu, uključite Miracast na vanjskom monitoru. Nazivi funkcije Miracast mogu se razlikovati."</string>
-    <string name="help_page_text_07">3. Neki Xiaomi televizori ili televizori drugih marki koji ne podržavaju pametno emitiranje. Ako nema bežične mreže ili ako se televizor i mobilni telefon ne mogu povezati na istu mrežu, trebate uključiti TV (ili uređaj velikog zaslona) [Miracast] Mirror projection screen]. Taj se naziv može razlikovati za različite marke televizora. Daljnju stranicu možete pomaknuti do dna ove stranice i saznati više.</string>
-    <string name="help_page_text_08">Korak 2</string>
+    <string name="help_page_text_05">Korak %1$d: Provjerite svoje uređaje i mrežno okruženje</string>
+    <string name="help_page_text_06">"%1$d. Xiaomi TV, set-top boxes, projektori:
+Povežite svoj mobilni uređaj i vanjski monitor na istu Wi-Fi mrežu za najbolji učinak. Ako su povezani na različite mreže, možda će trebati više vremena da se pronađe vanjski monitor i poveže.
+Napomena: stariji modeli televizora možda ne podržavaju emitiranje preko različitih mreža.
+%2$d. Ako koristite televizore, set-top box uređaje ili projektore drugih marki, povežite svoj mobilni uređaj i vanjski monitor na istu Wi-Fi mrežu.
+Ako se dva uređaja ne mogu spojiti na istu mrežu, uključite Miracast na vanjskom monitoru. Imenovanje Miracast funkcionalnosti može varirati."</string>
+    <string name="help_page_text_06_global">"%1$d. Xiaomi TV, set-top boxes, projektori:
+Povežite svoj mobilni uređaj i vanjski monitor na istu Wi-Fi mrežu za najbolji učinak. Ako su povezani na različite mreže, možda će trebati više vremena da se pronađe vanjski monitor i poveže.
+Napomena: stariji modeli televizora možda ne podržavaju emitiranje preko različitih mreža.
+%2$d. Ako koristite televizore, set-top box uređaje ili projektore drugih marki, povežite svoj mobilni uređaj i vanjski monitor na istu Wi-Fi mrežu.
+Ako se dva uređaja ne mogu spojiti na istu mrežu, uključite Miracast na vanjskom monitoru. Imenovanje Miracast funkcionalnosti može varirati."</string>
+    <string name="help_page_text_08">Korak %1$d: Uključite emitiranje</string>
     <string name="help_page_text_09">"Dodirnite prečac \"Emitiraj\" na vašem mobilnom uređaju u Panelu obavijesti. Uključite Wi-Fi i Bluetooth za stabilniju vezu."</string>
     <string name="help_page_text_09_global">"Dodirnite prečac \"Emitiraj\" na vašem mobilnom uređaju u Panelu obavijesti. Uključite Wi-Fi i Bluetooth za stabilniju vezu."</string>
     <string name="help_page_text_10">Ako želite emitirati stavke iz Galerija ili Mi Video, možete koristiti ugrađene značajke za emitiranje u tim aplikacijama.</string>
-    <string name="help_page_text_11">Korak 3</string>
+    <string name="help_page_text_11">Korak %1$d: Odaberite uređaj</string>
     <string name="help_page_text_12">Odaberite vanjski uređaj s popisa dostupnih uređaja da biste započeli emitiranje.</string>
     <string name="help_page_text_13">"Nije moguće povezivanje s vanjskim uređajem?"</string>
-    <string name="help_page_text_14">"1. Millet TV screencast, nadogradite aplikaciju Wireless Screening na popisu TV aplikacija na najnoviju verziju.
-2. Možete pokušati spojiti telefon i televizor na istu Wi-Fi mrežu da biste povećali stopu uspjeha veze. Međutim, neki usmjerivači možda neće moći osigurati stabilno okruženje veze za ekran, što rezultira neuspjelu vezu ili česte prekide.
-3. Ako koristite Mi TV, uključivanje Bluetooth-a moglo bi poboljšati vezu. 
-4. Ako nema dostupnih Wi-Fi mreža, provjerite podržava li vaš vanjski uređaj (npr. TV) Miracast funkcionalnost. Nazivi emitiranja na vanjskom uređaju mogu se razlikovati ovisno o marki vašeg uređaja. Pogledajte donje podatke da biste saznali o funkciji Miracast na različitim uređajima
-."</string>
-    <string name="help_page_text_14_global">"1. Ako želite koristiti Xiaomi uređaj, ali ga ne možete pronaći na popisu dostupnih uređaja, pokušajte sljedeće:
-Povežite svoj telefon i vanjski monitor (npr. vaš TV) s istom Wi-Fi mrežom ili povežite vanjski monitor s hotspotom telefona. Ako nema dostupnih Wi-Fi mreža ili ne možete povezati oba uređaja na istu mrežu, provjerite jesu li značajke emitiranja na vanjskom monitoru ažurirane, uključite Bluetooth i na vašem telefonu i na vanjskom monitoru, i uključite Miracast na televizoru.
-2. Ako prvi put emitirate na Xiaomi uređaj, morate završiti provjeru.
-3. Ako želite koristiti uređaj koji nije Xiaomi, ali ga ne možete pronaći na popisu dostupnih uređaja, pokušajte sljedeće:
-Povežite svoj telefon i vanjski monitor (npr. vaš TV) s istom Wi-Fi mrežom ili povežite vanjski monitor s hotspotom telefona."</string>
+<string name="help_page_text_14">"%1$d. Ako želite koristiti Xiaomi uređaj, ali ga ne možete pronaći na popisu dostupnih uređaja, pokušajte sljedeće:
+Povežite svoj mobilni uređaj i vanjski monitor (npr. TV) na istu mrežu ili povežite vanjski monitor s pristupnom točkom svog mobilnog uređaja. Ako nema dostupnih mreža ili ne možete spojiti oba uređaja na istu mrežu, provjerite jesu li značajke emitiranja na vašem vanjskom monitoru ažurne, uključite Bluetooth i na mobilnom uređaju i na vanjskom monitoru i uključite na Miracastu na vašem TV-u.
+%2$d. Ako prvi put emitirate na Xiaomi uređaju, morate dovršiti potvrdu.
+%3$d. Ako želite koristiti uređaj koji nije Xiaomi, ali ga ne možete pronaći na popisu dostupnih uređaja, pokušajte sljedeće:
+Povežite svoj mobilni uređaj i vanjski monitor (npr. TV) na istu mrežu ili povežite vanjski monitor s pristupnom točkom svog mobilnog uređaja. Ako ovo ne pomogne, instalirajte aplikaciju HappyCast na TV i slijedite upute."</string>
+<string name="help_page_text_14_global">"%1$d. Ako želite koristiti Xiaomi uređaj, ali ga ne možete pronaći na popisu dostupnih uređaja, pokušajte sljedeće:
+Povežite svoj mobilni uređaj i vanjski monitor (npr. TV) na istu mrežu ili povežite vanjski monitor s pristupnom točkom svog mobilnog uređaja. Ako nema dostupnih mreža ili ne možete spojiti oba uređaja na istu mrežu, provjerite jesu li značajke emitiranja na vašem vanjskom monitoru ažurne, uključite Bluetooth i na mobilnom uređaju i na vanjskom monitoru i uključite na Miracastu na vašem TV-u.
+%2$d. Ako prvi put emitirate na Xiaomi uređaju, morate dovršiti potvrdu.
+%3$d. Ako želite koristiti uređaj koji nije Xiaomi, ali ga ne možete pronaći na popisu dostupnih uređaja, pokušajte sljedeće:
+Povežite svoj mobilni uređaj i vanjski monitor (npr. TV) na istu mrežu ili povežite vanjski monitor s pristupnom točkom svog mobilnog uređaja."</string>
     <string name="help_page_text_15">Miracast funkcionalnost na različitim uređajima</string>
     <string name="help_page_text_16">Mi TV/Mi Projector</string>
     <string name="help_page_text_17">"Xiaomi mobilni telefon može se izravno povezati s većinom Xiaomi TV-a s Bluetooth funkcijom, umjesto da ručno otvorite Miracast funkciju.
@@ -341,9 +382,10 @@ Ako trebate ručno otvoriti funkciju Miracast, možete pritisnuti tipku [Menu] n
     <string name="help_page_text_51">LeTV</string>
     <string name="help_page_text_52">Provjerite podržava li model uređaja s velikim zaslonom protokol Miracast. Na nekim modelima odaberite Postavke &gt; Mreža &gt; Multi-screen Interactive &gt; Bežični zaslon.</string>
     <string name="help_page_text_53">Broj telefona LeTV službe za korisnike: 10109000</string>
-    <string name="help_page_text_55">"Ako nema dostupnih Wi-Fi mreža, provjerite podržava li vaš vanjski uređaj (npr. TV) Miracast funkcionalnost. Nazivi značajki emitiranja na vanjskom uređaju mogu se razlikovati ovisno o marki vašeg uređaja. Pogledajte donje podatke da biste saznali o funkciji Miracast na različitim uređajima.
-4. U slučaju drugih problema, pitanja i prijedloge možete poslati putem aplikacije Povratne inf."</string>
-    <string name="help_page_text_55_global">"Ako se ne možete povezati s mrežom, provjerite je li vaš vanjski monitor podržava Miracast funkcionalnosti i je li uključen. Na nekim se modelima ova značajka naziva bežični zaslon, emitiranje zaslona ili višestruki zasloni.</string>
+<string name="help_page_text_55">"Ako se ne možete spojiti na mrežu, provjerite podržava li vaš vanjski monitor funkciju Miracast i je li uključen. Na nekim modelima ova se značajka naziva bežični zaslon, zrcaljenje zaslona ili višestruki zasloni. Pogledajte informacije u nastavku da biste saznali kako uključiti Miracast.
+%1$d. Ako naiđete na probleme, možete ih prijaviti pomoću naše aplikacije \"Usluge i povratne informacije\".</string>
+<string name="help_page_text_55_global">"Ako se ne možete spojiti na mrežu, provjerite podržava li vaš vanjski monitor funkciju Miracast i je li uključen. Na nekim modelima ova se značajka naziva bežični zaslon, zrcaljenje zaslona ili višestruki zasloni.
+%1$d. Ako naiđete na probleme, možete ih prijaviti pomoću naše aplikacije \"Usluge i povratne informacije\".</string>
     <string name="help_page_text_end">"Ako marka vašeg uređaja nije navedena ovdje, obratite se proizvođaču kako biste saznali više o funkcionalnosti emitiranja."</string>
     <string name="icon_content_description">Ikona dijaloga</string>
     <string name="invisible_mode_dialog_content">"Ne možete koristiti emitiranje kada ste anonimni. Prvo isključite anonimni način."</string>
@@ -363,7 +405,6 @@ Ako trebate ručno otvoriti funkciju Miracast, možete pritisnuti tipku [Menu] n
     <string name="material_timepicker_pm">PM</string>
     <string name="material_timepicker_select_time">Odabir vremena</string>
     <string name="material_timepicker_text_input_mode_description">Prijeđite na način unosa teksta da biste unijeli vrijeme.</string>
-    <string name="mdm_icon_label">Ikona %1$s</string>
     <string name="miplay_accessibility_cast">Odaberite uređaj</string>
     <string name="miplay_accessibility_cover">Naslovna stranica</string>
     <string name="miplay_accessibility_next">Sljedeća pjesma</string>
@@ -382,43 +423,6 @@ Ako trebate ručno otvoriti funkciju Miracast, možete pritisnuti tipku [Menu] n
     <string name="miplay_mini_card_no_song_title">Zvuk telefona</string>
     <string name="miplay_service_timeout_toast">Veza je istekla. Pokušajte ponovno.</string>
     <string name="miplay_song_title_empty">Ovdje nema stavki</string>
-    <string name="mtrl_badge_numberless_content_description">Nova obavijest</string>
-    <string name="mtrl_chip_close_icon_content_description">Ukloni %1$s</string>
-    <string name="mtrl_exceed_max_badge_number_content_description">Više od %1$d novih obavijesti</string>
-    <string name="mtrl_picker_a11y_next_month">Prijelaz na sljedeći mjesec</string>
-    <string name="mtrl_picker_a11y_prev_month">Pomicanje na prethodni mjesec</string>
-    <string name="mtrl_picker_announce_current_selection">Trenutačan odabir: %1$s</string>
-    <string name="mtrl_picker_cancel">Odustani</string>
-    <string name="mtrl_picker_confirm">Spremi</string>
-    <string name="mtrl_picker_date_format">dd.MM.yyyy</string>
-    <string name="mtrl_picker_date_header_selected">%1$s</string>
-    <string name="mtrl_picker_date_header_title">Odaberite datum</string>
-    <string name="mtrl_picker_date_header_unselected">Odabrani datum</string>
-    <string name="mtrl_picker_day_of_week_column_header">Stupac s danima: %1$s</string>
-    <string name="mtrl_picker_header_prompt">Odaberite datum</string>
-    <string name="mtrl_picker_invalid_format">Nevažeći format.</string>
-    <string name="mtrl_picker_invalid_format_example">Primjer: %1$s</string>
-    <string name="mtrl_picker_invalid_format_use">Koristi format: %1$s</string>
-    <string name="mtrl_picker_invalid_range">Raspon nije važeći.</string>
-    <string name="mtrl_picker_navigate_to_year_description">Prijelaz na godinu %1$s</string>
-    <string name="mtrl_picker_out_of_range">Izvan raspona: %1$s</string>
-    <string name="mtrl_picker_range_header_only_end_selected">Datum početka – %1$s</string>
-    <string name="mtrl_picker_range_header_only_start_selected">%1$s – datum završetka</string>
-    <string name="mtrl_picker_range_header_prompt">Odaberite datumski raspon</string>
-    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
-    <string name="mtrl_picker_range_header_title">Odaberite raspon</string>
-    <string name="mtrl_picker_range_header_unselected">Datum početka – datum završetka</string>
-    <string name="mtrl_picker_save">Spremi</string>
-    <string name="mtrl_picker_text_input_date_hint">Datum</string>
-    <string name="mtrl_picker_text_input_date_range_end_hint">Datum završetka</string>
-    <string name="mtrl_picker_text_input_date_range_start_hint">Datum početka</string>
-    <string name="mtrl_picker_text_input_day_abbr">d</string>
-    <string name="mtrl_picker_text_input_month_abbr">m</string>
-    <string name="mtrl_picker_text_input_year_abbr">g</string>
-    <string name="mtrl_picker_toggle_to_calendar_input_mode">Prijelaz na način unosa u Kalendaru</string>
-    <string name="mtrl_picker_toggle_to_day_selection">Dodirnite za prijelaz na odabir dana</string>
-    <string name="mtrl_picker_toggle_to_text_input_mode">Prijelaz na način unosa teksta</string>
-    <string name="mtrl_picker_toggle_to_year_selection">Dodirnite za prijelaz na odabir godine</string>
     <string name="miuix_access_state_desc">Odabrano</string>
     <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
@@ -426,9 +430,6 @@ Ako trebate ručno otvoriti funkciju Miracast, možete pritisnuti tipku [Menu] n
     <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Više</string>
     <string name="miuix_appcompat_cancel_description">Odustani</string>
-    <string name="miuix_appcompat_cloud_state_disabled">Sinkronizacija s Cloudom je isključena</string>
-    <string name="miuix_appcompat_cloud_state_finished">Sinkronizacija s Cloudom je završena</string>
-    <string name="miuix_appcompat_cloud_state_syncing">Sinkronizacija s Cloudom…</string>
     <string name="miuix_appcompat_confirm_description">Potvrdi</string>
     <string name="miuix_appcompat_delete_description">Izbriši</string>
     <string name="miuix_appcompat_deselect_all">Poništi odabir</string>
@@ -451,13 +452,13 @@ Ako trebate ručno otvoriti funkciju Miracast, možete pritisnuti tipku [Menu] n
     <string name="monday">Ponedjeljak</string>
     <string name="monday_short">Pon</string>
     <string name="monday_shortest">P</string>
-    <string name="month">Mjesec</string>
     <string name="month_april">Travanj</string>
     <string name="month_april_short">Tra</string>
     <string name="month_april_shortest">T</string>
     <string name="month_august">Kolovoz</string>
     <string name="month_august_short">Kol</string>
     <string name="month_august_shortest">K</string>
+    <string name="month_day_format">MMM dd</string>
     <string name="month_december">Prosinac</string>
     <string name="month_december_short">Pro</string>
     <string name="month_december_shortest">P</string>
@@ -479,9 +480,6 @@ Ako trebate ručno otvoriti funkciju Miracast, možete pritisnuti tipku [Menu] n
     <string name="month_may">Svibanj</string>
     <string name="month_may_short">Svi</string>
     <string name="month_may_shortest">S</string>
-    <string name="month_medium_april">Tra</string>
-    <string name="month_medium_august">Kol</string>
-    <string name="month_medium_december">Pro</string>
     <string name="month_november">Studeni</string>
     <string name="month_november_short">Stu</string>
     <string name="month_november_shortest">S</string>
@@ -492,32 +490,66 @@ Ako trebate ručno otvoriti funkciju Miracast, možete pritisnuti tipku [Menu] n
     <string name="month_september_short">Ruj</string>
     <string name="month_september_shortest">R</string>
     <string name="more">Više</string>
-    <string name="msg_send_fail">"Nije moguće prenijeti podatke"</string>
-    <string name="mr_button_content_description">Emitiranje</string>
-    <string name="mr_cast_button_connected">Emitiranje. Povezano</string>
-    <string name="mr_cast_button_connecting">Emitiranje. Povezivanje</string>
-    <string name="mr_cast_button_disconnected">Emitiranje. Isključeno</string>
-    <string name="mr_cast_dialog_title_view_placeholder">Nema dostupnih informacija</string>
-    <string name="mr_chooser_searching">Pronalaženje uređaja</string>
-    <string name="mr_chooser_title">Prebaci na</string>
-    <string name="mr_controller_album_art">Omot albuma</string>
-    <string name="mr_controller_casting_screen">Emitiranje zaslona</string>
-    <string name="mr_controller_close_description">Zatvori</string>
-    <string name="mr_controller_collapse_group">Sažmi</string>
-    <string name="mr_controller_disconnect">Prekini vezu</string>
-    <string name="mr_controller_expand_group">Proširi</string>
-    <string name="mr_controller_no_info_available">Nema dostupnih informacija</string>
-    <string name="mr_controller_no_media_selected">Nije odabran nijedan medij</string>
-    <string name="mr_controller_pause">Pauziraj</string>
-    <string name="mr_controller_play">Reprociraj</string>
-    <string name="mr_controller_stop">Zaustavi</string>
-    <string name="mr_controller_stop_casting">Zaustavi emitiranje</string>
-    <string name="mr_controller_volume_slider">Klizač za glasnoću</string>
-    <string name="mr_dialog_default_group_name">Grupa</string>
-    <string name="mr_dialog_groupable_header">Dodajte uređaj</string>
-    <string name="mr_dialog_transferable_header">Igrajte u grupi</string>
-    <string name="mr_system_route_name">Sustav</string>
-    <string name="mr_user_route_category_name">Uređaji</string>
+    <string name="mr_button_content_description">Emitacija</string>
+	 <string name="mr_cast_button_connected">Cast. Povezano</string>
+	 <string name="mr_cast_button_connecting">Cast. Povezivanje</string>
+	 <string name="mr_cast_button_disconnected">Emitiraj. Isključeno</string>
+	 <string name="mr_cast_dialog_title_view_placeholder">Nema dostupnih informacija</string>
+	 <string name="mr_chooser_searching">Pronalaženje uređaja</string>
+	 <string name="mr_chooser_title">Prebaci na</string>
+	 <string name="mr_controller_album_art">Sloj albuma</string>
+	 <string name="mr_controller_casting_screen">Emitiranje zaslona</string>
+	 <string name="mr_controller_close_description">Zatvori</string>
+	 <string name="mr_controller_collapse_group">Sažmi</string>
+	 <string name="mr_controller_disconnect">Prekini vezu</string>
+	 <string name="mr_controller_expand_group">Proširi</string>
+	 <string name="mr_controller_no_info_available">Nema dostupnih informacija</string>
+	 <string name="mr_controller_no_media_selected">Nije odabran nijedan medij</string>
+	 <string name="mr_controller_pause">Pauziraj</string>
+	 <string name="mr_controller_play">Igraj</string>
+	 <string name="mr_controller_stop">Zaustavi</string>
+	 <string name="mr_controller_stop_casting">Zaustavi emitiranje</string>
+	 <string name="mr_controller_volume_slider">Klizač za glasnoću</string>
+	 <string name="mr_dialog_default_group_name">Grupa</string>
+	 <string name="mr_dialog_groupable_header">Dodajte uređaj</string>
+	 <string name="mr_dialog_transferable_header">Igrajte u grupi</string>
+	 <string name="mr_system_route_name">Sustav</string>
+	 <string name="mr_user_route_category_name">Uređaji</string>
+	 <string name="msg_send_fail">"Nije moguće prenijeti podatke"</string>
+   <string name="mtrl_badge_numberless_content_description">Nova obavijest</string>
+    <string name="mtrl_chip_close_icon_content_description">Ukloni %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Više od %1$d novih obavijesti</string>
+    <string name="mtrl_picker_a11y_next_month">Promijeni na sljedeći mjesec</string>
+    <string name="mtrl_picker_a11y_prev_month">Promijeni na prethodni mjesec</string>
+    <string name="mtrl_picker_announce_current_selection">Trenutni izbor: %1$s</string>
+    <string name="mtrl_picker_confirm">U redu</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Odaberite datum</string>
+    <string name="mtrl_picker_date_header_unselected">Odaberite datum</string>
+    <string name="mtrl_picker_day_of_week_column_header">Kolona dana: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Pogrešan format.</string>
+    <string name="mtrl_picker_invalid_format_example">Primjer: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Koristi: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Pogrešan raspon.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Navigacija do godine %1$s</string>
+    <string name="mtrl_picker_out_of_range">Izvan raspona: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Datum početka – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Datum završetka</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Odaberite raspon datuma</string>
+    <string name="mtrl_picker_range_header_unselected">Datum početka - Datum završetka</string>
+    <string name="mtrl_picker_save">Spremi</string>
+    <string name="mtrl_picker_text_input_date_hint">Datum</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Datum završetka</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Datum početka</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">g</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Prebacite se na način unosa kalendara</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Dodirnite za prelazak na odabir dana</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Prebacite se na način unosa teksta</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Dodirnite za prelazak na odabir godine</string>
+	 <string name="mtrl_timepicker_confirm">U redu</string>
     <string name="nfc_connect_failed_toast">"Nije moguće emitirati. Pokušajte ponovo."</string>
     <string name="no_permission">"Ne mogu vidjeti ovu stranicu"</string>
     <string name="normal_device_desc">"Uređaji s kojima ste se povezali, ali ih niste označili kao pouzdane"</string>
@@ -527,7 +559,6 @@ Ako trebate ručno otvoriti funkciju Miracast, možete pritisnuti tipku [Menu] n
     <string name="not_set">Nije postavljeno</string>
     <string name="notification_cast_desc">Emitiranje…</string>
     <string name="notification_desc_scanning">Traženje uređaja u blizini…</string>
-    <string name="notification_rc_desc">Najbolji TV pomoćnik za vaš mobilni uređaj za emitiranje videozapisa, fotografija i aplikacija na XiaoMi Box (ili TV), jednostavno isprobajte ga sada!</string>
     <string name="notification_rc_title">XiaoMi TV pomoćnik</string>
     <string name="notification_show_more">Pogledajte dodatne značajke</string>
     <string name="notify">Emitiranje radi u pozadini</string>
@@ -541,6 +572,7 @@ Ako trebate ručno otvoriti funkciju Miracast, možete pritisnuti tipku [Menu] n
     <string name="paipai_connect_tv2_text">Preneseni podaci</string>
     <string name="paipai_error_dialog_msg">Provjerite postavke mreže i pokušajte ponovno.</string>
     <string name="paipai_error_dialog_negative">Razumijem</string>
+    <string name="password_toggle_content_description">Pokaži zaporku</string>
     <string name="path_setting_cast">Veza &amp; dijeljenje/Emitiranje</string>
     <string name="path_setting_cast_demo">Veza &amp; dijeljenje/Emitiranje/Demos</string>
     <string name="path_setting_cast_demo_document">Veza &amp; dijeljenje/Emitiranje/Demos/Dokumenti</string>
@@ -567,18 +599,18 @@ Ako trebate ručno otvoriti funkciju Miracast, možete pritisnuti tipku [Menu] n
     <string name="privacy_permission_nfc_desc">Za uparivanje uređaja koji koriste NFC</string>
     <string name="privacy_permission_optional">Dodatna dopuštenja</string>
     <string name="privacy_permission_optional_desc">"Koriste se za dodatne značajke dok ih upotrebljavate"</string>
+    <string name="privacy_permission_read_write_mobile_phone_storage">Pristup i spremanje stavki u pohranu</string>
+	 <string name="privacy_permission_read_write_mobile_phone_storage_desc">Za pristup i spremanje datoteka i fotografija na ovaj uređaj</string>
     <string name="privacy_permission_screencast">Pristup informacijama na zaslonu</string>
     <string name="privacy_permission_screencast_desc">Tijekom snimanja ili emitiranja, usluga koja pruža ovu značajku može uhvatiti sve osjetljive podatke koji se prikazuju na vašem zaslonu ili reproduciraju s vašeg uređaja, uključujući osjetljive podatke kao što su zvuk, zaporke, podaci o plaćanju, fotografije i poruke</string>
-    <string name="privacy_permission_wlan">Uključivanje i isključivanje Wi-Fi-ja</string>
+    <string name="privacy_permission_sound_recording">Snimanje zvuka</string>
+    <string name="privacy_permission_sound_recording_desc">Za glasovne pozive ili snimanje zvuka</string>
+    <string name="privacy_permission_wlan">Turning Wi-Fi on and off</string>
     <string name="privacy_permission_wlan_china">Uključivanje i isključivanje Wi-Fi-ja</string>
     <string name="privacy_permission_wlan_desc">Pronalaženje dostupnih uređaja u blizini</string>
     <string name="privacy_permission_wlan_desc_china">Pronalaženje dostupnih uređaja u blizini</string>
     <string name="privacy_positive">Prihvaćam</string>
-	  <string name="privacy_permission_read_write_mobile_phone_storage">Pristup i spremanje stavki u pohranu</string>
-    <string name="privacy_permission_read_write_mobile_phone_storage_desc">Za pristup i spremanje datoteka i fotografija na ovaj uređaj</string>
-    <string name="privacy_permission_sound_recording">Snimanje zvuka</string>
-    <string name="privacy_permission_sound_recording_desc">Za glasovne pozive ili snimanje zvuka</string>
-	  <string name="privacy_revoke_confirm_cancel">Odustani</string>
+    <string name="privacy_revoke_confirm_cancel">Odustani</string>
     <string name="privacy_revoke_confirm_message">"Nećete moći nastaviti koristiti značajke emitiranja osim ako nam ne dopustite pružanje naših usluga na temelju prikupljanja potrebnih osobnih podataka. Želite li ipak povući suglasnost za HappyCast politiku privatnosti?"</string>
     <string name="privacy_revoke_confirm_sure">U redu</string>
     <string name="privacy_revoke_confirm_title">"Ne mogu koristiti usluge"</string>
@@ -596,14 +628,15 @@ Ako trebate ručno otvoriti funkciju Miracast, možete pritisnuti tipku [Menu] n
     <string name="privacy_setting_show_lelink_policy">Pogledajte HappyCast Pravila o privatnosti</string>
     <string name="privacy_setting_show_policy">Pogledajte Pravila o privatnosti</string>
     <string name="privacy_setting_show_user_agreement">Pogledajte Korisnički ugovor</string>
-    <string name="privacy_text_1">　　Dobrodošli u korištenje funkcije emitiranja zaslona. Uslugu emitiranja zaslona pruža Milian, a neke funkcije emitiranja zaslona podržavaju emitiranja zaslona drugih tvrtki. Da biste osigurali svoju privatnost, obavezno pročitajte&lt;a href="http://cdn.hpplay.com.cn/xm/privacy.html "&gt;&amp;#12298;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&lt;/a&gt;&amp;#21644;&lt;a href="http://cdn.hpplay.com.cn/xm/lawer.html"&gt;&amp;#12298;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#27861;&amp;#24459;&amp;#22768;&amp;#26126;&amp;#12299;&lt;/a&gt;&amp;#12290;</string>
-    <string name="privacy_text_2">　　Dodirom na "Prihvaćam" prihvaćate gore navedeno &lt;a href="http://www.miui.com/res/doc/eula/cn.html"&gt;&amp;#12298;&amp;#29992;&amp;#25143;&amp;#21327;&amp;#35758;&amp;#12299;&lt;/a&gt;&amp;#12289;&lt;a href="http://www.miui.com/res/doc/privacy/cn.html"&gt;&amp;#12298;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&lt;/a&gt;sadržaj i odobrene privilegije.</string>
-    <string name="privacy_text_pemission">"　　• Dopuštenja Wi-Fi mreže koriste se za otkrivanje i povezivanje uređaja.
-　　•Bluetooth se koristi za otkrivanje i povezivanje uređaja.
-　　•Nakon čitanja pohrane telefona i pročitanog sadržaja, emitirajte na uređaj velikog zaslona.
-　　•Dobivanje podataka o telefonu, pročitati IMEI, Android_id, snimanje podataka o verziji i zapisniku telefona.
-　　•Nakon čitanja zvuka, emitirajte zvuk na uređaj velikog zaslona.
-　　•Dopuštenja za ciljanje Pronađite i otkrijte okolne uređaje."</string>
+    <string name="privacy_text_1"><Data>"Dobro došli u Emitiranje! Emitiranje omogućuje projiciranje stavki sa zaslona vašeg telefona na veći vanjski monitor.
+Štitit ćemo vaše osobne podatke u skladu s relevantnim zakonima, propisima i politikama privatnosti. Neke značajke pruža treći pružatelj usluga HappyCast. Prije korištenja ove značajke, pročitajte i prihvatite &lt;a href=%2$s>HappyCast Pravnu izjavu&lt;/a> i &lt;a href=%1$s>HappyCast Pravila privatnosti&lt;/a>.
+Kako bi mogla normalno raditi, ova se aplikacija mora spojiti na internet i zahtijeva sljedeća dopuštenja kako bi prikupila vaše osobne podatke:"</Data></string>
+    <string name="privacy_text_2"><Data>"Ako ne pristajete dati takva dopuštenja ili dijeliti i učitati svoje osobne podatke, nećete moći koristiti ovu aplikaciju. U takvim slučajevima možete deinstalirati ovu aplikaciju, odjaviti se ili ograničiti dopuštenja u postavkama.
+Pročitajte i prihvatite naše &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a> prije korištenja ove značajke."</Data></string>
+    <string name="privacy_text_pemission">"　　•Pristup slikama i spremanje na svoj uređaj kako biste te stavke projicirali na vanjske monitore
+  • Snimati pozive i zvuk kako biste emitirali zvuk na vanjskim uređajima
+  • Pristup telefonskom broju, IMEI i IMSI kako biste identificirali svoj uređaj
+  • Pristup svojoj lokaciji kako biste pronašli uređaje u blizini"</string>
     <string name="privacy_title">Pažnja</string>
     <string name="privacy_update_dialog_negative_btn">Odustani</string>
     <string name="privacy_update_dialog_positive_btn">Prihvaćam</string>
@@ -677,12 +710,34 @@ Ako trebate ručno otvoriti funkciju Miracast, možete pritisnuti tipku [Menu] n
     <string name="tuesday">Utorak</string>
     <string name="tuesday_short">Uto</string>
     <string name="tuesday_shortest">U</string>
+    <string name="upgrade_app_name_version">%1$s | %2$s</string>
+    <string name="upgrade_cancel">Odustani</string>
+    <string name="upgrade_cancel_all">Otkaži ažuriranja</string>
+    <string name="upgrade_check_upgrade">Ažuriraj</string>
+    <string name="upgrade_checking">Provjera ažuriranja…</string>
+    <string name="upgrade_help_menu">Pomoć</string>
+    <string name="upgrade_help_title">Pomoć pri ažuriranju</string>
+    <string name="upgrade_login_dialog_message">Prijavite se na svoj Xiaomi račun da biste mogli vidjeti svoje povezane uređaje.</string>
+    <string name="upgrade_login_dialog_sure">Prijavite se</string>
+    <string name="upgrade_login_dialog_title">Prijavite se na Xiaomi račun</string>
+    <string name="upgrade_no_devices">Nema dostupnih ažuriranja</string>
     <string name="upgrade_now">Ažuriraj</string>
-	  <string name="upgrade_phone_device_tip">*Ažuriranja osigurava Xiaomi telefon</string>
-    <string name="upgrade_ver_can_upgrade_1to2s">Ažuriranje s verzije %1$s na %2$s</string>
-    <string name="upgrade_ver_latest1s">Trenutna verzija (%1$s) je ažurna</string>
+    <string name="upgrade_phone_device_tip">*Ažuriranja osigurava Xiaomi telefon</string>
+    <string name="upgrade_scan">Provjeri ažuriranja</string>
+    <string name="upgrade_start">Ažuriraj</string>
+    <string name="upgrade_start_all">Ažuriraj</string>
     <string name="upgrade_test_package">"Da biste dovršili ažuriranje,
 provjerite sadrži li paket najnovije verzije svih aplikacija."</string>
+    <string name="upgrade_title">Ažuriranje povezanih uređaja</string>
+    <string name="upgrade_toast_no_wifi">"Nije moguće povezati se"</string>
+    <string name="upgrade_tv_device_tip">*Ažuriranja osigurava Xiaomi TV</string>
+    <string name="upgrade_ver_can_upgrade">Dostupno ažuriranje</string>
+    <string name="upgrade_ver_can_upgrade_1to2">Ažuriranje s verzije %1$d na %2$d</string>
+    <string name="upgrade_ver_can_upgrade_1to2s">Ažuriranje s verzije %1$s na %2$s</string>
+    <string name="upgrade_ver_can_upgrade_to1">Ažuriranje na verziju %1$d</string>
+    <string name="upgrade_ver_latest">Trenutačna verzija je ažurna</string>
+    <string name="upgrade_ver_latest1">Trenutna verzija (%1$d) je ažurna</string>
+    <string name="upgrade_ver_latest1s">Trenutna verzija (%1$s) je ažurna</string>
     <string name="v7_preference_off">ISKLJUČENO</string>
     <string name="v7_preference_on">UKLJUČENO</string>
     <string name="wednesday">Srijeda</string>

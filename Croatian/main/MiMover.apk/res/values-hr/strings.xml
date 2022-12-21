@@ -33,6 +33,9 @@
     <string name="after_reset_need_restore_system_app">"Izgleda da ste izvršili vraćanje na tvorničke postavke. Spojite se na mrežu i vratite stavke sustava da biste mogli normalno koristiti MIUI."</string>
     <string name="afternoon">PM</string>
     <string name="am">AM</string>
+    <string name="android_id">Android ID</string>
+    <string name="android_id_usage">Za prepoznavanje verzije aplikacije i kompatibilnosti između starih i novih uređaja</string>
+    <string name="android_oaid">OAID</string>
     <string name="antispam">Popis blokiranih</string>
     <string name="app_name">Mi Mover</string>
     <string name="app_update_64_dialog_cancel">Ne sada</string>
@@ -125,6 +128,9 @@ Posjetite https://appleid.apple.com/#!&amp;page=signin za isključivanje"</strin
     <string name="cloud_service_check_dialog_message">Čini se da je sinkronizacija stavki i kontakata Galerije isključena. Uključite sinkronizaciju kako bi se ove stavke prikazale na ovom uređaju.</string>
     <string name="cloud_service_check_dialog_positive_button">Uključi</string>
     <string name="cloud_service_check_dialog_title">Sinkronizirajte stavke kontakata i Galerije</string>
+    <string name="collect_content">Prikupljeni sadržaj</string>
+    <string name="collect_situation">Status prikupljanja</string>
+    <string name="collected">Prikupljeno</string>
     <string name="com_android_email">E-pošta</string>
     <string name="com_mi_liveassistant">Live Streaming pomoćnik</string>
     <string name="com_miui_calculator">Kalkulator</string>
@@ -338,12 +344,28 @@ Otvorite WeChat i idite na Ja > Postavke > Općenito > Sigurnosno kopiranje &amp
     <string name="lack_perm_msg">Mi Mover treba sljedeća dopuštenja da radi normalno: &lt;b&gt;%s&lt;/b&gt;.</string>
     <string name="lack_perm_title">Potrebna su dopuštenja</string>
     <string name="launcher">Izgled Poč. zaslona</string>
+    <string name="league_acquire_accept">Prihvaćam</string>
+    <string name="league_acquire_message1">Da biste mogli prenijeti aplikacije trećih strana i njihove podatke s ovog uređaja na svoj novi %s uređaj, potrebna su sljedeća dopuštenja:</string>
+    <string name="league_acquire_message2">Dopustite Mi Moveru pristup podacima aplikacije treće strane</string>
+    <string name="league_acquire_message3">Ovo je jednokratno dopuštenje koje se koristi samo za prijenos podataka. Kada prijenos završi, Mi Mover će automatski prestati koristiti ovo dopuštenje.</string>
+    <string name="league_acquire_message4">"Ako ne pristanete dati ovo dopuštenje, nećete moći prenijeti aplikacije trećih strana i njihove podatke."</string>
+    <string name="league_acquire_refuse">"Ne prihvaćam"</string>
+    <string name="league_acquire_title">Potrebna su dopuštenja</string>
+    <string name="league_check_service_content">"Mi Mover pruža usluge prijenosa za %s i trenutno nije dostupan."</string>
+    <string name="league_check_service_title">Pošalji koristeći %s</string>
+    <string name="league_client_acquire">Otvori %s</string>
+    <string name="league_client_hint_text">Cloning Alliance može pomoći u prijenosu podataka aplikacija treće strane (npr. WeChat i QQ povijest razgovora). Dodirnite \"%s\" da nastavite s nama ili dodirnite \"Ne sada\" da nastavite bez prijenosa aplikacija i podataka trećih strana.</string>
+    <string name="league_client_install">Instaliraj %s</string>
+    <string name="league_client_title">Pošalji pomoću Mi Movera</string>
+    <string name="league_client_traditional">Ne sada</string>
+    <string name="league_client_update">Ažuriraj %s</string>
+    <string name="league_mi_device">Xiaomi</string>
     <string name="less_than_1_minute">Manje od 1 minute</string>
     <string name="loading_data">Samo trenutak…</string>
     <string name="location_permission_desc">Za pronalaženje uređaja u blizini</string>
     <string name="location_permission_request">Za povezivanje s drugim uređajima u blizini</string>
     <string name="lockscreen_access_pattern_cell_added">Uzorak dodan</string>
-	  <string name="lockscreen_access_pattern_cleared">Uzorak obrisan</string>
+    <string name="lockscreen_access_pattern_cleared">Uzorak obrisan</string>
     <string name="lockscreen_access_pattern_detected">Uzorak završen</string>
     <string name="lockscreen_access_pattern_start">Uzorak započet</string>
     <string name="login">Prijavi se</string>
@@ -490,6 +512,7 @@ Otvorite WeChat i idite na Ja > Postavke > Općenito > Sigurnosno kopiranje &amp
     <string name="no_network">"Ne mogu se povezati na mrežu"</string>
     <string name="no_sim">Nema SIM kartice</string>
     <string name="not_set">Nije postavljeno</string>
+    <string name="not_support">Nije podržano</string>
     <string name="not_support_data_content1">1. Stavke specifične za model uređaja</string>
     <string name="not_support_data_content2">2. Podaci odabranih aplikacija</string>
     <string name="not_support_data_content3">3. Podaci Drugog prostora</string>
@@ -523,6 +546,7 @@ Otvorite WeChat i idite na Ja > Postavke > Općenito > Sigurnosno kopiranje &amp
     <string name="notification_trans_running_title">Mi Mover sada radi…</string>
     <string name="notification_trans_send_message">Slanje podataka. Ne isključujte Wi-Fi ili prebacivati između mreža.</string>
     <string name="notification_trans_send_title">Slanje podataka…</string>
+    <string name="oaid_usage">Za osiguravanje sigurnosti prenesenih stavki</string>
     <string name="ok">U redu</string>
     <string name="old_app_name">Stara verzija</string>
     <string name="old_task_cleared">Stare zadatke uspješno smo uklonili</string>
@@ -534,9 +558,14 @@ Otvorite WeChat i idite na Ja > Postavke > Općenito > Sigurnosno kopiranje &amp
     <string name="open_photo_and_contacts_cloud_sync_summary">Uključite sinkronizaciju kako bi se kontakti i stavke Galerije prikazivali na ovom uređaju.</string>
     <string name="open_photo_and_contacts_cloud_sync_title">Sinkronizirajte kontakte i stavke u Galeriji</string>
     <string name="option_feedback_title">Povratne inf.</string>
-    <string name="option_privacy_policy">Pravila o Privatnosti</string>
+    <string name="option_personal_info_list">Prikupljanje osobnih podataka</string>
+    <string name="option_privacy_policy">Pravila o privatnosti</string>
+    <string name="option_privacy_settings">Privatnost</string>
+    <string name="option_third_party_shared_info_instruction">Dijeljenje podataka treće strane</string>
+    <string name="option_user_agreement">Korisnički ugovor</string>
+    <string name="option_user_device_info">Informacije o uređaju</string>
     <string name="organization">Organizacija</string>
-    <string name="other_system_data">Podaci sistemske aplikacije</string>
+    <string name="other_system_data">Podaci aplikacija sustava</string>
     <string name="other_user_app">Aplikacije trećih strana</string>
     <string name="other_user_app_data">Aplikacije i podaci trećih strana</string>
     <string name="other_user_data">Aplikacije trećih strana podatci</string>
@@ -610,6 +639,9 @@ Otvorite WeChat i idite na Ja > Postavke > Općenito > Sigurnosno kopiranje &amp
     <string name="receiver_finish_title">"Sve je postavljeno!"</string>
     <string name="receiver_video_summary">Otključajte stari uređaj, dodirnite \"Prijenos\" i skenirajte ovu sliku</string>
     <string name="receiver_video_title">Prebacivanje sa starog uređaja</string>
+    <string name="recent_one_year">Posljednje 1 godina</string>
+    <string name="recent_seven_days">Posljednjih 7 dana</string>
+    <string name="recent_thirty_days">Posljednjih 30 dana</string>
     <string name="recommend_hint">Preporučeno</string>
     <string name="reconnect">Poveži ponovno</string>
     <string name="recovery_progress">Vraćanje stavki (%1$d/%2$d)…</string>
@@ -622,6 +654,7 @@ Otvorite WeChat i idite na Ja > Postavke > Općenito > Sigurnosno kopiranje &amp
 - SMS poruke
 - Pohrana"</string>
     <string name="request_all_permission_title">Potrebna su dopuštenja</string>
+    <string name="request_permission">Dopusti</string>
     <string name="restore_data_to_device_content">"Vaše su stavke sinkronizirane s Xiaomi Cloudom.
 Prijavite se na svoj Mi Račun kako biste ih vratili."</string>
     <string name="restore_data_to_device_title">Vratite stavke na ovaj uređaj</string>
@@ -835,9 +868,14 @@ na vašem iPhoneu"</string>
     <string name="tuesday">Utorak</string>
     <string name="tuesday_short">Uto</string>
     <string name="tuesday_shortest">U</string>
+    <string name="uncollected">Nije prikupljeno</string>
     <string name="unselected">Nije odabrano</string>
     <string name="update_later">Ne sada</string>
     <string name="update_now">Ažuriraj sada</string>
+    <string name="use_purpose">Svrha korištenja</string>
+    <string name="use_purpose_description">"Za povezivanje s hotspotom novog uređaja"</string>
+    <string name="use_scene">Scenarij korištenja</string>
+    <string name="use_scene_description">Za prijenos stavki sa starog uređaja na novi</string>
     <string name="user_agreement">Uvjeti pružanja usluge</string>
     <string name="user_experience_program">Program iskustva korisnika</string>
     <string name="user_manual">Upute</string>
