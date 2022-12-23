@@ -316,6 +316,7 @@
     <string name="drawer_settings">Ladica aplikacija</string>
     <string name="dual_app">Dvojne aplikacije</string>
     <string name="edit">Uredi</string>
+	 <string name="edit_folder">Uredi mapu</string>
     <string name="edit_folder_title">Uredi naziv mape</string>
     <string name="edit_mode_dual_app">Izradi dvojnu aplikaciju</string>
     <string name="edit_mode_group">Grupiraj</string>

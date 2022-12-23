@@ -78,7 +78,6 @@ Prijavite se na svoj Mi račun u Postavke > Mi račun za sinkronizaciju dopušte
     <string name="bottomsheet_action_expand_halfway">Proširi do pola</string>
     <string name="cast_image_des">Udžbenik za emitiranje</string>
     <string name="casting_tips">Emitiranje…</string>
-    <string name="clearable_edittext_clear_description">Izbriši</string>
     <string name="character_counter_content_description">Uneseni znakovi %1$d od %2$d</string>
     <string name="character_counter_overflowed_content_description">Ograničenje broja znakova premašilo je %1$d od %2$d</string>
     <string name="chip_text">Chip tekst</string>
@@ -572,7 +571,7 @@ Ako trebate ručno otvoriti funkciju Miracast, možete pritisnuti tipku [Menu] n
     <string name="paipai_connect_tv2_text">Preneseni podaci</string>
     <string name="paipai_error_dialog_msg">Provjerite postavke mreže i pokušajte ponovno.</string>
     <string name="paipai_error_dialog_negative">Razumijem</string>
-    <string name="password_toggle_content_description">Pokaži zaporku</string>
+    <string name="password_toggle_content_description">Prikaži zaporku</string>
     <string name="path_setting_cast">Veza &amp; dijeljenje/Emitiranje</string>
     <string name="path_setting_cast_demo">Veza &amp; dijeljenje/Emitiranje/Demos</string>
     <string name="path_setting_cast_demo_document">Veza &amp; dijeljenje/Emitiranje/Demos/Dokumenti</string>
@@ -672,7 +671,6 @@ Pročitajte i prihvatite naše &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a
     <string name="search_menu_title">Traži</string>
     <string name="send">Pošalji</string>
     <string name="service_name">UniPlay Service</string>
-    <string name="password_toggle_content_description">Prikaži zaporku</string>
     <string name="show_result_on_tv">Pogledajte rezultate na TV-u</string>
     <string name="small_window">Smanji prozor</string>
     <string name="small_window_not_supported">"Ne možete smanjiti ovu aplikaciju dok se emitira"</string>

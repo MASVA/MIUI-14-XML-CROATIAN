@@ -2,7 +2,7 @@
 <resources>
 	<string name="abandon">Odustani</string>
 	<string name="abc_action_bar_home_description">Idi na početnu</string>
-	<string name="abc_action_bar_up_description">Natrag</string>
+	<string name="abc_action_bar_up_description">Idi gore</string>
 	<string name="abc_action_menu_overflow_description">Više opcija</string>
 	<string name="abc_action_mode_done">Gotovo</string>
 	<string name="abc_activity_chooser_view_see_all">Prikaži sve</string>

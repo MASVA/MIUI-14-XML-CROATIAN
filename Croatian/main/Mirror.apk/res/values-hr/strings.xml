@@ -39,7 +39,9 @@
     <string name="cast_mcc_tips_button_cancel">Zanemari</string>
     <string name="cast_mcc_tips_button_ok">Postavke</string>
     <string name="cast_mcc_tips_message">Da biste izbjegli kašnjenja tijekom korištenja MIUI+, povežite oba uređaja na istu Wi-Fi mrežu.</string>
+	 <string name="cast_mcc_tips_message_china">Da biste izbjegli kašnjenja tijekom korištenja MIUI+, povežite oba uređaja na istu Wi-Fi mrežu.</string>
     <string name="cast_mcc_tips_title">Promjena Wi-Fi postavki</string>
+	 <string name="cast_mcc_tips_title_china">Promjena Wi-Fi postavki</string>
     <string name="clearable_edittext_clear_description">Izbriši</string>
 	  <string name="circulate_cta_agree">Prihvaćam</string>
 	  <string name="circulate_cta_app_name">Mi Smart Hub</string>
@@ -51,7 +53,9 @@
 	  <string name="circulate_cta_premission_storage_subtitle">Za slanje i primanje prenesenih datoteka</string>
 	  <string name="circulate_cta_premission_storage_title">Pristup i spremanje stavki u pohranu</string>
 	  <string name="circulate_cta_premission_wlan_subtitle">Za prijenos stavki i povezivanje uređaja putem Wi-Fi-ja</string>
+	  <string name="circulate_cta_premission_wlan_subtitle_china">Za prijenos stavki i povezivanje uređaja putem Wi-Fi-ja</string>
 	  <string name="circulate_cta_premission_wlan_title">Uključite i isključite Wi-Fi</string>
+	  <string name="circulate_cta_premission_wlan_title_china">Uključite i isključite Wi-Fi</string>
     <string name="circulate_cta_user_agreement">Pročitajte i prihvatite naše &lt;txt href=\"%1$s\">Korisnički ugovor&lt;/txt> i &lt;txt href=\"%2$s\">Pravila o privatnosti&lt;/txt> before you continue.</string>
     <string name="clipboard_tip">Kopirano iz %1$s</string>
     <string name="close">Zatvori</string>
@@ -84,6 +88,7 @@
     <string name="enable_wifi_alert_cancel">Odustani</string>
     <string name="enable_wifi_alert_message">Screen Combo treba Wi-Fi da se može povezati s računalom. Uključiti sada?</string>
     <string name="enable_wifi_alert_message_china">Screen Combo treba Wi-Fi da se može povezati s računalom. Uključiti sada?</string>
+	 <string name="enable_wifi_alert_message_for_photo_relay">MIUI+ omogućuje vam neprimjetno prebacivanje između uređaja kada trebate urediti fotografije snimljene telefonom na tabletu. Želite li uključiti Wi-Fi da biste koristili prijenos?</string>
     <string name="enable_wifi_alert_message_for_photo_relay_china">MIUI+ omogućuje vam neprimjetno prebacivanje između uređaja kada trebate urediti fotografije snimljene telefonom na tabletu. Želite li uključiti Wi-Fi da biste koristili prijenos?</string>
     <string name="enable_wifi_alert_ok">Uključi</string>
     <string name="enable_wifi_alert_title">Uključi Wi-Fi</string>
@@ -104,6 +109,12 @@
     <string name="generic_error_no_device_credential">Nije postavljen PIN, uzorak ili zaporka.</string>
     <string name="generic_error_no_keyguard">Ovaj uređaj ne podržava PIN, uzorak ili zaporku.</string>
     <string name="generic_error_user_canceled">Korisnik je otkazao provjeru autentičnosti.</string>
+    <string name="global_cta_agree">Prihvaćam</string>
+    <string name="global_cta_desc">Dobro došli u %s! Naša aplikacija pruža sljedeće usluge:</string>
+    <string name="global_cta_exit">"Ne prihvaćam"</string>
+    <string name="global_cta_feature_connect">Povezivanje telefona i tableta pomoću vašeg Xiaomi računa</string>
+    <string name="global_cta_feature_control">Pregled i korištenje aplikacija za pametne telefone na vašem tabletu</string>
+	  <string name="global_cta_user_agreement">Prije korištenja %1$s, pročitajte i prihvatite naše &lt;txt href=\"%2$s\">Korisnički ugovor&lt;/txt> i &lt;txt href=\"%3$s\">Pravila o privatnosti&lt;/txt>.</string>
     <string name="guide_window_btn_know">Razumijem</string>
     <string name="guide_window_operation">Povucite sa strane prema sredini zaslona</string>
     <string name="guide_window_title">Natrga</string>
@@ -121,9 +132,16 @@ Zatvorite ovu stranicu i pokušajte ponovno."</string>
     <string name="loading_view_load_timeout_close">Razumijem</string>
     <string name="loading_view_load_timeout_sub">"Provjerite je li Wi-Fi uključen na oba uređaja i jesu li blizu jedan drugome.
 Možete započeti drugu sesiju na svom računalu."</string>
+    <string name="loading_view_load_timeout_sub_china">"Provjerite je li Wi-Fi uključen na oba uređaja i jesu li blizu jedan drugome.
+Možete započeti drugu sesiju na svom računalu."</string>
     <string name="lock_layout_sub">Otključajte za nastavak</string>
     <string name="lock_layout_title">Računalo je zaključano</string>
     <string name="log_warning">"Uključivanje promjene dnevnika može povećati sigurnosne rizike i utjecati na performanse. Koristite ove promjene samo kad je to potrebno."</string>
+	 <string name="login_xiaomi_account_cancel">Odustani</string>
+    <string name="login_xiaomi_account_goto_login">Prijava</string>
+    <string name="login_xiaomi_account_summary_pad">Da biste se mogli povezati s drugim telefonima, koristite isti Mi Račun na oba povezana uređaja. Prijaviti se sada?</string>
+    <string name="login_xiaomi_account_summary_phone">Da biste se mogli povezati s drugim tabletima, koristite isti Mi Račun na oba povezana uređaja. Prijaviti se sada?</string>
+    <string name="login_xiaomi_account_title">Prijavite se na Mi Račun</string>
     <string name="low_battery_notification_action">Uključi</string>
     <string name="low_battery_notification_content">Preostalo je manje od %2$d%% baterije na %1$s. Uključite Štednju baterije.</string>
     <string name="low_battery_notification_title">Slaba baterija</string>
@@ -208,8 +226,11 @@ Možete započeti drugu sesiju na svom računalu."</string>
     <string name="night">PM</string>
     <string name="noon">PM</string>
     <string name="not_set">Nije postavljeno</string>
-    <string name="notification_channel_description_download">Prikaži napredak preuzimanja u Panelo obavijesti</string>
+    <string name="notification_channel_description_download">Prikaži napredak preuzimanja u Panelu obavijesti</string>
     <string name="notification_channel_name_download">Prikaži napredak preuzimanja</string>
+	 <string name="notification_state_cancel">Prekini vezu</string>
+    <string name="notification_state_content">"Ovaj uređaj povezan je s računalom korisnika %1$s. Sada možete dijeliti ulazne uređaje, datoteke i slike."</string>
+    <string name="notification_state_title">Uspješno povezano</string>
     <string name="notify_clip_action_browser">Posjetite</string>
     <string name="notify_clip_action_call">Poziv</string>
     <string name="notify_clip_action_navigation">Navigacija</string>
@@ -234,6 +255,8 @@ Možete započeti drugu sesiju na svom računalu."</string>
     <string name="pad_pc_message_introduction_summary">Kopirajte tekst na svoj tablet i zalijepite ga na povezano računalo</string>
     <string name="pad_pc_message_introduction_title">Dijeljeni međuspremnik</string>
     <string name="pad_pc_mirror_introduction_summary">Zrcaljenje zaslona računala na vašem tabletu</string>
+	 <string name="pad_pc_share_introduction_summary">"Koristite miš i tipkovnicu svog računala s ovim tabletom"</string>
+	 <string name="pad_pc_share_introduction_title">Ulazni uređaji</string>
     <string name="pad_pc_mirror_introduction_title">Zrcalni zaslon</string>
     <string name="pad_settings_bluetooth_enable_summary">Uključite Bluetooth da biste mogli pronaći uređaje u blizini. Uključiti sada?</string>
     <string name="pad_settings_bluetooth_enable_title">Uključite Bluetooth</string>
@@ -312,6 +335,7 @@ Možete započeti drugu sesiju na svom računalu."</string>
     <string name="preference_copied">Sažetak \"%1$s\" je kopiran u međuspremnik.</string>
     <string name="privacy_all_purpose">Dobrodošli Screen Combo! Ova vam aplikacija omogućuje prijenos datoteka i interakciju s telefonom pomoću računala.</string>
     <string name="privacy_describe_change_wifi_state">Za povezivanje uređaja i prijenos datoteka pomoću Wi-Fi-ja</string>
+	 <string name="privacy_describe_change_wifi_state_china">Za povezivanje uređaja i prijenos datoteka pomoću Wi-Fi-ja</string>
     <string name="privacy_describe_location">Za pronalaženje računala u blizini i prijenos datoteka</string>
     <string name="privacy_describe_record_audio">Za preusmjeravanje reprodukcije zvuka na računalo</string>
     <string name="privacy_describe_storage">Za slanje i primanje datoteka</string>
@@ -400,6 +424,17 @@ Možete započeti drugu sesiju na svom računalu."</string>
     <string name="settings_trusted_device_none">Nema uređaja</string>
     <string name="settings_trusted_tips">Automatski se poveži s odabranim uređajima u blizini kada su uključeni Bluetooth i Wi-Fi</string>
     <string name="settings_trusted_tips_china">Automatski se povežite s odabranim uređajima u blizini kada su Bluetooth i Wi-Fi uključeni</string>
+	 <string name="share_pc_abort_dialog_message">Provjerite jesu li Bluetooth i Wi-Fi uključeni na oba uređaja i ponovno pokrenite sesiju na svom računalu.</string>
+	 <string name="share_pc_abort_dialog_message_china">Provjerite jesu li Bluetooth i Wi-Fi uključeni na oba uređaja i ponovno pokrenite sesiju na svom računalu.</string>
+	 <string name="share_pc_abort_dialog_ok">Shvaćam</string>
+	 <string name="share_pc_abort_dialog_title">Veza je prekinuta</string>
+	 <string name="share_pc_file_transfer_finish">Uspješno preneseno</string>
+	 <string name="share_pc_folder_error_dialog_message">"Povlačenje mapa za njihov prijenos trenutno nije podržano."</string>
+	 <string name="share_pc_folder_error_dialog_ok">Shvaćam</string>
+	 <string name="share_pc_folder_error_dialog_title">"Nije moguće prenijeti"</string>
+	 <string name="share_pc_folder_multi_error_dialog_message">"Odabrane datoteke su uspješno prenesene. Prijenos mapa trenutno nije podržan."</string>
+	 <string name="share_pc_folder_multi_error_dialog_ok">Shvaćam</string>
+	 <string name="share_pc_folder_multi_error_dialog_title">"Nije moguće prenijeti sve stavke"</string>
     <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>
     <string name="size_kilo_byte">KB</string>
@@ -419,9 +454,12 @@ za nastavak"</string>
     <string name="switch_wlan_action">Poveži se</string>
     <string name="switch_wlan_failed">"Nije se moguće povezati"</string>
     <string name="switch_wlan_failed_desc">"Nije se moguće automatski povezati s ovom Wi-Fi mrežom. Pokušajte se povezati ručno u Postavkama."</string>
+	 <string name="switch_wlan_failed_desc_china">"Nije se moguće automatski povezati s ovom Wi-Fi mrežom. Pokušajte se povezati ručno u Postavkama."</string>
     <string name="switch_wlan_success">Uspješno povezivanje</string>
     <string name="switch_wlan_tips">Povežite se na istu mrežu</string>
-    <string name="switch_wlan_tips_desc">Možete se povezati na istu Wi-Fi mrežu kao i drugi uređaj za bolje iskustvo. Spojiti se sada?</string>
+	 <string name="switch_wlan_tips_china">Povežite se na istu mrežu</string>
+    <string name="switch_wlan_tips_desc">Možete se povezati na istu Wi-Fi mrežu kao i drugi uređaj za bolje iskustvo. Povezati se sada?</string>
+	 <string name="switch_wlan_tips_desc_china">Možete se povezati na istu Wi-Fi mrežu kao i drugi uređaj za bolje iskustvo. Povezati se sada?</string>
     <string name="thursday">Četvrtak</string>
     <string name="thursday_short">Čet</string>
     <string name="thursday_shortest">Č</string>

@@ -3629,7 +3629,8 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pc_hidemode_performance_title">Način rada Performanse</string>
   <string name="pc_hidemode_power_save">Štednja baterije</string>
   <string name="pc_high_temp_protection_noti_bt_text">Razumijem</string>
-  <string name="pc_high_temp_protection_noti_summary">"Sada ne mogu koristiti hotspot, mobilne podatke i usluge lokacije"</string>
+  <string name="pc_high_temp_protection_noti_summary">"Sada se ne mogu koristiti hotspot, mobilni podaci i usluge lokacije"</string>
+  <string name="pc_high_temp_protection_noti_summary2">"Sada se ne mogu koristiti hotspotovi"</string>
   <string name="pc_high_temp_protection_noti_tile">Vaš uređaj je pregrijan</string>
   <string name="pc_install_manager">Instaliraj putem USB-a</string>
   <string name="pc_main_activity_back">Natrag</string>
