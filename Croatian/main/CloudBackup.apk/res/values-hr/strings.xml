@@ -29,7 +29,6 @@
     <string name="abc_toolbar_collapse_description">Sažmi</string>
     <string name="about_to_recover">Samo trenutak…</string>
     <string name="access_denied_info">Previše pokušaja. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
-    <string name="account_error">Pogreška računa</string>
     <string name="actionbar_button_up_description">Natrag</string>
     <string name="app_is_running">Aplikacija se izvodi…</string>
     <string name="app_name">Sig. kopija Xiaomi Clouda</string>
@@ -51,8 +50,7 @@
     <string name="backup_action_no_space_with_wechat_on_content">Nema dovoljno prostora cloud pohrane za sigurnosno kopiranje WeChat podataka. Nadogradite svoj plan pohrane za sigurnosno kopiranje stavki.</string>
     <string name="backup_action_no_space_with_wechat_on_title">"Sigurnosna kopija stavki WeChat-a nije moguća"</string>
     <string name="backup_action_retry_now">Pokušaj ponovno</string>
-    <string name="backup_fail">"Ne mogu izraditi Sig. kopiju"</string>
-    <string name="backup_fail_wifi_needed">"Za izradu Sig. kopije potreban je Wi-Fi."</string>
+    <string name="backup_failed_reason_app_data_error">"Ne mogu izraditi Sig. kopiju WeChat podataka"</string>
     <string name="backup_failed_reason_app_usage_denied">Dodijelite potrebna dopuštenja za sigurnosno kopiranje stavki</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Nema dovoljno prostora za pohranu u Xiaomi Cloudu. Nadogradite svoj plan ili oslobodite prostor za pohranu.</string>
     <string name="backup_failed_reason_disk_space_not_enough">Nema dovoljno prostora za pohranu. Oslobodite prostor za pohranu.</string>
@@ -98,7 +96,6 @@ Pokušajte ponovo"</string>
     <string name="cancel_backup">Otkazivanje Sig. kopije…</string>
     <string name="cancel_restore">Otkazivanje…</string>
     <string name="cancel_restore_home">Otkazivanje…</string>
-	 <string name="cancel_recover_settings">Odustani</string>
     <string name="clearable_edittext_clear_description">Izbriši</string>
     <string name="click_try_to_restore_again">Dodirnite da pokušate ponovo</string>
     <string name="close">Zatvori</string>
@@ -109,11 +106,10 @@ Pokušajte ponovo"</string>
     <string name="cloud_app_no_data">Nema otkrivenih Sig. kopija</string>
     <string name="cloud_app_no_network">"Ne mogu se povezati na mrežu"</string>
     <string name="cloud_app_other_devices">Ostali uređaji</string>
-    <string name="cloud_app_restore_app_and_data">Postavite svoj uređaj</string>
     <string name="cloud_app_restore_data">Osobni podaci i prethodno instalirane aplikacije će se pojaviti na vašem uređaju automatski</string>
     <string name="cloud_app_restore_error">"Ne mogu vratiti"</string>
     <string name="cloud_app_restore_success">Aplikacije su vraćene</string>
-    <string name="cloud_app_restore_wifi_prompt">Vrati iz Sig. kopije na Xiaomi Cloudu.</string>
+    <string name="cloud_app_restore_wifi_prompt">Vrati iz Sig. kopije Xiaomi Clouda.</string>
     <string name="cloud_back_up_date_format">HH:mm dd.MM.yyyy</string>
     <string name="cloud_back_up_detail_discription">"Ove stavke će biti pohranjene na vaš Xiaomi Cloud kada je uređaj povezan na Wi-Fi: 
 *  Aplikacije, izgled Poč. zaslona i slike pozadine
@@ -130,7 +126,6 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Xiaomi
     <string name="cloud_back_up_frequence_choice_title">Raspored Sig. kopije</string>
     <string name="cloud_back_up_frequence_long">Svakih 7 dana</string>
     <string name="cloud_back_up_frequence_short">Svaki dan</string>
-    <string name="cloud_back_up_no_network_warn">"Ne mogu se povezati na Wi-Fi"</string>
     <string name="cloud_back_up_ok_btn">U redu</string>
     <string name="cloud_back_up_opening">Samo trenutak…</string>
     <string name="cloud_back_up_subscribe_vip_confirm">Nadogradi</string>
@@ -145,7 +140,8 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Xiaomi
     <string name="cloud_backup_detail_frequence_every_7_day">Svakih %d dana</string>
     <string name="cloud_backup_detail_frequence_every_day">Svaki dan</string>
     <string name="cloud_backup_detail_header_msg">"Sada možete sigurnosno kopirati izgled početnog zaslona vašeg uređaja, aplikacije, postavke sustava i WeChat podatke. &lt;font color=#0D84FF>&lt;a href=>Dodirnite da biste saznali više.&lt;/a>&lt;/font>"</string>
-	 <string name="cloud_backup_detail_local_backup_size">Veličina Sig. kopije: %s</string>
+    <string name="cloud_backup_detail_header_msg_no_wechat_backup">"Izradite sigurnosnu kopiju izgleda početnog zaslona uređaja, popisa aplikacija i postavki sustava. &lt;font color=#0D84FF>&lt;a href=>Tap to learn more&lt;/a>&lt;/font>."</string>
+    <string name="cloud_backup_detail_local_backup_size">Veličina Sig. kopije: %s</string>
     <string name="cloud_backup_detail_manage">Upravljanje sigurnosnim kopijama</string>
     <string name="cloud_backup_detail_no_time">Nema Sig. kopija</string>
     <string name="cloud_backup_detail_state">Automatske Sig. kopije</string>
@@ -163,21 +159,15 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Xiaomi
     <string name="cloud_backup_rw_storage_summary">Za sigurnosnu kopiju izgleda početnog zaslona, podataka aplikacije i postavki aplikacije u cloudu</string>
     <string name="cloud_backup_rw_storage_title">Pristup pohrani</string>
     <string name="cloud_backup_select_recover">Odaberite Sig. kopiju sa Xiaomi Clouda</string>
-    <string name="cloud_backup_title">Xiaomi Cloud Sig. kopije</string>
     <string name="cloud_restore_from_other_device">"Zaustaviti vraćanje %s i izbrisati ovu Sig. kopiju? Ne možete poništiti ovu radnju."</string>
     <string name="cloud_restore_task">Vraćanje…</string>
     <string name="cloud_task_in_process">"Zaustaviti %s i izbrisati ovu Sig. kopiju? Ne možete poništiti ovu radnju."</string>
-    <string name="collect_diagnosis_log">Prikupiti zapis dijagnoze</string>
-	  <string name="confirm_cancel_restore_negative">Odustani</string>
-    <string name="confirm_cancel_restore_positive">Nastavi</string>
-    <string name="confirm_cancel_restore_title">Želite li otkazati vraćanje?</string>
-    <string name="confirm_restore_app_data">Prepisivanje podataka aplikacije</string>
-    <string name="confirm_restore_app_data_summary">Čini se da je WeChat već generirao podatke na ovom uređaju. Želite li ga prepisati podacima iz sigurnosne kopije?</string>
+    <string name="collect_diagnosis_log">Prikupi zapis dijagnoze</string>
     <string name="confirm_restore">Vrati</string>
+    <string name="confirm_restore_app_data">"WeChat je već instaliran na ovom uređaju. Nije moguće vratiti WeChat podatke."</string>
     <string name="confirm_restore_summary">Vaš Poč. zaslon će se ponovno pokrenuti. Sig. kopija aplikacija će se automatski preuzeti.</string>
     <string name="confirm_restore_title">Vrati</string>
     <string name="copy">Kopiraj</string>
-    <string name="custom_progress">Stavke: %d</string>
     <string name="customization">Prilagodi</string>
     <string name="date_format">HH:mm:ss dd.MM.yyyy</string>
     <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
@@ -185,16 +175,14 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Xiaomi
     <string name="desktop_downloading">Preuzimanje</string>
     <string name="desktop_failed">Nije uspjelo</string>
     <string name="desktop_installing">Instaliranje</string>
-    <string name="desktop_recovering">Vraćanje</string>
     <string name="desktop_wait_network">Čekanje…</string>
     <string name="desktop_waiting">Čekanje</string>
-    <string name="device_corrupt">Xiaomi Telefon (podaci su oštećeni)</string>
     <string name="device_delete_prompt">Izbrisati Sig. kopiju za %s?</string>
-    <string name="device_xiaomi">Xiaomi Telefon</string>
     <string name="diagnosis_log_send_failed">Slanje zapisa dijagnoze nije uspjelo.</string>
     <string name="diagnosis_log_sent_format">"Zapis dijagnoze je poslan.
 ID:%s
 Molimo pošaljite ovaj kod tehničaru."</string>
+    <string name="dialog_app_usage_consent_message">Ova značajka mora pristupiti podacima o korištenju aplikacije kako bi mogla procijeniti veličinu WeChat sigurnosnih kopija.</string>
     <string name="dialog_app_usage_consent_title">Dopustite pristup podacima o upotrebi aplikacije</string>
     <string name="dialog_app_usage_denied">U postavkama dajte dopuštenje za Sig. kopiju \"Pristup korištenju\" da biste mogli sigurnosno kopirati stavke.</string>
     <string name="dialog_backup_failed">"Nije moguće napraviti Sig. kopiju"</string>
@@ -234,12 +222,15 @@ Molimo pošaljite ovaj kod tehničaru."</string>
     <string name="doing_calc_backup_data_size">Izračun veličine…</string>
     <string name="doing_restore_home">Vraćanje Poč. zaslona i postavki sustava…</string>
     <string name="done_remove">Uspješno uklonjeno</string>
-	  <string name="download_home_data">Preuzimanje izgleda početnog zaslona...</string>
-    <string name="download_meta_again">"Ne mogu učitati Sig. kopiju, pokušajte ponovno."</string>
-    <string name="download_meta_failed">Ne mogu preuzeti podatke</string>
-    <string name="download_settings">Preuzimanje postavki Poč. zaslona %s%%</string>
-    <string name="download_settings_fail">"Ne mogu preuzeti postavke Poč. zaslona"</string>
+    <string name="download_meta_again">"Nije moguće učitati sigurnosnu kopiju, pokušajte ponovo."</string>
+    <string name="download_meta_failed">"Nije moguće učitati podatke."</string>
+    <string name="download_settings">Preuzimanje postavki početnog zaslona %s%%</string>
+    <string name="download_settings_fail">"Nije moguće preuzeti postavke početnog zaslona"</string>
     <string name="dump_app_data_record_complete_msg">Lokacije datoteka: %s</string>
+    <string name="dump_app_data_record_complete_title">Uspješno sigurnosno kopiranje WeChat podataka</string>
+    <string name="dump_app_data_record_not_found_msg">"Izgleda da dosad niste sigurnosno kopirali WeChat podatke"</string>
+    <string name="dump_app_data_record_not_found_title">"Nisam mogao pronaći WeChat sigurnosne kopije"</string>
+     <string name="dump_app_data_record_running_title">Sigurnosno kopiranje WeChat podataka…</string>
     <string name="error_retry_later">"Ne mogu dovršiti radnju. Pričekajte trenutak ili dva i pokušajte ponovno."</string>
     <string name="error_unknown">Nešto je pošlo po krivu</string>
     <string name="expand_button_title">Napredno</string>
@@ -259,7 +250,6 @@ Molimo pošaljite ovaj kod tehničaru."</string>
     <string name="loading_progress_num">Učitano %s%%</string>
     <string name="loading_user_backup">Učitavanje korisničkih Sig. kopija…</string>
     <string name="managespace_delete_backup">Izbriši</string>
-    <string name="managespace_total_space">Ukupan prostor: %s</string>
     <string name="menu_item_managespace">Upravljaj prostorom</string>
     <string name="menu_item_sort">Poredaj po</string>
     <string name="menu_item_sort_name">Naziv</string>
@@ -294,7 +284,6 @@ Molimo pošaljite ovaj kod tehničaru."</string>
     <string name="monday">Ponedjeljak</string>
     <string name="monday_short">Pon</string>
     <string name="monday_shortest">P</string>
-    <string name="month">Mjesec</string>
     <string name="month_april">Travanj</string>
     <string name="month_april_short">Tra</string>
     <string name="month_april_shortest">T</string>
@@ -322,9 +311,6 @@ Molimo pošaljite ovaj kod tehničaru."</string>
     <string name="month_may">Svibanj</string>
     <string name="month_may_short">Svi</string>
     <string name="month_may_shortest">S</string>
-    <string name="month_medium_april">Tra</string>
-    <string name="month_medium_august">Kol</string>
-    <string name="month_medium_december">Pro</string>
     <string name="month_november">Studeni</string>
     <string name="month_november_short">Stu</string>
     <string name="month_november_shortest">S</string>
@@ -340,7 +326,6 @@ Molimo pošaljite ovaj kod tehničaru."</string>
     <string name="msg_restore_start_with_metered_network">"Ako vratite ovu Sig. kopiju, vaš će se početni zaslon vratiti na zadano, a vaše će se aplikacije automatski preuzeti i instalirati.&lt;br />&lt;b>&lt;font color='red'>Veličina Sig. kopije: %s&lt;/font>&lt;/b>"</string>
     <string name="msg_restore_with_metered_network_hint">Ako nastavite s vraćanjem tih stavki, za preuzimanje će se koristiti mobilni podaci.</string>
     <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'&gt;&lt;b&gt;%s&lt;/b&gt;&lt;/font&gt; datoteka će biti preuzeto."</string>
-    <string name="name_model">"%1$s %2$s"</string>
     <string name="network_error">Povežite se s mrežom</string>
     <string name="network_error_info">Dogodila se mrežna pogreška. Provjerite postavke mreže i pokušajte ponovno.</string>
     <string name="network_timeout_info">"Ne mogu se povezati s mrežom. Pokušajte ponovo."</string>
@@ -351,11 +336,10 @@ Molimo pošaljite ovaj kod tehničaru."</string>
     <string name="notification_channel_service">Usluga</string>
     <string name="ok">U redu</string>
     <string name="open_backup_switch">Promjeni Sig. kopije</string>
-    <string name="open_wifi">Uključite Wi-Fi</string>
-    <string name="open_wifi_description">Poveži se na Wi-Fi mrežu za vraćanje aplikacije</string>
-    <string name="open_wifi_setting">Wi-Fi postavke</string>
     <string name="other_device_main_space">Prvi prostor</string>
     <string name="other_device_second_space">Drugi prostor</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="pc_mode_not_support_restore_warning">"Nije moguće vratiti stavke u PC načinu. Isključite PC način i pokušajte ponovo."</string>
     <string name="permission_to_use">Pojedinosti o dopuštenjima</string>
     <string name="preference_copied">Sažetak \"%1$s\" je kopiran u međuspremnik.</string>
@@ -369,11 +353,9 @@ Molimo pošaljite ovaj kod tehničaru."</string>
     <string name="provision_restore_data">Vraćanje stavki</string>
     <string name="provision_restore_item_backup_name_with_size">%1$s %2$s</string>
     <string name="provision_skip_underline">Preskoči</string>
-    <string name="query_restore_back_view">Xiaomi Cloud Sig. kopija</string>
     <string name="query_restore_description">"Ako vratite izgled i postavke početnog zaslona, aplikacije koje su već instalirane bit će vraćene na svoje izvorne pozicije na početnom zaslonu. Aplikacije koje nisu dio ove Sig. kopije bit će premještene na posljednju stranicu početnog zaslona."</string>
     <string name="query_restore_summary">Pronađena je Sig. kopija na Xiaomi Cloudu za ovaj uređaj. Vratiti aplikacije i postavke Poč. zaslona ili koristiti kao novi uređaj i izbrisati prethodne Sig. kopije na Xiaomi Cloudu?</string>
     <string name="recover_home_settings">Vrati postavke Poč. zaslona</string>
-	  <string name="recover_miui_settings">Vrati postavke sustava</string>
     <string name="recover_settings_description">Držite vaš uređaj uključenim</string>
     <string name="recovering">Vraćanje %s</string>
     <string name="remove_again">Pokušaj ponovno</string>
@@ -385,17 +367,7 @@ Molimo pošaljite ovaj kod tehničaru."</string>
     <string name="restore_app_order_retry">Pokušaj ponovno</string>
     <string name="restore_app_order_retry_desc">"Ne mogu se povezati na mrežu.
 Provjerite postavke mreže i pokušajte ponovno."</string>
-    <string name="restore_app_order_search_hint">Traži stavke za postavljanje prioriteta</string>
-    <string name="restore_app_order_search_input_high_light">"&lt;font color='#ff0800'>%s&lt;/font>"</string>
-    <string name="restore_app_order_search_installed">Aplikacije na ovom uređaju</string>
-    <string name="restore_app_order_search_normal">Aplikacije redovnog prioriteta</string>
-    <string name="restore_app_order_search_prior">Aplikacije visokog prioriteta</string>
-    <string name="restore_app_order_title">Odredite prioritet vraćenim stavkama</string>
-    <string name="restore_finish_description">Vraćanje je završeno</string>
-    <string name="restore_home_failed">"Nije moguće vratiti početni zaslon."</string>
-    <string name="restore_init_description">Započni vraćanje</string>
 	  <string name="restore_cloud_backup_to_phone">Vrati stavke iz Xiaomi Clouda</string>
-    <string name="restore_data_summary">Ova značajka zahtijeva internetsku vezu.</string>
     <string name="restore_data_title">Vrati kor. podatke</string>
     <string name="restore_detail_category_app_data">WeChat podaci</string>
     <string name="restore_detail_category_app_data_summary">Povijest chata, datoteke i druge stavke (%s)</string>
@@ -406,6 +378,7 @@ Provjerite postavke mreže i pokušajte ponovno."</string>
     <string name="restore_detail_category_settings_size">Veličina: ＜%.1f GB</string>
     <string name="restore_detail_more">Više</string>
     <string name="restore_detail_title">Odaberite stavke koje želite vratiti</string>
+    <string name="restore_failed_reason_app_data_error">"Nije moguće vratiti WeChat podatke"</string>
     <string name="restore_failed_reason_disk_space_not_enough">Nema dovoljno prostora za pohranu. Najprije oslobodite prostor za pohranu.</string>
     <string name="restore_failed_reason_network_error">Pogreška mreže. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
     <string name="restore_file_empty">Ovdje nema sigurnosnih kopija</string>
@@ -428,7 +401,6 @@ Provjerite postavke mreže i pokušajte ponovno."</string>
     <string name="restore_task_in_process">Vraćanje…</string>
     <string name="restore_task_unfinished">"Ne mogu vratiti"</string>
     <string name="restore_unfinished">Vraćanje, pokušajte ponovno kasnije</string>
-    <string name="restoreing_file_tile">Vraćanje datoteka: %d</string>
     <string name="restoring_app_data_title_no_progress">Vraćanje WeChat podataka…</string>
     <string name="restoring_data">Vraćanje podataka…</string>
     <string name="restoring_file_title_no_progress">Vraćanje aplikacija…</string>
@@ -443,8 +415,6 @@ Provjerite postavke mreže i pokušajte ponovno."</string>
     <string name="self_device_disable">%s (nije podržano na ovom uređaju)</string>
     <string name="self_device_main_space">Prvi prostor</string>
     <string name="self_device_second_space">Drugi prostor</string>
-    <string name="self_phone">Ovaj telefon</string>
-    <string name="self_phone_home">Ovaj telefon: %s</string>
     <string name="send">Pošalji</string>
     <string name="send_diagnosis_log">Pošalji zapis dijagnoze</string>
     <string name="sending">Slanje…</string>
@@ -487,7 +457,6 @@ Provjerite postavke mreže i pokušajte ponovno."</string>
     <string name="size_unknown">Nepoznata veličina</string>
     <string name="start_backup_to_micloud">Izradi Sig. kopiju aplikacija na Xiaomi Cloud</string>
     <string name="start_recover">Vraćanje %s</string>
-    <string name="storage_manage_title">Promjena plana Xiaomi Cloud pohrane</string>
     <string name="storage_unit_gb">%s GB</string>
     <string name="storage_unit_mb">%s MB</string>
     <string name="success_open_cloudbackup">Uključena izrada Sig. kopije aplik. Poč. zaslona</string>
@@ -495,7 +464,6 @@ Provjerite postavke mreže i pokušajte ponovno."</string>
     <string name="sunday_short">Ned</string>
     <string name="sunday_shortest">N</string>
     <string name="system_error_info">Sustav je zauzet. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
-    <string name="temporary_not_available">Privremeno nije dostupno</string>
     <string name="thursday">Četvrtak</string>
     <string name="thursday_short">Čet</string>
     <string name="thursday_shortest">Č</string>
@@ -507,11 +475,9 @@ Provjerite postavke mreže i pokušajte ponovno."</string>
     <string name="title_restore_with_current_network">Korištenje trenutne veze za preuzimanje datoteka</string>
     <string name="today">Danas</string>
     <string name="tomorrow">Sutra</string>
-    <string name="total_num">%d stavki,</string>
     <string name="total_space">Ukupni prostor: %s</string>
-    <string name="trans_pausing">Pauzirano…</string>
-    <string name="try_again">Dodirni za novi pokušaj</string>
-    <string name="try_continue">dodirni za nastavak</string>
+    <string name="try_again">Dodirnite za ponovni pokušaj</string>
+    <string name="try_continue">Dodirnite za nastavak</string>
     <string name="tuesday">Utorak</string>
     <string name="tuesday_short">Uto</string>
     <string name="tuesday_shortest">U</string>

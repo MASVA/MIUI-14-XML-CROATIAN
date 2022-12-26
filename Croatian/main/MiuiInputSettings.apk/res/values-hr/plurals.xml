@@ -29,13 +29,13 @@
         <item quantity="other">prije %d min</item>
         <item quantity="one">prije 1 min</item>
     </plurals>
-	<plurals name="backup_action_long_time_not_backup_content">
-        <item quantity="other">"Čini se da niste sigurnosno kopirali stavke %s tjedana. Napravite sigurnosne kopije kako biste izbjegli gubitak bilo čega važnog."</item>
-        <item quantity="one">"Čini se da niste sigurnosno kopirali stavke %s tjedan. Napravite sigurnosne kopije kako biste izbjegli gubitak bilo čega važnog."</item>
+    <plurals name="auto_disable_screenbuttons_disabled_header_title">
+        <item quantity="other">Nikad ne omogućuj za ovoliko %d aplikacija</item>
+        <item quantity="one">Nikad ne omogućuj za %d aplikaciju</item>
     </plurals>
-    <plurals name="cloud_backup_detail_manage_summary">
-        <item quantity="other">Sig. kopije %1$s (%2$s)</item>
-        <item quantity="one">Sig. kopija %1$s (%2$s)</item>
+    <plurals name="auto_disable_screenbuttons_enabled_header_title">
+        <item quantity="other">Uvijek onemogući za ovoliko %d aplikacija</item>
+        <item quantity="one">Uvijek onemogući za %d aplikaciju</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Prije pola sata</item>
@@ -60,20 +60,12 @@
         <item quantity="other">odabrano %d stavki</item>
         <item quantity="one">odabrana %d stavka</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novih obavijesti</item>
+        <item quantity="one">%d nova obavijest</item>
+    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">prije %d min</item>
         <item quantity="one">prije 1 minutu</item>
-    </plurals>
-	<plurals name="session_starting_app_count_backup_text">
-        <item quantity="other">Sigurnosno kopirano %d aplikacija</item>
-        <item quantity="one">Sigurnosno kopirana %d aplikacija</item>
-    </plurals>
-    <plurals name="session_starting_app_count_restore_text">
-        <item quantity="other">%d aplikacija vraćeno</item>
-        <item quantity="one">%d aplikacija vraćena</item>
-    </plurals>
-    <plurals name="session_time_remain">
-        <item quantity="other">Preostalo je otprilike %s min</item>
-        <item quantity="one">Preostala je otprilike %s min</item>
     </plurals>
 </resources>

@@ -47,7 +47,6 @@
     <string name="HIPS_Perm_Location_Desc">dobiti preciznu lokaciju (na temelju GPS-a i mreže)</string>
     <string name="HIPS_Perm_NEARBY_DEVICES">Povezivanje s uređajima u blizini</string>
     <string name="HIPS_Perm_NEARBY_DEVICES_Desc">Otkriti i povezati se s uređajima u blizini</string>
-	 <string name="HIPS_Perm_NEARBY_DEVICES_Desc_T">Otkriti i povezati se s uređajima u blizini putem Bluetootha i Wi-Fi-ja</string>
     <string name="HIPS_Perm_NEARBY_DEVICES_Desc_T_china">Otkriti i povezati se s uređajima u blizini putem Bluetootha i Wi-Fi-ja</string>
 	 <string name="HIPS_Perm_PhoneID">Dobivanje informacija o uređaju</string>
     <string name="HIPS_Perm_PhoneID_Desc">pristupiti broju telefona, IMEI i IMSI-ju</string>
@@ -265,7 +264,6 @@
     <string name="month_may">Svibanj</string>
     <string name="month_may_short">Svi</string>
     <string name="month_may_shortest">S</string>
-    <string name="month_medium_december">Pro</string>
     <string name="month_november">Studeni</string>
     <string name="month_november_short">Stu</string>
     <string name="month_november_shortest">S</string>
@@ -283,7 +281,7 @@
     <string name="ok">U redu</string>
     <string name="perm_action_allow">Dopusti</string>
     <string name="perm_action_deny">Nikad ne dopusti</string>
-	 <string name="perm_educate_post_notification">Obavijesti mogu biti popraćene zvukom i vibracijom dok se pojavljuju u Panelu obavijesti i na ikonama početnog zaslona. Postavke obavijesti možete promijeniti u Postavkama.</string>
+    <string name="perm_educate_post_notification">Obavijesti mogu biti popraćene zvukom i vibracijom dok se pojavljuju u Panelu obavijesti i na ikonama početnog zaslona. Postavke obavijesti možete promijeniti u Postavkama.</string>
     <string name="perm_manager_suggest_operation">Upravljanje dopuštenjima</string>
     <string name="perm_manager_suggest_title">Prilagoditi dopuštenja?</string>
     <string name="perm_modem_location">Pristup vašoj lokaciji</string>
@@ -292,12 +290,10 @@
     <string name="permdesc_call_phone">Želite li dopustiti %1$s upućivanje poziva?</string>
     <string name="permdesc_camera">Želite li dopustiti %1$s snimanje fotografija i videozapisa?</string>
     <string name="permdesc_get_account">Želite li dopustiti %1$s pristup svim računima pohranjenim na ovom uređaju?</string>
-    <string name="permdesc_in_calls">Nadgledanje dolaznih poziva</string>
 	 <string name="permdesc_location">Želite li dopustiti %1$s pristup informacijama o lokaciji?</string>
     <string name="permdesc_location_background">Želite li dopustiti %1$s pristup informacijama o lokaciji u pozadini?</string>
     <string name="permdesc_microphone">Želite li dopustiti %1$s da koristi mikrofon za snimanje zvuka?</string>
     <string name="permdesc_nearby_devices">Želite li dopustiti %1$s da otkrije i poveže se s uređajima u blizini?</string>
-    <string name="permdesc_out_calls">Nadgledanje odlaznih poziva</string>
 	 <string name="permdesc_post_notification">Želite li dopustiti %1$s objavljivanje obavijesti?</string>
 	 <string name="permdesc_process_outgoing_call">Želite li dopustiti %1$s da odgovori i prekine pozive?</string>
     <string name="permdesc_read_calendar">Želite li dopustiti %1$s pristup i uređivanje kalendarskih događaja?</string>
@@ -334,7 +330,7 @@
     <string name="permission_group_title_settings_related">Postavke</string>
     <string name="permission_list_include">Uključujući sljedeće</string>
     <string name="permission_reminders">Podsjetnici dopuštenja</string>
-    <string name="permission_warning_template">Dopustiti %1$s %2$s?</string>
+    <string name="permission_warning_template">Dopustiti %1$s da %2$s?</string>
     <string name="permission_warning_template_ask">Dopustiti %1$s sljedeća dopuštenja?</string>
     <string name="permisson_reject_notice_toast_text2">"nema dopuštenje za %1$s."</string>
     <string name="pp_privacy_lab_operator_introduction">Pažnja</string>
@@ -380,7 +376,7 @@
     <string name="tuesday_shortest">U</string>
     <string name="v7_preference_off">ISKLJUČENO</string>
     <string name="v7_preference_on">UKLJUČENO</string>
-    <string name="virtual_reject_notice_content">Prazan odgovor poslan je aplikaciji radi zaštite vaših osobnih podataka</string>
+    <string name="virtual_reject_notice_content">Aplikaciji je poslan prazan odgovor radi zaštite vaših osobnih podataka</string>
     <string name="virtual_reject_notice_title_calendar">%1$s pokušava pristupiti kalendaru</string>
     <string name="virtual_reject_notice_title_calllog">%1$s pokušava pristupiti povijesti poziva</string>
     <string name="virtual_reject_notice_title_contacts">%1$s pokušava pristupiti kontaktima</string>

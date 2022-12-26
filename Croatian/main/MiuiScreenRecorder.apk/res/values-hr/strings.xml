@@ -32,13 +32,10 @@
     <string name="app_name">Snimač zaslona</string>
     <string name="app_notification_channel_record_complete">Obavijesti o završenim snimkama</string>
     <string name="app_notification_info">Snimač zaslona radi u pozadini</string>
-    <string name="app_notification_record_complete">"Snimka zaslona spremljena je u Galeriju
-Dodirnite za prikaz"</string>
     <string name="app_notification_record_saved">"Snimka je uspješno spremljena
 Dodirnite za prikaz"</string>
     <string name="app_notification_title">Snimač zaslona</string>
     <string name="auto_stop_title">Videozapis je uspješno spremljen</string>
-    <string name="battery_not_allowed" formatted="false">"Ne mogu snimati kad je baterija manje od 3%. Provjerite je li baterija najmanje 20%."</string>
     <string name="battery_not_allowed_warning">"Ne mogu snimati kad je baterija manje od %1$s. Provjerite je li baterija napunjena najmanje %2$s."</string>
     <string name="bit_rate">Kvaliteta videozapisa</string>
     <string name="bit_rate_summary">Viša kvaliteta znači veću veličinu datoteke</string>
@@ -71,7 +68,7 @@ Dodirnite za prikaz"</string>
     <string name="friday">Petak</string>
     <string name="friday_short">Pet</string>
     <string name="friday_shortest">P</string>
-    <string name="gleam_led_while_recording">LED treperi tijekom snimanja</string>
+    <string name="gleam_led_while_recording">Bljeskalica svijetli tijekom snimanja</string>
     <string name="hint_back">Natrag</string>
     <string name="hint_home">Početna</string>
     <string name="hint_menu">Izbornik</string>
@@ -88,8 +85,6 @@ Dodirnite za prikaz"</string>
     <string name="low_battery_for_pad">Napunite uređaj prije početka snimanja</string>
     <string name="low_battery_title">Slaba baterija</string>
     <string name="low_battery_warning">Baterija je previše slaba. Zaustavite snimanje i spremite videozapis.</string>
-    <string name="low_memory">Imate manje od 1GB dostupnog prostora. Možete snimiti do 20 minuta.</string>
-    <string name="low_memory_dior">Imate manje od 500MB dostupnog prostora. Možete snimiti do 12 minuta.</string>
     <string name="low_memory_for_pad">Imate manje od %1$d GB dostupnog prostora. Možete snimiti do %2$d minuta.</string>
     <string name="low_memory_for_phone">Imate manje od %1$d GB dostupnog prostora. Možete snimiti do %2$d minuta.</string>
     <string name="low_memory_title">Nema dovoljno prostora za pohranu</string>
@@ -103,9 +98,6 @@ Dodirnite za prikaz"</string>
     <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Više</string>
     <string name="miuix_appcompat_cancel_description">Odustani</string>
-    <string name="miuix_appcompat_cloud_state_disabled">Sinkronizacija s Cloudom je isključena</string>
-    <string name="miuix_appcompat_cloud_state_finished">Sinkronizacija s Cloudom je završena</string>
-    <string name="miuix_appcompat_cloud_state_syncing">Sinkronizacija s Cloudom…</string>
     <string name="miuix_appcompat_confirm_description">Potvrdi</string>
     <string name="miuix_appcompat_delete_description">Izbriši</string>
     <string name="miuix_appcompat_deselect_all">Poništi odabir</string>
@@ -128,7 +120,6 @@ Dodirnite za prikaz"</string>
     <string name="monday">Ponedjeljak</string>
     <string name="monday_short">Pon</string>
     <string name="monday_shortest">P</string>
-    <string name="month">Mjesec</string>
     <string name="month_april">Travanj</string>
     <string name="month_april_short">Tra</string>
     <string name="month_april_shortest">T</string>
@@ -156,9 +147,6 @@ Dodirnite za prikaz"</string>
     <string name="month_may">Svibanj</string>
     <string name="month_may_short">Svi</string>
     <string name="month_may_shortest">S</string>
-    <string name="month_medium_april">Tra</string>
-    <string name="month_medium_august">Kol</string>
-    <string name="month_medium_december">Pro</string>
     <string name="month_november">Studeni</string>
     <string name="month_november_short">Stu</string>
     <string name="month_november_shortest">S</string>
@@ -182,6 +170,7 @@ Dodirnite za prikaz"</string>
     <string name="preference_copied">Sažetak \"%1$s\" kopiran u međuspremnik.</string>
     <string name="privacy_settings">Privatnost</string>
     <string name="quit_recording">Izlaz iz Snimača zaslona</string>
+    <string name="record_time_too_short">Snimljeni videozapis je prekratak</string>
     <string name="recording_failure">Ne mogu snimiti, započnite ispočetka</string>
     <string name="recording_max_size">Snimanje je zaustavljeno i snimka je automatski spremljena zbog maksimalne veličine videozapisa. Pokrenite snimanje s mjesta na kojem ste prekinuli ako još niste završili.</string>
     <string name="recording_without_mic">"Mikrofon je zauzet i ne može snimati zvuk."</string>
@@ -228,6 +217,8 @@ Dodirnite za prikaz"</string>
     <string name="thursday_short">Čet</string>
     <string name="thursday_shortest">Č</string>
     <string name="time_picker_dialog_title">Postavi vrijeme</string>
+    <string name="time_picker_label_hour">H</string>
+    <string name="time_picker_label_minute">M</string>
     <string name="timer_format">%s</string>
     <string name="today">Danas</string>
     <string name="tomorrow">Sutra</string>

@@ -280,7 +280,6 @@
     <string name="month_september_short">Ruj</string>
     <string name="month_september_shortest">R</string>
     <string name="more">Više</string>
-    <string name="morning">AM</string>
     <string name="msim_set_sub_not_supported_phone_in_call">"Nije moguće postaviti tijekom poziva"</string>
     <string name="mtrl_badge_numberless_content_description">Nova obavijest</string>
     <string name="mtrl_chip_close_icon_content_description">Ukloni %1$s</string>
@@ -315,7 +314,6 @@
     <string name="mtrl_picker_toggle_to_day_selection">Dodirnite za prijelaz na odabir dana</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Prijelaz na način unosa teksta</string>
     <string name="mtrl_picker_toggle_to_year_selection">Dodirnite za prijelaz na odabir godine</string>
-    <string name="night">PM</string>
     <string name="no_avaliable_application">Nema dostupnih aplikacija</string>
     <string name="noon">PM</string>
     <string name="not_set">Nije postavljeno</string>

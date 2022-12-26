@@ -40,14 +40,11 @@
     <string name="add_timer">Česti timer</string>
     <string name="add_timer_dialog_title">Dodaj timer</string>
     <string name="add_timezone_title">Dodaj vremensku zonu</string>
-    <string name="aggree_desc">Dopustite ovoj aplikaciji da se poveže s internetom i odobrite gore navedena obvezna dopuštenja.</string>
     <string name="agree">Prihvaćam</string>
-    <string name="alarm_alert">Zadani zvuk alarma</string>
-	 <string name="alarm_alert_now">%s alarm</string>
     <string name="alarm_alert_alert_silenced">Alarm utišan nakon %1$s min.</string>
     <string name="alarm_alert_disabled">Isključeno</string>
-	 <string name="alarm_alert_snooze_button">Odgodi</string>
-    <string name="alarm_alert_snooze_set">Odgođeno za %d minuta.</string>
+    <string name="alarm_alert_now">%s alarm</string>
+    <string name="alarm_alert_snooze_button">Odgodi</string>
     <string name="alarm_ascending_mode_summary">Glasnoća alarma će rasti postepeno</string>
     <string name="alarm_ascending_mode_title">Pojačavanje glasnoće</string>
     <string name="alarm_clock_more_setting">Dodatne postavke</string>
@@ -61,7 +58,6 @@
     <string name="alarm_repeat">Ponovi</string>
     <string name="alarm_ringtone">Melodije zvona alarma</string>
     <string name="alarm_ringtone_picker">Alarmi</string>
-    <string name="alarm_screen">Zaslon i zvuk Alarma</string>
     <string name="alarm_settings">Postavke Alarma</string>
     <string name="alarm_settings_category_title">Postavke Alarma</string>
     <string name="alarm_vibrate">Vibracija</string>
@@ -80,7 +76,7 @@
     <string name="already_exist">Taj timer već postoji</string>
     <string name="analog_gadget">Analogni sat</string>
     <string name="app_label">Sat</string>
-    <string name="app_name">Prednosti</string>
+    <string name="app_name">miuiclock</string>
     <string name="auto_silence_never">Nikada</string>
     <string name="auto_silence_summary">Postavite vrijeme nakon kojeg će se alarmi i odbrojavanja isključiti</string>
     <string name="auto_silence_title">Autom. utišaj</string>
@@ -122,8 +118,8 @@
     <string name="check_voice_assist_app_version">Ažurirajte Mi AI na najnoviju verziju.</string>
     <string name="cities_show_limit_desc">"Nije moguće prikazati više satova"</string>
     <string name="city_time_contrast_desc">Dodirnite za usporedbu vremena u različitim gradovima</string>
+    <string name="clearable_edittext_clear_description">Izbriši</string>
     <string name="click_to_cancel_alarm">Dodirnite za isključivanje</string>
-	 <string name="clearable_edittext_clear_description">Izbriši</string>
     <string name="clock_bg_button_setting_summary_common">Odaberite boju pozadine za aplikaciju Sat</string>
     <string name="clock_bg_button_setting_summary_follow_sys">Crna će se koristiti kao boja pozadine svaki put kada odaberete Tamni način</string>
     <string name="clock_bg_button_setting_title">Boja pozadine</string>
@@ -179,11 +175,9 @@
     <string name="edit_label">Uredi naziv alarma</string>
     <string name="edit_systemtime">Uredi vrijeme sustava</string>
     <string name="edit_systemtime_setting_summary">Datum, vrijeme i Dvostruki sat</string>
-    <string name="elapsed_time_format">+</string>
     <string name="every_day">Dnevno</string>
     <string name="expand_button_title">Napredno</string>
     <string name="expired_timers_dismissed">Timer je odbačen</string>
-    <string name="fab_menu_sort">Poredaj</string>
 	 <string name="force_start_permission_desc">"Omogući normalno funkcioniranje alarma čak i kada ste zatvorili aplikaciju"</string>
     <string name="force_start_permission_title">Autom. pokretanje</string>
     <string name="force_touch_add_alarm">Dodaj alarm</string>
@@ -192,17 +186,13 @@
     <string name="friday">Petak</string>
     <string name="friday_short">Pet</string>
     <string name="friday_shortest">P</string>
-    <string name="full_wday_month_day_no_year">EEEE, dd.MMMM</string>
     <string name="go_back">Natrag</string>
-    <string name="guide_newfunc_content">Sada možete filtrirati formate datoteka, preurediti raspored stavki i prelaziti s različitih prikaza na dodir prečacem.</string>
-    <string name="guide_newfunc_title">Nova značajka</string>
     <string name="holiday_update">Dostupno je ažuriranje državnih praznika</string>
     <string name="holiday_update_fail">"Ne mogu ažurirati"</string>
     <string name="holiday_update_loading">Ažuriranje…</string>
     <string name="holiday_update_success">Sve stavke su ažurne</string>
     <string name="holiday_update_title">Ažurirajte informacije o državnim praznicima</string>
     <string name="hour_unit">Hr +</string>
-    <string name="imm_str_storage">Pohrana</string>
     <string name="install_weather_app_error">Ne mogu učitati aplikaciju.</string>
     <string name="install_weather_app_loading">Samo trenutak…</string>
     <string name="invalid_time">Nevažeće vrijeme: %3$s %1$d: %2$d</string>
@@ -248,11 +238,10 @@
     <string name="life_post_weather_no_network">Povežite se s mrežom da biste ažurirali informacije o vremenu</string>
     <string name="life_post_weather_temperature_centigrade">°</string>
     <string name="listen_news_privacy">U cilju pružanja personaliziranih usluga i uključivanja jutarnjih vijesti u vaše alarme, Sat se treba povezati na internet. Prije korištenja Sata, morate pročitati i prihvatiti naše &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;. Prihvaćate?;</string>
-    <string name="load_more_fail">Ne mogu učitati</string>
     <string name="loading_ringtone">Učitavam zvuk alarma…</string>
     <string name="menu_add_worldclock">Dodaj sat</string>
     <string name="menu_desk_clock">Sat</string>
-    <string name="menu_edit_timer_item">Uredi zadatak Kronometra</string>
+    <string name="menu_edit_timer_item">Uredi zadatak timera</string>
     <string name="menu_item_dock_settings">Postavke Docka</string>
     <string name="menu_item_sort_by_gmt_offset">Poredaj po vremenu</string>
     <string name="menu_item_sort_by_name">Poredaj po nazivu</string>
@@ -268,7 +257,10 @@ dd.MM"</string>
 dd.MM"</string>
     <string name="miui_lock_screen_large_date_12">"EEE
 dd.MM"</string>    
-   <string name="mibi_license">Mi Kredit Uvjeti pružanja usluge</string>
+    <string name="miui_vertical_time_format_12">"hh
+mm"</string>
+    <string name="miui_vertical_time_format_24">"HH
+mm"</string>
 	 <string name="miuix_access_state_desc">Odabrano</string>
     <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
@@ -295,7 +287,7 @@ dd.MM"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"To je sve za sada"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
-    <string name="module_dialog_negative">"Odbijam"</string>
+    <string name="module_dialog_negative">"Ne prihvaćam"</string>
     <string name="module_dialog_neutral">Razumijem</string>
     <string name="module_dialog_positive">Prihvaćam</string>
     <string name="module_download_cancel">Ne hvala</string>
@@ -395,7 +387,6 @@ dd.MM"</string>
     <string name="oneshot_alarm">Izbriši alarm nakon isklj.</string>
     <string name="open_keep_screen">Zaslon će ostati uključen</string>
     <string name="open_sleep_record">Uključi</string>
-    <string name="optional_change_wifi">Za daljinsko upravljanje datotekama putem Wi-Fi-ja</string>
     <string name="other_category_title">Ostalo</string>
     <string name="other_settings">Dodatne postavke</string>
     <string name="pause">Pauza</string>
@@ -408,9 +399,6 @@ dd.MM"</string>
     <string name="privacy_policy">Pravila o privatnosti</string>
     <string name="privacy_policy_title">Pravila o privatnosti</string>
     <string name="privacy_settings">Privatnost</string>
-    <string name="privacy_settings_title">Pravila o privatnosti</string>
-    <string name="pull_to_enter_private">Povuci dolje za otvaranje privatne mape</string>
-    <string name="pull_to_refresh">Povuci za osvježiti</string>
     <string name="query_privacy_policy">Pogledajte Pravila o privatnosti</string>
     <string name="reach_upper_limit">"Ne mogu dodati više timera"</string>
     <string name="read_external_storage_permission_desc">Za postavljanje prilagođenih melodija zvona</string>
@@ -418,11 +406,6 @@ dd.MM"</string>
     <string name="read_phone_state">Pristup informacijama o uređaju</string>
     <string name="read_phone_state_desc">Pristup statusu poziva kada alarm zvoni</string>
     <string name="read_phone_state_desc_when_request">Za pristup statusu poziva za automatsko pauziranje alarma prilikom primanja poziva</string>
-    <string name="refresh_fail">Ne mogu osvježiti</string>
-    <string name="refresh_success">Osvježavanje gotovo</string>
-    <string name="refreshing">Osvježavanje</string>
-    <string name="release_enter_private">Otpusti za otvaranje privatne mape</string>
-    <string name="release_refresh">Otpusti za osvježiti</string>
     <string name="remark_hint">Unesite oznaku</string>
     <string name="remind_ringtone">Melodija zvona</string>
     <string name="repeat_count">X</string>
@@ -473,6 +456,7 @@ dd.MM"</string>
     <string name="shutdown_alarm_enable_summary">"Alarm će se isključiti ako je postavljen najmanje 10 minuta nakon što isključite uređaj"</string>
     <string name="shutdown_alarm_title">Alarm isključivanja </string>
     <string name="silent_alarm_summary">Bešumno</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Isključi jednom na %s</string>
     <string name="sleep_analysis">Statistika</string>
     <string name="sleep_analysis_chart_date_format">dd.MM.</string>
@@ -482,7 +466,7 @@ dd.MM"</string>
     <string name="sleep_duration_avg_text_diff">Prosječno trajanje spavanja (%1$s-%2$s)</string>
     <string name="sleep_duration_desc">Spavano %1$s %2$s</string>
     <string name="sleep_duration_no_data">Još nema dovoljno podataka</string>
-    <string name="sleep_duration_recommendation">Većini ljudi treba 7 do 9 sati sna na noć</string>
+    <string name="sleep_duration_recommendation">Većina ljudi treba 7 do 9 sati sna po noći</string>
     <string name="sleep_duration_text">%1$s %2$s</string>
     <string name="sleep_duration_text_avg">%1$s %2$s</string>
     <string name="sleep_no_disturbance">DND način</string>
@@ -507,34 +491,22 @@ nakon što Mi Health analizira dovoljno podataka</string>
     <string name="snooze_duration_text">%1$s | %2$s</string>
     <string name="snooze_duration_title">Odgodi</string>
     <string name="snooze_duration_value">Interval (min.)</string>
-    <string name="sort_hint_name">Poredano po imenu</string>
-    <string name="sort_hint_time">Poredano po vemenu</string>
-    <string name="sort_hint_type">Poredano po vrsti</string>
-    <string name="star_wy_alarm_speech">Upoznajte Mario MASVA</string>
     <string name="start">Start</string>
     <string name="start_up">Start</string>
-    <string name="stat_repeat_everyday">Svaki dan</string>
-    <string name="stat_repeat_legal_off_day">Vikend</string>
-    <string name="stat_repeat_legal_workday">Radni dani</string>
-    <string name="stat_repeat_none">Jednom</string>
-    <string name="stat_repeat_self_define">Vlastito</string>
-    <string name="stat_repeat_weekdays">Pon-Pet</string>
-    <string name="stat_repeat_weekends">Vikend</string>
     <string name="stopwatch_lap_empty_text">Nema krugova</string>
     <string name="stopwatch_reset_notification">Štoperica je poništena</string>
     <string name="stopwatch_running_notification">Štoperica</string>
-    <string name="stopwatch_title">Štoperica</string>
+    <string name="stopwatch_title">Stopwatch</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Nedjelja</string>
     <string name="sunday_short">Ned</string>
     <string name="sunday_shortest">N</string>
+    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">Dopustite ovoj aplikaciji da se poveže s internetom da biste pristupili svim njenim značajkama.</string>
     <string name="system_permission_main_purpose">Vrijeme pregledavanja, postavljanje alarma i timera, štoperica</string>
-    <string name="system_permission_phone_desc">Za identificiranje različitih uređaja</string>
-    <string name="system_permission_purpose">Alarmi, štoperica, timeri, svjetski sat</string>
-    <string name="system_permission_storage_desc">Za pristup melodijama zvona alarma</string>
+    <string name="system_permission_purpose">Stvaranje alarma radnim danima i postavljanje prilagođenih melodija zvona</string>
     <string name="system_time_setting">Postavke</string>
     <string name="system_time_settings_category_title">Postavke vremena</string>
-    <string name="temperature_unit">℃</string>
     <string name="thursday">Četvrtak</string>
     <string name="thursday_short">Čet</string>
     <string name="thursday_shortest">Č</string>
@@ -557,9 +529,9 @@ nakon što Mi Health analizira dovoljno podataka</string>
     <string name="timer_alert_type_forest">Šuma</string>
     <string name="timer_alert_type_mute">Zadano</string>
     <string name="timer_alert_type_no">Ništa</string>
-    <string name="timer_alert_type_rain">Drizzle</string>
+    <string name="timer_alert_type_rain">Kišica</string>
     <string name="timer_alert_type_spring_rain">Ljetna kiša</string>
-    <string name="timer_alert_type_stove_fire">Stove fire</string>
+    <string name="timer_alert_type_stove_fire">Vatra u peći</string>
     <string name="timer_alert_type_summer_night">Ljetna noć</string>
     <string name="timer_can_continue_in_timer">Otvori timer za nastavak</string>
     <string name="timer_cancel_hint">Stop</string>
@@ -623,7 +595,6 @@ nakon što Mi Health analizira dovoljno podataka</string>
     <string name="version_update_dialog_title">Dostupno je ažuriranje</string>
     <string name="vibrate_pref_summary">Vibriraj kada se oglasi alarm</string>
     <string name="vibrate_when_ringing">Vibriraj kod poziva</string>
-    <string name="view_type">Prikaz</string>
     <string name="voice_add_alarm">Dodajte alarm pomoću glasovne naredbe</string>
     <string name="volume_button_setting_desc">Dodijelite funkcije za tipke Power i Glasnoću +/-</string>
     <string name="volume_button_setting_summary">Postavi funkciju tipaka glasnoće tijekom alarma</string>
@@ -651,6 +622,7 @@ nakon što Mi Health analizira dovoljno podataka</string>
     <string name="worldclock_search_city">Odaberite grad</string>
     <string name="worldclock_second_time">Vrijeme u %s</string>
     <string name="worldclock_second_time_desc">"%s: "</string>
+    <string name="worldclock_second_time_new">%s</string>
     <string name="worldclock_title">Sat</string>
     <string name="worldclock_world_time">Vremenske zone</string>
     <string name="worldcolock_date_display_prefix">Trenutno: </string>
@@ -663,9 +635,6 @@ nakon što Mi Health analizira dovoljno podataka</string>
     <string name="xiaoai_ringtone_title">Mi AI melodije zvona</string>
 	 <string name="xiaomi_deskclock_uninstall_description_content">"Sat je aplikacija sustava. Nakon što deinstalirate aplikaciju, nećete moći provjeriti vrijeme, postaviti alarme ili koristiti druge značajke Sata."</string>
     <string name="xiaomi_deskclock_uninstall_description_title">Deinstalirati Sat?</string>
-    <string name="xiaomi_market_sdk_update_dialog_cancel">Ne sad</string>
-    <string name="xiaomi_market_sdk_update_dialog_ok">Ažuriraj</string>
-    <string name="xiaomi_market_sdk_update_dialog_title">Dostupno je ažuriranje</string>
     <string name="yesterday">Jučer</string>
 	 <string name="your_sounds">Moji zvukovi</string>
 </resources>

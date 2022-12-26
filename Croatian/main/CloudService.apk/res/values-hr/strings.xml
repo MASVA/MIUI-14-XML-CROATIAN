@@ -237,7 +237,7 @@
     <string name="menu_add_short_cut">Izradi prečac na Početnom zaslonu</string>
 	 <string name="menu_migrate_to_google_photos">Prijenos podataka u Google fotografije</string>
     <string name="merge">Spoji</string>
-    <string name="mi_drive_title">Xiaomi Drive</string>
+    <string name="mi_drive_title">Mi Drive</string>
     <string name="micloud_alert_dialog_positive">U redu</string>
     <string name="micloud_all_sub_resend_common_sms_with_charge_hint">"Da biste uključili Pronađi uređaj i Xiaomi Cloud usluge, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>plaćena SMS poruka&lt;/b>&lt;/font> biti će poslana automatski.&lt;br/>Kada promjenite SIM kartice, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>plaćena SMS poruka&lt;/b>&lt;/font> biti će automatski poslana radi ponovne aktivacije.&lt;br/>Sve naknade za SMS generirane gore navedenim radnjama naplatit će vaš operater. Xiaomi vam neće naplatiti ove poruke."</string>
     <string name="micloud_all_sub_resend_domestic_sms_with_charge_hint">"Da biste uključili Pronađi uređaj i Xiaomi Cloud usluge, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domaća plaćena SMS poruka&lt;/b>&lt;/font> biti će poslana automatski.&lt;br/>Kada promjenite SIM kartice, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domaća plaćena SMS poruka&lt;/b>&lt;/font> biti će automatski poslana radi ponovne aktivacije.&lt;br/>Sve naknade za SMS generirane gore navedenim radnjama naplatit će vaš operater. Xiaomi vam neće naplatiti ove poruke."</string>
@@ -280,7 +280,6 @@
     <string name="micloud_dspt_provision_no_call">Možete koristiti Xiaomi Cloud za sinkronizaciju fotografija, kontakata, poruka, bilješki, snimaka i drugih podataka, lociranje vašeg uređaja i dijeljenje stavki s prijateljima. Ova aplikacija mora se povezati s internetom kako bi normalno radila. Sinkronizacija stavki može zahtijevati mobilnu podatkovnu vezu i uključivanje Wi-Fi-ja.</string>
     <string name="micloud_dspt_provision_no_sms">Možete koristiti Xiaomi Cloud za sinkronizaciju fotografija, kontakata, povijesti poziva, bilješki, snimaka i drugih podataka, lociranje vašeg uređaja i dijeljenje stavki s prijateljima. Ova aplikacija mora se povezati s internetom kako bi normalno radila. Sinkronizacija stavki može zahtijevati mobilnu podatkovnu vezu i uključivanje Wi-Fi-ja.</string>
     <string name="micloud_dspt_provision_no_sms_and_call">Možete koristiti Xiaomi Cloud za sinkronizaciju fotografija, kontakata, bilješki, snimaka i drugih podataka, lociranje vašeg uređaja i dijeljenje stavki s prijateljima. Ova aplikacija mora se povezati s internetom kako bi normalno radila. Sinkronizacija stavki može zahtijevati mobilnu podatkovnu vezu i uključivanje Wi-Fi-ja.</string>
-    <string name="micloud_dspt_provision_xms_china">Koristite Xiaomi Cloud za sinkronizaciju podataka.</string>
     <string name="micloud_find_device_close_alert_content">"Ako isključite Pronađi uređaj, nećete moći pronaći telefon koristeći ovu značajku. Ako vaš telefon podržava NFC funkcionalnost, sve vaše bankovne kartice i kartice bit će izbrisane iz usluge Xiaomi Pay."</string>
     <string name="micloud_find_device_close_alert_negtive">Isključi svejedno</string>
     <string name="micloud_find_device_close_alert_positive">Ostavi uključeno</string>
@@ -293,7 +292,7 @@
     <string name="micloud_find_device_guide_alert_negtive">Ne hvala</string>
     <string name="micloud_find_device_guide_alert_negtive_activate">Ne hvala</string>
     <string name="micloud_find_device_guide_alert_positive">U redu</string>
-    <string name="micloud_find_device_guide_alert_title">Zapamtite svoj ID Mi Računa i zaporku</string>
+    <string name="micloud_find_device_guide_alert_title">Zapamtite svoju zaporku</string>
     <string name="micloud_find_device_guide_button">Uključi Pronađi uređaj</string>
     <string name="micloud_find_device_guide_desc_pad">Ako je vaš uređaj izgubljen, prijavite se na &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>na bilo kojem drugom uređaju da biste locirali, daljinsko zaključali ili izbrisali podatke na izgubljenom uređaju. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>Pogledajte pojedinosti&lt;/a>.</string>
     <string name="micloud_find_device_guide_desc_phone">Ako je vaš uređaj izgubljen, prijavite se na &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> na bilo kojem drugom uređaju da biste locirali, daljinsko zaključali ili izbrisali podatke na izgubljenom uređaju. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>Pogledajte pojedinosti&lt;/a>.</string>
@@ -316,7 +315,6 @@
     <string name="micloud_find_device_verify_progress">Ponovno aktiviranje Pronađi uređaj…</string>
     <string name="micloud_last_sync_canceled">Sinkronizacija je otkazana. Pokušajte ponovno.</string>
     <string name="micloud_main_head_menu_cloud_backup">Sig. kopija Poč. zaslona</string>
-    <string name="micloud_main_head_menu_cloud_backup_summary">Izgled Poč. zaslona, aplikacije i postavke sustava</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">Pronađi uređaj nije dostupan u Drugom prostoru. Možete ga koristiti u Prvom prostoru.</string>
     <string name="micloud_main_head_menu_recycle_bin_title">Izbrisane stavke</string>
     <string name="micloud_main_network_error">"Ne mogu se povezati s mrežom"</string>
@@ -371,7 +369,6 @@
     <string name="micloud_notif_content_multi_user_error">Prijavili ste se s istim računom kao u Prvom prostoru.</string>
     <string name="micloud_notif_content_privacy_reopen_failed">Prikaži detalje</string>
     <string name="micloud_notif_content_sync_not_finish">Pojedinosti</string>
-    <string name="micloud_notif_content_sync_with_off">Dodirnite za sinkronizaciju uređaja sada.</string>
     <string name="micloud_notif_title_battery_low">"Ne mogu sinkr. s Xiaomi Cloudom"</string>
     <string name="micloud_notif_title_dirty_data">Imate nesinkr. podataka</string>
     <string name="micloud_notif_title_master_depend_wifi">"Sinkronizacija je pauzirana dok upotrebljavate mobilne podatke"</string>
@@ -428,7 +425,6 @@
     <string name="micloud_storage_unit_gb">%s GB</string>
     <string name="micloud_storage_unit_mb">%s MB</string>
     <string name="micloud_sync_alert_dialog_message">Sinkronizirajte svoje fotografije, kontakte, bilješke i još mnogo toga na svim svojim uređajima.</string>
-    <string name="micloud_sync_alert_dialog_message_pad">Sinkronizirajte svoje fotografije, bilješke i još mnogo toga na svim svojim uređajima.</string>
     <string name="micloud_sync_alert_dialog_message_v2">Sinkronizirajte svoje fotografije, bilješke i još mnogo toga na svim svojim uređajima.</string>
     <string name="micloud_sync_alert_dialog_negative">Odustani</string>
     <string name="micloud_sync_alert_dialog_positive">U redu</string>
@@ -618,8 +614,6 @@ Podaci o lokaciji možda se neće prijaviti kada je mrežna veza loša."</string
     <string name="recommend_service_cloudservice_description">Sinkronizirajte podatke aplikacije sustava, postavke Sig. kopije, izgled Poč. zaslona i još mnogo toga</string>
     <string name="recommend_service_sharelocation_description">Pronađite, zaključajte i izbrišite podatke na uređajima koji nedostaju i podijelite lokaciju s prijateljima i obitelji</string>
     <string name="recommend_service_title">Preporučene usluge</string>
-    <string name="remind_later">Ne sada</string>
-    <string name="restoreSync">Sinkroniziraj sada</string>
     <string name="retain_data_high_quality_photo_waring_message">Slike visoke kvalitete izbrisat će se iz vaše galerije nakon što se odjavite. Odgovarajuće izvorne datoteke i dalje će biti pohranjene u cloudu. Izvorne datoteke možete preuzeti i prije odjave.</string>
     <string name="retain_data_high_quality_photo_waring_title">"Slike visoke kvalitete neće biti dostupne"</string>
     <string name="revoke_block_by_find_device">"Povlačenjem suglasnosti također će se isključiti Pronađi uređaj. Morat ćete potvrditi svoju zaporku nakon što nastavite."</string>
@@ -721,7 +715,7 @@ Podaci o lokaciji možda se neće prijaviti kada je mrežna veza loša."</string
     <string name="share_sdk_suggest_member_pref_summary">Algoritam preporuke pruža Xiaomi Cloud</string>
     <string name="share_sdk_suggest_member_title">Preporučene osobe</string>
     <string name="share_sdk_user_info_account_id">Račun: %1$s</string>
-    <string name="share_sdk_user_info_already_invited">Pozvano</string>
+    <string name="share_sdk_user_info_already_invited">Pozivnica poslana</string>
     <string name="share_sdk_user_info_already_shared">Podijeljeno</string>
     <string name="share_sdk_user_info_family_suffix">" (Član obitelji)"</string>
     <string name="share_sdk_user_info_no_account_id">"Ova osoba nema Mi Račun"</string>
@@ -746,7 +740,7 @@ Podaci o lokaciji možda se neće prijaviti kada je mrežna veza loša."</string
     <string name="soundrecorder_sync_only_in_wifi_summary_china">Snimač neće koristiti mobilne podatke za preuzimanje ili učitavanje snimaka</string>
     <string name="soundrecorder_sync_records">Sinkr. sa Xiaomi Cloud</string>
     <string name="starred_contact">Favoriti</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="start_transfer_gallery_data">Prijenos podataka</string>
     <string name="storage_manage_cloud_data_title">Pogledajte stavke u Cloudu</string>
     <string name="storage_manage_list_title">Cloud podaci</string>
     <string name="storage_manage_list_title_action">Prikaži više</string>
@@ -794,7 +788,6 @@ Podaci o lokaciji možda se neće prijaviti kada je mrežna veza loša."</string
     <string name="sync_page_route_remember">"Ne prikazuj ponovo"</string>
     <string name="sync_setting_title">Postavke sinkronizacije</string>
     <string name="system_busy_or_network_error">Dogodila se pogreška. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
-	 <string name="start_transfer_gallery_data">Prijenos podataka</string>
     <string name="talkback_hide_passcode">Sakrij zaporku</string>
     <string name="talkback_show_passcode">Prikaži zaporku</string>
     <string name="thursday">Četvrtak</string>

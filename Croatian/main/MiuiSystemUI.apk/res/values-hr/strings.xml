@@ -755,7 +755,7 @@ Dodirnite za ponovno postavljanje"</string>
   <string name="camera_key_action_shortcut_search">"Pretraži"</string>
   <string name="camera_key_action_shortcut_title">Prečac</string>
   <string name="camera_key_action_shortcut_wake">Zaključaj/Probudi uređaj</string>
-  <string name="camera_key_action_toggle_title">Promjena stanja prečaca</string>
+  <string name="camera_key_action_toggle_title">Promjena prečaca</string>
   <string name="camera_label">Otvori Kameru</string>
   <string name="camera_recording_announcement">Kamera snima</string>
   <string name="camera_stopped_recording_announcement">Kamera ne snima</string>
