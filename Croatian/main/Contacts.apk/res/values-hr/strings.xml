@@ -344,8 +344,8 @@
     <string name="callrecordview_menu_blocklist">Popis blokiranih</string>
     <string name="callrecordview_menu_conference">Konferencijski poziv</string>
     <string name="callrecordview_menu_delete">Izbriši</string>
-    <string name="callrecordview_menu_delete_accepted">Očisti odgovorene pozive</string>
-    <string name="callrecordview_menu_delete_ called">Izbriši odlazne pozive</string>
+    <string name="callrecordview_menu_delete_accepted">Izbriši odgovorene pozive</string>
+    <string name="callrecordview_menu_delete_called">Izbriši odlazne pozive</string>
     <string name="callrecordview_menu_delete_missed">Izbriši propuštene pozive</string>
     <string name="callrecordview_menu_delete_one">Ukloni iz povijesti poziva</string>
     <string name="callrecordview_menu_delete_sim">Izbriši povijest poziva (%s)</string>

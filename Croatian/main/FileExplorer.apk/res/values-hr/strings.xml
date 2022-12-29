@@ -318,6 +318,9 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
     <string name="image_loading_error">"Ne mogu učitati sliku"</string>
     <string name="imm_str_storage">Pohrana</string>
     <string name="import_files_from_old_phones">Uvezi sa starog uređaja</string>
+	 <string name="install_media_editor_button_text">Preuzimanje</string>
+    <string name="install_media_editor_message">Da biste mogli uređivati stavke, prvo preuzmite dodatak. Preuzeti sada?</string>
+    <string name="install_media_editor_title">Potreban je dodatak</string>
     <string name="instruction">Unesite sljedeću adresu u FTP klijent: </string>
     <string name="instruction_pre_pad">Upravljajte datotekama na ovom uređaju pomoću računala</string>
     <string name="instruction_pre_phone">Upravljajte datotekama na ovom uređaju pomoću računala</string>
