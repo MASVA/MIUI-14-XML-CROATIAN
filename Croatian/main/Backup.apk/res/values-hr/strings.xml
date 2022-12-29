@@ -940,11 +940,8 @@ Nemojte zatvoriti stranicu prije uspostavljanja veze."</string>
     <string name="wednesday_short">Sri</string>
     <string name="wednesday_shortest">S</string>
     <string name="wifi_title">Postavke Wi-Fi-ja</string>
-    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_connect_download_manager_fail">"Ne mogu započeti preuzimanje. Uvjerite se da Upravitelj preuzimanja radi normalno."</string>
     <string name="xiaomi_external_storage_unavailable">"Prostor za pohranu nije dostupan, provjerite SD karticu."</string>
-    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_router">Xiaomi Router</string>
     <string name="xiaomi_router_location">Xiaomi Router %s</string>
     <string name="xiaomi_update_dialog_message">"Predstavljamo verziju %1$s

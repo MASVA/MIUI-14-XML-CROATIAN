@@ -456,7 +456,6 @@ mm"</string>
     <string name="shutdown_alarm_enable_summary">"Alarm će se isključiti ako je postavljen najmanje 10 minuta nakon što isključite uređaj"</string>
     <string name="shutdown_alarm_title">Alarm isključivanja </string>
     <string name="silent_alarm_summary">Bešumno</string>
-    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Isključi jednom na %s</string>
     <string name="sleep_analysis">Statistika</string>
     <string name="sleep_analysis_chart_date_format">dd.MM.</string>
@@ -501,7 +500,6 @@ nakon što Mi Health analizira dovoljno podataka</string>
     <string name="sunday">Nedjelja</string>
     <string name="sunday_short">Ned</string>
     <string name="sunday_shortest">N</string>
-    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">Dopustite ovoj aplikaciji da se poveže s internetom da biste pristupili svim njenim značajkama.</string>
     <string name="system_permission_main_purpose">Vrijeme pregledavanja, postavljanje alarma i timera, štoperica</string>
     <string name="system_permission_purpose">Stvaranje alarma radnim danima i postavljanje prilagođenih melodija zvona</string>

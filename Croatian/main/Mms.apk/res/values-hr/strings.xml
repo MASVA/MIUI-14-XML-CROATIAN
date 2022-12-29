@@ -345,7 +345,6 @@ dodane na Listu blokiranih"</string>
     <string name="file_size">"Veličina: "</string>
     <string name="file_title">"Naziv: "</string>
     <string name="file_width_height">"Veličina: "</string>
-    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">Nove poruka</string>
     <string name="forward_from">Proslijeđeno od:</string>
     <string name="forward_message_select_title">Proslijedi poruku</string>
@@ -1282,7 +1281,6 @@ Pogledajte one preporučene!"</string>
     <string name="send_signature_confirm_dialog_title">Pošalji poruku</string>
     <string name="send_sms">Pošalji poruku</string>
     <string name="send_to">Prima: </string>
-    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">Poslano: %1s</string>
     <string name="sent_label">"Poslano: "</string>
     <string name="service_abandon_alert">Pažnja</string>

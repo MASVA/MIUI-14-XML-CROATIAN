@@ -141,11 +141,6 @@
         <item>Systrace (grafika)</item>
         <item>Pozivni snop za funkciju glGetError</item>
     </string-array>
-    <string-array name="enhanced_4g_lte_mode_title_variant">
-        <item>@string/enhanced_4g_lte_mode_title</item>
-        <item>Napredno pozivanje</item>
-        <item>4G pozivanje</item>
-    </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>Nikad ne upotrebljavaj HDCP provjeru</item>
         <item>Upotrebljavaj HDCP provjeru samo za DRM sadržaj</item>

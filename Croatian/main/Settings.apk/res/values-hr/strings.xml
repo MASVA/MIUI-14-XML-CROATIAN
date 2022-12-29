@@ -2221,7 +2221,6 @@ Dok ste povezani, %2$s će primati sve pozive upućene broju %3$s."</string>
   Ako ste već učinili nešto od gore navedenog, ponovno dodajte svoj Mi Račun; u suprotnom nećete moći otključati uređaj."</string>
   <string name="bootloader_tips_ok">Razumijem</string>
   <string name="bootloader_tips_warning">"Ne odspajajte s mreže, odjaviti se s Mi Računa, raditi pvraćanje na tvorničke postavke ili brisati podatke sustava."</string>
-  <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
   <string name="bottom_function_settings">Funkcije dodatnih tipki</string>
   <string name="bottom_to_top_slide">Povucite prema gore</string>
   <string name="bottomsheet_action_expand_halfway">Proširi donju polovicu</string>
@@ -2399,7 +2398,6 @@ Ako instalirate CA certifikat, vlasnik certifikata mogao bi pristupiti vašim po
   <string name="call_example_name">Ime</string>
   <string name="call_manager_enable_summary">Dopusti usluzi upravljanje načinom uspostavljanja poziva.</string>
   <string name="call_manager_enable_title">Omogući Upravitelja poziva</string>
-  <string name="call_manager_summary">%1$s</string>
   <string name="call_manager_title">Upravitelj poziva</string>
   <string name="call_records_name_1">Mario MASVA</string>
   <string name="call_records_name_2">MIUI Adria</string>
@@ -2802,7 +2800,6 @@ https://appleid.apple.com/#!&amp;page=signin da zatvorite"</string>
   <string name="condition_night_display_title">Noćno je svjetlo uključeno</string>
   <string name="condition_provider_security_warning_summary">Davatelj uvjeta %1$s moći će dodati uvjete za izlaz načinu DND.</string>
   <string name="condition_provider_security_warning_title">Želite li omogućiti uslugu %1$s?</string>
-  <string name="condition_summary">%1$d</string>
   <string name="condition_turn_off">Isključi</string>
   <string name="condition_turn_on">Uključi</string>
   <string name="condition_work_summary">Za aplikacije i obavijesti</string>
@@ -3591,7 +3588,6 @@ Ako se problem ponovi, možda biste trebali deinstalirati tu aplikaciju da biste
   <string name="dialog_wifi_context">Za postavljanje uređaja morate se povezati s internetom. Ako se ne povežete s Wi-Fi-jem, možda će se koristiti mobilni podaci. Korištenje mobilnih podataka može generirati dodatne naknade operatera. Svejedno koristiti mobilne podatke?</string>
   <string name="dialog_wifi_title">Korištenje mobilnih podataka</string>
   <string name="dialog_yes">Da</string>
-  <string name="digital_clock_dot">:</string>
   <string name="dirac_control">Optimiziranje kvalitete zvuka</string>
   <string name="dirac_mode_earbuds">Mi slušalice</string>
   <string name="dirac_mode_general">Opće</string>
@@ -3718,7 +3714,6 @@ Ako se problem ponovi, možda biste trebali deinstalirati tu aplikaciju da biste
   <string name="dndm_auto_button_title">Ponovi \"DND“\ vrijeme</string>
   <string name="dndm_auto_setting_group">Zakazano</string>
   <string name="dndm_auto_time_setting">Postavke vremena</string>
-  <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
   <string name="dndm_auto_time_turn_off">Do</string>
   <string name="dndm_auto_time_turn_off_title">Automatski isključi \"DND“\</string>
   <string name="dndm_auto_time_turn_on">Od</string>
@@ -5464,7 +5459,6 @@ prvo morate izraditi iCloud Sig. kopiju."</string>
   <string name="keyguard_right_function_title">Desno</string>
   <string name="keyguard_security_setting_others">Ostalo</string>
   <string name="keyguard_security_setting_privacy_policy">Pravila o privatnosti</string>
-  <string name="keyguard_setting_privacy_policy_url">http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s</string>
   <string name="keyguard_shortcut_summary">Postavi prečace za 2 aplikacije na Zaklj. zaslonu</string>
   <string name="keyguard_shortcut_title">Prečaci Zaklj. zaslona</string>
   <string name="keyguard_vertical_clock_title">Okomiti sat</string>
@@ -5793,7 +5787,6 @@ Bočne ploče
   <string name="lights_title">LED svjetlo</string>
   <string name="line_breaking_summary">Optimiziraj prelamanje linija u odlomku</string>
   <string name="line_breaking_title">Optimiziraj tekst</string>
-  <string name="link_speed">%1$d Mbps</string>
   <string name="link_speed_label">Brzina veze:</string>
   <string name="link_turbo_prompt">"Statistika na ovoj stranici prikazuje samo količinu podataka koja se koristi za pojačavanje brzine Wi-Fi veze. Ove statistike ne odražavaju stvarnu korištenje mobilnih podataka."</string>
   <string name="link_turbo_settings_all_app_display_loading">Samo trenutak…</string>
@@ -6544,7 +6537,6 @@ Ne možete poništiti ovu radnju!"</string>
   <string name="memory_title">Dostupno: %1$s\u0009\u0009Ukupno: %2$s</string>
   <string name="memory_usage">Upotreba memorije</string>
   <string name="memory_usage_apps">Memorija koju upotrebljavaju aplikacije</string>
-  <string name="memory_use_running_format">%1$s / %2$s</string>
   <string name="memory_use_summary">Prosječna upotreba memorije u posljednja 3 sata: %1$s</string>
   <string name="memorycard_calculating">Izračunavanje…</string>
   <string name="menu_cancel">Odustani</string>
@@ -7491,7 +7483,6 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="nfc_main_switch_title">Koristi NFC</string>
   <string name="nfc_more_details">Saznajte više</string>
   <string name="nfc_more_title">Više…</string>
-  <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
   <string name="nfc_payment_btn_text_set_deault">Postavi zadano</string>
   <string name="nfc_payment_btn_text_update">Ažuriraj</string>
   <string name="nfc_payment_default">Zadano plaćanje</string>
@@ -7755,7 +7746,6 @@ Poboljšane obavijesti mogu pristupiti sadržaju obavijesti, uključujući osobn
   <string name="notification_fold_summary">Sve nevažne obavijesti pojavit će se u zasebnoj mapi</string>
   <string name="notification_fold_title">Mapa obavijesti</string>
   <string name="notification_group_title">Grupa kategorija obavijesti</string>
-  <string name="notification_header_divider_symbol_with_spaces">" • "</string>
   <string name="notification_history">Povijest obavijesti</string>
   <string name="notification_history_dismiss">Nedavno odbačeno</string>
   <string name="notification_history_off_summary">Uključite povijest obavijesti da biste vidjeli nedavne i odgođene obavijesti</string>
@@ -8466,7 +8456,6 @@ Pročitajte i pristanite na %s prije korištenja ove usluge."</string>
   <string name="power_cell">Mobilna mreža u stanju mirovanja</string>
   <string name="power_center">Optimizacija baterije</string>
   <string name="power_charge_remaining">%1$s do dovršetka punjenja</string>
-  <string name="power_charging">%1$s - %2$s</string>
   <string name="power_charging_duration">%1$s – %2$s do napunjenosti</string>
   <string name="power_charging_duration_ac">%1$s – %2$s do pune baterije putem utičnice</string>
   <string name="power_charging_duration_usb">%1$s – %2$s do pune baterije putem USB-a</string>
@@ -8543,7 +8532,6 @@ istovremeno pritisnite tipku za uključivanje/isključivanje i tipku za glasnoć
   <string name="power_remaining_less_than_duration_only">Preostalo je manje od %1$s</string>
   <string name="power_remaining_more_than_subtext">Preostalo je više od %1$s (%2$s)</string>
   <string name="power_remaining_only_more_than_subtext">Preostalo je više od %1$s</string>
-  <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
   <string name="power_screen">Zaslon</string>
   <string name="power_service">Usluge</string>
   <string name="power_settings_title">Performanse sustava</string>
@@ -8821,8 +8809,6 @@ istovremeno pritisnite tipku za uključivanje/isključivanje i tipku za glasnoć
   <string name="privileged_action_disable_sub_dialog_title">Želite li isključiti uslugu mobilnog operatera %1$s?</string>
   <string name="privileged_action_disable_sub_dialog_title_without_carrier">Isključiti SIM?</string>
   <string name="process_dex2oat_label">Optimizacija aplikacija</string>
-  <string name="process_format">%1$s (%2$d)</string>
-  <string name="process_kernel_label">Android OS</string>
   <string name="process_mediaserver_label">Medijski poslužitelj</string>
   <string name="process_network_tethering">Modemsko povezivanje</string>
   <string name="process_provider_in_use_description">Pružatelj %1$s je u upotrebi.</string>
@@ -9866,7 +9852,6 @@ Kako upotrebljavati prikvačivanje aplikacije: \u0009
   <string name="security_encryption_attention_3">"Morati ćete postaviti novo Zaklj. zaslona."</string>
   <string name="security_encryption_attention_4">"Pobrinite se da zapamtite svoj Zaklj. zaslon, inače ćete morati napraviti kompletno resetiranje i izbrisati sve podatke na uređaju."</string>
   <string name="security_encryption_attention_info">Možete šifrirati svoje račune, postavke, preuzete aplikacije i njihove podatke, medije i ostale datoteke.</string>
-  <string name="security_encryption_attention_symbol">•</string>
   <string name="security_encryption_attention_title">Važno</string>
   <string name="security_encryption_close_dialog_info">Odabirom ne šifrirati uređaj pomoću Zaklj. zaslona može rezultirati da neke Googleove usluge budu nedostupne.</string>
   <string name="security_encryption_close_dialog_title">Vrati se na zadano šifriranje sustava</string>
@@ -10203,7 +10188,6 @@ Napomena: ovaj uređaj ne možete otključati otiskom prsta. Više informacija m
   <string name="separate_keyboard_summary_fold">Odvojite tipkovnicu pregradom u sredini da biste udobnije tipkali dok držite uređaj s obje ruke</string>
   <string name="separate_keyboard_summary_pad">Odvojite tipkovnicu pregradom u sredini kako biste tipkanje učinili brže i ugodnije</string>
   <string name="service_background_processes">%1$s slobodno</string>
-  <string name="service_client_name">%1$s</string>
   <string name="service_foreground_processes">%1$s up.</string>
   <string name="service_manage">Postavke</string>
   <string name="service_manage_description">%1$s: trenutno u upotrebi. Dodirnite Postavke za upravljanje.</string>
@@ -10252,7 +10236,6 @@ Napomena: ovaj uređaj ne možete otključati otiskom prsta. Više informacija m
   <string name="settings_notify_need_backup">Sigurnosno kopirajte svoje postavke na Xiaomi Cloud da im pristupite nakon što promjenite telefone.</string>
   <string name="settings_notify_new_version">Dostupno je ažuriranje. Dodirnite za prikaz pojedinosti.</string>
   <string name="settings_notify_phone_recycled">Vaš je broj telefona recikliran. Dodirnite za dodavanje drugog broja telefona.</string>
-  <string name="settings_package">com.android.settings</string>
   <string name="settings_panel_title">Ploča postavki</string>
   <string name="settings_safetylegal_activity_loading">Učitavanje…</string>
   <string name="settings_safetylegal_activity_title">Sigurnosne informacije</string>
@@ -10529,7 +10512,6 @@ Možda je PIN pogrešan."</string>
   <string name="sim_select_card">Odabir SIM kartice</string>
   <string name="sim_selection_channel_title">Odabir SIM-a</string>
   <string name="sim_selection_required_pref">Potreban je odabir</string>
-  <string name="sim_settings_summary">%1$s - %2$s</string>
   <string name="sim_settings_title">SIM kartice</string>
   <string name="sim_setup_channel_id">Aktivacija mreže</string>
   <string name="sim_setup_wizard_title">SIM kartice</string>
@@ -10556,7 +10538,6 @@ Dvaput dodirnite za otvaranje Nedavno."</string>
   <string name="size_kilo_byte">KB</string>
   <string name="size_mega_byte">MB</string>
   <string name="size_peta_byte">PB</string>
-  <string name="size_suffix">%1$s %2$s</string>
   <string name="size_tera_byte">TB</string>
   <string name="skip_anyway_button_label">Svejedno preskoči</string>
   <string name="skip_label">Preskoči</string>
@@ -10828,7 +10809,6 @@ Više informacija o tim certifikatima zatražite od administratora.}}"</string>
   <string name="status_bar_filter_item_description">Za postavljanje upozorenja, idite na Postavke &gt; Obavijesti &gt; Upravljaj obavijestima</string>
   <string name="status_bar_filter_item_preview_image">Pregled</string>
   <string name="status_bar_key_position_custom">Promjenite položaj tipke</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_bar_screen_button_desc">Kliznite dolje da biste sakrili tipke zaslona</string>
   <string name="status_bar_screen_button_force_immersive_desc">Prijeđite prstom od dna zaslona za prikaz tipki zaslona</string>
   <string name="status_bar_screen_button_key">Tipke zaslona</string>
@@ -13000,7 +12980,6 @@ Pojedinosti potražite u pravilima o privatnosti svojeg mobilnog operatera."</st
   <string name="wifi_calling_off_explanation_2" />
   <string name="wifi_calling_pref_managed_by_carrier">Postavkom upravlja mobilni operater</string>
   <string name="wifi_calling_roaming_mode_dialog_title">Željena postavka za roaming</string>
-  <string name="wifi_calling_roaming_mode_summary">%1$s</string>
   <string name="wifi_calling_roaming_mode_title">Željena postavka za roaming</string>
   <string name="wifi_calling_settings_activation_instructions">Aktivirajte Wi-Fi pozive</string>
   <string name="wifi_calling_settings_title">Wi-Fi pozivi</string>
@@ -14138,10 +14117,8 @@ Ažurirajte postavke da:
   <string name="zone_auto_summaryOn">Upotrijebi vrijeme koje osigurava mreža operatera</string>
   <string name="zone_auto_title">Upotrijebi vremensku zonu mreže</string>
   <string name="zone_change_to_from_dst">%1$s počinje %2$s.</string>
-  <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
   <string name="zone_info_footer">Upotrebljava %1$s. %2$s počinje %3$s.</string>
   <string name="zone_info_footer_no_dst">Upotrebljava %1$s. Nema ljetnog vremena.</string>
-  <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
   <string name="zone_list_menu_sort_alphabetically">Poredaj abecedno</string>
   <string name="zone_list_menu_sort_by_timezone">Poredaj po vremenskoj zoni</string>
   <string name="zone_menu_by_offset">Odabir u odnosu na UTC</string>

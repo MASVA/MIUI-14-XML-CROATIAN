@@ -638,7 +638,6 @@ Razlog: \"%s\""</string>
     <string name="friday">Petak</string>
     <string name="friday_short">Pet</string>
     <string name="friday_shortest">P</string>
-    <string name="from_account_format">%1$s</string>
     <string name="full_name">Ime</string>
     <string name="gallery">Galerija</string>
     <string name="ghostData_company">"Tvrtka"</string>
@@ -1184,7 +1183,6 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Nema članova grupe</string>
     <string name="six_letter">MNO</string>
-    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">Tvrtke</string>
     <string name="smart_group_company_unavailable">Nema podataka o tvrtki</string>
     <string name="smart_group_frequency_1">U proteklom mjesecu</string>

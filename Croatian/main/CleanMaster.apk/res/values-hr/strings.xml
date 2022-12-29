@@ -447,7 +447,6 @@
     <string name="hints_garbage_cleanup_result_safe">Sve izgleda uredno</string>
     <string name="hints_garbage_handle_item_content">Stavke: %1$d, %2$s</string>
     <string name="hints_garbage_handle_item_empty_content">Prazno</string>
-    <string name="hints_header_left">%d</string>
     <string name="hints_installed_app_fewer">Rijetko korišteno</string>
     <string name="hints_installed_app_near">Nedavno korišteno</string>
     <string name="hints_installed_app_never">Nikad korišteno</string>

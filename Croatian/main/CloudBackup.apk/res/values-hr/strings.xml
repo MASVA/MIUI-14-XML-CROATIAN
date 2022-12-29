@@ -338,8 +338,6 @@ Molimo pošaljite ovaj kod tehničaru."</string>
     <string name="open_backup_switch">Promjeni Sig. kopije</string>
     <string name="other_device_main_space">Prvi prostor</string>
     <string name="other_device_second_space">Drugi prostor</string>
-    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
-    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="pc_mode_not_support_restore_warning">"Nije moguće vratiti stavke u PC načinu. Isključite PC način i pokušajte ponovo."</string>
     <string name="permission_to_use">Pojedinosti o dopuštenjima</string>
     <string name="preference_copied">Sažetak \"%1$s\" je kopiran u međuspremnik.</string>
