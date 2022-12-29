@@ -2438,8 +2438,6 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
 	<string name="secret_album_password_update_with_sms_dialog_msg">Zaporka za zaštitu privatnosti funkcionira za poruke, fotografije, bilješke i skrivene mape.</string>
 	<string name="secret_album_set_pc_password_dialog_ok">Postavite novu zaporku</string>
 	<string name="secret_album_set_pc_password_dialog_title">Postavite zaporku</string>
-	<string name="secret_album_set_pc_password_dialog_ok">Postavite novu zaporku</string>
-	<string name="secret_album_set_pc_password_dialog_title">Postavite zaporku</string>
 	<string name="secret_reason_space_full">Cloud albumi su puni</string>
 	<string name="secret_reason_too_large">Ova je datoteka prevelika</string>
 	<string name="secret_reason_type_not_support">"Ova vrsta datoteke nije podržana"</string>
