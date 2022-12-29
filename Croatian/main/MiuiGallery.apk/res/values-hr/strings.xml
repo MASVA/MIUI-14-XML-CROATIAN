@@ -413,7 +413,6 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
 	<string name="by_sms">SMS</string>
 	<string name="byteShort">B</string>
         <string name="camera_needs_auto_backup_tip">Album kamere mora biti sinkroniziran</string>
-        <string name="camera_path">/DCIM/Camera</string>
 	<string name="can_authorize_owner_albums_share_to_tv">Autorizirajte gledanje albuma na TV-u</string>
 	<string name="can_not_transfer_when_screening">"Ne mogu emitirati tijekom prijenosa"</string>
 	<string name="cancel">Odustani</string>
@@ -435,7 +434,6 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
 	<string name="card_description_annual_peoples">Lica, priče, mjesta</string>
 	<string name="card_description_annual_pets">Repovi, šape i brkovi</string>
 	<string name="card_description_annual_travel">Stvari koje ste vidjeli na putovanje</string>
-        <string name="card_description_from_to">%1$s - %2$s</string>
 	<string name="card_title_activities">Događaji</string>
 	<string name="card_title_annual_babys">Slatkica u %1$s</string>
 	<string name="card_title_annual_events">Moje zabave u %1$s</string>
@@ -450,7 +448,6 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
 	<string name="card_title_pastyear_party">Zabave prošle godine</string>
 	<string name="card_title_pastyear_sports">Vježbe prošle godine</string>
 	<string name="card_title_recent_memory">Nedavna sjećanja</string>
-        <string name="card_title_somewhere">%1$s</string>
         <string name="card_title_sports">Vježbe</string>
 	<string name="card_title_three_month_baby">Vrijeme leti</string>
 	<string name="cast_devices_unavailable_desc">Provjerite jesu li oba uređaja povezana na istu Wi-Fi mrežu</string>
@@ -899,7 +896,6 @@ Napravite više fotografija vaših prijatelja!"</string>
 	<string name="face_name_edit">Uredi</string>
 	<string name="face_name_input">Unesite ime</string>
         <string name="face_recommend">Preporuke</string>
-        <string name="face_recommend_group_number">%1$d/%2$d</string>
         <string name="facebook_login_btn_content_description">Prijavite se s Facebookom</string>
 	<string name="fail_hint">"Ne mogu dovršiti radnju"</string>
 	<string name="fail_reason_migrate">Obrada stavki… Pričekajte minutu ili dvije i pokušajte ponovo.</string>
@@ -915,7 +911,6 @@ za fotografije"</string>
 	<string name="feedback_my_reports">Povratne informacije</string>
 	<string name="feedback_problem">Prijavite problem</string>
 	<string name="feedback_suggest">Pošaljite prijedlog</string>
-        <string name="fileSizeSuffix">%1$s%2$s</string>
         <string name="file_cannot_print">"Ne mogu ispisati ovu stavku."</string>
         <string name="file_cannot_screen_throw">"Ne mogu emitirati ovu stavku."</string>
         <string name="file_sending">Prijenos datoteka…</string>
@@ -1134,7 +1129,6 @@ za fotografije"</string>
 	<string name="google_login_btn_content_description">Prijava s Googleom</string>
         <string name="grant_permission_go_and_set_2">Postavke</string>
         <string name="grant_permission_go_and_set_3">Postavke</string>
-        <string name="grant_permission_item">\"%s\"</string>
 	<string name="grant_permission_manage_storage">Potrebna su dopuštenja</string>
 	<string name="grant_permission_manage_storage_unlock">Otključajte svoj uređaj i dopustite ovoj aplikaciji pristup svim datotekama kako biste mogli vidjeti stavke.</string>
 	<string name="grant_permission_shortcut">Dopustite ovoj aplikaciji da prvo stvara prečace na početnom zaslonu.</string>
@@ -1927,7 +1921,6 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
 	<string name="people_page_label">Osobe</string>
 	<string name="people_page_photo">Sličica osobe</string>
 	<string name="people_page_unname">Bez imena</string>
-        <string name="percent_sign">%</string>
 	<string name="permission_account_desc">Za prijavu i upravljanje računom sustava</string>
 	<string name="permission_account_name">Pristup računima</string>
 	<string name="permission_clipboard_desc">Za pristup i spremanje stavki u međuspremnik</string>

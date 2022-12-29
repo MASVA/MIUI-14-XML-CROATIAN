@@ -103,7 +103,6 @@
     <string name="download_list_title_browser">Preuzimanja</string>
     <string name="download_no_application">Nema aplikacija koje podržavaju ovaj format</string>
     <string name="download_no_application_title">"Ne mogu otvoriti datoteku"</string>
-    <string name="download_num_size">%1$s | %2$s</string>
     <string name="download_pending">Preuzimanje na čekanju</string>
     <string name="download_remain_time">Preostalo:</string>
     <string name="download_running">Preuzimanje…</string>
@@ -123,7 +122,6 @@
     <string name="engine_open">Otvori</string>
     <string name="expand_button_title">Napredno</string>
     <string name="extract_file">Raspakiranje datoteke…</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_exist_hint">Ova datoteka već postoji</string>
     <string name="file_picker">Odaberite lokaciju</string>
     <string name="file_size">Veličina:</string>

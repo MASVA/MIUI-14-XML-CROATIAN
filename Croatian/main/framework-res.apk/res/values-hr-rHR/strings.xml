@@ -734,7 +734,6 @@ Ako imate pitanja, obratite se administratoru organizacije."</string>
      <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
      <string name="fcComplete">Kôd značajke je potpun.</string>
      <string name="fcError">Problem s vezom ili nevažeći kôd značajke.</string>
-     <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_count">{count,plural, =1{{file_name} i # datoteka}one{{file_name} i # datoteka}few{{file_name} i # datoteke}other{{file_name} i # datoteka}}</string>
      <string name="find">Pronađi</string>
      <string name="find_next">Nađi sljedeće</string>
@@ -1005,7 +1004,6 @@ Posjetite "<b>google.com/accounts/recovery</b>.</string>
      <string name="kg_reordering_delete_drop_target_text">Ukloni</string>
      <string name="kg_sim_pin_instructions">Unesite PIN za SIM</string>
      <string name="kg_sim_unlock_progress_dialog_message">Otključavanje SIM kartice…</string>
-    <string name="kg_text_message_separator">" – "</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"Netočno ste napisali zaporku %1$d puta. 
 
 Pokušajte ponovo za %2$d s."</string>
@@ -1402,7 +1400,6 @@ Poboljšane obavijesti mogu pristupiti sadržaju obavijesti, uključujući osobn
      <string name="notification_hidden_text">Nova obavijest</string>
      <string name="notification_history_title_placeholder">Prilagođena obavijest aplikacije</string>
      <string name="notification_listener_binding_label">Slušatelj obavijesti</string>
-     <string name="notification_messaging_title_template">%1$s: %2$s</string>
      <string name="notification_phishing_alert_content_description">Upozorenje o krađi identiteta</string>
      <string name="notification_ranker_binding_label">Usluga rangiranja obavijesti</string>
      <string name="notification_reply_button_accessibility">Odgovori</string>
@@ -2461,42 +2458,15 @@ Dugotrajno slušanje glasne glazbe može vam oštetiti sluh."</string>
      <string name="ssl_certificate">Sigurnosni certifikat</string>
      <string name="ssl_certificate_is_valid">Ovaj je certifikat valjan.</string>
      <string name="status_bar_airplane">airplane</string>
-     <string name="status_bar_alarm_clock">alarm_clock</string>
-     <string name="status_bar_battery">battery</string>
-     <string name="status_bar_bluetooth">bluetooth</string>
      <string name="status_bar_call_strength">call_strength</string>
      <string name="status_bar_camera">camera</string>
-     <string name="status_bar_cast">cast</string>
-     <string name="status_bar_cdma_eri">cdma_eri</string>
-     <string name="status_bar_clock">clock</string>
-     <string name="status_bar_data_connection">data_connection</string>
-     <string name="status_bar_data_saver">data_saver</string>
      <string name="status_bar_ethernet">ethernet</string>
-     <string name="status_bar_headset">headset</string>
-     <string name="status_bar_hotspot">hotspot</string>
-     <string name="status_bar_ime">ime</string>
-     <string name="status_bar_location">location</string>
-     <string name="status_bar_managed_profile">managed_profile</string>
      <string name="status_bar_microphone">microphone</string>
      <string name="status_bar_mobile">mobile</string>
-     <string name="status_bar_mute">status_bar_mute</string>
-     <string name="status_bar_nfc">nfc</string>
      <string name="status_bar_no_calling">no_calling</string>
-     <string name="status_bar_notification_info_overflow">999+</string>
-     <string name="status_bar_phone_evdo_signal">phone_evdo_signal</string>
-     <string name="status_bar_phone_signal">phone_signal</string>
-     <string name="status_bar_rotate">rotate</string>
      <string name="status_bar_screen_record">screen_record</string>
-     <string name="status_bar_secure">secure</string>
      <string name="status_bar_sensors_off">sensors_off</string>
-     <string name="status_bar_speakerphone">speakerphone</string>
-     <string name="status_bar_sync_active">sync_active</string>
-     <string name="status_bar_sync_failing">sync_failing</string>
-     <string name="status_bar_tty">tty</string>
-     <string name="status_bar_volume">volume</string>
      <string name="status_bar_vpn">vpn</string>
-     <string name="status_bar_wifi">wifi</string>
-     <string name="status_bar_zen">zen</string>
      <string name="status_communication_speaker_summary">Hands-free poziv je u tijeku. Zvuk će se i dalje reproducirati preko zvučnika kad su spojene slušalice.</string>
      <string name="status_communication_summary">Poziv je u tijeku. Možete prilagoditi samo glasnoću poziva.</string>
      <string name="stk_cc_ss_to_dial">SS zahtjev promijenjen je u običan poziv</string>
@@ -2854,7 +2824,6 @@ Dugotrajno slušanje glasne glazbe može vam oštetiti sluh."</string>
      <string name="zen_mode_forever_dnd">Dok ne isključite \"Ne ometaj\"</string>
      <string name="zen_mode_next_alarm_line_one">Do sljedećeg alarma</string>
      <string name="zen_mode_next_alarm_summary">Do sljedećeg alarma u %1$s</string>
-     <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
      <string name="zen_mode_until">Do %1$s</string>
      <string name="zen_mode_until_next_day">Do %1$s</string>
      <string name="zen_upgrade_notification_content">Dodirnite da biste provjerili što je blokirano.</string>

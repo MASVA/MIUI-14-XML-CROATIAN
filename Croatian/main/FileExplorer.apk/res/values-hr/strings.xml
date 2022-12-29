@@ -35,7 +35,6 @@
     <string name="action_release_file_cache">Očisti predmemoriju</string>
     <string name="actionbar_button_up_description">Natrag</string>
     <string name="ad_download">Preuzmi</string>
-    <string name="add_one">(1)</string>
     <string name="add_private">Učinite datoteke privatnim</string>
     <string name="add_private_files">Dodaj datoteke</string>
     <string name="add_to_widget">Dodaj u widget</string>
@@ -260,7 +259,6 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
     <string name="favorite_photo">Fotografije</string>
     <string name="favorite_ringtone">Zvukovi zvona</string>
     <string name="favorite_screen_cap">Snimka zaslona</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_info_canread">Čitljivo: </string>
     <string name="file_info_canwrite">Pisljivo: </string>
     <string name="file_info_ishidden">Skriveno: </string>

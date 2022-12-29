@@ -136,8 +136,6 @@
     <string name="find_device">Pronađi uređaj</string>
     <string name="find_device_dspt_provision">"Ako izgubite svoj uređaj, možete ići na &lt;font color=#0097FF>%s&lt;/font> kako biste ga locirali, zaključali ili poništili.
  Možete uključiti/isključiti tu značajku bilo kada u Postavkama."</string>
-    <string name="find_device_dspt_provision_2">i.mi.com</string>
-    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_gdpr_prompt">"Uključivanjem značajke Pronađi uređaj, prihvaćate naša "<u><a href="app://com.miui.cloudservice.gdpr.license">Pravila o privatnosti</a></u>. Isključite ovu značajku ako želite povući svoju suglasnost.</string>
 	 <string name="find_device_operation_failure_rpc">"Nije moguće izvršiti radnju zbog RPC pogreške."</string>
     <string name="find_device_permissions_footer">"Dodirnite \"Odobri\" da biste dodijelili dopuštenja koja ste odabrali."</string>

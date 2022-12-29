@@ -1120,7 +1120,6 @@ Ovo dopuštenje možete dati u Postavke &gt; Privatnost."</string>
     <string name="resource_pack_price_info">Izvorna cijena: %1$s</string>
     <string name="resource_pack_warning">"Već ste kupili %1$d komponente ove teme. Jeftinije je ako kupite preostale komponente pojedinačno."</string>
     <string name="resource_present">Poklon</string>
-    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Besplatno</string>
     <string name="resource_price_unit">Mi Kredita</string>
     <string name="resource_purchase_common_error">Dogodila se pogreška, pokušajte ponovno.</string>
@@ -1391,7 +1390,6 @@ Ovo dopuštenje možete dati u Postavke &gt; Privatnost."</string>
     <string name="theme_is_external_priority_storage_summary">Aplikacija Teme će se odmah ponovno pokrenuti za primjenu ove postavke.</string>
     <string name="theme_log_out">Odjava</string>
     <string name="theme_multiple_button_title_customize">Prilagodi</string>
-    <string name="theme_name">%1$s</string>
     <string name="theme_need_login_dialog_content">Prijavite se na svoj Mi Račun da biste nastavili.</string>
     <string name="theme_no">Ne</string>
     <string name="theme_not_include_module_desc">"Ova tema ne sadrži sljedeće stavke: %s"</string>

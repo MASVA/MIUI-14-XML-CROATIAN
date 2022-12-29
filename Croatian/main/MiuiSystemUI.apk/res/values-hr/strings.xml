@@ -1451,7 +1451,6 @@ Za više informacija obratite se IT administratoru."</string>
   <string name="monitoring_description_personal_profile_named_vpn">Vaš je osobni profil povezan s  %1$s, koji može pratiti aktivnosti vaše mreže, uključujući e-poštu, aplikacije i web stranice.</string>
   <string name="monitoring_description_two_named_vpns">Povezani ste s aplikacijama %1$s i %2$s koje mogu nadzirati vašu aktivnost na mreži, uključujući e-poruke, aplikacije i web-lokacije.</string>
   <string name="monitoring_description_vpn_settings">Otvorite postavke VPN-a</string>
-  <string name="monitoring_description_vpn_settings_separator">" "</string>
   <string name="monitoring_financed_description_named_management">"%1$s možda može pristupiti podacima povezanim s ovim uređajem, upravljati aplikacijama i promijeniti postavke uređaja.
 
 Ako imate pitanja, obratite se tvrtki %2$s."</string>
@@ -1565,7 +1564,6 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="nav_bar">Navigacijska traka</string>
   <string name="nav_bar_edge_panel">Rub navigacijske trake</string>
   <string name="nav_bar_layout">Izgled</string>
-  <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="new_notification_image_content_description">Korisnik %1$s poslao je sliku</string>
   <string name="new_notification_text_content_description">%1$s šalje poruku: %2$s</string>
   <string name="new_status_content_description">%1$s ima ažuriranje statusa: %2$s</string>
@@ -1717,7 +1715,6 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="plugins">Dodaci</string>
   <string name="pointer_location">Mjesto pokazivača</string>
   <string name="pointer_location_summary">Na zaslonu se prikazuju podaci o dodirima.</string>
-  <string name="power_charging">%1$s - %2$s</string>
   <string name="power_charging_duration">%1$s – %2$s do napunjenosti</string>
   <string name="power_charging_limited">%1$s - punjenje je privremeno ograničeno</string>
   <string name="power_discharge_by">Još otprilike %1$s (%2$s)</string>
@@ -1936,11 +1933,7 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="quick_settings_secondary_label_until">Do %s</string>
   <string name="quick_settings_sim_disabled">" (Onemogućeno)"</string>
   <string name="quick_settings_sync_label">Sinkr.</string>
-  <string name="quick_settings_tiles">default</string>
-  <string name="quick_settings_tiles_default">internet,bt,flashlight,dnd,alarm,airplane,controls,wallet,rotation,battery,cast,screenrecord,mictoggle,cameratoggle,custom(com.android.permissioncontroller/.permission.service.SafetyCenterQsTileService)</string>
   <string name="quick_settings_tiles_old_mode">cell,wifi,bt,flashlight,batterysaver,screenshot,edit</string>
-  <string name="quick_settings_tiles_retail_mode">night,dark,dnd,flashlight,rotation,location</string>
-  <string name="quick_settings_tiles_stock">internet,bt,flashlight,dnd,alarm,airplane,controls,wallet,rotation,battery,cast,screenrecord,mictoggle,cameratoggle,location,hotspot,inversion,saver,dark,work,night,reverse,reduce_brightness,qr_code_scanner,onehanded,color_correction</string>
   <string name="quick_settings_tiles_super_save">cell,wifi,bt,gps,vibrate</string>
   <string name="quick_settings_toast_drag_to_enable_custom_tile">Za dodavanje stavke, dodirnite i zadržite je, a zatim je odvucite na gornji dio ploče.</string>
   <string name="quick_settings_ui_mode_night_label">Tamna tema</string>
@@ -2146,7 +2139,6 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="status_bar_date_format_12">"EEEE
  dd.MM."</string>
   <string name="status_bar_ethernet">Ethernet</string>
-  <string name="status_bar_network_name_separator">-</string>
   <string name="status_bar_settings_auto_rotation">Automatski zakreni zaslon</string>
   <string name="status_bar_work">Poslovni profil</string>
   <string name="status_before_loading">Sadržaj će se uskoro prikazati</string>
