@@ -77,7 +77,6 @@
     <string name="monday">Ponedjeljak</string>
     <string name="monday_short">Pon</string>
     <string name="monday_shortest">P</string>
-    <string name="month">Mjesec</string>
     <string name="month_april">Travanj</string>
     <string name="month_april_short">Tra</string>
     <string name="month_april_shortest">T</string>
@@ -105,9 +104,6 @@
     <string name="month_may">Svibanj</string>
     <string name="month_may_short">Svi</string>
     <string name="month_may_shortest">S</string>
-    <string name="month_medium_april">Tra</string>
-    <string name="month_medium_august">Kol</string>
-    <string name="month_medium_december">Pro</string>
     <string name="month_november">Studeni</string>
     <string name="month_november_short">Stu</string>
     <string name="month_november_shortest">S</string>

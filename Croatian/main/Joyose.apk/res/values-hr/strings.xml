@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string name="action_settings">Postavke</string>
+	 <string name="activity_title_fakecell">Zaštita od lažnih baznih stanica</string>
+	 <string name="app_name">StepsProvider</string>
+	 <string name="booster_config_version">"Trenutna verzija: "</string>
+	 <string name="cc_version">"Trenutna verzija: "</string>
+	 <string name="connect_wifi">Nije povezano na Wi-Fi</string>
+	 <string name="detect_fakecell">Prepoznaj SMS s lažnih baznih stanica</string>
+	 <string name="end_title">Igra je gotova</string>
+	 <string name="forbidden_fakecell">"Ne spajajte se na lažne bazne stanice"</string>
+	 <string name="forbidden_fakecell_summary">Spriječite da se vaš telefon poveže s lažnim baznim stanicama</string>
+	 <string name="foreground_text">Koristite usluge u prvom planu za podizanje razine prioriteta</string>
+	 <string name="foreground_title">Usluge u prvom planu</string>
+	 <string name="hello_world">Zdravo svijete!</string>
+	 <string name="joyose_name">Joyose</string>
+	 <string name="lab_switch_server">Zamijeni poslužitelje</string>
+	 <string name="not_resurge_title">Ponovno oživljavanje</string>
+	 <string name="not_support_forbidden_fakecell">"Vaš uređaj ne podržava zaštitu na razini čipa od lažnih baznih stanica."</string>
+	 <string name="open_cta">Dopusti ovoj aplikaciji povezivanje s internetom u Sigurnosti.</string>
+	 <string name="permstep_description">Dopustite ovoj aplikaciji pristup vašem broju koraka</string>
+	 <string name="permstep_label">Pristupite broju koraka</string>
+	 <string name="restart_details">Uključivanje ili isključivanje ove značajke zahtijeva ponovno pokretanje vašeg uređaja. Ponovno pokrenuti sada?</string>
+	 <string name="restart_later">Kasnije</string>
+	 <string name="restart_now">Ponovo pokrenite sada</string>
+	 <string name="resuged_content">Hajde!</string>
+	 <string name="resurged_title">Ponovno oživljeno</string>
+	 <string name="stop_sync">Zaustaviti automatsku sinkronizaciju?</string>
+    <string name="support_forbidden_fakecell">Napomena: Ograničavanje veze na lažne bazne stanice može smanjiti signal u područjima sa slabom pokrivenošću.</string>
+	 <string name="switch_international">Prebaci se na globalni poslužitelj</string>
+	 <string name="switch_to_official">Prebaci se na službeni poslužitelj</string>
+	 <string name="switch_to_russia">Prebaci se na ruski poslužitelj</string>
+	 <string name="switch_to_staging">Prebaci se na probni poslužitelj</string>
+	 <string name="unknown_error">Nepoznata pogreška</string>
+	 <string name="update_success">Uspješno ažurirano</string>   
+</resources>
