@@ -310,7 +310,6 @@ Audio"</string>
      <string name="data_connection_5g_plus">5G+</string>
      <string name="data_connection_5g_sa">5GSA</string>
      <string name="data_connection_5g_uwb">5GUWB</string>
-     <string name="data_connection_5ge_html">&lt;i>5G &lt;small>E&lt;/small>&lt;/i></string>
      <string name="data_connection_carrier_wifi">W+</string>
      <string name="data_connection_cdma">1X</string>
      <string name="data_connection_edge">EDGE</string>
