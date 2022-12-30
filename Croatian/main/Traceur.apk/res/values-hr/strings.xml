@@ -310,7 +310,7 @@ Audio"</string>
      <string name="data_connection_5g_plus">5G+</string>
      <string name="data_connection_5g_sa">5GSA</string>
      <string name="data_connection_5g_uwb">5GUWB</string>
-    <string name="data_connection_5ge_html">&lt;i>5G &lt;small>E&lt;/small>&lt;/i></string>
+     <string name="data_connection_5ge_html">&lt;i>5G &lt;small>E&lt;/small>&lt;/i></string>
      <string name="data_connection_carrier_wifi">W+</string>
      <string name="data_connection_cdma">1X</string>
      <string name="data_connection_edge">EDGE</string>
@@ -707,7 +707,7 @@ Audio"</string>
      <string name="tap_to_sign_up">Dodirnite da biste se registrirali</string>
      <string name="tap_to_stop_tracing">Dodirnite da biste zaustavili bilježenje tragova</string>
      <string name="ten_minutes">10 minuta</string>
-     <string name="tether_settings_title_all">Dijeljenje veze i hotspot/string>
+     <string name="tether_settings_title_all">Dijeljenje veze i hotspot</string>
      <string name="tether_settings_title_bluetooth">Dijeljenje Bluetoothom veze</string>
      <string name="tether_settings_title_usb">USB dijeljenje veze</string>
      <string name="tether_settings_title_usb_bluetooth">Dijeljenje veze</string>
