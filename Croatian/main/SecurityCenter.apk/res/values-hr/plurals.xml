@@ -97,6 +97,10 @@
         <item quantity="other">"Bit ćete obaviješteni o osjetljivim radnjama koje izvršava %1$d aplikacija"</item>
         <item quantity="one">"Bit ćete obaviješteni o osjetljivim radnjama koje izvršava %1$d aplikacija"</item>
     </plurals>
+	 <plurals name="app_behavior_record_close_content_text">
+        <item quantity="other">Zapisi o ponašanju aplikacije pohranjuju se na ovom uređaju %d dana. Ako isključite ovu značajku, novi zapisi se više neće pojavljivati, a stari će biti izbrisani. Svejedno isključiti?</item>
+        <item quantity="one">Zapisi o ponašanju aplikacije pohranjuju se na ovom uređaju %d dan. Ako isključite ovu značajku, novi zapisi se više neće pojavljivati, a stari će biti izbrisani. Svejedno isključiti?</item>
+    </plurals>
     <plurals name="app_behavior_wakepath_multiple">
         <item quantity="other">%1$1s pokrenula %2$d aplikacija</item>
         <item quantity="one">%1$1s pokrenula %2$d aplikaciju</item>

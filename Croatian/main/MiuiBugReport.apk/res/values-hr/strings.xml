@@ -575,6 +575,7 @@ Bočne ploče
 	 <string name="passport_to_verify_code_login">Prijavite se SMS-om</string>
 	 <string name="passport_user_id_hint">E-mail/broj telefona/ID Mi Računa</string>
 	 <string name="passport_user_password_hint">Zaporka</string>
+	 <string name="passport_vcode_what_app_send_prompt">Vaš WhatsApp kontrolni kôd bit će poslan na vaš telefon za oporavak (&lt;font color=#1F93FF>%s&lt;/font>).</string>
 	 <string name="phone_auto_login_register_with_local_number">Izradi račun</string>
 	 <string name="please_agree_protocal">Prihvatite protokol</string>
 	 <string name="please_download_gallery">Instalirajte Galeriju za prikaz</string>

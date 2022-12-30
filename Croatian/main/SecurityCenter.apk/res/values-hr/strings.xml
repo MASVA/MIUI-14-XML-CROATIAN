@@ -422,11 +422,18 @@ Bočne ploče
   <string name="app_behavior_read_clipboard_bg">%1s je pristupio stavkama u međuspremniku u pozadini</string>
   <string name="app_behavior_recognition">%1s je pristupio podacima o vašoj aktivnosti</string>
   <string name="app_behavior_recognition_single">Aplikacija je pristupila podacima o vašoj aktivnosti</string>
+  <string name="app_behavior_record_cancel">Odustani</string>
+  <string name="app_behavior_record_close">Isključi</string>
+  <string name="app_behavior_record_close_title">Isključi</string>
+  <string name="app_behavior_record_hide_system">Sakrij aplikacije sustava</string>
+  <string name="app_behavior_record_open">Uključi</string>
+  <string name="app_behavior_record_open_content_text">Zapisi o ponašanju aplikacije pokazuju što aplikacije rade i pomažu vam u izbjegavanju sigurnosnih rizika.</string>
   <string name="app_behavior_record_setting_button_title">Prikaži ponašanje usluga sustava</string>
   <string name="app_behavior_record_setting_show_system">Prikaži ponašanje usluga sustava</string>
   <string name="app_behavior_record_setting_show_system_desc">"Uključite za prikaz ponašanja osnovnih usluga sustava. Da bi osigurale stabilnost sustava, ove će usluge koristiti potrebna dopuštenja od kojih se neka ne mogu ograničiti."</string>
   <string name="app_behavior_record_setting_show_system_title">Prikaži ponašanje usluga sustava</string>
   <string name="app_behavior_record_setting_title">Zapisi ponašanja</string>
+  <string name="app_behavior_record_show_system">Prikaži aplikacije sustava</string>
   <string name="app_behavior_search">Traži</string>
   <string name="app_behavior_sensor">%1s je pristupio podacima senzora</string>
   <string name="app_behavior_sensor_single">Aplikacija je pristupila podacima senzora</string>
@@ -2415,6 +2422,11 @@ vašeg igranja"</string>
   <string name="get_phone_num_fail">Nepoznati broj telefona</string>
   <string name="get_sys_info">Dobivanje informacija…</string>
   <string name="gigabyteShort">GB</string>
+  <string name="global_dock_guide_desc_with_split_screen">"· Dodirnite aplikaciju na bočnoj traci da je otvorite u plutajućem prozoru.
+· Povucite aplikaciju u središte zaslona kako biste je otvorili u plutajućem prozoru ili na stranu za korištenje podijeljenog zaslona.
+· Pritisnite i držite indikator za pomicanje prozora."</string>
+     <string name="global_dock_guide_desc_without_split_screen">"· Dodirnite aplikaciju na bočnoj traci da je otvorite u plutajućem prozoru.
+· Pritisnite i držite indikator za pomicanje prozora."</string>
   <string name="global_satisfaction_notification_button">Ocjena</string>
   <string name="global_satisfaction_notification_subhead">Recite nam svoje iskustvo</string>
   <string name="global_satisfaction_notification_title">Ocijenite ovaj uređaj</string>

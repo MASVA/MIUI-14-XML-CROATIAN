@@ -103,11 +103,9 @@ Ako je to dopuštenje isključeno, postojeći alarmi i događaji zakazani putem 
      <string name="allow_mock_location_summary">Dopusti probne lokacije</string>
      <string name="allow_turn_screen_on">Dopusti uključivanje zaslona</string>
      <string name="allow_turn_screen_on_description">Dopustite aplikaciji da uključuje zaslon. Ako date to dopuštenje, aplikacija može uključiti zaslon u bilo kojem trenutku bez vaše izričite namjere.</string>
-     <string name="androidx_startup">androidx.startup</string>
      <string name="animator_duration_scale_title">Razmjer duljine animatora</string>
      <string name="apn_settings_not_available">Postavke pristupne točke nisu dostupne ovom korisniku</string>
      <string name="app_process_limit_title">Ograničenje pozadinskog procesa</string>
-     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
      <string name="applications">Prijave</string>
      <string name="attach_to_bug_report">Priložite praćenja izvješćima o programskoj pogrešci</string>
      <string name="attach_to_bug_report_summary">Automatski pošaljite BetterBugu praćenja u tijeku kad se prikupi izvješće o programskoj pogrešci</string>
@@ -312,7 +310,7 @@ Audio"</string>
      <string name="data_connection_5g_plus">5G+</string>
      <string name="data_connection_5g_sa">5GSA</string>
      <string name="data_connection_5g_uwb">5GUWB</string>
-     <string name="data_connection_5ge_html">&lt;i&gt;5G &lt;small&gt;E&lt;/small&gt;&lt;/i&gt;</string>
+    <string name="data_connection_5ge_html">&lt;i>5G &lt;small>E&lt;/small>&lt;/i></string>
      <string name="data_connection_carrier_wifi">W+</string>
      <string name="data_connection_cdma">1X</string>
      <string name="data_connection_edge">EDGE</string>
@@ -402,7 +400,6 @@ Audio"</string>
      <string name="force_resizable_activities_summary">Omogući mijenjanje veličine svih aktivnosti za više prozora, neovisno o vrijednostima manifesta.</string>
      <string name="force_rtl_layout_all_locales">Nametni zdesna ulijevo</string>
      <string name="force_rtl_layout_all_locales_summary">Nametni smjer zdesna ulijevo za sve zemlje/jezike</string>
-     <string name="four_thousand_kb">4096 KB</string>
      <string name="guest_exit_guest">Ukloni gosta</string>
      <string name="guest_new_guest">Dodavanje gosta</string>
      <string name="guest_nickname">Gost</string>
@@ -571,14 +568,14 @@ Audio"</string>
      <string name="mtrl_picker_toggle_to_day_selection">Dodirnite za prijelaz na odabir dana</string>
      <string name="mtrl_picker_toggle_to_text_input_mode">Prijelaz na način unosa teksta</string>
      <string name="mtrl_picker_toggle_to_year_selection">Dodirnite za prijelaz na odabir godine</string>
-     <string name="mtrl_timepicker_confirm">OU reduK</string>
+     <string name="mtrl_timepicker_confirm">U redu</string>
      <string name="no_application">Ništa</string>
      <string name="no_debuggable_apps">Nema aplikacija iz kojih se mogu uklanjati pogreške</string>
      <string name="not_default_data_content_description">Nije postavljeno za upotrebu podataka</string>
      <string name="not_set">Nije postavljeno</string>
      <string name="num_categories_selected">{count,plural, =1{# odabrana}one{# odabrana}few{# odabrane}other{# odabrano}}</string>
      <string name="oem_unlock_enable">OEM otključavanje</string>
-     <string name="oem_unlock_enable_summary">Neka kôd za pokretanje sustava bude otključan</string>
+    <string name="oem_unlock_enable_summary">Dopustite da se bootloader otključa</string>
      <string name="okay">U redu</string>
      <string name="one_gb">1 GB</string>
      <string name="one_hour">Jedan sat</string>
@@ -686,8 +683,6 @@ Audio"</string>
      <string name="show_touches">Prikaži dodire</string>
      <string name="show_touches_summary">Prikaži vizualne povratne informacije za dodire</string>
      <string name="simulate_color_space">Simulacija prostora boja</string>
-     <string name="sixteen_thousand_kb">16384 KB</string>
-     <string name="sixtyfive_thousand_kb">65536 KB</string>
      <string name="speed_label_fast">Brzo</string>
      <string name="speed_label_medium">Srednje</string>
      <string name="speed_label_okay">U redu</string>
@@ -696,7 +691,6 @@ Audio"</string>
      <string name="speed_label_very_slow">Vrlo sporo</string>
      <string name="standby_bucket_summary">"Stanje aplikacije u mirovanju: %s"</string>
      <string name="start_new_trace">Pokreni novo praćenje</string>
-     <string name="status_bar_notification_info_overflow">999+</string>
      <string name="status_unavailable">Nije dostupno</string>
      <string name="stop_on_bugreport">Zaustavite praćenje za izvješća o programskim pogreškama</string>
      <string name="stop_on_bugreport_summary">Zaustavlja aktivna bilježenja praćenja kad se pokrene izrada izvješća o programskim pogreškama</string>
@@ -712,9 +706,8 @@ Audio"</string>
      <string name="tap_to_share">Dodirnite da biste podijelili trag</string>
      <string name="tap_to_sign_up">Dodirnite da biste se registrirali</string>
      <string name="tap_to_stop_tracing">Dodirnite da biste zaustavili bilježenje tragova</string>
-     <string name="ten_gb">10 GB</string>
      <string name="ten_minutes">10 minuta</string>
-     <string name="tether_settings_title_all">Dijeljenje veze i žarišna točka</string>
+     <string name="tether_settings_title_all">Dijeljenje veze i hotspot/string>
      <string name="tether_settings_title_bluetooth">Dijeljenje Bluetoothom veze</string>
      <string name="tether_settings_title_usb">USB dijeljenje veze</string>
      <string name="tether_settings_title_usb_bluetooth">Dijeljenje veze</string>
@@ -878,19 +871,8 @@ Bilo koji korisnik može ažurirati aplikacije za sve ostale korisnike."</string
      <string name="wifi_security_passpoint">Passpoint</string>
      <string name="wifi_security_psk_sae">WPA2/WPA3-Personal</string>
      <string name="wifi_security_sae">WPA3-Personal</string>
-     <string name="wifi_security_short_eap">802.1x</string>
-     <string name="wifi_security_short_eap_suiteb">Suite-B-192</string>
-     <string name="wifi_security_short_eap_wpa">WPA-EAP</string>
-     <string name="wifi_security_short_eap_wpa2_wpa3">RSN-EAP</string>
-     <string name="wifi_security_short_none_owe">Ništa/OWE</string>
-     <string name="wifi_security_short_owe">OWE</string>
-     <string name="wifi_security_short_psk_sae">WPA2/WPA3</string>
-     <string name="wifi_security_short_sae">WPA3</string>
-     <string name="wifi_security_short_wep">WEP</string>
-     <string name="wifi_security_short_wpa">WPA</string>
-     <string name="wifi_security_short_wpa2">WPA2</string>
-     <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-     <string name="wifi_security_wep">WEP</string>
+    <string name="wifi_security_short_dpp">DPP</string>
+    <string name="wifi_security_short_none_owe">Ništa/OWE</string>
      <string name="wifi_security_wpa">WPA-Personal</string>
      <string name="wifi_security_wpa2">WPA2-Personal</string>
      <string name="wifi_security_wpa_wpa2">WPA/WPA2-Personal</string>
@@ -926,7 +908,6 @@ Pohrana vjerodajnica možda neće omogućena"</string>
      <string name="wifitrackerlib_osu_sign_up_failed">Registracija nije dovršena. Dodirnite za ponovni pokušaj.</string>
      <string name="wifitrackerlib_private_dns_broken">Nije moguće pristupiti privatnom DNS poslužitelju</string>
      <string name="wifitrackerlib_saved_network">Spremila aplikacija %1$s</string>
-     <string name="wifitrackerlib_settings_package">com.android.settings</string>
      <string name="wifitrackerlib_speed_label_fast">Brzo</string>
      <string name="wifitrackerlib_speed_label_medium">Srednje</string>
      <string name="wifitrackerlib_speed_label_okay">U redu</string>
@@ -993,5 +974,5 @@ Pohrana vjerodajnica možda neće omogućena"</string>
      <string name="zen_mode_enable_dialog_turn_on">Uključi</string>
      <string name="zen_mode_forever">Dok ne isključite</string>
      <string name="zen_mode_settings_summary_off">Nikada</string>
-     <string name="zen_mode_settings_turn_on_dialog_title">Uključite opciju Ne uznemiravaj.</string>
+     <string name="zen_mode_settings_turn_on_dialog_title">Uključite opciju DND.</string>
 </resources>

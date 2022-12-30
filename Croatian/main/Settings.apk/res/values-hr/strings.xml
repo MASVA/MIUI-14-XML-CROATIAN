@@ -7890,7 +7890,7 @@ Aplikacija će također moći uključiti ili isključiti značajku DND i promije
   <string name="oem_unlock_enable_disabled_summary_connectivity">Najprije se povežite s internetom</string>
   <string name="oem_unlock_enable_disabled_summary_connectivity_or_locked">Povežite se s internetom ili se obratite mobilnom operateru</string>
   <string name="oem_unlock_enable_disabled_summary_sim_locked_device">Nije dostupno na uređajima koje je zaključao mob. operater</string>
-  <string name="oem_unlock_enable_summary">Neka kôd za pokretanje sustava bude otključan</string>
+  <string name="oem_unlock_enable_summary">Dopustite da se bootloader otključa</string>
   <string name="off">Isključeno</string>
   <string name="ok">U redu</string>
   <string name="ok_rules">Dovršeno</string>

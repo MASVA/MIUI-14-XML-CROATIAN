@@ -1228,7 +1228,7 @@ Koristiti će se željena mreža umjesto toga."</string>
     <string name="number">Broj</string>
     <string name="oem_preferred_feedback_reporter"/>
     <string name="oem_unlock_enable">OEM otključavanje</string>
-    <string name="oem_unlock_enable_summary">Neka kôd za pokretanje sustava bude otključan</string>
+    <string name="oem_unlock_enable_summary">Dopustite da se bootloader otključa</string>
     <string name="ok">U redu</string>
     <string name="okay">U redu</string>
     <string name="oldPin2Label">Stari PIN2</string>

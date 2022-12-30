@@ -661,7 +661,7 @@ I dalje možete upućivati hitne pozive."</string>
     <string name="notification_missedWorkCallTitle">Propušten poslovni poziv</string>
     <string name="notification_pullcall">Pozivi na sekundarni</string>
     <string name="oem_unlock_enable">OEM otključavanje</string>
-    <string name="oem_unlock_enable_summary">Neka kôd za pokretanje sustava bude otključan</string>
+    <string name="oem_unlock_enable_summary">Dopustite da se bootloader otključa</string>
     <string name="okay">U redu</string>
     <string name="osu_completing_sign_up">Dovršavanje registracije…</string>
     <string name="osu_connect_failed">Povezivanje nije uspjelo</string>

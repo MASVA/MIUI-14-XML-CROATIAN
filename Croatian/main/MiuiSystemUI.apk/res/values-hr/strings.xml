@@ -1637,7 +1637,7 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="notification_vpn_disconnected">VPN je isključen</string>
   <string name="oem_preferred_feedback_reporter" />
   <string name="oem_unlock_enable">OEM otključavanje</string>
-  <string name="oem_unlock_enable_summary">Neka kôd za pokretanje sustava bude otključan</string>
+  <string name="oem_unlock_enable_summary">Dopustite da se bootloader otključa</string>
   <string name="okay">U redu</string>
   <string name="one_handed_tutorial_description">Za izlaz povucite prstom od dna zaslona prema gore ili dodirnite bio gdje iznad aplikacije</string>
   <string name="one_handed_tutorial_title">Korištenje načina rada jednom rukom</string>

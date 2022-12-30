@@ -383,7 +383,7 @@ bezuvjetno aktivirano"</string>
     <string name="number_tag_divider">" ｜ "</string>
     <string name="oem_preferred_feedback_reporter"/>
     <string name="oem_unlock_enable">OEM otključavanje</string>
-    <string name="oem_unlock_enable_summary">Neka kôd za pokretanje sustava bude otključan</string>
+    <string name="oem_unlock_enable_summary">Dopustite da se bootloader otključa</string>
     <string name="okay">U redu</string>
     <string name="outgoing_call_error_no_phone_number_supplied">Poziv se ne može ostvariti, broj koji ste unijeli nije ispravan.</string>
     <string name="outgoing_call_failed">Poziv nije uspio.</string>

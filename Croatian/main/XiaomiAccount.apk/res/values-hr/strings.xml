@@ -192,6 +192,8 @@ Vaš profil je ažuriran sa informacijama iz vašeg %s računa.</string>
     <string name="common_signin_button_text_long">Prijavi se sa Google</string>
     <string name="completed">Sve je postavljeno!</string>
     <string name="confirm_activate_email">Potvrđeno</string>
+	 <string name="confirm_bundled_phone_dialog_confirm">Potvrdi</string>
+    <string name="confirm_bundled_phone_dialog_confirm_timer">Potvrdi (%ds)</string>
     <string name="confirm_bundled_phone_dialog_title">Potvrdi povezan broj telefona</string>
     <string name="confirm_new_pwd">Potvrdi novu zaporku</string>
     <string name="confirm_phone_number_dialog_message">Kod za provjeru će biti poslan na: %s.</string>
