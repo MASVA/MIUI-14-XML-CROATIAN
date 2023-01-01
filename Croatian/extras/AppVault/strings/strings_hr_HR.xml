@@ -9,12 +9,14 @@
 	 <string name="widget_num_limit">Ne mogu dodati više widgeta u Zaklj. aplikacija. Izbrišite starije widgete da biste dodali nove.</string>
 	 <string name="widget_num_warn">Uspješno dodano. Zapamtite da postavljanje previše widgeta na Poč. zaslon može usporiti vaš uređaj.</string>
 	 <string name="theme_clock">Prilagođeni satovi</string>
+	 <string name="theme_pals">Prijatelji</string>
 	 <string name="app_appvault">Zaklj. aplikacija</string>
 	 <string name="app_browser">Preglednik</string>
 	 <string name="app_calculator">Kalkulator</string>
 	 <string name="app_calendar">Kalendar</string>
 	 <string name="app_camera">Kamera</string>
 	 <string name="app_clock">Sat</string>
+	 <string name="app_files">Datoteke</string>
 	 <string name="app_gallery">Galerija</string>
 	 <string name="app_google">Google</string>
 	 <string name="app_health">Zdravlje</string>
@@ -81,6 +83,8 @@
 	 <string name="widget_clock_weather_desc">Vrijeme, datum i vrijeme na vašoj trenutačnoj lokaciji</string>
 	 <string name="widget_clock_world">Svjetski sat</string>
 	 <string name="widget_clock_world_desc">Vrijeme na drugoj lokaciji</string>
+	 <string name="widget_files_pin">Česte datoteke</string>
+   <string name="widget_files_pin_desc">Prikvačite često pregledavane datoteke za brzi pristup</string>
 	 <string name="widget_gallery_custom">Odabrane slike</string>
 	 <string name="widget_gallery_custom_desc">Dodajte widget, a zatim ga dodirnite za odabir fotografija</string>
 	 <string name="widget_gallery_recommend">Sjećanja</string>
@@ -103,6 +107,10 @@
 	 <string name="widget_notes_tasks_desc">Pregledajte i otvorite svoje zadatke</string>
 	 <string name="widget_notes_view">Bilješke</string>
 	 <string name="widget_notes_view_desc">Pregledajte i otvorite svoje bilješke</string>
+	 <string name="widget_pals_cat">Maca</string>
+   <string name="widget_pals_cat_desc">Mijau ~ ne smetaj mi dok spavam…</string>
+   <string name="widget_pals_dog">Pas</string>
+   <string name="widget_pals_dog_desc">Vau ~ igraj se sa mnom!</string>
 	 <string name="widget_security_app_behavior">Privatnost</string>
 	 <string name="widget_security_app_behavior_desc">Prikaz statistike ponašanja aplikacije</string>
 	 <string name="widget_security_app_predict">Prijedlozi aplikacija</string>
