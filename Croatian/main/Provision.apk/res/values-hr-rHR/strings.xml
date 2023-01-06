@@ -80,8 +80,6 @@
     <string name="compass_introduction">Ovu aplikaciju možete koristiti za navigaciju, kao i za pregled koordinata, atmosferskog tlaka i nadmorske visine.</string>
     <string name="congratulation_label">"Spremni ste za MIUI!"</string>
 	 <string name="congratulation_pre_label">Samo trenutak…</string>
-    <string name="congratulation_pre_title">Priprema sustava...</string>
-	 <string name="congratulation_pre_label">Samo trenutak…</string>
     <string name="congratulation_pre_title">Priprema sustava…</string>
     <string name="congratulation_swipe">Povucite prema gore za ulaz u sustav</string>
     <string name="congratulation_title">Postavljanje je dovršeno</string>
