@@ -181,9 +181,9 @@
         <item quantity="other">Odabrano stavki: %d</item>
         <item quantity="one">Odabrana %d stavka</item>
     </plurals>
-    <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
-        <item quantity="other">Izbrisati %d uzastopnih fotografija iz Mi Clouda i svih sinkroniziranih uređaja?</item>
-        <item quantity="one">Izbrisati %d uzastopnu fotografiju iz Mi Clouda i svih sinkroniziranih uređaja?</item>
+    <plurals name="delete_brust_title">
+        <item quantity="other">Izbrisati %d uzastopnih fotografija?</item>
+        <item quantity="one">Izbrisati %d uzastopnu fotografiju?</item>
     </plurals>
     <plurals name="delete_burst_photo_from_local">
         <item quantity="other">Izbrisati %d uzastopnih fotografija?</item>
@@ -209,9 +209,9 @@
         <item quantity="other">Izbrisati stavke %d iz ovog albuma i Mi Clouda?</item>
         <item quantity="one">Izbrisati %d stavku iz ovog albuma i Mi Clouda?</item>
     </plurals>
-    <plurals name="delete_photo_from_all_devices_and_cloud_msg">
-        <item quantity="other">Izbrisati fotografije %d sa svih uređaja i Mi Clouda?</item>
-        <item quantity="one">Izbrisati %d fotografiju sa svih uređaja i Mi Clouda?</item>
+    <plurals name="delete_media_title">
+        <item quantity="other">Izbrisati stavke: %d?</item>
+        <item quantity="one">Izbrisati %d stavku?</item>
     </plurals>
     <plurals name="delete_photo_from_local">
         <item quantity="other">Izbrisati fotografije: %d?</item>
@@ -224,10 +224,6 @@
     <plurals name="delete_third_party_burst_photo">
         <item quantity="other">Izbrisati %d uzastopnih fotografija sa ovog uređaja?</item>
         <item quantity="one">Izbrisati %d uzastopnu fotografiju sa ovog uređaja?</item>
-    </plurals>
-    <plurals name="delete_video_from_all_devices_and_cloud_msg">
-        <item quantity="other">Izbrisati videozapise %d sa svih uređaja i Mi Clouda?</item>
-        <item quantity="one">Izbrisati %d videozapis sa svih uređaja i Mi Clouda?</item>
     </plurals>
     <plurals name="delete_video_from_local">
         <item quantity="other">Izbrisati videozapise: %d?</item>
