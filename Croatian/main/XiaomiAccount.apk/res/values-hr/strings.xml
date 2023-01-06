@@ -204,6 +204,7 @@ Vaš profil je ažuriran sa informacijama iz vašeg %s računa.</string>
     <string name="copy">Kopiraj</string>
 	 <string name="copy_link">Kopiraj poveznicu</string>
     <string name="copy_to_clipboard_successful">Uspješno kopirano</string>
+	 <string name="current_account_can_use_pwd_login">Unesite svoju zaporku za prijavu</string>
     <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
     <string name="delete_action">Izbriši</string>
     <string name="delete_bank_card_message">Mi Pay bankovne kartice i NFC kartice bit će izbrisane nakon što se odjavite.</string>
@@ -299,6 +300,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="input_new_pwd">Unesite novu zaporku</string>
     <string name="io_error_title">Potvrdite vašu mrežu</string>
     <string name="just_a_second">Samo trenutak…</string>
+	 <string name="keep_phone_ticket_login">Prijavite se kontrolnim kodom</string>
     <string name="kr_license_desc">Za Mi Račun i Xiaomi Cloud Usluge trebate prihvatiti Korisnički ugovor i Pravila o privatnosti.</string>
     <string name="kr_permission_contacts_desc">Koristi se za čitanje informacija o kontaktima</string>
     <string name="kr_permission_desc">U nastavku pročitajte potrebna dopuštenja</string>
@@ -316,6 +318,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="login_with_other">Više opcija</string>
     <string name="logout_account">Odjava</string>
     <string name="logout_failed">"Ne mogu se odjaviti"</string>
+	 <string name="messenger_send_button_text">Pošalji</string>
 	 <string name="mi_account">Moj račun</string>
     <string name="mi_account_identity_title">Potvrdite svoj identitet</string>
     <string name="mi_finance">Moje financije</string>
@@ -696,7 +699,9 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="permission_write_external_storage">Pristup i spremanje stavki u pohranu</string>
     <string name="personal_info_desc">Fotografija, nadimak, i više</string>
     <string name="phone_num_use_for">Broj telefona se koristi za:</string>
-	  <string name="phone_register">Koristi broj telefona</string>
+	 <string name="phone_register">Koristi broj telefona</string>
+	 <string name="phone_ticket_login">Prijavite se s kontrolnim kodom</string>
+    <string name="phone_ticket_register">Izradite račun s telefonskim brojem</string>
     <string name="photoPickerNotFoundText">Nema dostupnih fotografija.</string>
     <string name="preference_copied">Sažetak \"%1$s\" je kopiran u međuspremnik.</string>
     <string name="privacy_policy_reject_confirm_msg">"Nećete moći nastaviti koristiti Mi Račun ako ne pristanete na novu verziju njegovih Pravila o privatnosti. Prihvaćate ažurirana &lt;a href=%1$s>Pravila o privatnosti&lt;/a> Mi Računa?"</string>
@@ -823,6 +828,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="update_email_address_dialog_title">Ažuriraj E-poštu</string>
     <string name="update_phone_notice">Promijeni sigurnosne postavke</string>
     <string name="update_phone_number_notice_message">Morate potvrditi svoj identitet prije nego što možete ažurirati broj telefona.</string>
+	 <string name="use_google_account_login">Prijavite se s Googleom</string>
 	 <string name="used_cloud_storage_info">Iskorišteno %s</string>
     <string name="user_agreement_device_permission_desc">Za osiguravanje sigurnosti okruženja za prijavu</string>
     <string name="user_agreement_device_permission_title">Pristup informacijama o uređaju</string>

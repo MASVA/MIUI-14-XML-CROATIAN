@@ -207,6 +207,7 @@
     <string name="public_lite_update_cloud_dialog_message">Ažurirajte WPS Office, uživajte u %s usluzi</string>
     <string name="public_lite_update_right_now">Ažuriraj sad</string>
     <string name="public_lite_use_right_now">Koristite sad</string>
+	 <string name="public_loadDocumentError">"Datoteka ne postoji ili se ne može otvoriti"</string>
     <string name="public_loadDocumentFormatError">"Pogreška formata datoteke, ne mogu otvoriti."</string>
     <string name="public_loadDocumentLackOfStorageError">"Nema dovoljno prostora za pohranu, ne mogu otvoriti datoteku."</string>
     <string name="public_loadDocumentOutOfMemoryError">"Nema dovoljno prostora za pohranu, ne mogu otvoriti datoteku."</string>
@@ -244,6 +245,7 @@
     <string name="public_permission_storage_disallow_msg">"Nećete moći raditi s dokumentima nakon što opozovete autorizaciju."</string>
     <string name="public_play">Reproduciraj</string>
     <string name="public_ppt_label">Mi Presentation Viewer</string>
+	 <string name="public_privacy_update">&lt;Data>Kako biste u potpunosti razumjeli svoja prava kao korisnika, kao i načine na koje koristimo vaše podatke, pročitajte i prihvatite novu verziju naših &lt;a href=\"%s\">Pravila o privatnosti&lt;/a> prije nego što nastavite.&lt;/Data></string>
     <string name="public_re_licensing">Odobrite autorizaciju</string>
     <string name="public_readOnlyMode">Samo za čitanje</string>
     <string name="public_recory_edit_not_save_tips">Već ste vratili svoj nespremljeni sadržaj.</string>
@@ -252,6 +254,10 @@
     <string name="public_refuse_jurisdiction">Potrebno je dopuštenje</string>
     <string name="public_replace">Zamijeni</string>
     <string name="public_request_senior_password">Unesite zaporku najvišeg dopuštenja</string>
+	 <string name="public_revoke">Povlačenje %s</string>
+    <string name="public_revoke_privacy_content">"Ako nastavite, povući ćete svoju suglasnost na Pravila o privatnosti Mi Doc Viewer (Powered by WPS). Prestat ćemo prikupljati vaše osobne podatke, a osobni podaci koji su već prikupljeni i zadržani bit će izbrisani unutar određenog razdoblja u skladu s važećim zakonima i propisima osim ako se ne zahtijeva drugačije. Vaše povlačenje suglasnosti smatrat će se odbijanjem prihvaćanja usluga koje pruža Mi Doc Viewer (Powered by WPS)."</string>
+    <string name="public_revoke_privacy_desc">Povucite svoju suglasnost na Pravila o privatnosti Mi Doc Viewer (Powered by WPS)</string>
+    <string name="public_revoke_privacy_title">Povlačenje suglasnosti</string>
     <string name="public_ribbon_font">Font</string>
     <string name="public_save">Spremi</string>
     <string name="public_saveAs">Spremi kao</string>
@@ -273,6 +279,7 @@
     <string name="public_sensor_ratation_land_tip">Pejzažna orijentacija</string>
     <string name="public_sensor_ratation_port_tip">Portretna orijentacija</string>
     <string name="public_service_disable_error_tips">"Ova se značajka ne može koristiti jer je povezana usluga onemogućena."</string>
+	 <string name="public_share">Podijeli</string>
     <string name="public_share_no_network">"Ne mogu se povezati na mrežu"</string>
     <string name="public_share_retry">Pokušajte ponovo</string>
     <string name="public_shareplay_connect_fail">Provjerite mrežnu vezu</string>

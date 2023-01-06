@@ -2061,6 +2061,7 @@ Koristiti će se željena mreža umjesto toga."</string>
 Kontaktirajte vašeg operatera."</string>
     <string name="no_vm_number">Nedostaje broj govorne pošte</string>
     <string name="no_vm_number_msg">Na SIM kartici nije spremljen broj govorne pošte.</string>
+	 <string name="no_voice_capability">"Nije moguće dohvatiti operatera. Pričekajte minutu ili dvije i pokušajte ponovno."</string>
     <string name="no_voip">"SIP pozivi nisu podržani"</string>
     <string name="no_volte">Nije moguće uputiti IMS poziv</string>
     <string name="no_vt_allowed">Za upućivanje videopoziva, isključite TTY način rada</string>

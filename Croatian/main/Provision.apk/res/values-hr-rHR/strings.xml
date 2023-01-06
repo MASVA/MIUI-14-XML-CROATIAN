@@ -80,6 +80,8 @@
     <string name="compass_introduction">Ovu aplikaciju možete koristiti za navigaciju, kao i za pregled koordinata, atmosferskog tlaka i nadmorske visine.</string>
     <string name="congratulation_label">"Spremni ste za MIUI!"</string>
 	 <string name="congratulation_pre_label">Samo trenutak…</string>
+    <string name="congratulation_pre_title">Priprema sustava...</string>
+	 <string name="congratulation_pre_label">Samo trenutak…</string>
     <string name="congratulation_pre_title">Priprema sustava…</string>
     <string name="congratulation_swipe">Povucite prema gore za ulaz u sustav</string>
     <string name="congratulation_title">Postavljanje je dovršeno</string>
@@ -204,6 +206,7 @@ Značajke su podložne promjenama. Neke od gore navedenih značajki možda neće
     <string name="mi_account_introduction">Mi Račun vam omogućuje registraciju, prijavu i upravljanje računima sustava.</string>
     <string name="mint_keyboard_oobe_checkbox">"Pročitao sam i prihvatio Pravila o privatnosti Mint Keyboard"</string>
     <string name="mint_keyboard_oobe_terms">Pravila o privatnosti Mint Keyboard</string>
+	 <string name="miui14_start_up_slogan">Priprema. Pozor. Kreni.</string>
     <string name="miui_privacy_policy_no_network">"Niste povezani s internetom. Pogledajte Pravila o privatnosti na %s."</string>
     <string name="miui_provision">Početno postavljanje</string>
     <string name="miui_terms_no_network">"Niste povezani s internetom. Pogledajte Uvjete pružanja usluge na %s"</string>

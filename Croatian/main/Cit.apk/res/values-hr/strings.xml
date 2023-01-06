@@ -24,9 +24,9 @@
 	 <string name="app_name">CIT</string>
 	 <string name="audio_spk_cal_wait">Kalibracija, pričekajte…</string>
 	 <string name="audio_spk_def">Kalibrirajte zvučnike</string>
-	 <string name="auto_frontflash_description">Sva svjetla prednje bljeskalice su uključena, kliknite za prolaz, inače kliknite test nije uspio</string>
+	 <string name="auto_frontflash_description">Sva svjetla prednje bljeskalice su uključena, dodirnite za prolaz, inače dodirnite test nije uspio</string>
 	 <string name="auto_frontflash_title">Test bljeskalice prednje kamere</string>
-	 <string name="auto_rearflash_description">Sva svjetla bljeskalice stražnje kamere su uključena, kliknite za prolaz, inače test nije uspio</string>
+	 <string name="auto_rearflash_description">Sva svjetla bljeskalice stražnje kamere su uključena, dodirnite za prolaz, inače test nije uspio</string>
 	 <string name="auto_rearflash_title">Test bljeskalice stražnje kamere</string>
 	 <string name="back_mic_check_record_tip">Snimanje, recite nešto u mikrofon na stražnjoj strani uređaja</string>
 	 <string name="battery_authentic">Autentična baterija</string>
@@ -70,8 +70,8 @@ Test nije uspio
 "</string>
 	 <string name="cit_DP_plug_out_pass">"Otkrivena je prekinuta veza
 Test je uspio"</string>
-	 <string name="cit_DP_plug_pass">Priključena DP linija je otkrivena, molimo provjerite je li projekcija zaslona uspješna i kliknite odgovarajući gumb</string>
-	 <string name="cit_DP_plug_re_plugin">DP test je završen, pogledajte je li zaslon uspješan i kliknite odgovarajući gumb</string>
+	 <string name="cit_DP_plug_pass">Priključena DP linija je otkrivena, molimo provjerite je li projekcija zaslona uspješna i dodirnite odgovarajući tipku</string>
+	 <string name="cit_DP_plug_re_plugin">DP test je završen, pogledajte je li zaslon uspješan i dodirnite odgovarajući tipku</string>
 	 <string name="cit_OTG_plug_check_summary">Tijekom testa, uključite i obrnuto uključite USB_OTG uređaj</string>
 	 <string name="cit_OTG_plug_check_title">OTG</string>
 	 <string name="cit_OTG_waiting_in">Molimo priključite USB_OTG uređaj</string>
@@ -207,7 +207,7 @@ i okrenite utikač punjača"</string>
 	 <string name="cit_display_fold_screen_tips">Sklopite zaslon prije testiranja</string>
 	 <string name="cit_earpiece">Prijamnik</string>
 	 <string name="cit_earpiece_summary">"Čut ćete dva nasumična broja
-Molimo kliknite odgovarajući gumb prema broju koji čujete"</string>
+Molimo dodirnite odgovarajući tipku prema broju koji čujete"</string>
 	 <string name="cit_emergencycall_check_summary">Pritisnite Biraj 112 za biranje broja 112 kako biste provjerili može li se isti birati.</string>
 	 <string name="cit_emergencycall_check_title">Hitan poziv</string>
 	 <string name="cit_exit_test_summary">Kada izađete, svi povezani tekstualni podaci će biti izbrisani.</string>
@@ -510,8 +510,8 @@ Kod kalibriranja, provjerite da ne postoji ništa između senzora i vaše ruke (
 1. Koraci za aktiviranje MBN-a:
 Korak 1: Odaberite utor MBN koji će se aktivirati, a koji se obično učitava dvostrukim karticama, a zadana vrijednost je dvostruka kartica.
 Korak 2: Morate odabrati naziv MBN-a koji će se aktivirati. Uobičajeni MBN je montažni na padajućem popisu. Ako se ne pronađe, možete unijeti ključnu riječ MBN naziva koji će se aktivirati u okvir za pretraživanje kako biste pronašli MBN koji trebate aktivirati.
-Korak 3: Kliknite gumb Aktiviraj da učitate odabrani MBN.
-2. Zadani MBN sustava za oporavak može se postići klikom na gumb Vrati zadani MBN.
+Korak 3: Kliknite tipku Aktiviraj da učitate odabrani MBN.
+2. Zadani MBN sustava za oporavak može se postići klikom na tipku Vrati zadani MBN.
 3. Može prikazati informacije o MBN-u učitanom u trenutnom modemu.
 Prvi redak pokazuje je li MBN koji je učitao trenutni modem zadani MBN sustava. (Neki proizvodi možda neće biti integrirani u relevantno sučelje, ovaj redak će pokazati: Nije podržano)
 Drugi redak prikazuje naziv i broj verzije Default MBN i Carrier MBN koji su trenutno učitani u modemu. Naš prilagođeni MBN je Carrier MBN, SUB0 je kartica 1, SUB1 je kartica 2."</string>
@@ -621,7 +621,7 @@ Drugi redak prikazuje naziv i broj verzije Default MBN i Carrier MBN koji su tre
 	 <string name="cit_touch_panel_test_title">Senzor dodira</string>
 	 <string name="cit_touch_thp_mode">THP način rada</string>
 	 <string name="cit_touch_work_mode_test_help">"Upute za rad
-kliknite gumb za prebacivanje načina dodira na THP ili FW način"</string>
+dodirnite tipku za prebacivanje načina dodira na THP ili FW način"</string>
 	 <string name="cit_touch_work_mode_test_title">Test za promjenu THP načina rada na dodir</string>
 	 <string name="cit_touch_work_summary">Dodir prebacuje THP način rada</string>
 	 <string name="cit_touch_work_switch_tips">Ne dodirujte zaslon i pričekajte da se prebacivanje načina završi</string>
@@ -649,12 +649,12 @@ test nije uspio!"</string>
 	 <string name="cit_vga_camera_cameralist_fail">Pogreška: popis kamera ne odgovara</string>
 	 <string name="cit_vibrator_check">Test vibratora</string>
 	 <string name="cit_vibrator_check_summary">"Dugi ili kratki vibrator se nasumično pojavljuje u testu
-Molimo odaberite ispravan gumb prema različitim uvjetima vibracije"</string>
-	 <string name="cit_vice_display_check_summary">"Nakon što se uključi mali zaslon i dvaput kliknite da biste posvijetlili zaslon
+Molimo odaberite ispravan tipku prema različitim uvjetima vibracije"</string>
+	 <string name="cit_vice_display_check_summary">"Nakon što se uključi mali zaslon i dvaput dodirnite da biste posvijetlili zaslon
  Potvrdite da se boje dosljedno prikazuju na cijelom zaslonu. Pazite da nema nepravilnih svijetlih i tamnih mrlja."</string>
 	 <string name="cit_vice_display_check_title">Vice zaslon</string>
-	 <string name="cit_vice_touch_panel_test_summary">Nakon što je zaslon malog zaslona uključen i dvaput kliknite da biste posvijetlili zaslon, trebate okrenuti zaslon i dvaput kliknuti stražnji mali zaslon da biste osvijetlili zaslon i nacrtali križ na malom zaslonu uz mrežu</string>
-	 <string name="cit_vice_touch_panel_test_tips">Potvrdite da su mali zaslon i dvaput kliknite za uključivanje zaslona na malom zaslonu na stražnjoj strani uključeni, kliknite</string>
+	 <string name="cit_vice_touch_panel_test_summary">Nakon što je zaslon malog zaslona uključen i dvaput dodirnite da biste posvijetlili zaslon, trebate okrenuti zaslon i dvaput kliknuti stražnji mali zaslon da biste osvijetlili zaslon i nacrtali križ na malom zaslonu uz mrežu</string>
+	 <string name="cit_vice_touch_panel_test_tips">Potvrdite da su mali zaslon i dvaput dodirnite za uključivanje zaslona na malom zaslonu na stražnjoj strani uključeni, dodirnite</string>
 	 <string name="cit_vice_touch_panel_test_title">Vice Touch senzor</string>
 	 <string name="cit_wifi_address_check_summary">Testiranje će prikazati trenutno stanje Wi-Fi-ja</string>
 	 <string name="cit_wifi_address_check_title">Wi-Fi Adresa</string>
@@ -684,7 +684,7 @@ Molimo odaberite ispravan gumb prema različitim uvjetima vibracije"</string>
 Test nije uspio!"</string>
 	 <string name="fod_check_summary">"Upute za testiranje:
 Automatski test na temelju tipa senzora
-Na temelju rezultata testa kliknite na gumb "Prolazi ili ne uspijeva""</string>
+Na temelju rezultata testa dodirnite na tipku "Prolazi ili ne uspijeva""</string>
 	 <string name="fod_check_title">Provjera senzora otiska prsta</string>
 	 <string name="fod_check_unknown_sensor_type">"Nepoznata vrsta senzora za hranu
 Test nije uspio!"</string>
@@ -788,11 +788,13 @@ Upravljajte uređajem blizu i dalje od uređaja"</string>
 	 <string name="sar_sensor_test_next_step">Kontrolna pregrada blizu uređaja</string>
 	 <string name="sar_sensor_test_success">Uspješno testiranje senzora Sar</string>
 	 <string name="sar_sensor_test_summary">"Zarotirajte uređaj, stavite ga na učvršćenje
-Kliknite gumb Start Calibrate
+Dodirnite tipku Start Calibrate
 Nakon uspješnog kalibriranja, kontrolirajte uređaj blizu i dalje od uređaja"</string>
 	 <string name="sar_sensor_test_timeout">Istek testa Sar senzora</string>
 	 <string name="search_menu_title">Traži</string>
 	 <string name="set_dsi_tips">Postavi DSI</string>
+	 <string name="sidebottom_mic_check_record_tip">Snimanje, recite nešto u MIC na bočnom dnu uređaja</string>
+   <string name="sidetop_mic_check_record_tip">Snimanje, recite nešto u MIC na bočnoj strani uređaja</string>
 	 <string name="slave_battery_authentic">Autentična sekundarna baterija</string>
 	 <string name="soft_light_title">Nježno svjetlo</string>
 	 <string name="speak_from_mic">Razgovarajte u mikrofon, reprodukcija zvučnika. Procijenite ima li zvuka.</string>
@@ -802,9 +804,11 @@ Nakon uspješnog kalibriranja, kontrolirajte uređaj blizu i dalje od uređaja"<
 	 <string name="test_bottom_speaker">Donji zvučnik</string>
 	 <string name="test_front_mic">Prednji mikrofon</string>
 	 <string name="test_main_mic">Glavni mikrofon</string>
+	 <string name="test_sidebottom_mic">Bočni donji MIC</string>
+    <string name="test_sidetop_mic">Bočni gornji MIC</string>
 	 <string name="test_speaker">Zvučnik</string>
 	 <string name="test_speaker_summary">"Čut ćete dva nasumična broja
-Molimo kliknite odgovarajući gumb prema broju koji čujete"</string>
+Molimo dodirnite odgovarajući tipku prema broju koji čujete"</string>
 	 <string name="test_top_mic">Gornji mikrofon</string>
 	 <string name="test_top_speaker">Gornji zvučnik</string>
 	 <string name="testing">Pokretanje automatskog testiranja…</string>
