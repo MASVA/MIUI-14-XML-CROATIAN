@@ -259,10 +259,10 @@
     <string name="edit_event_input_year">Unesi godinu</string>
     <string name="edit_event_label">"Pojedinosti"</string>
     <string name="edit_event_no_reminder_value">"Ne podsjećaj"</string>
-    <string name="edit_event_reminder_3_days_before">Također podsjeti 3 dana ranije</string>
+    <string name="edit_event_reminder_3_days_before">Također podsjeti %d dana ranije</string>
 	 <string name="edit_event_reminder_3_days_before_time">Također podsjeti %d dana ranije</string>
     <string name="edit_event_reminder_summary">Na taj dan u %1$s</string>
-    <string name="edit_event_reminder_summary_3_days_before">3 dana ranije i na taj dan u %1$s</string>
+    <string name="edit_event_reminder_summary_3_days_before">%2$d dana ranije i na taj dan u %1$s</string>
 	 <string name="edit_event_reminder_summary_3_days_before_today">%1$d dana ranije i na taj dan u %1$s</string>
     <string name="edit_event_reminder_text">Dana %1$s u %2$s</string>
     <string name="edit_event_reminder_time">Vrijeme podsjetnika</string>
@@ -591,7 +591,7 @@ Provjerite mrežne postavke i pokušajte ponovno."</string>
     <string name="notes_settings_summary">Dodajte svoje svakodnevne zadatke i bilješke u Kalendar</string>
     <string name="notes_title">Bilješke</string>
     <string name="notes_week_name_five">%1$s, %2$s, %3$s, %4$s, i %5$s</string>
-    <string name="notes_week_name_four">%1$s, %2$s, %3$s, and %4$s</string>
+    <string name="notes_week_name_four">%1$s, %2$s, %3$s, i %4$s</string>
     <string name="notes_week_name_seven">%1$s, %2$s, %3$s, %4$s, %5$s, %6$s, i %7$s</string>
     <string name="notes_week_name_six">%1$s, %2$s, %3$s, %4$s, %5$s, i %6$s</string>
     <string name="notes_week_name_three">%1$s, %2$s, i %3$s</string>
