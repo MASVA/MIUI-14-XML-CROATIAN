@@ -525,6 +525,7 @@ IMAP putanje"</string>
     <string name="friday_shortest">P</string>
     <string name="from_heading">"Šalje: "</string>
     <string name="general_preference_confirm_delete_label">Potvrdi prije brisanja</string>
+	 <string name="general_preference_confirm_send_label">Potvrdi prije slanja</string>
     <string name="general_preference_delete_message_prompt_title">Pitaj prije brisanja</string>
     <string name="general_preference_email_slide_switch_title">Povucite lijevo/desno za pregled prethodne/sljedeće e-pošte</string>
     <string name="general_preference_load_picture">Učitaj online slike</string>
@@ -819,6 +820,7 @@ Ovaj problem može biti uzrokovan dvofaktorskom autentifikacijom računa. Pokuš
     <string name="no_recognize_describe">"Ne mogu pronaći e-poruke koje sadrže ulaznice ili rezervacije.</string>
     <string name="not_install_qq_tip">Uspješno kopirano. Otvorite QQ i pronađite ovu grupu kojoj ćete se pridružiti.</string>
     <string name="not_set">Nije postavljeno</string>
+	 <string name="no_search_results">Traži na poslužitelju</string>
     <string name="not_subject">(Nema predmeta)</string>
     <string name="not_synced_title">Račun nije sinkroniziran</string>
     <string name="notification_action_archive">Arhiva</string>
@@ -1172,12 +1174,15 @@ Pričekajte dok se ne sinkronizira u potpunosti ili pogledate poruku na računal
     <string name="under_16_content">"Potvrdite da još nemate 16 godina?"</string>
     <string name="under_sixteen">"Još mi nije 16 godina."</string>
     <string name="undo">Poništi</string>
+	 <string name="unselected">Poništen odabir</string>
     <string name="unselected_lable">Više</string>
     <string name="update_domain_summary">Ažurirajte popis dostupnih domena i konfiguracija</string>
     <string name="update_domain_title">Ažurirajte postavke domene</string>
     <string name="upload_log">Pošalji</string>
     <string name="upload_log_failed">"Ne mogu poslati dnevnik"</string>
     <string name="upload_log_no">Odustani</string>
+	 <string name="upload_log_title">Pošaljite zapisnike grešaka kako biste nam pomogli poboljšati Mail</string>
+    <string name="upload_log_yes">Pošalji</string>
     <string name="user_experience_content">Molimo potvrdite da ste pročitali i prihvaćate Plan korisničkog iskustva</string>
     <string name="user_experience_log">Plan korisničkog iskustva</string>
     <string name="user_experience_login">Pridruži se</string>

@@ -1058,6 +1058,7 @@ Ovo dopuštenje možete dati u Postavke &gt; Privatnost."</string>
     <string name="resource_detail_update_log_title">Ažuriranja</string>
     <string name="resource_detail_window_title">Detalji %1$s</string>
     <string name="resource_download">Preuzimanje</string>
+	 <string name="resource_download_notification_title_one">%1$s uspješno preuzet</string>
     <string name="resource_download_notification_title_many">Preuzeto tema: %1$s</string>
     <string name="resource_download_trial">Isprobajte</string>
     <string name="resource_downloaded_title">Preuzeti elementi</string>

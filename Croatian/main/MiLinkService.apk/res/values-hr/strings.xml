@@ -139,7 +139,8 @@ za zrcaljenje zaslona ovog tableta"</string>
     <string name="circulate_cta_premission_storage_pad_title">Pristup i spremanje stavki u pohranu</string>
     <string name="circulate_cta_premission_storage_subtitle">Za bežično slanje i primanje stavki</string>
     <string name="circulate_cta_premission_storage_title">Pristup i spremanje fotografija i datoteka na ovaj uređaj</string>
-    <string name="circulate_cta_premission_wlan_subtitle">Za pronalaženje uređaja u blizini i prijenos zadataka putem Wi-Fi-ja</string>
+    <string name="circulate_cta_premission_wlan_title">Uključite i isključite Wi-Fi</string>
+	 <string name="circulate_cta_premission_wlan_subtitle">Za pronalaženje uređaja u blizini i prijenos zadataka putem Wi-Fi-ja</string>
     <string name="circulate_cta_premission_wlan_subtitle_miui_plus">Za prijenos zadataka putem Wi-Fi-ja</string>
     <string name="circulate_cta_user_agreement">Pročitajte i prihvatite naše &lt;txt href=\"%1$s\">Korisnički ugovor&lt;/txt> i &lt;txt href=\"%2$s\">Pravila o privatnosti&lt;/txt> prije nego nastavite.</string>
     <string name="circulate_device_type_name_pad">Tablet</string>
@@ -308,6 +309,7 @@ Pogledajte pomoć ako imate problema sa povezivanjem."</string>
     <string name="hang_up_alert_dialog_neg">Odustani</string>
     <string name="hang_up_alert_dialog_pos">U redu</string>
     <string name="hang_up_alert_dialog_title">O emitiranju kada je zaslon isključen</string>
+	 <string name="headset_circulate_connect_success">Povezano</string>
     <string name="help_page_text_01">Pomoć</string>
     <string name="help_page_text_02">Što je emitiranje?</string>
     <string name="help_page_text_03">"Emitiranje projicira stavke s zaslona vašeg telefona na veći vanjski monitor. Omogućuje vam da dijelite slike i videozapise s prijateljima i obitelji, pa čak i da zajedno igrate igre. Potrošnja energije vašeg telefona obično se ne mijenja kada koristite ovu značajku."</string>

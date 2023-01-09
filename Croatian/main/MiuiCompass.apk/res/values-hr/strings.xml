@@ -44,6 +44,7 @@
     <string name="app_name">Prednosti</string>
     <string name="calibrate_failed">Ne mogu kalibrirati nadm. visinu</string>
     <string name="calibrate_failed_no_location">"Ne mogu kalibrirati"</string>
+	  <string name="calibrate_new_tip">Naglo nagnite uređaj kako biste zakotrljali lopticu po krugu</string>
     <string name="calibrate_failed_timeout">"Ne mogu se povezati na poslužitelj"</string>
     <string name="calibrate_rotate_again">Pokušaj ponovo</string>
     <string name="calibrate_success">Kalibrirano</string>

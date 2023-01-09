@@ -367,6 +367,7 @@
     <string name="micloud_notif_content_multi_user_error">Prijavili ste se s istim računom kao u Prvom prostoru.</string>
     <string name="micloud_notif_content_privacy_reopen_failed">Prikaži detalje</string>
     <string name="micloud_notif_content_sync_not_finish">Pojedinosti</string>
+	 <string name="micloud_notif_content_sync_with_off">Dodirnite da sada sinkronizirate svoj uređaj.</string>
     <string name="micloud_notif_title_battery_low">"Ne mogu sinkr. s Xiaomi Cloudom"</string>
     <string name="micloud_notif_title_dirty_data">Imate nesinkr. podataka</string>
     <string name="micloud_notif_title_master_depend_wifi">"Sinkronizacija je pauzirana dok upotrebljavate mobilne podatke"</string>

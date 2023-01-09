@@ -76,6 +76,7 @@
   <string name="accessibility_cast_name">Povezani ste sa sljedećim uređajem: %s.</string>
   <string name="accessibility_casting_turned_off">Emitiranje zaslona zaustavljeno.</string>
   <string name="accessibility_cell_data">Mobilni podaci</string>
+  <string name="accessibility_clear_all">Izbriši sve obavijesti.</string>
   <string name="accessibility_control_change_favorite">dodali u favorite</string>
   <string name="accessibility_control_change_unfavorite">uklonili iz favorita</string>
   <string name="accessibility_control_favorite">Dodano u favorite</string>
@@ -181,6 +182,7 @@
   <string name="accessibility_qs_edit_tile_removed">Kartica %1$s uklonjena</string>
   <string name="accessibility_qs_edit_tile_start_add">Dodavanje kartice</string>
   <string name="accessibility_qs_edit_tile_start_move">Premještanje kartice</string>
+  <string name="accessibility_quick_settings_alarm">Alarm je postavljen za %s.</string>
   <string name="accessibility_quick_settings_alarm_set">Alarm je postavljen.</string>
   <string name="accessibility_quick_settings_bluetooth">Bluetooth.</string>
   <string name="accessibility_quick_settings_bluetooth_handsfree_battery_level">Baterija Bluetooth uređaja %d posto.</string>
@@ -190,6 +192,7 @@
   <string name="accessibility_quick_settings_dnd">DND.</string>
   <string name="accessibility_quick_settings_dnd_alarms_on">\"DND\" je uključen, samo za alarme.</string>
   <string name="accessibility_quick_settings_dnd_changed_off">\"DND\" je isključen.</string>
+  <string name="accessibility_quick_settings_dnd_none_on">Potpuna tišina</string>
   <string name="accessibility_quick_settings_edit">Uređivanje redoslijeda postavki.</string>
   <string name="accessibility_quick_settings_expand">Otvaranje brzih postavki.</string>
   <string name="accessibility_quick_settings_less_time">Manje vremena.</string>
@@ -291,6 +294,7 @@ Ako je to dopuštenje isključeno, postojeći alarmi i događaji zakazani putem 
   <string name="animator_duration_scale_title">Razmjer duljine animatora</string>
   <string name="anniversary_status">Godišnjica</string>
   <string name="anniversary_status_content_description">%1$s ima godišnjicu</string>
+  <string name="apn_settings_not_available">Postavke naziva pristupne točke nisu dostupne za ovog korisnika</string>
   <string name="app_accessed_mic">Aplikacija %1$s pristupila je mikrofonu</string>
   <string name="app_info">Podaci o aplikaciji</string>
   <string name="app_label">UI sustava</string>
@@ -317,6 +321,7 @@ Ako je to dopuštenje isključeno, postojeći alarmi i događaji zakazani putem 
   <string name="battery_info_status_charging">Punjenje</string>
   <string name="battery_info_status_charging_fast">Brzo punjenje</string>
   <string name="battery_info_status_charging_lower">punjenje</string>
+  <string name="battery_info_status_charging_slow">Sporo punjenje</string>
   <string name="battery_info_status_charging_wireless">Bežično punjenje</string>
   <string name="battery_info_status_discharging">Ne puni se</string>
   <string name="battery_info_status_full">Napunjeno</string>
@@ -966,6 +971,7 @@ Kad se ohladi, radit će normalno."</string>
   <string name="how_to_use_drawer_summary">Prijeđite prstom udesno u gornjem dijelu zaslona</string>
   <string name="how_to_use_fsg">Možete obavljati ove radnje pomoću gesti:</string>
   <string name="icon_content_description">Ikona dijaloga</string>
+  <string name="ime_security_warning">Ova metoda unosa može prikupiti sav tekst koji upisujete, uključujući osobne podatke poput zaporki i brojeva kreditnih kartica. Dolazi iz aplikacije %1$s. Koristiti ovu metodu unosa?</string>
   <string name="ime_security_warning_global">Načini unosa možda će moći prikupljati sav tekst koji unosite, uključujući osobne podatke poput zaporki i brojeva kreditne kartice. Koristiti %1$s?</string>
   <string name="immediately_destroy_activities">Uklanjanje aktivnosti</string>
   <string name="immediately_destroy_activities_summary">Aktivnost se prekida čim je korisnik napusti.</string>
@@ -1243,6 +1249,7 @@ Pokušajte ponovo za %2$d sek."</string>
 dd.MM.yyyy"</string>
   <string name="lock_screen_date_two_lines_12">"EEEE
 dd.MM."</string>
+  <string name="lock_screen_magazine_default_content">Dnevna porcija svježih slika</string>
   <string name="lock_screen_magazine_default_entry_title">Detalji o slici pozadine</string>
   <string name="lock_screen_magazine_default_title">Wallpaper Carousel</string>
   <string name="lock_screen_magazine_global_button_text">Više</string>
@@ -1276,9 +1283,9 @@ dd.MM."</string>
   <string name="manage_notifications_text">Upravljanje</string>
   <string name="manage_users">Upravljanje korisnicima</string>
   <string name="managed_user_title">Sve poslovne aplikacije</string>
-
   <string name="material_clock_toggle_content_description">Odaberite prijepodne ili poslijepodne</string>
   <string name="material_hour_selection">Odaberite sat</string>
+  <string name="material_hour_suffix">%1$s h</string>
   <string name="material_minute_selection">Odaberite minute</string>
   <string name="material_minute_suffix">%1$s min</string>
   <string name="material_timepicker_clock_mode_description">Prijeđite na način rada sata da biste unijeli vrijeme.</string>

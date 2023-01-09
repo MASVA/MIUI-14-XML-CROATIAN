@@ -28,6 +28,17 @@
     <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
     <string name="abc_toolbar_collapse_description">Sažmi</string>
     <string name="actionbar_button_up_description">Natrag</string>
+	 <string name="auto_crop_full_screen">Cijeli zaslon</string>
+    <string name="auto_crop_origin_photo">Original</string>
+    <string name="auto_crop_photo_not_support">"Ne mogu koristiti Xiaomi ProCut s ovom fotografijom"</string>
+    <string name="auto_crop_save_1">Spremanje…</string>
+    <string name="auto_crop_save_2">Spremanje</string>
+    <string name="auto_crop_selection_hint">Odabrano %1$d/%2$d</string>
+    <string name="auto_crop_size_former_latter">%1$s:%2$s</string>
+    <string name="auto_crop_stop_saving">Dodirnite ponovno za odustajanje</string>
+    <string name="auto_crop_title">Xiaomi ProCut</string>
+    <string name="auto_crop_water_mark_description">"Vodeni žigovi neće biti prikazani na slikama obrađenim Xiaomi ProCutom. Svejedno koristiti ovu značajku?"</string>
+    <string name="auto_crop_water_mark_title">"Vodeni žigovi neće biti prikazani"</string>
     <string name="cancel">Odustani</string>
     <string name="clearable_edittext_clear_description">Izbriši</string>
     <string name="close">Isključi</string>
@@ -73,6 +84,7 @@
     <string name="doc_photo_toast_undistortion_close">Anti-distorzija je isključena</string>
     <string name="doc_photo_toast_undistortion_open">Anti-distorzija je uključena</string>
     <string name="doc_photo_view_effect">Pregled</string>
+	 <string name="do_not_remind_me">"Ne prikazuj ponovno"</string>
     <string name="exit_alert_msg">Sve nespremljene promjene bit će izgubljene.</string>
     <string name="exit_alert_title">Odbaciti promjene?</string>
     <string name="extra_photo_common_permission_name">Bokeh</string>
@@ -227,6 +239,10 @@
     <string name="sunday">Nedjelja</string>
     <string name="sunday_short">Ned</string>
     <string name="sunday_shortest">N</string>
+	 <string name="talkback_ratio_1_1">Kvadrat</string>
+    <string name="talkback_ratio_3_4">Tri po četiri</string>
+    <string name="talkback_ratio_4_3">Četiri po tri</string>
+    <string name="talkback_ratio_9_16">Devet sa šesnaest</string>
     <string name="thursday">Četvrtak</string>
     <string name="thursday_short">Čet</string>
     <string name="thursday_shortest">Č</string>

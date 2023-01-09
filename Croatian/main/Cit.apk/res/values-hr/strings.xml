@@ -4,6 +4,7 @@
 	 <string name="HotspotStatus">\u0009\u0009HotspotStatus</string>
 	 <string name="SAR">SAR</string>
 	 <string name="SAROnOff">\u0009SAR Uklj./Isklj.</string>
+	 <string name="abc_action_bar_home_description">Idi na početnu</string>
 	 <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
 	 <string name="abc_action_bar_up_description">Idi gore</string>
 	 <string name="abc_action_menu_overflow_description">Dodatne opcije</string>
@@ -504,6 +505,7 @@ Kod kalibriranja, provjerite da ne postoji ništa između senzora i vaše ruke (
 	 <string name="cit_tool_exit_modem_mbn">Vraćanje na automatski MBN</string>
 	 <string name="cit_tool_getting_expired">Ističe!</string>
 	 <string name="cit_tool_getting_wait">Shvaćam! PLS pričekajte</string>
+	 <string name="cit_tool_gps_path_loss_title">Alat za ispitivanje Gnss pathloss</string>
 	 <string name="cit_tool_mbn_default_notfiy">Zadani MBN</string>
 	 <string name="cit_tool_mbn_no_default_notfiy">Nema zadanog MBN-a</string>
 	 <string name="cit_tool_mbn_opt_help">"Upute za rad:
@@ -673,6 +675,7 @@ Molimo odaberite ispravan tipku prema različitim uvjetima vibracije"</string>
 	 <string name="dispaly_sar_sensor_values">Prikaži sve trenutne vrijednosti senzora</string>
 	 <string name="display_test_finish">Test zaslona dovršen</string>
 	 <string name="dsi_sar_on_off_tips">Dsi Sar uključivanje/isključivanje</string>
+	  <string name="edittextdisplay">Dobrodošli u Sar alat !!!</string>
 	 <string name="edittextdisplayf">Dopuštenja su ograničena !!!</string>
 	 <string name="enrol">Enrol</string>
 	 <string name="enrolCount">EnrolCount</string>

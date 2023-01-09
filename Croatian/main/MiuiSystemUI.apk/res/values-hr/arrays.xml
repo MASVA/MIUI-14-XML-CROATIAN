@@ -365,6 +365,21 @@
         <item>Isključeno</item>
         <item>Uključeno</item>
     </string-array>
+	     <string-array name="tile_states_color_correction">
+        <item>Nedostupno</item>
+        <item>Isključeno</item>
+        <item>Uključeno</item>
+     </string-array>
+     <string-array name="tile_states_onehanded">
+        <item>Nedostupno</item>
+        <item>Isključeno</item>
+        <item>Uključeno</item>
+     </string-array>
+     <string-array name="tile_states_qr_code_scanner">
+        <item>Nedostupno</item>
+        <item>Isključeno</item>
+        <item>Uključeno</item>
+     </string-array>
     <string-array name="track_frame_time_entries">
         <item>Isključeno</item>
         <item>Na zaslonu u obliku traka</item>
@@ -379,6 +394,12 @@
         <item>Brzina animacije 5x</item>
         <item>Brzina animacije 10x</item>
     </string-array>
+	 <string-array name="udfps_accessibility_touch_hints">
+        <item>Pomakni lijevo</item>
+        <item>Pomakni dolje</item>
+        <item>Pomakni desno</item>
+        <item>Pomakni gore</item>   
+	</string-array>
     <string-array name="usb_configuration_titles">
         <item>Punjenje</item>
         <item>MTP (protokol za prijenos medija)</item>

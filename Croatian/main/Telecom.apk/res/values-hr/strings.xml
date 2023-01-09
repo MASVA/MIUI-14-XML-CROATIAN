@@ -681,6 +681,8 @@ I dalje možete upućivati hitne pozive."</string>
     <string name="phone_settings_payphone_txt">Telefonska govornica</string>
     <string name="phone_settings_private_num_summary_txt">Blokirajte pozivatelje koji ne žele otkriti svoj broj</string>
     <string name="phone_settings_private_num_txt">Privatno</string>
+	 <string name="phone_settings_unavailable_summary_txt">Blokiraj pozive tamo gdje je broj nedostupan</string>
+    <string name="phone_settings_unavailable_txt">Nedostupno</string>
     <string name="phone_settings_unknown_summary_txt">Blokirajte pozive nepoznatih pozivatelja</string>
     <string name="phone_settings_unknown_txt">Nepoznato</string>
     <string name="phone_strings_call_blocking_turned_off_notification_text_txt">Blokiranje poziva je isključeno</string>

@@ -253,6 +253,7 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
 	<string name="app_is_launching_common">Pokretanje aplikacije…</string>
 	<string name="app_name">Galerija</string>
 	<string name="app_name_edit_picture">Uredi sliku</string>
+	<string name="app_name_view_picture">Prikaz fotografija</string>
 	<string name="app_name_view_video">Pregled videozapisa</string>
 	<string name="app_summary">Upravljanje i uređivanje fotografija i videozapisa na vašem uređaju i u Xiaomi Cloudu</string>
 	<string name="app_summary_2">Pohranjivanje, upravljanje i uređivanje fotografija i videozapisa na ovom uređaju</string>
@@ -1133,6 +1134,7 @@ za fotografije"</string>
 	<string name="global_pc">Moj laptop</string>
 	<string name="global_phone">Moj telefon</string>
 	<string name="google_login_btn_content_description">Prijava s Googleom</string>
+	<string name="grant_permission_go_and_set">Postavi</string>
 	<string name="grant_permission_go_and_set_2">Postavke</string>
 	<string name="grant_permission_go_and_set_3">Postavke</string>
 	<string name="grant_permission_manage_storage">Potrebna su dopuštenja</string>
@@ -1180,6 +1182,7 @@ da radi normalno, dodirnite \"Postavi\" za ići u Dopuštenja."</string>
 	<string name="home_page_custom">Vlastito</string>
 	<string name="home_page_empty">Prazno</string>
 	<string name="home_page_empty_action">Snimi fotografiju</string>
+	<string name="home_page_empty_action_new">Uvezite sa starog uređaja</string>
 	<string name="home_page_label">Fotografije</string>
 	<string name="home_sdcard_op_tip_msg">"Nije moguće dovršiti ovu radnju za sve odabrane slike. Isključite i ponovo montirajte svoju SD karticu."</string>
 	<string name="home_sdcard_tip_msg">Izgleda da je vaša SD kartica samo za čitanje. Isključite je i ponovno montirajte u Postavkama > O telefonu > Pohrana.</string>
@@ -2431,14 +2434,16 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
 	<string name="secret_album_display_name">Privatni album</string>
 	<string name="secret_album_password_first_use_msg">Koristiti će se Zaporka zaštite privatnosti. Ona funkcionira za fotografije, bilješke i skrivene mape itd.</string>
 	<string name="secret_album_password_first_use_title">Zaporka zaštite privatnosti</string>
-	<string name="secret_album_password_first_use_with_sms_msg">Koristit će se lozinka za zaštitu privatnosti. Radi za poruke, fotografije, bilješke i skrivene mape.</string>
+	<string name="secret_album_password_first_use_with_sms_msg">Koristit će se zaporka za zaštitu privatnosti. Radi za poruke, fotografije, bilješke i skrivene mape.</string>
 	<string name="secret_album_password_update_dialog_msg">Zaporka zaštite privatnosti funkcionira za fotografije, bilješke i skrivene mape itd.</string>
 	<string name="secret_album_password_update_dialog_title">Nadogradite zaporku</string>
 	<string name="secret_album_password_update_first_user_dialog_msg">Zaporka zaštite privatnosti funkcionira za fotografije, bilješke i skrivene mape itd.</string>
 	<string name="secret_album_password_update_first_user_dialog_title">Nadogradite zaporku</string>
 	<string name="secret_album_password_update_with_sms_dialog_msg">Zaporka za zaštitu privatnosti funkcionira za poruke, fotografije, bilješke i skrivene mape.</string>
 	<string name="secret_album_set_pc_password_dialog_ok">Postavite novu zaporku</string>
+	<string name="secret_album_set_pc_password_dialog_msg">Koristit će se zaporka za zaštitu privatnosti. Radi za fotografije, bilješke, skrivene mape itd.</string>
 	<string name="secret_album_set_pc_password_dialog_title">Postavite zaporku</string>
+	<string name="secret_album_set_pc_password_with_sms_dialog_msg">Koristit će se zaporka za zaštitu privatnosti. Radi za poruke, fotografije, bilješke i skrivene mape.</string>
 	<string name="secret_reason_space_full">Cloud albumi su puni</string>
 	<string name="secret_reason_too_large">Ova je datoteka prevelika</string>
 	<string name="secret_reason_type_not_support">"Ova vrsta datoteke nije podržana"</string>
@@ -2974,6 +2979,7 @@ Do %1$s možete premjestiti svoje stavke na Google fotografije ili posjetiti i.m
 	<string name="trash_high_occupied_tip_toast">Nedavno izbrisane stavke zauzimaju %1$s. Izbrišite neke da biste oslobodili prostor.</string>
 	<string name="trash_menu_delete">Izbriši</string>
 	<string name="trash_menu_recovery">Vrati</string>
+	<string name="trash_purge_all">Sve nedavno izbrisane stavke bit će trajno izbrisane iz Clouda i svih sinkroniziranih uređaja. Izbrisati svejedno?</string>
 	<string name="trash_purge_all_local">Sve nedavno izbrisane stavke bit će trajno izbrisane. Izbrisati svejedno?</string>
 	<string name="trash_purge_all_media">"Želite li trajno izbrisati sve stavke iz Clouda i svih sinkroniziranih uređaja? Ne možete poništiti ovu radnju."</string>
 	<string name="trash_purge_dialog_title">Očisti smeće</string>

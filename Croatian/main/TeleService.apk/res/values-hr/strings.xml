@@ -240,7 +240,7 @@
     <string name="alarm_template">u %1$s</string>
     <string name="alarm_template_far">u %1$s</string>
     <string name="alarms_and_reminders_footer_title">"Omogućite toj aplikaciji da postavlja alarme i zakazuje radnje u točno određeno vrijeme. To aplikaciji omogućuje da se izvodi u pozadini, pa je moguća dodatna potrošnja baterije.
-
+	
 Ako je to dopuštenje isključeno, postojeći alarmi i događaji zakazani putem te aplikacije neće funkcionirati."</string>
     <string name="alarms_and_reminders_label">Alarmi i podsjetnici</string>
     <string name="alarms_and_reminders_switch_title">Dopusti postavljanje alarma i podsjetnika</string>
@@ -251,6 +251,9 @@ Ako je to dopuštenje isključeno, postojeći alarmi i događaji zakazani putem 
     <string name="alert_dialog_no">Ne</string>
     <string name="alert_dialog_ok">U redu</string>
     <string name="alert_dialog_yes">Da</string>
+	 <string name="alert_dialog_exit_scm">Telefon je u načinu SMS povratnog poziva. U ovom načinu rada ne mogu se koristiti aplikacije koje koriste podatkovnu vezu. Želite li sada izaći?</string>
+    <string name="alert_dialog_in_scm_call">"Odabrana radnja nije dostupna tijekom hitnog poziva."</string>
+    <string name="alert_dialog_not_avaialble_in_scm">"Odabrana radnja nije dostupna dok ste u načinu SMS povratnog poziva. Želite li sada izaći?"</string>
     <string name="alertdialogtitle">Rezultati</string>
     <string name="allContactdeleteFailed">"Ne mogu izbrisati kontakte sa SIM kartice"</string>
     <string name="allContactdeleteSuccess">Izbrisani svi kontakti sa SIM kartice</string>
@@ -276,6 +279,8 @@ Ako je to dopuštenje isključeno, postojeći alarmi i događaji zakazani putem 
     <string name="area_code_preference_be_set_summary">Trenutna lokacija: %s</string>
     <string name="area_code_preference_summary">Autom. biraj pozivni broj</string>
     <string name="areacode_set_default">Zadano</string>
+	  <string name="arrears_sim_summary">Dopunite svoj račun kako biste ostali povezani.</string>
+    <string name="arrears_sim_title">Nedovoljno sredstava</string>
     <string name="ask">Pitaj</string>
     <string name="atr_disable">Obavijesti o prometu su isključene</string>
     <string name="atr_enable">Obavijesti o prometu su uključene</string>
@@ -466,6 +471,10 @@ Audio"</string>
 	  <string name="business_hall_settings_summary">Kontrolirajte svoje pozive i korištenje podataka</string>
     <string name="business_hall_settings_title">Postavke plana operatera</string>
     <string name="button_convert_fbe">Izbriši i pretvori…</string>
+	  <string name="c_iwlan_exit_notification_description">Isključivanje može pomoći u dobivanju usluge.</string>
+    <string name="c_iwlan_exit_notification_negative_button">ODBACI</string>
+    <string name="c_iwlan_exit_notification_positive_button">OTVORI POSTAVKE</string>
+    <string name="c_iwlan_exit_notification_title">Glas preko mobilnog interneta nije dostupan</string>
     <string name="cached_apps_freezer_device_default">Zadani uređaj</string>
     <string name="cached_apps_freezer_disabled">Onemogućeno</string>
     <string name="cached_apps_freezer_enabled">Omogućeno</string>
@@ -549,6 +558,7 @@ Audio"</string>
     <string name="callFailed_requested_facility_not_subscribed">Zatraženi objekt nije pretplaćen</string>
     <string name="callFailed_resources_unavailable_or_unspecified">Resursi nisu dostupni, neodređeno</string>
     <string name="callFailed_resp_to_status_enquiry">Odgovor na STATUS ENQUIRY</string>
+	 <string name="callFailed_secure_mode">Nije moguće uputiti poziv koji nije hitan u Ssigurnom načinu rada.</string>
     <string name="callFailed_semantically_incorrect_message">Semantički netočna poruka</string>
     <string name="callFailed_server_error">Pogreška poslužitelja. Pokušajte ponovo kasnije.</string>
     <string name="callFailed_server_unreachable">Poslužitelj nedostupan</string>
@@ -1087,6 +1097,9 @@ Svejedno deaktivirati eSIM?"</string>
     <string name="doneButton">Gotovo</string>
     <string name="dsda_summary">Odabrane mreže podržavaju 5G+4G dual SIM standby stanje</string>
     <string name="dsda_title">Uključite 5G+4G DSDA</string>
+	  <string name="dsda_end_call_toast">Prethodna sesija poziva je završena</string>
+    <string name="dsda_turn_off">Dvostruki aktivni način je isključen. Ponovno pokrenite uređaj za primjenu promjena.</string>
+    <string name="dsda_turn_on">Dvostruki aktivni način je uključen. Ponovno pokrenite uređaj za primjenu promjena.</string>
     <string name="dsds_dialog_cancel">Odustani</string>
     <string name="dsds_dialog_confirm">Ponovno pokretanje</string>
     <string name="dsds_dialog_message">Ponovo pokrenite uređaj da biste promijenili tu postavku.</string>
@@ -1981,6 +1994,8 @@ Uvijek koristi ovaj broj"</string>
     <string name="multi_category_enable">Višestruke kategorije su uključene</string>
     <string name="multi_sim_settings_title">Dual SIM Postavke</string>
     <string name="n28_summary">Koristite frekvencijski pojas od 803MHz</string>
+	 <string name="no_volte_call_service_notification_content2_for_cbn">"Ne mogu upućivati pozive. HD glasovna usluga nije registrirana za SIM %d (China Broadnet)."</string>
+    <string name="no_volte_call_service_notification_content_for_cbn">"Ne mogu upućivati pozive. HD glasovna usluga nije registrirana za China Broadnet SIM."</string>
     <string name="name">Ime</string>
     <string name="name_hint_text">Ime.</string>
     <string name="national_disable">Nacionalne vijesti su isključene</string>
@@ -2276,6 +2291,10 @@ Pokušajte ponovo ili nazovite korisničku službu za više opcija."</string>
     <string name="phone_accounts_selection_header">Telefonski računi</string>
     <string name="phone_accounts_settings_header">Postavke</string>
     <string name="phone_entered_ecm_text">Unijet je način hitnog povratnog poziva</string>
+	  <string name="phone_entered_scm_text">Ušao u način SMS povratnog poziva</string>
+    <string name="phone_in_scm_call_notification_text_without_data_restriction_hint">Telefon je u načinu SMS povratnog poziva</string>
+    <string name="phone_in_scm_notification_complete_time">Od %s</string>
+    <string name="phone_in_scm_notification_title">Način SMS povratnog poziva</string>
     <string name="phone_in_ecm_call_notification_text">Onemogućena je podatkovna mreža</string>
     <string name="phone_in_ecm_call_notification_text_without_data_restriction_hint">Telefon je u načinu rada hitnog povratnog poziva</string>
     <string name="phone_in_ecm_notification_complete_time">Nema podatkovne veze do %s</string>
@@ -2484,7 +2503,8 @@ Vaš telefon će se automatski zaključati nakon još jednog neuspjelog pokušaj
     <string name="profile_connect_timeout_subtext">Problem s povezivanjem. Isključite i ponovo uključite uređaj</string>
     <string name="profile_info_settings_title">Profilni podaci</string>
     <string name="progress_dialog_exiting_ecm">Izlaz iz načina hitnog povratnog poziva</string>
-    <string name="prompt_to_suggest_no_call_service_notification_content">"Nije moguće upućivati i primati pozive. VoLTE usluga isključena je za vašu SIM karticu (China Telecom)."</string>
+    <string name="progress_dialog_exiting_scm">Izlaz iz SMS Callback načina</string>
+	  <string name="prompt_to_suggest_no_call_service_notification_content">"Nije moguće upućivati i primati pozive. VoLTE usluga isključena je za vašu SIM karticu (China Telecom)."</string>
     <string name="prompt_to_suggest_no_call_service_notification_content2">"Nije moguće upućivati i primati pozive. VoLTE usluga isključena je za %d SIM karticu (China Telecom)."</string>
     <string name="prompt_to_suggest_no_call_service_notification_title">"Nije moguće upućivati i primati pozive"</string>
     <string name="prompt_to_suggest_to_open_volte_from_operator">"Ne mogu upućivati pozive. Kontaktirajte China Telecom da biste uključili uslugu VoLTE."</string>
@@ -3255,7 +3275,9 @@ Bilo koji korisnik može ažurirati aplikacije za sve ostale korisnike."</string
     <string name="vibrating_for_outgoing_call_accepted_summary">Omogućite način vibracije za prihvaćeni odlazni poziv</string>
     <string name="vibrating_for_outgoing_call_accepted_title">Prihvaćena je vibracija za odlazni poziv</string>
     <string name="vice_card_data_in_use_alert">Mogu se generirati dodatne naknade.</string>
-    <string name="vice_slot_volte_data_switch_prompt">Uređaj će se povezati s mobilnom podatkovnom mrežom pomoću sekundarne SIM kartice tijekom VoLTE poziva. To može generirati dodatne naknade za podatke. Kontaktirajte svog lokalnog operatera za pojedinosti o vašem planu podataka.</string>
+    <string name="vice_slot_volte_data_dialog_message"><Data>Čini se da je vaša trenutačna mrežna veza nestabilna. Možete se pokušati automatski prebacivati između podatkovnih SIM kartica. &lt;font color=#ff0000>&lt;b>Korištenje ove značajke može dovesti do dodatnih naknada operatera&lt;/b>&lt;/font>.</Data></string>
+    <string name="vice_slot_volte_data_dialog_open">Uključi</string>
+	 <string name="vice_slot_volte_data_switch_prompt">Uređaj će se povezati s mobilnom podatkovnom mrežom pomoću sekundarne SIM kartice tijekom VoLTE poziva. To može generirati dodatne naknade za podatke. Kontaktirajte svog lokalnog operatera za pojedinosti o vašem planu podataka.</string>
     <string name="vice_slot_volte_data_switch_summary">Tijekom VoLTE poziva, uređaj će se povezati s mobilnom podatkovnom mrežom pomoću sekundarne SIM kartice</string>
     <string name="vice_slot_volte_data_switch_title">Koristi mobilne podatke tijekom VoLTE poziva na sekundarnoj SIM kartici</string>
     <string name="video_calling_settings_title">Videopozivanje putem mobilnog operatera</string>

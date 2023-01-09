@@ -1139,6 +1139,8 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="bh_purchase_dialog_tips">Kupnje se mogu isporučiti s kašnjenjem</string>
   <string name="bh_set_phone_dialog_title">"Provjerite je li telefonski broj koji ovdje unesete točan.
 Svoj telefonski broj možete promijeniti u postavkama."</string>
+<string name="bh_set_phone_dialog_title_new">"Dodajte svoj telefonski broj za pregled i kupnju paketa podataka koji su vam dostupni.
+Svoj broj telefona uvijek možete promijeniti u Postavkama."</string>
   <string name="bh_settings_declare">Odricanje od odgovornosti</string>
   <string name="bh_settings_policy_text">Pravila o privatnosti</string>
   <string name="bh_settings_user_agreement">Korisnički ugovor</string>

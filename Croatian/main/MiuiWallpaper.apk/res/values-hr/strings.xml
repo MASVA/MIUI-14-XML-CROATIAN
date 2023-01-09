@@ -41,7 +41,22 @@
     <string name="date_time_picker_dialog_title">Postavite datum i vrijeme</string>
     <string name="download_button">Tipka preuzimanja</string>
     <string name="download_failed">"Ne mogu preuzeti"</string>
-    <string name="early_morning">AM</string>
+	 <string name="earth_position_content_0">"Park prirode Rt Kamenjak u Hrvatskoj dom je nedvojbeno najljepših pogleda duž mediteranske obale. Impresivne geološke formacije ovdje pretvaraju ovo mjesto u raj za ronioce. Svakog ljeta blještavo sunce i tople vode Mediterana privlače nebrojeni entuzijasti na otvorenom."</string>
+    <string name="earth_position_content_1">"Terasasta polja rezultat su ljudske aktivnosti, ali služe i kao izvanredan krajolik prirode.
+U Kini se rižine terase uglavnom nalaze južno od rijeke Yangtze, gdje su kiše česte i planinski lanci obilni. Longji terase postoje već više od 700 godina, a u obližnjim selima ima dosta povijesnih spomenika."</string>
+   <string name="earth_position_content_2">Ilulissat se nalazi u zapadnom Grenlandu, 200 kilometara sjeverno od Arktičkog kruga. Prekrasni Ilulissat Icefjord dug 56 kilometara nalazi se tik uz ledenjak Jakobshavn Isbræ. Budući da je najveći ledenjak na sjevernoj hemisferi, proizvede 2 milijarde tona santi leda svake godine. Nakon kratke obilaznice prema sjeveru, skreću prema jugu i ulijevaju se u Atlantski ocean.</string>
+   <string name="earth_position_content_3">"Navagio je jedna od najljepših plaža na obali Zakynthosa, na Jonskim otocima u Grčkoj. Kaže se da je mjesto poznatog brodoloma, zbog čega se plaža naziva i \ "Smugglers Cove\"."</string>
+   <string name="earth_position_content_4">Dolomiti su planinski lanac koji se nalazi u sjeveroistočnoj Italiji. Planina Seceda doista je jedno od najslikovitijih mjesta tamo.</string>
+   <string name="earth_position_title_0">"Hrvatska
+Rt Kamenjak"</string>
+    <string name="earth_position_title_1">"Guangxi, Kina
+Terasasta polja Longji"</string>
+   <string name="earth_position_title_2">"Grenland
+Ilulissat"</string>
+    <string name="earth_position_title_3">"Grčka
+Plaža Navagio"</string>
+    <string name="earth_position_title_4">"Italija
+Dolomiti"</string>
     <string name="earth_summary">Zemlja je kolijevka ljudske civilizacije</string>
     <string name="earth_super_wallpaper_label">zemlja</string>
     <string name="earth_title">Planet Zemlja</string>
@@ -60,18 +75,26 @@
     <string name="install_failed">"Ne mogu instalirati"</string>
     <string name="mars_position_content_0">"Ovo područje sadrži litice, ostrvce i široke ravne doline za koje se vjeruje da su uzrokovane ledenjacima prekrivenim krhotinama. Ovdje su otkriveni i glineni minerali koji su od velikog interesa za potragu za dokazima života na drevnom Marsu.
 
-NASA/JPL/University of Arizona"</string>
+NASA/JPL/Sveučilište Arizona"</string>
     <string name="mars_position_content_1">"Snimljeno kad Mars rover Curiosity istražuje brda Pahrump u krateru Gale. Regija sadrži sedimentne stijene za koje znanstvenici vjeruju da su nastale u prisustvu vode, a tamna područja su pijesak.
   
-  NASA/JPL/University of Arizona"</string>
+  NASA/JPL/Sveučilište Arizona"</string>
     <string name="mars_position_content_2">"Mawrth Vallis drevni je kanal za odvod vode sa svijetloplavim stijenama bogatim glinom. Glineni minerali lako čuvaju mikroskopski život na Zemlji, pa su možda na Mawrthu pronađeni tragovi drevnog života.
 
-NASA/JPL/University of Arizona"</string>
+NASA/JPL/Sveučilište Arizona"</string>
+    <string name="mars_position_content_3">"Ove su slike snimljene dok je marsovski rover Curiosity istraživao brda Pahrump u krateru Gale. Ovo područje sadrži sedimentne stijene za koje znanstvenici vjeruju da su nastale u prisutnosti vode. Tamnija područja su pijesak.
+
+NASA/JPL/Sveučilište Arizona"</string>
+    <string name="mars_position_content_4">"Bahram Vallis je riječna dolina s jednim deblom, s nazubljenim zidovima na nekim mjestima. Prisutnost aerozivnih obilježja na njenom dnu pokazuje da je tekućina bila uključena u njeno formiranje.
+
+NASA/JPL/Sveučilište Arizona"</string>
     <string name="mars_position_title_0">"Regija
 Nilosyrtis Mensae"</string>
     <string name="mars_position_title_1">"Krater Gale"</string>
     <string name="mars_position_title_2">"Krater u
 Mawrth Vallis"</string>
+    <string name="mars_position_title_3">Brda Pahrump</string>
+    <string name="mars_position_title_4">Bahram Vallis</string>
     <string name="mars_summary">Mnogobrojne pustinje Marsa uvijek su u strahu držale čovječanstvo</string>
     <string name="mars_super_wallpaper_label">mars</string>
     <string name="mars_title">Crveni planet</string>

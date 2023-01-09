@@ -614,6 +614,7 @@ Mi Roaming mora se povezati s internetom i pristupiti podacima o vašoj lokaciji
     <string name="exporting_contact_failed_message">"Podaci o kontaktu nisu izvezeni. 
 Razlog: \"%s\""</string>
     <string name="exporting_contact_failed_title">Izvoz nije bio moguć</string>
+	 <string name="exporting_contact_list_message">Izvoz u %s.</string>
     <string name="exporting_contact_list_progress">%1$s od %2$s kontakata</string>
     <string name="exporting_contact_list_title">"Izvoz podataka o kontaktu"</string>
     <string name="exporting_vcard_canceled_title">"Izvoz datoteke %s otkazan je."</string>

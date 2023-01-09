@@ -341,6 +341,7 @@ dodane na Listu blokiranih"</string>
     <string name="festival_sms_loading">Učitavanje…</string>
     <string name="fetion_prefix">[Fetion]</string>
     <string name="file_create_time">"Izrađeno: "</string>
+	 <string name="file_expired">Ova datoteka je istekla</string>
     <string name="file_share_message_description">Želio bih dijeliti datoteke s vama</string>
     <string name="file_size">"Veličina: "</string>
     <string name="file_title">"Naziv: "</string>

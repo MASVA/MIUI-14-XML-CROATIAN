@@ -113,6 +113,8 @@
         <item>Onemogućeno</item>
         <item>Omogućeno filtrirano</item>
         <item>Omogućeno</item>
+		   <item>Omogućeno \"Zaglavlja filtrirana\"</item>
+        <item>Omogućeno \"Paketi medija filtrirani\"</item>
     </string-array>
     <string-array name="color_mode_descriptions">
         <item>Poboljšane boje</item>

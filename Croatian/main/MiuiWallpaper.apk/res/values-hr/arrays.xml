@@ -20,4 +20,14 @@
         <item>Slika pozadine/Super Slika pozadine</item>
         <item>Super Slika pozadine;Slika pozadine;Dinamična pozadina;3D Slika pozadine</item>
     </string-array>
+	     <string-array name="settings_search_geometry">
+        <item>Geometrija</item>
+        <item>Slika pozadine/Super Slika pozadine/Geometrija</item>
+        <item>Geometrija;Apstraktno;Super Slika pozadine;Slika pozadine</item>
+     </string-array>
+     <string-array name="settings_search_snowmountain">
+        <item>Snježni vrhovi</item>
+        <item>Slika pozadine/Super Slika pozadine/Snježni vrhovi</item>
+        <item>Snježni vrhovi;Planine;Super Slika pozadine;Slika pozadine</item>
+     </string-array>
 </resources>

@@ -772,6 +772,7 @@ Oslobodite barem %s."</string>
     <string name="system_app_restore_failed">Dogodila se pogreška</string>
     <string name="system_app_restore_failed_detail">"Nije moguće vratiti stavke sustava. Provjerite mrežne postavke i nemojte ponovno pokrenuti ili isključiti uređaj sve dok se stavke ne vrate u potpunosti. Dodirnite gumb u nastavku da biste pokušali ponovo."</string>
     <string name="system_restore">Vrati stavke</string>
+	 <string name="ssid_name">SSID/Wi-Fi naziv</string>
     <string name="task_backup_cancel_progress">Otkazivanje…</string>
     <string name="task_canceled_all_local">Otkazano</string>
     <string name="task_pending">Na čekanju…</string>

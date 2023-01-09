@@ -56,6 +56,10 @@
         <item quantity="other">prije %d min</item>
         <item quantity="one">Prije 1 minute</item>
     </plurals>
+	 <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novih obavijesti</item>
+        <item quantity="one">%d nova obavijest</item>
+     </plurals>
     <plurals name="pa_accessibility_olympic_bronze_medal_count">
         <item quantity="other">%d brončanih medalja</item>
         <item quantity="one">%d brončana medalja</item>

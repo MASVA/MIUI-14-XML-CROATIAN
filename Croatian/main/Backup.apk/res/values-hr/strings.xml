@@ -82,6 +82,7 @@
     <string name="backup_hint_pad">Držite uređaj uključenim</string>
     <string name="backup_is_running">Izrada Sig. kopije uređaja</string>
     <string name="backup_new">Novo:</string>
+	 <string name="backup_notice_content">"Vaše sigurnosne kopije neće biti kriptirane, što znači da im mogu pristupiti ili ublažiti aplikacije trećih strana. Mogu se pojaviti i drugi sigurnosni rizici. Svakako pohranite sigurnosno kopirane stavke na dobro zaštićeno mjesto."</string>
     <string name="backup_notification_title">\"Sig. kopija\" se izvodi…</string>
     <string name="backup_progress">Izrada Sig. kopije…</string>
     <string name="backup_report">Prikaži detalje</string>

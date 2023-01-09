@@ -74,6 +74,7 @@
     <string name="accessibility_closed">Isključeno</string>
     <string name="accessibility_color">Boja</string>
     <string name="accessibility_countdown">Tipka odbrojavanja</string>
+	 <string name="accessibility_cv_lens_panel_on">Otvorite ploču Pro objektiva</string>
     <string name="accessibility_date">Datum</string>
     <string name="accessibility_delay_capture_10s_button">Timer postavljen na 10 sekundi</string>
     <string name="accessibility_delay_capture_3s_button">Timer postavljen na 3 sekunde</string>
@@ -106,6 +107,7 @@
     <string name="accessibility_flash_mode_button">Bljeskalica</string>
     <string name="accessibility_flash_off">Bljeskalica je isključena</string>
     <string name="accessibility_flash_on">Bljeskalica je uključena</string>
+	 <string name="accessibility_flash_on_but_not_adjust_ambient">"Ne mogu prilagoditi bljeskalicu"</string>
     <string name="accessibility_flash_screen_halo">Svjetlo prstena je uključeno</string>
     <string name="accessibility_flash_torch">Bljeskalica je uključena, način svjetiljke</string>
     <string name="accessibility_focus_face_pos_bottom">Smješten blizu donjeg ruba okvira</string>
@@ -299,7 +301,14 @@ i prilagodite postavke automatski"</string>
     <string name="ambilight_intro_star_track">"Snimanje zvjezdanog neba duže vrijeme može uhvatiti putanje zvijezda. Ne zaboravite koristiti stativ i neprekidno snimati najmanje %d minuta."</string>
     <string name="ambilight_intro_star_track_2">"Snimanje zvjezdanog neba duže vrijeme može uhvatiti putanje zvijezda. Ne zaboravite koristiti stativ. Snimajte neprekidno najmanje %d min. kako biste dobili fotografije i videozapise."</string>
     <string name="ambilight_intro_traffic_light">Noću možete uhvatiti putanju svijetlih pokretnih svjetala (na primjer, na automobilima i brodovima). Ovaj način rada omogućuje pregled konačnog rezultata na vašem zaslonu u stvarnom vremenu.</string>
-    <string name="ambilight_scene_crowd_moving">Masa ljudi u pokretu</string>
+    <string name="ambient_lighting_need_flash_on_tip">Dopunsko svjetlo uključit će se kada dodirnete okidač</string>
+    <string name="ambient_lighting_not_adjust_ambient">"Ne mogu koristiti ovaj efekt s bljeskalicom"</string>
+    <string name="ambient_lighting_type_blue">Safir</string>
+    <string name="ambient_lighting_type_purple">Ljubičasta</string>
+    <string name="ambient_lighting_type_sun">Zraka</string>
+    <string name="ambient_lighting_type_warm">Bljesak</string>
+    <string name="ambient_lighting_type_wind">Udar vjetra</string>
+	  <string name="ambilight_scene_crowd_moving">Masa ljudi u pokretu</string>
     <string name="ambilight_scene_light_track">Ulje na platnu</string>
     <string name="ambilight_scene_magic_star">Zvjezdano nebo</string>
     <string name="ambilight_scene_silky_water">Svilena voda</string>
@@ -314,6 +323,7 @@ i prilagodite postavke automatski"</string>
     <string name="audio_map_summary_tip">Pratite glasnoću lijevog i desnog kanala u stvarnom vremenu i prilagodite ga pomoću klizača</string>
     <string name="auto">Autom.</string>
     <string name="auto_hibernation_enter_tip">O isključivanju zaslona…</string>
+	  <string name="auto_recommend_switch_lens">Otkriveno je više osoba. Promjenite na 0,6X za najbolji učinak.</string>
     <string name="autozoom_click_hint">"Dodirnite objekt kako biste ga zadržali u fokusu dok se kreće. Ostanite najmanje %d m za najbolji efekat."</string>
     <string name="autozoom_disabled_hint">Praćenje objekta u pokretu zaustavljeno</string>
     <string name="autozoom_hint">Prati objekt u pokretu</string>
@@ -321,6 +331,7 @@ i prilagodite postavke automatski"</string>
     <string name="auxiliary_close_status">Dodatni efekti su isključeni</string>
     <string name="auxiliary_exposure_feedback_status">Provjera ekspozicije je uključena</string>
     <string name="auxiliary_focus_peak_status">Vrh fokusiranja je uključen</string>
+	  <string name="auxiliary_lens_identifies_weak_light">Pomoćna leća prepoznaje slabo svjetlo</string>
     <string name="back_bokeh_use_hint">"Držite predmet unutar 1.5 metra za najbolji efekat"</string>
     <string name="background">Pozadina</string>
     <string name="beauty_body">Figura</string>
@@ -368,6 +379,7 @@ i prilagodite postavke automatski"</string>
     <string name="beauty_mo_fe">Prirodno</string>
     <string name="beauty_mo_ma">Klasično</string>
     <string name="beauty_mo_or">Original</string>
+	 <string name="beauty_mo_pr">Tekstura</string>
     <string name="beauty_mode_reset_toast">Efekti remodeliranja izbrisani</string>
     <string name="beauty_mutex_toast_tip">&lt;a href=>Isključite&lt;/a> najprije efekte uljepšanja</string>
     <string name="beauty_ne">Original</string>
@@ -385,6 +397,7 @@ i prilagodite postavke automatski"</string>
     <string name="beauty_skincolor_wheat">Pšenica</string>
     <string name="beauty_skincolor_white">Bjelokost</string>
     <string name="beauty_sm_or">Koža</string>
+	  <string name="beauty_sm_texture">Koža</string>
     <string name="beauty_tab_name_live_beauty">Uljepšanje</string>
     <string name="beauty_tab_name_live_filter">Filteri</string>
     <string name="bg_replacement_message">"Postavite uređaj na stabilnu površinu,
@@ -411,7 +424,10 @@ i na trenutak izađite iz pregleda"</string>
     <string name="camera_newcta_camera_message">Za snimanje fotografija i videozapisa</string>
     <string name="camera_newcta_message">"Dobro došli u Kameru! Ovu aplikaciju možete koristiti za snimanje fotografija i videozapisa."</string>
     <string name="camera_newcta_other_message">"Da bismo vam pružili dodatne usluge dok koristite aplikaciju, možda će nam trebati dopuštenja za pristup vašoj lokaciji."</string>
-    <string name="camera_newcta_storage_message">Za spremanje i prikaz fotografija i videozapisa</string>
+    <string name="camera_newcta_other_message_new">"Za pružanje dodatnih usluga dok koristite aplikaciju, mogli bismo tražiti dopuštenje za pristup vašoj lokaciji i statusu poziva vašeg uređaja."</string>
+	  <string name="camera_newcta_phone_message">Za otkrivanje poziva tijekom snimanja videozapisa</string>
+	  <string name="camera_newcta_storage_message">Za spremanje i prikaz fotografija i videozapisa</string>
+	  <string name="camera_newcta_storage_message_1">Za spremanje i prikaz slika, videozapisa i datoteka</string>
     <string name="camera_setting">Kamera</string>
     <string name="camera_settings_category_development">Eksperimentalne značajke</string>
     <string name="camera_settings_label">Kamera</string>
@@ -554,7 +570,11 @@ i na trenutak izađite iz pregleda"</string>
     <string name="copy">Kopiraj</string>
     <string name="copy_text">Kopiraj tekst</string>
     <string name="copy_text_success">Tekst kopiran</string>
-    <string name="crop_saved">Obrezana slika spremljena je u %s.</string>
+    <string name="cosmetic_mirror_instructions_hint">"Gledajte u kameru i dvaput dodirnite zaslon za povećanje i centriranje lica
+(Radi samo s jednom osobom u kadru)"</string>
+    <string name="cosmetic_mirror_shortcut_short">Kompaktno ogledalo</string>
+    <string name="cosmetic_mirror_title">Kompaktno ogledalo</string>
+	  <string name="crop_saved">Obrezana slika spremljena je u %s.</string>
     <string name="cta_mimoji_msg">Dobrodošli u Fun Cam! Ovu aplikaciju možete koristiti za snimanje fotografija i videozapisa. Da bi mogla normalno raditi, ova se aplikacija mora povezati s internetom i zahtijeva sljedeća dopuštenja za prikupljanje vaših osobnih podataka:</string>
     <string name="cta_mimoji_perm_type">Obavezna dopuštenja (koriste se za osnovne značajke i usluge ove aplikacije)</string>
     <string name="cta_mimoji_user_links"><Data>Pročitajte i prihvatite naš &lt;a href =%1$s>Korisnički ugovor&lt;/a> i &lt;a href =%2$s>Pravila o privatnosti&lt;/a> prije korištenja ove aplikacije.</Data></string>
@@ -564,6 +584,7 @@ i na trenutak izađite iz pregleda"</string>
     <string name="cta_perm_cam_desc">Za snimanje fotografija</string>
     <string name="cta_perm_dec">Za dodavanje podataka o lokaciji fotografijama i videozapisima</string>
     <string name="cta_perm_loc">Lokacija</string>
+	 <string name="cta_perm_phone">Pristup statusu uređaja</string>
     <string name="cta_perm_storage">Pristup fotografijama na ovom uređaju</string>
     <string name="cta_perm_storage_desc">Za pregled i spremanje fotografija</string>
     <string name="cta_perm_type">"Izborna dopuštenja (koristi se za dodatne značajke dok ih upotrebljavate)"</string>
@@ -594,6 +615,9 @@ i na trenutak izađite iz pregleda"</string>
     <string name="delete">Izbriši</string>
     <string name="deleted">Izbrisano</string>
     <string name="description">Opis</string>
+	  <string name="description_sorftlight_style_cold">Bljeskalica je uključena. Odabrano hladno svjetlo.</string>
+    <string name="description_sorftlight_style_nature">Bljeskalica je uključena. Odabrano prirodno svjetlo.</string>
+    <string name="description_sorftlight_style_warm">Bljeskalica je uključena. Odabrano toplo svjetlo.</string>
     <string name="details">Izrezana slika spremljena je u</string>
     <string name="details_title">%1$d od %2$d stavki:</string>
     <string name="device_48m_watermark_default_text">48MP DVOJNA KAMERA</string>
@@ -801,6 +825,9 @@ Snimanje s dva telefona također vam omogućuje povezivanje s drugim uređajem i
     <string name="flash">Bljeskalica</string>
     <string name="flash_off">Bez bljeskalice</string>
     <string name="flash_on">Bljeskalica uklj.</string>
+	 <string name="flat_selfie_tip_text">Okrenite uređaj za korištenje kamere</string>
+    <string name="flat_selfie_tip_text_main">Okrenite uređaj da biste koristili kameru</string>
+    <string name="flat_selfie_tip_text_sub">Promijenite kamere na vanjskom zaslonu i okrenite uređaj za povratak na unutarnji zaslon</string>
     <string name="focal_length">Žarišna duljina</string>
     <string name="folder_camera">Kamera</string>
     <string name="folder_download">Preuzimanja</string>
@@ -949,10 +976,12 @@ Ispišite kopiju bežično na papir A4."</string>
     <string name="lpl_dialog_item_name_burst">Pritisnite i zadržite za brzo snimanje</string>
     <string name="lpl_dialog_item_name_record">Pritisnite i zadržite za snimanje</string>
     <string name="lpl_dialog_title">Odaberite funkciju okidača</string>
+	 <string name="lunch_audio_permission_content">Snimanje zvuka</string>
     <string name="lunch_audio_permission_des">Za snimanje videozapisa sa zvukom</string>
     <string name="lunch_audio_permission_not_ask_again">Dopustite ovoj aplikaciji snimanje zvuka kako biste mogli koristiti ovu značajku.</string>
     <string name="lunch_camera_audio_permission_not_ask_again">Dopustite ovoj aplikaciji korištenje kamere i snimanje zvuka kako biste mogli koristiti ovu značajku.</string>
-    <string name="lunch_camera_permission_des">Za snimanje fotografija i videozapisa</string>
+    <string name="lunch_camera_permission_content">Pristup kameri</string>
+	 <string name="lunch_camera_permission_des">Za snimanje fotografija i videozapisa</string>
     <string name="lunch_camera_permission_not_ask_again">Dopustite ovoj aplikaciji korištenje kamere kako biste mogli koristiti ovu značajku.</string>
     <string name="lunch_camera_storge_permission_not_ask_again">Dopustite ovoj aplikaciji korištenje kamere i pristup pohrani kako biste mogli koristiti ovu značajku.</string>
     <string name="lunch_dialog_setting">Postavke</string>
@@ -960,7 +989,14 @@ Ispišite kopiju bežično na papir A4."</string>
     <string name="lunch_fromkeyguard_not_permission_dialog_ok">Razumijem</string>
     <string name="lunch_permission_not_ask_again">Dopustite ovoj aplikaciji korištenje kamere, pristup pohrani i snimanje zvuka kako biste mogli koristiti ovu značajku.</string>
     <string name="lunch_storge_audio_permission_not_ask_again">Dopustite ovoj aplikaciji pristup pohrani i snimanje zvuka kako biste mogli koristiti ovu značajku.</string>
-    <string name="lunch_storge_permission_des">Za spremanje i prikaz fotografija i videozapisa</string>
+    <string name="lunch_permission_not_ask_again_msg1">Dodirnite \"Postavke\" i dodijelite potrebna dopuštenja (%1$s) da biste mogli koristiti povezane značajke.</string>
+    <string name="lunch_permission_not_ask_again_msg2">Dodirnite \"Postavke\" i dodijelite potrebna dopuštenja (%1$s, %2$s) da biste mogli koristiti povezane značajke.</string>
+    <string name="lunch_permission_not_ask_again_msg3">Dodirnite \"Postavke\" i dodijelite potrebna dopuštenja (%1$s, %2$s, %3$s) da biste mogli koristiti povezane značajke.</string>
+    <string name="lunch_permission_not_ask_again_msg4">Dodirnite \"Postavke\" i dodijelite potrebna dopuštenja (%1$s, %2$s, %3$s, %4$s) da biste mogli koristiti povezane značajke.</string>
+    <string name="lunch_phone_permission_content">Dohvatite informacije o uređaju</string>
+    <string name="lunch_phone_permission_des">Za otkrivanje poziva tijekom snimanja videozapisa i isključivanje zvuka poziva iz snimanja</string>
+	  <string name="lunch_storge_permission_content">Pristup pohrani</string>
+	  <string name="lunch_storge_permission_des">Za spremanje i prikaz fotografija i videozapisa</string>
     <string name="lunch_storge_permission_not_ask_again">Dopustite ovoj aplikaciji pristup pohrani kako biste mogli koristiti ovu značajku.</string>
     <string name="lying_direct_hint">Trenutna orijentacija</string>
     <string name="macro_mode">Macro</string>
@@ -1355,6 +1391,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
     <string name="pref_advanced_functions">Napredne postavke</string>
     <string name="pref_advanced_settings">Napredno</string>
     <string name="pref_ai_detect">AI detekcija</string>
+	 <string name="pref_ambient_lighting_title">Osvjetljenje</string>
     <string name="pref_audio_denoise_title">Smanjenje smetnji u zvuku</string>
     <string name="pref_audio_focus_entry_front">Prednji</string>
     <string name="pref_audio_focus_entry_general">Normalno</string>
@@ -1503,6 +1540,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
     <string name="pref_camera_flashmode_entry_back_soft_light">Meko svjetlo</string>
     <string name="pref_camera_flashmode_entry_off">Isključeno</string>
     <string name="pref_camera_flashmode_entry_on">Uključeno</string>
+	 <string name="pref_camera_flashmode_entry_screen_halo">Svjetlo prstena</string>
     <string name="pref_camera_flashmode_entry_torch">Bljeskalica</string>
     <string name="pref_camera_flashmode_title">Način bljeskalice</string>
     <string name="pref_camera_focus_shoot_summary">Dodirnite za fokusiranje, a zatim ponovno dodirnite da biste snimili fotografiju.</string>
@@ -1767,6 +1805,8 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
     <string name="pref_custom_tint_title">Boje</string>
     <string name="pref_customization_style">Prilagođeni stil</string>
     <string name="pref_customization_title">Prilagodi</string>
+	 <string name="pref_cv_film_watermark_summary">Pregledi su dani samo kao referenca. Vodeni žigovi pojavit će se na fotografijama snimljenim u načinima \"Fotografija\" i \"Pro\".</string>
+    <string name="pref_cv_film_watermark_title">Prilagođeni filmski vodeni žig</string>
 	 <string name="pref_cv_watermark_location_title">Koordinate</string>
     <string name="pref_cv_watermark_time_title">Vrijeme</string>
     <string name="pref_document_mode">Dokumenti</string>
@@ -1947,6 +1987,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
     <string name="qr_code_details">Detalji QQ koda:</string>
 	  <string name="qvga_shelter_tip_text">"Nemojte prekrivati leću"</string>
     <string name="raw_data_exit_button_text">Izlaz iz RAW načina</string>
+	 <string name="recommend_landscape_tip">Koristite način pejzaža za najbolji učinak</string>
     <string name="recommend_macro_mode">Isprobajte Macro način</string>
     <string name="recommend_portrait">Isprobajte Portretni način</string>
     <string name="recommend_soft_light_tip">Koristite bljeskalicu u načinu mekog svjetla</string>
@@ -2008,6 +2049,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
     <string name="settings_camera_near_range_description">Ukloni zamagljivanje kada fokusirate ravne površine izbliza</string>
     <string name="settings_camera_near_range_title">Zatvori fokus</string>
     <string name="share">Podijeli</string>
+	  <string name="shine_hair_puffy">Kosa</string>
     <string name="show_all">Slike &amp; videozapisi</string>
     <string name="show_images_only">Samo slike</string>
     <string name="show_on_map">Prikaži na mapi</string>
@@ -2050,10 +2092,18 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
     <string name="snapshot_lower_than_video">Veličina pregledane snimke manja je od veličine videozapisa. Prekrivanje na veličinu videozapisa. Odaberite razlučivost višu ili jednaku trenutnoj veličini videozapisa.</string>
     <string name="snapshot_qcif_and_d1">Za ovu rezoluciju podržana je samo veličina snimke videozapisa.</string>
     <string name="snapshotsize_low_powermode">Razlučivost slika u Niskom načinu energije nije podržan. Veličina snimka videa će se koristiti.</string>
-    <string name="spaceIsLow_content">SD kartici ponestaje prostora. Smanjite kvalitetu ili izbrišite neke slike ili druge datoteke.</string>
+    <string name="sorftlight_style_cold">Hladno</string>
+    <string name="sorftlight_style_cold_alert">Ured</string>
+    <string name="sorftlight_style_nature">Prirodno</string>
+    <string name="sorftlight_style_nature_alert">Na otvorenom</string>
+    <string name="sorftlight_style_warm">Toplo</string>
+    <string name="sorftlight_style_warm_alert">Restoran</string>
+	 <string name="spaceIsLow_content">SD kartici ponestaje prostora. Smanjite kvalitetu ili izbrišite neke slike ili druge datoteke.</string>
     <string name="spaceIsLow_content_external_storage_priority">SD kartici ponestaje prostora</string>
     <string name="spaceIsLow_content_primary_storage_priority">USB pohrani ponestaje prostora</string>
-    <string name="speech_shutter_open_tip">Recite \"Fotografiraj\" ili \"Snimi fotografiju\" da snimite fotografiju</string>
+    <string name="spaceIsLow_content_timerburst_infinity_storage_priority">"Izgleda da vam je ponestalo prostora za pohranu. Snimanje slika je zaustavljeno."</string>
+    <string name="spaceIsLow_content_timerburst_infinity_storage_priority_immediately">Snimanje će uskoro biti zaustavljeno zbog nedovoljno prostora za pohranu…</string>
+	 <string name="speech_shutter_open_tip">Recite \"Fotografiraj\" ili \"Snimi fotografiju\" da snimite fotografiju</string>
     <string name="speech_shutter_tip">Okidanje glasom</string>
     <string name="start_capture">U redu</string>
     <string name="sticker_tab1">Slatko</string>
@@ -2120,6 +2170,8 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
     <string name="timer_burst_manu_param_interval">Interval bez ekspozicije</string>
     <string name="timer_burst_param_interval">Interval</string>
     <string name="timer_burst_param_total_count">Br. fotografija</string>
+	 <string name="timer_burst_param_total_count_infinity">Neograničeno</string>
+    <string name="timer_burst_setting_total_count_infinity">"Uzastopno snimanje"</string>
     <string name="timerburst_pressed_hint">Dodirnite ponovo za zaustavljanje</string>
     <string name="times">X</string>
     <string name="title">Naslov</string>
@@ -2147,9 +2199,12 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
     <string name="ultra_pixel_32mp">32MP</string>
     <string name="ultra_pixel_48mp">48MP</string>
     <string name="ultra_pixel_64mp">64MP</string>
+	  <string name="ultra_pixel_capture_process_hint">Obrada snimljene slike…</string>
+    <string name="ultra_pixel_capture_process_tip">Obrada slike…</string>
     <string name="ultra_pixel_device">64MP</string>
     <string name="ultra_pixel_photography_close_tip">%s Ultra HD je isklj.</string>
     <string name="ultra_pixel_photography_open_tip">%s Ultra HD je uklj.</string>
+	 <string name="ultra_pixel_pro_xxxm_message">"Ova vam značajka omogućuje poboljšanje jasnoće slike. Kada je uključena, fotografije se mogu obrađivati dulje nego inače."</string>
     <string name="ultra_pixel_portrait_hint">HD portret</string>
     <string name="ultra_pixel_zoom_no_support_tip">"Zumiranje ne radi u %s Ultra HD načinu"</string>
     <string name="ultra_tele_use_hint_text_body">"Koristite 50X zoom za što detaljnije 
@@ -2225,7 +2280,31 @@ Način širokog kuta pomaže vam kada se ne možete pomaknuti dalje od scene"</s
 	 <string name="video_low_battery_tip_content">Smanjeni broj sličica u sekundi zbog slabe baterije</string>
     <string name="video_err">"Ne mogu reproducirati videozapis"</string>
     <string name="video_overheat_tip_content">Čini se da vam je uređaj prevruć. Pokušajte snimiti videozapis u nižoj rezoluciji.</string>
-    <string name="video_reach_size_limit">Dostignuto ograničenje veličine.</string>
+    <string name="video_prompter_adjust_size">Veličina teksta</string>
+    <string name="video_prompter_adjust_speed">Brzina pomicanja</string>
+    <string name="video_prompter_default_txt">"
+Teleprompter
+Koristite teleprompter za čitanje scenarija dok snimate video.
+
+Kako radi teleprompter
+Možete koristiti gumbe u nastavku za uređivanje teksta, pregled reprodukcije i korištenje drugih postavki. Za promjenu veličine plutajućeg prozora, povucite njegove donje kutove. Za pomicanje prozora povucite ga za gornji rub."</string>
+    <string name="video_prompter_edit_description">Uređivanje teksta</string>
+    <string name="video_prompter_edit_exit_dialog_message">Ako sada prestanete s uređivanjem, sve nespremljene promjene bit će izgubljene. Svejedno prestati?</string>
+    <string name="video_prompter_edit_exit_dialog_title">Zaustaviti uređivanje?</string>
+    <string name="video_prompter_edit_import_fail">"Nije moguće uvesti"</string>
+    <string name="video_prompter_edit_import_success">Uspješno uvezeno</string>
+    <string name="video_prompter_edit_import_success_partially">Ovaj tekst je predug. Samo dio je uvezen.</string>
+    <string name="video_prompter_edit_tip_dialog_cancel">Odustani</string>
+    <string name="video_prompter_edit_tip_dialog_message">"Možete uvesti DOC, DOCX i TXT datoteke. Slike, tablice i hiperveze neće biti prikazane."</string>
+    <string name="video_prompter_edit_tip_dialog_ok">U redu</string>
+    <string name="video_prompter_edit_tip_dialog_title">Uvezi tekst</string>
+	 <string name="video_prompter_edit_words_exceed_limit">Tekst koji ste unijeli je predug</string>
+    <string name="video_prompter_expand_description">Proširi</string>
+    <string name="video_prompter_play_description">Pregled reprodukcije</string>
+    <string name="video_prompter_redo_description">Ponovi</string>
+    <string name="video_prompter_shrink_description">Minimiziraj</string>
+    <string name="video_prompter_undo_description">Poništi</string>
+	 <string name="video_reach_size_limit">Dostignuto ograničenje veličine.</string>
     <string name="video_shortcut_long">Videozapis</string>
     <string name="video_shortcut_short">Videozapis</string>
     <string name="video_snapshot_hint">Snimite fotografiju tijekom snimanja videozapisa dodirom zaslona za pregled.</string>
@@ -2233,6 +2312,13 @@ Način širokog kuta pomaže vam kada se ne možete pomaknuti dalje od scene"</s
     <string name="videocamera_settings_label">Postavke Video kamere</string>
     <string name="view_privacy_policy">Prikaži Pravila o privatnosti</string>
     <string name="visit_cloud_album">Posjetite Cloud album</string>
+	 <string name="vlog_pro_cancel_reset_record_hint">Odustani</string>
+    <string name="vlog_pro_first_into_vlog_dumy_hint">Odaberite predložak i dodirnite za početak</string>
+    <string name="vlog_pro_first_record_hint">Dodirnite za kombiniranje u niz</string>
+    <string name="vlog_pro_reset_record_hint">Ponovo snimi</string>
+    <string name="vlog_pro_workspace_continue_recording">Nastavi snimanje</string>
+    <string name="vlog_pro_workspace_video_delete">Izbriši</string>
+    <string name="vlog_pro_workspace_video_rename">Preimenuj</string>
     <string name="vv_duartion_hint">%1$s | Segment %2$d | %3$ss</string>
     <string name="vv_hint">VLOG možete snimati samo u pejzažnom načinu</string>
     <string name="vv_stability_hint">Držite vaš uređaj stabilnim</string>

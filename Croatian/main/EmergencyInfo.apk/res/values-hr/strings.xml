@@ -126,6 +126,10 @@ Ako je to dopuštenje isključeno, postojeći alarmi i događaji zakazani putem 
 	 <string name="avatar_picker_title">Odabir profilne slike</string>
 	 <string name="b_negative">B negativna</string>
 	 <string name="b_positive">B pozitivna</string>
+	 <string name="back_navigation_animation">Predvidljive stražnje animacije</string>
+   <string name="back_navigation_animation_dialog">Ova postavka omogućuje animacije sustava za prediktivnu animaciju pokreta. Zahtijeva postavljanje enableOnBackInvokedCallback po aplikaciji na true u datoteci manifesta.</string>
+   <string name="back_navigation_animation_summary">Omogući animacije sustava za prediktivni povratak.</string>
+	 <string name="battery_info_status_charging">Punjenje</string>
 	 <string name="battery_info_status_charging_fast">Brzo punjenje</string>
 	 <string name="battery_info_status_charging_slow">Sporo punjenje</string>
 	 <string name="battery_info_status_charging_wireless">Bežično punjenje</string>
@@ -462,7 +466,6 @@ Svatko može pročitati ove informacije s vašeg zaključanog zaslona i birati v
 	 <string name="medical_info_title">Medicinske informacije</string>
 	 <string name="medications">Lijekovi</string>
 	 <string name="medications_hint">Na primjer, aspirin</string>
-
 	 <string name="mobile_data_always_on">Mobilni podaci uvijek aktivni</string>
 	 <string name="mobile_data_always_on_summary">Neka mobilni podaci uvijek budu aktivni, čak i kada je Wi‑Fi aktivan (za brzo prebacivanje s jedne na drugu mrežu).</string>
 	 <string name="mock_location_app">Odabir aplikacije za lažnu lokaciju</string>
@@ -534,7 +537,8 @@ Svatko može pročitati ove informacije s vašeg zaključanog zaslona i birati v
 	 <string name="not_default_data_content_description">Nije postavljeno za upotrebu podataka</string>
 	 <string name="not_set">Nije postavljeno</string>
 	 <string name="notice_header" />
-	 <string name="o_positive">O positive</string>
+   <string name="o_negative">O negativna</string>
+   <string name="o_positive">O pozitivna</string>
 	 <string name="oem_preferred_feedback_reporter" />
 	 <string name="oem_unlock_enable">OEM otključavanje</string>
 	 <string name="oem_unlock_enable_summary">Dopustite da se bootloader otključa</string>

@@ -320,7 +320,8 @@
     <string name="terabyteShort">TB</string>
     <string name="third_web_cancel">Odustani</string>
     <string name="third_web_confirm">U redu</string>
-    <string name="third_web_default">Zapamti ovu lokaciju</string>
+    <string name="third_web_default">Preuzmi ovu lokaciju</string>
+	 <string name="third_web_title">Download</string>
     <string name="thunder_download_speedup">Povećajte brzine koristeći Xunlei…</string>
     <string name="thursday">Četvrtak</string>
     <string name="thursday_short">Čet</string>

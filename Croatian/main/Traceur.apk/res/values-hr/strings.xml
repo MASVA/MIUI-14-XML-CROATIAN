@@ -266,6 +266,7 @@ Audio"</string>
      <string name="character_counter_content_description">Uneseno znakova: %1$d od %2$d</string>
      <string name="character_counter_overflowed_content_description">Premašeno je ograničenje broja znakova: %1$d od %2$d</string>
      <string name="charge_length_format">Prije %1$s</string>
+	   <string name="chip_text">Chip tekst</string>
      <string name="choose_profile">Odabir profila</string>
      <string name="clear">Ukloni</string>
      <string name="clear_adb_keys">Opoziv autorizacija za otklanjanje pogrešaka putem USB-a</string>
@@ -697,7 +698,9 @@ Audio"</string>
      <string name="storage_category">Pohrana</string>
      <string name="strict_mode">Omogućen strogi način</string>
      <string name="strict_mode_summary">Zaslon bljeska kada operacije apl. u glavnoj niti dugo traju.</string>
-     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+     <string name="sud_back_button_label">Natrag</string>
+     <string name="sud_more_button_label">Više</string>
+     <string name="sud_next_button_label">Dalje</string>
      <string name="system_trace_sensitive_data">Datoteke praćenja sustava mogu sadržavati osjetljive podatke o sustavu i aplikacijama (na primjer o upotrebi aplikacija). Praćenja sustava dijelite samo s osobama i aplikacijama koje smatrate pouzdanima.</string>
      <string name="system_traces_storage_title">Praćenja sustava</string>
      <string name="system_tracing">Praćenje sustava</string>

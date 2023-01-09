@@ -3978,7 +3978,7 @@ Možete vidjeti generirane zapise u aplikaciji Datoteke."</string>
   <string name="enable_2g_title">Dopusti 2G</string>
   <string name="enable_adb">Otklanjanje pogrešaka putem USB-a</string>
   <string name="enable_adb_summary">Otklanjanje pogrešaka putem USB-a</string>
-  <string name="enable_adb_summary_charging">Uređaj je u načinu punjenja, USB ispravljanje pogrešaka je onemogućeno</string>
+  <string name="enable_adb_summary_charging">Uređaj je u načinu punjenja, USB otklanjanje pogrešaka je onemogućeno</string>
   <string name="enable_adb_wireless">Bežično otklanjanje pogrešaka</string>
   <string name="enable_adb_wireless_summary">Način otklanjanja pogrešaka kad je Wi-Fi povezan</string>
   <string name="enable_atrace">Uključi ATrace</string>
@@ -3986,6 +3986,8 @@ Možete vidjeti generirane zapise u aplikaciji Datoteke."</string>
   <string name="enable_blurs_on_windows_summary">Omogućuje zamućenja prozora na razini sastavljača. Potrebno je ponovo pokrenuti uređaj.</string>
   <string name="enable_blurs_on_windows_title">Omogući zamućenja</string>
   <string name="enable_compatibility">Skaliranje aplikacije</string>
+  <string name="enable_crbt_pref_summary">"Ne prikazuj profilne videozapise za dolazne pozive tijekom testiranja"</string>
+  <string name="enable_crbt_pref_title">Isključi profilne videozapise za dolazne pozive</string>
   <string name="enable_crypt_keeper_encrypt">Omogući enkripciju</string>
   <string name="enable_data_string">Omogući mobilne podatke</string>
   <string name="enable_drive_mode">Automobilski način</string>
@@ -12422,7 +12424,7 @@ Oslobodite prostor ili prenesite samo važne stavke."</string>
   <string name="use_wifi_hotsopt_main_switch_title">Upotreba Wi‑Fi hotspot-a</string>
   <string name="use_wifi_master_key_summary">Poveži koristeći Wi-Fi Master ključ</string>
   <string name="user_account_title">Račun za sadržaj</string>
-  <string name="user_add_max_count">Ne možete dodati više od %1$d korisnika</string>
+  <string name="user_add_max_count">Ne možete dodati više korisnika. Uklonite korisnika da biste dodali novog.</string>
   <string name="user_add_on_lockscreen_menu">Dodavanje korisnika sa zaključanog zaslona</string>
   <string name="user_add_on_lockscreen_menu_summary">kada je uređaj zaključan</string>
   <string name="user_add_profile_item_summary">Možete ograničiti pristup aplikacijama i sadržaju sa svojeg računa</string>

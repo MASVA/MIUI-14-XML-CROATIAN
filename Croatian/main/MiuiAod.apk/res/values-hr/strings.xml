@@ -127,6 +127,7 @@ dd.MM."</string>
     <string name="material_hour_suffix">%1$s h</string>
     <string name="material_minute_selection">Odaberite minute</string>
     <string name="material_minute_suffix">%1$s min</string>
+	 <string name="mtrl_picker_cancel">Odustani</string>
     <string name="material_timepicker_clock_mode_description">Prijeđite na način rada sata da biste unijeli vrijeme.</string>
     <string name="material_timepicker_hour">Sat</string>
     <string name="material_timepicker_minute">Minuta</string>

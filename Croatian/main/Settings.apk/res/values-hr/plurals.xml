@@ -434,11 +434,15 @@
     </plurals>
     <plurals name="notifications_sent_daily">
         <item quantity="other">~%,d obavijesti dnevno</item>
-        <item quantity="one">~%d obavijest dnevno</item>
+        <item quantity="one">~%d obavijesti dnevno</item>
     </plurals>
     <plurals name="notifications_sent_weekly">
         <item quantity="other">~%,d obavijesti tjedno</item>
-        <item quantity="one">~%d obavijest tjedno</item>
+        <item quantity="one">~%d obavijesti tjedno</item>
+    </plurals>
+	  <plurals name="nrca_info">
+        <item quantity="other">Promjene će se primijeniti za %d sek</item>
+        <item quantity="one">Promjene će se primijeniti za %d sek</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">prije %d min</item>

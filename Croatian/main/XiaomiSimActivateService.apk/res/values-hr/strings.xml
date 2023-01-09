@@ -105,6 +105,7 @@ Unesite broj telefona povezan s vašom novom SIM karticom da ponovno aktivirate 
     <string name="activate_status_title_registering_xiaomi_account">Izrada Mi Računa…</string>
     <string name="activate_status_title_registering_xiaomi_account_sim">Izrada Mi Računa koristeći SIM %d…</string>
     <string name="app_name">Xiaomi Usluga aktivacije SIM kartice</string>
+	  <string name="checking_client">Provjera okruženja za aktivaciju</string> 
     <string name="clearable_edittext_clear_description">Clear</string>
     <string name="close">Zatvori</string>
     <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
