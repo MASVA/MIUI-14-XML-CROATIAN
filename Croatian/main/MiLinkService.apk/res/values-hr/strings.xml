@@ -60,10 +60,10 @@ vaše uređaje?"</string>
     <string name="appcirculate_toast_not_support_device_pc">"Ne mogu otvoriti ovu aplikaciju na računalima"</string>
     <string name="appcirculate_toast_not_support_device_phone">"Ne mogu otvoriti ovu aplikaciju na telefonu"</string>
     <string name="appcirculate_toast_not_support_device_tv">"Ne mogu otvoriti ovu aplikaciju na televizorima"</string>
-    <string name="appcirculate_toast_not_support_device_tv_connected">Već povezan s ovim televizorom</string>
+    <string name="appcirculate_toast_not_support_device_tv_connected">Već povezano s ovim televizorom</string>
     <string name="appcirculate_toast_success_1">Uspješno prebačeno</string>
     <string name="appcirculate_toast_success_2">Emitiranje u privatnom načinu…</string>
-    <string name="appcirculate_toast_success_3">Emitiranje...</string>
+    <string name="appcirculate_toast_success_3">Emitiranje…</string>
     <string name="audio_record_des">Za prijenos zvuka s vašeg mobilnog uređaja na vanjske monitore</string>
     <string name="auth_MIUI_and_phone_model">"Ova je stranica dostupna samo za
 MIUI 13 Beta testere."</string>
@@ -75,7 +75,7 @@ Prijavite se na svoj Mi račun u Postavke > Mi račun za sinkronizaciju dopušte
     <string name="ball_hint_connect_fail">"Nije moguće izvesti ovu radnju. Pričekajte minutu ili dvije i pokušajte ponovo."</string>
     <string name="ball_hint_text_loading">Samo trenutak…</string>
     <string name="ball_hint_text_success">Uspješno povezan</string>
-    <string name="bottomsheet_action_expand_halfway">Proširi do pola</string>
+    <string name="bottomsheet_action_expand_halfway">Proširi donju polovicu</string>
     <string name="cast_image_des">Udžbenik za emitiranje</string>
     <string name="casting_tips">Emitiranje…</string>
     <string name="character_counter_content_description">Uneseni znakovi %1$d od %2$d</string>
@@ -84,8 +84,8 @@ Prijavite se na svoj Mi račun u Postavke > Mi račun za sinkronizaciju dopušte
     <string name="circulate_audio_group_title">Reprodukcija…</string>
     <string name="circulate_back_button_content_description">Natrag</string>
     <string name="circulate_card_mirror_device_button">Zaustavi</string>
-    <string name="circulate_card_mirror_device_pad_subtitle">"Prikazuje se zaslon tableta..."</string>
-    <string name="circulate_card_mirror_device_subtitle">"Prikazuje se zaslon telefona..."</string>
+    <string name="circulate_card_mirror_device_pad_subtitle">"Prikazuje se zaslon tableta…"</string>
+    <string name="circulate_card_mirror_device_subtitle">"Prikazuje se zaslon telefona…"</string>
     <string name="circulate_card_mirror_device_title_laptop">Računalo</string>
     <string name="circulate_card_mirror_device_title_pad">Tablet</string>
     <string name="circulate_card_mirror_device_title_television">TV</string>

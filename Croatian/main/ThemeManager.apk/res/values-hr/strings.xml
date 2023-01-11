@@ -472,6 +472,7 @@ Dopustite Temama da pristupaju vašem ID-u Mi Računa i Mi Community statusima k
     <string name="hide_pull_down_negative">"Ne skrivaj"</string>
     <string name="hide_pull_down_positive">Sakrij</string>
     <string name="hide_retract_button">Sakrij</string>
+	 <string name="historical_wallpaper">Prethodno korišteno</string>
     <string name="home_apply_failured">"Ne mogu postaviti pozadinu Poč. zaslona"</string>
     <string name="home_apply_success">Slika pozadine Poč. zaslona postavljena</string>
     <string name="home_daily">Dnevni naglasci</string>

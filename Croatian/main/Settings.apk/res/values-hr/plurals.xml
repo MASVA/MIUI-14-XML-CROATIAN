@@ -433,11 +433,11 @@
         <item quantity="one">%d kategorija isključena</item>
     </plurals>
     <plurals name="notifications_sent_daily">
-        <item quantity="other">~%,d obavijesti dnevno</item>
+        <item quantity="other">~%d obavijesti dnevno</item>
         <item quantity="one">~%d obavijesti dnevno</item>
     </plurals>
     <plurals name="notifications_sent_weekly">
-        <item quantity="other">~%,d obavijesti tjedno</item>
+        <item quantity="other">~%d obavijesti tjedno</item>
         <item quantity="one">~%d obavijesti tjedno</item>
     </plurals>
 	  <plurals name="nrca_info">

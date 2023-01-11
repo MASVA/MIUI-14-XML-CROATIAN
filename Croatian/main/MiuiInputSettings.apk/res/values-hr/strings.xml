@@ -45,7 +45,7 @@
 	 <string name="back_key">Natrag</string>
 	 <string name="back_tap">Dodirni stražnju stranu</string>
 	 <string name="back_triple_tap">Trostruki dodir unatrag</string>
-	 <string name="bottomsheet_action_expand_halfway">Proširi do pola</string>
+	 <string name="bottomsheet_action_expand_halfway">Proširi donju polovicu</string>
 	 <string name="builtin_keyboard_settings_title">Fizička tipkovnica</string>
 	 <string name="camera_key_action_app_title">Otvori aplikaciju</string>
 	 <string name="camera_key_action_category_title">"Ne mogu koristiti kameru"</string>

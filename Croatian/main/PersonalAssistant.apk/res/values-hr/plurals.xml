@@ -156,4 +156,44 @@
         <item quantity="other">%1$d tvrtki na widgetu</item>
         <item quantity="one">%1$d tvrtka na widgetu</item>
     </plurals>
+	     <plurals name="pa_express_main_mul_choice_title">
+        <item quantity="other">%d stavki odabrano</item>
+        <item quantity="one">%d stavka odabrana</item>
+     </plurals>
+     <plurals name="pa_express_widget_list_left_panel_subtitle_abandoned">
+        <item quantity="other">%d paketa napušteno</item>
+        <item quantity="one">%d paket napušten</item>
+     </plurals>
+     <plurals name="pa_express_widget_list_left_panel_subtitle_agent">
+        <item quantity="other">%d paketa čeka preuzimanje</item>
+        <item quantity="one">%d paket čeka preuzimanje</item>
+     </plurals>
+     <plurals name="pa_express_widget_list_left_panel_subtitle_canceled">
+        <item quantity="other">%d paketa otkazano</item>
+        <item quantity="one">%d paket otkazan</item>
+     </plurals>
+     <plurals name="pa_express_widget_list_left_panel_subtitle_delivering">
+        <item quantity="other">%d paketa spremno za isporuku</item>
+        <item quantity="one">%d paket spreman za isporuku</item>
+     </plurals>
+     <plurals name="pa_express_widget_list_left_panel_subtitle_failed">
+        <item quantity="other">%d paketa imaju probleme</item>
+        <item quantity="one">%d paket ima probleme</item>
+     </plurals>
+     <plurals name="pa_express_widget_list_left_panel_subtitle_on_ground">
+        <item quantity="other">%d paketa u transportu</item>
+        <item quantity="one">%d paket u transportu</item>
+     </plurals>
+     <plurals name="pa_express_widget_list_left_panel_subtitle_reject">
+        <item quantity="other">"%d paketa nije bilo moguće isporučiti"</item>
+        <item quantity="one">"%d paket nije bilo moguće isporučiti"</item>
+     </plurals>
+     <plurals name="pa_express_widget_list_left_panel_subtitle_sign">
+        <item quantity="other">%d paketa isporučeno</item>
+        <item quantity="one">%d paket isporučen</item>
+     </plurals>
+     <plurals name="pa_shopping_page_product_delete_dialog_message">
+        <item quantity="other">Izbrisati odabrane stavke: %d ?</item>
+        <item quantity="one">Izbrisati %d odabranu stavku?</item>
+     </plurals>
 </resources>

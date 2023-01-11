@@ -262,7 +262,7 @@ Ako se predomislite, prije korištenja naših usluga morate se složiti s našim
     <string name="ble_ota_fw_upgrade_success_title">Uspješno sinkronizirano</string>
     <string name="ble_ota_push_error">"Ažuriranje nije uspjelo"</string>
     <string name="ble_ota_push_error_info">Ažuriranje zahtijeva najmanje 20% baterije na vašem nosivom uređaju.</string>
-    <string name="bottomsheet_action_expand_halfway">Proširi do pola</string>
+    <string name="bottomsheet_action_expand_halfway">Proširi donju polovicu</string>
     <string name="cancel">Odustani</string>
 	 <string name="cancel_text">Odustani</string>
     <string name="card_recharge_promo_code_exhausted">"Oh, malo ste zakasnili, veselite se sljedećoj promociji"</string>

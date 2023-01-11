@@ -75,7 +75,7 @@
     <string name="background_install_task_create">Instaliranje \"%1$s\"</string>
     <string name="background_install_task_create_failed">"Nije moguće instalirati"</string>
     <string name="background_install_task_create_failed_already_new">"Nije moguće instalirati. Koristite najnoviju verziju."</string>
-    <string name="bottomsheet_action_expand_halfway">Proširi do pola</string>
+    <string name="bottomsheet_action_expand_halfway">Proširi donju polovicu</string>
     <string name="bundle_app_on_self_desc_text">Aplikacija koju ste odabrali već je preuzeta. Ako također želite preuzeti \"%1$s\", dodirnite ovdje.</string>
     <string name="bundle_app_on_self_desc_text_click">Dodirnite ovdje.</string>
     <string name="bundle_app_on_self_tips">Ova je aplikacija navedena u GetApps. Možete je preuzeti s povjerenjem.</string>
@@ -406,7 +406,7 @@
     <string name="mtrl_picker_toggle_to_day_selection">Dodirnite za prelazak na odabir dana</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Prebacite se na način unosa teksta</string>
     <string name="mtrl_picker_toggle_to_year_selection">Dodirnite za prelazak na odabir godine</string>
-    <string name="mtrl_timepicker_confirm">OK</string>
+    <string name="mtrl_timepicker_confirm">U redu</string>
     <string name="net_work_error_msg">"Ne mogu se povezati s mrežom radi izvođenja sigurnosne provjere"</string>
     <string name="net_work_error_retry">Try again</string>
     <string name="network_error_info">Došlo je do mrežne pogreške. Provjerite mrežne postavke i pokušajte ponovno.</string>
@@ -546,7 +546,7 @@
 	 <string name="risk_app_prohibit_download">Dodaj na popis blokiranih</string>
 	 <string name="risk_app_trust">Rizične aplikacije</string>
 	 <string name="risk_app_trust_and_exit">Izlaz</string>
-	 <string name="risk_app_trust_download">Autorizacija za preuzimanje</string>
+	 <string name="risk_app_trust_download">Preuzmi autorizaciju</string>
 	 <string name="risk_app_trust_forbiden">Blokirano</string>
 	 <string name="risk_app_trust_once">Dopusti jednom</string>
 	 <string name="risk_app_trust_risk_content_default">Ova je aplikacija označena kao visokorizična i potencijalno lažna. Nastavite s oprezom kako biste zaštitili svoju privatnost i sigurnost.</string>
