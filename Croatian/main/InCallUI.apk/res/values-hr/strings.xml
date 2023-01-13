@@ -169,6 +169,7 @@
     <string name="friday">Petak</string>
     <string name="friday_short">Pet</string>
     <string name="friday_shortest">P</string>
+	 <string name="high_temperature_toast">U zaštiti od visoke temperature, funkcija je privremeno nedostupna</string>
     <string name="inCallLabel">Telefon</string>
     <string name="incall_bubble_hangup_click_hint">Dodirnite ponovo da se vratte na poziv</string>
     <string name="incall_call_type_label_sip">Internetski poziv</string>

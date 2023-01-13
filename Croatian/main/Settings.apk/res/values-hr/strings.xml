@@ -3937,7 +3937,8 @@ Možete vidjeti generirane zapise u aplikaciji Datoteke."</string>
   <string name="edit_rules">Uredi</string>
   <string name="effect_preview">Pregled</string>
   <string name="eighthours">8 sati</string>
-  <string name="elastic_text">Upiti i padajući izbornici pojavljuju se s elastičnim pop-upom koji donosi veći fokus na ove objekte</string>
+  <string name="elastic_text">Upiti i padajući izbornici pojavljuju se s elastičnim skočnim prozorom koji donosi veći fokus na ove objekte</string>
+  <string name="embedded_window_guide_text">Kada se zaslon prikazuje vodoravno, aplikacije će se prikazivati jedna s drugom paralelno. Aplikacije će biti centrirane kada je ova značajka isključena.</string>
   <string name="emergency_address_summary">Upotrebljava se kao vaša lokacija kada upućujete hitne pozive putem Wi-Fi-ja</string>
   <string name="emergency_address_title">Adresa za hitne slučajeve</string>
   <string name="emergency_dashboard_summary">SOS poziv, zdravstveni podaci, upozorenja</string>
@@ -6286,9 +6287,9 @@ Povežite barem 4 točke."</string>
   <string name="lte_ram_dump_off">Isključi LTE RAM kopiranje</string>
   <string name="lte_ram_dump_on">Uključi LTE RAM kopiranje</string>
   <string name="macaddr_label">MAC adresa:</string>
-  <string name="magic_list_empty_text_pad">Sada nema aplikacija kompatibilnih s ovom značajkom</string>
+  <string name="magic_list_empty_text_pad">Nema aplikacija kompatibilnih s ovom značajkom</string>
   <string name="magic_window_name">Paralelni prozori</string>
-  <string name="magic_window_name_pad">Optimizacija za pejzažni prikaz</string>
+  <string name="magic_window_name_pad">Paralelni prozori</string>
   <string name="mah">%d mAh</string>
   <string name="main_clear_accounts">"
 

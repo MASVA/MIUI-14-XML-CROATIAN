@@ -33,6 +33,10 @@
         <item quantity="other">"Ne mogu sinkronizirati stavke: %s"</item>
         <item quantity="one">"Ne mogu sinkronizirati %s stavku"</item>
     </plurals>
+	 <plurals name="cloud_storage_full_upgrade_text">
+        <item quantity="other">"Nedovoljno prostora za pohranu. Ne mogu sinkronizirati %d fotografija."</item>
+        <item quantity="one">"Nedovoljno prostora za pohranu. Ne mogu sinkronizirati %d fotografiju."</item>
+    </plurals>
     <plurals name="dirty_blocklist_count">
         <item quantity="other">%d unosa liste blokiranja</item>
         <item quantity="one">%d unos liste blokiranja</item>
@@ -109,6 +113,10 @@
         <item quantity="other">Pokušajte ponovno za %d sek.</item>
         <item quantity="one">Pokušajte ponovno za %d sekundu</item>
     </plurals>
+	 <plurals name="gallery_auto_sync_fail_noti_red_title">
+        <item quantity="other">"Ne mogu sinkronizirati &lt;font color=#F22424>%s stavki&lt;/font>"</item>
+        <item quantity="one">"Ne mogu sinkronizirati &lt;font color=#F22424>%s stavku&lt;/font>"</item>
+    </plurals>
     <plurals name="gallery_auto_sync_fail_noti_title">
         <item quantity="other">"Ne mogu sinkronizirati %s stavki"</item>
         <item quantity="one">"Ne mogu sinkronizirati %s stavku"</item>
@@ -155,6 +163,10 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">odabrano %d stavki</item>
         <item quantity="one">odabrana %d stavka</item>
+    </plurals>
+	 <plurals name="noti_quota_full_title_with_icon_text">
+        <item quantity="other">"Prostor za pohranu je pun. Ne mogu sinkronizirati &lt;font color=#F22424>%d aplikacija&lt;/font>"</item>
+        <item quantity="one">"Prostor za pohranu je pun. Ne mogu sinkronizirati &lt;font color=#F22424>%d aplikaciju&lt;/font>"</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">prije %d min</item>

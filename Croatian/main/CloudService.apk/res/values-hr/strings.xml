@@ -58,8 +58,12 @@
     <string name="cloud_find_device_off">Isključeno</string>
     <string name="cloud_find_device_on">Uključeno</string>
     <string name="cloud_lab_title">Cloud Lab</string>
+	 <string name="cloud_manage_storage_text">Upravljanje Cloud pohranom</string>
     <string name="cloud_service_open_authorization">"Dobrodošli u Xiaomi Cloud usluge! Xiaomi Cloud možete koristiti za sinkronizaciju bilješki, fotografija i videozapisa, snimaka i drugih stavki iz aplikacija sustava na svim povezanim uređajima. Sigurnosne kopije izgleda početnog zaslona također će biti pohranjene u Xiaomi Cloud. Moći ćete vidjeti sve sinkronizirane stavke na i.mi.com."</string>
-    <string name="cloud_storage_default_title">Cloud pohrana</string>
+    <string name="cloud_storage_almost_full_upgrade_text">Cloud pohrana je gotovo puna. Možda neće moći sinkronizirati fotografije.</string>
+    <string name="cloud_storage_common_functions_text">Često korišteno</string>
+	 <string name="cloud_storage_default_title">Cloud pohrana</string>
+	 <string name="cloud_storage_full_upgrade_default_text">"Nedovoljno prostora za pohranu. Ne mogu sinkronizirati fotografije."</string>
     <string name="cloud_storage_info_type_drive">Xiaomi Drive</string>
     <string name="cloud_storage_info_type_duokan">Duokan</string>
     <string name="cloud_storage_info_type_family">Obitelj</string>
@@ -67,7 +71,11 @@
     <string name="cloud_storage_info_type_pdc">Postavke sustava</string>
     <string name="cloud_storage_loading_data">Samo trenutak…</string>
     <string name="cloud_storage_manage_title">Upravljajte Cloud prostorom</string>
-    <string name="cloud_storage_no_data">Nema stavki u Cloudu još</string>
+    <string name="cloud_storage_no_data">Nema još stavki u Cloudu</string>
+	  <string name="cloud_storage_sufficient_text">Nadogradite da biste dobili do %d TB prostora za pohranu</string>
+    <string name="cloud_storage_upgrade_text">Nadogradnja</string>
+    <string name="cloud_storage_upgrade_text_now">Nadogradnja</string>
+    <string name="cloud_storage_zero_upgrade_button_text_now">Besplatna nadogradnja</string>
     <string name="confirm_save">Zadrži</string>
     <string name="connect_network">Povežite se na Wi-Fi ili umetnite SIM karticu</string>
     <string name="connect_network_china">Povežite se na Wi-Fi ili umetnite SIM karticu</string>
@@ -77,6 +85,7 @@
     <string name="copy">Kopiraj</string>
     <string name="cta_notification_content_text">Dopustite %s povezivanje s internetom kako biste mogli vratiti stavke</string>
     <string name="cta_notification_content_title">"Nije moguće vratiti stavke iz %s"</string>
+	 <string name="customize_notification_btn_text">Nadogradi</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_more_than_two">Ovaj se račun koristi i na drugom uređaju. Spojiti stavke iz više aplikacija (uključujući %1$s i %2$s) s stavkama na ovom uređaju?</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_one">Ovaj se račun koristi i na drugom uređaju. Spojiti stavke iz %s sa stavkama na ovom uređaju?</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_two">Ovaj se račun koristi i na drugom uređaju. Spojiti stavke iz %1$s i %2$s sa stavkama na ovom uređaju?</string>
@@ -89,6 +98,7 @@
     <string name="data_merge_dialog_loading">Provjera podataka…</string>
     <string name="data_merge_dialog_title">Spoji stavke</string>
     <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
+	 <string name="default_noti_quota_full_title">Cloud pohrana je puna</string>
     <string name="detect_sim_card">Traženje SIM kartice</string>
     <string name="device_activation_card_cannot_get_yet">"Ne mogu dobiti informacije. Pokušajte ponovo za 3-5 dana."</string>
     <string name="device_activation_card_description">"Prva se aktivacija registrira kada se uređaj prvi put poveže s mrežom (uključujući, ali ne ograničavajući se na Wi-Fi i mobilne mreže). Uobičajeno je potrebno neko vrijeme da se registrira prva aktivacija, pa je bolje pričekati 3-5 dana nakon povezivanja s mrežom prije provjere statusa aktivacije.&lt;br&gt;&lt;br&gt;Aktivacija uređaja glavni je čimbenik u određivanju razdoblja valjanosti našeg produženog jamstva. Provjerite naša &lt;a href=%1$s&gt;Pravila povrata, zamjene i popravka&lt;/a&gt; za više detalja.&lt;br&gt;&lt;br&gt;Slobodno nazovite našu službu za podršku kupcima ako imate bilo kakvih pitanja: 400-100-5678."</string>
@@ -524,12 +534,13 @@
     <string name="noti_quota_button_text">Nadogradi</string>
     <string name="noti_quota_full_sum">Nadogradite vaš plan pohrane za nastavak sinkroniziranja stavki.</string>
     <string name="noti_quota_full_sum_without_button">Nabavite više prostora za pohranu za nastavak sinkroziranja stavki.</string>
-    <string name="noti_quota_full_title">Cloud pohrana je puna</string>
+	 <string name="noti_quota_full_title">Cloud pohrana je &lt;font color=#F22424>puna&lt;/font></string>
     <string name="noti_quota_full_title_without_button">Cloud pohrana je puna</string>
     <string name="noti_quota_low_sum">Nadogradite vaš plan pohrane za nastavak sinkroziranja stavki.</string>
     <string name="noti_quota_low_sum_without_button">Nabavite više prostora za pohranu za nastavak sinkroziranja stavki.</string>
-    <string name="noti_quota_low_title">Nema dovolno prostora u cloud pohrani</string>
-    <string name="noti_quota_low_title_without_button">Nema dovoljno prostora u cloud pohrani</string>
+    <string name="noti_quota_low_title">Nema dovoljno prostora u Cloud pohrani</string>
+	 <string name="noti_quota_low_title_with_storage">&lt;font color=#F22424>Preostalo je manje od &lt;xliff:g id=remaining_storage_space example=0.5>%s&lt;/xliff:g> GB&lt;/font> Cloud pohrane</string>
+    <string name="noti_quota_low_title_without_button">Nema dovoljno prostora u Cloud pohrani</string>
     <string name="notification_sync_fail_title">"Ne mogu sinkronizirati"</string>
     <string name="notification_update_key_text">Vaša je zaporka poništena</string>
     <string name="open_service_title">Uključi</string>
@@ -584,7 +595,7 @@ Podaci o lokaciji možda se neće prijaviti kada je mrežna veza loša."</string
     <string name="privacy_policy_reject_confirm_msg">"Nećete moći nastaviti koristiti Xiaomi Cloud ako ne prihvatite njegovu novu verziju &lt;a href=%1$s>&lt;u>Pravila o privatnosti&lt;/u>&lt;/a>. Prihvaćate li ažurirana Pravila o privatnosti?"</string>
     <string name="privacy_policy_reject_confirm_title">Pažnja</string>
     <string name="privacy_policy_revoked_msg">Suglasnost Pravila o privatnosti tvrtke Xiaomi Cloud povučena je za ovaj račun. Pokušajte upotrijebiti drugi račun.</string>
-    <string name="privacy_policy_update_msg">Ažurirana su pravila o privatnosti Xiaomi Clouda:&lt;br/>%1$s&lt;br/>Pročitajte i prihvatite novu verziju &lt;a href=%2$s>&lt;u>Pravila o privatnosti&lt;/u>&lt;/a> prije nego nastavite.</string>
+    <string name="privacy_policy_update_msg">Ažurirana su Pravila o privatnosti Xiaomi Clouda:&lt;br/>%1$s&lt;br/>Pročitajte i prihvatite novu verziju &lt;a href=%2$s>&lt;u>Pravila o privatnosti&lt;/u>&lt;/a> prije nego nastavite.</string>
     <string name="privacy_policy_update_title">Ažurirana Pravila o privatnosti</string>
     <string name="privacy_runtime_perm_calendar_desc">Za sinkronizaciju kalendarskih događaja</string>
     <string name="privacy_runtime_perm_calendar_title">Pristup kalendaru</string>
@@ -592,7 +603,7 @@ Podaci o lokaciji možda se neće prijaviti kada je mrežna veza loša."</string
     <string name="privacy_runtime_perm_call_log_title">Pristup i uređivanje zapisa poziva</string>
     <string name="privacy_runtime_perm_contacts_desc">Za sinkronizaciju kontakata</string>
     <string name="privacy_runtime_perm_contacts_title">Pristup i uređivanje kontakata</string>
-    <string name="privacy_runtime_perm_external_storage_desc">Za sinkronizaciju fotografija profila kontakta i privitaka poruka</string>
+    <string name="privacy_runtime_perm_external_storage_desc">Za sinkronizaciju profilnih fotografija kontakata</string>
     <string name="privacy_runtime_perm_external_storage_title">Pristup pohrani</string>
     <string name="privacy_runtime_perm_phone_state_desc">Za pristup telefonskom broju i statusu uređaja</string>
     <string name="privacy_runtime_perm_phone_state_title">Pristup informacijama o uređaju</string>

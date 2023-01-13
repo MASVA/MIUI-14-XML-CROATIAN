@@ -354,6 +354,7 @@
     <string name="fold_pair_installed_shortcut_launcher">Ovaj prečac već postoji</string>
     <string name="folder_name">Mapa</string>
 	 <string name="folder_not_edit_icon_tip">Za uređivanje prvo premjestite aplikaciju iz mape</string>
+	 <string name="folder_picker_big_2x2_9_text">XXL</string>
 	 <string name="folder_picker_big_text">Uvećano</string>
     <string name="folder_picker_default_text">Regularno</string>
     <string name="folder_picker_options_tab_text">Veličina</string>

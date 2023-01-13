@@ -175,7 +175,12 @@ Generirane zapisnike možete vidjeti u aplikaciji Datoteke."</string>
 	 <string name="ks_reset_title">Vrati zadane postavke</string>
 	 <string name="ks_screenshot">Snimka zaslona</string>
 	 <string name="ks_search_summary">Traži</string>
-	 <string name="ks_title">Tipkovnički prečaci</string>
+	 <string name="ks_title">Prečaci na tipkovnici</string>
+	 <string name="launch_accessibility_environmental_speech_recognition">Prepoznavanje ambijentalnog zvuka</string>
+   <string name="launch_accessibility_hear_sound">Mi Ditto</string>
+   <string name="launch_accessibility_hear_sound_subtitle">Mi Ditto titlovi</string>
+   <string name="launch_accessibility_talkback">TalkBack</string>
+   <string name="launch_accessibility_voice_control">Glasovne kontrole</string>
 	 <string name="launch_ai_shortcut">Mi AI prečac</string>
 	 <string name="launch_alipay_health_code">Alipay zdravstveni kod</string>
 	 <string name="launch_alipay_health_code_auto_close">Prečac zdravstvenog koda Alipay više nije dostupan. Možete se prebaciti na drugi prečac.</string>
@@ -325,6 +330,7 @@ Generirane zapisnike možete vidjeti u aplikaciji Datoteke."</string>
 	 <string name="natural_scroll">Prirodno pomicanje</string>
 	 <string name="navigation_type_title">Navigacija sustavom</string>
 	 <string name="no_media_button_receiver">Ne</string>
+	 <string name="none">Ništa</string>
 	 <string name="not_set">Nije postavljeno</string>
 	 <string name="other_advanced_settings">Dodatne postavke</string>
 	 <string name="password_toggle_content_description">Prikaži lozinku</string>
