@@ -713,6 +713,7 @@
     <string name="powerful_acceleration_toast">"Defragmentacija će se izvoditi kada ne koristite uređaj"</string>
     <string name="pref_about_privacy_title">Pravila o Privatnosti</string>
     <string name="pref_category_title_auto_clean_config_settings">Automatsko čišćenje</string>
+	 <string name="pref_category_title_auto_clean_settings">Podsjeti za čišćenje</string>
     <string name="pref_category_title_auto_update_cleanup_db">Dodatne postavke</string>
     <string name="pref_category_title_cleanup_white_list">Iznimke</string>
     <string name="pref_category_title_engine_settings">Skeniraj postavke definicija</string>

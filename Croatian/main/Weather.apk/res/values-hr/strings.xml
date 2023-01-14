@@ -553,7 +553,7 @@ Dodirnite zaslon da biste ručno dodali ili promjenili grad"</string>
     <string name="unit">Jedinica</string>
     <string name="unit_temperature">Jedinica temperature</string>
     <string name="unit_wind">Jedinica brzine vjetra</string>
-    <string name="update_night_setting_summary_text">Ažuriraj informacije o vremenu između %1$s i %1$s</string>
+    <string name="update_night_setting_summary_text">Ažuriraj informacije o vremenu između %1$s i %2$s</string>
     <string name="update_night_setting_title_text">Ažuriraj autom. tijekom noći</string>
     <string name="update_notification_info">Ažuriranje podataka u pozadini…</string>
     <string name="update_setting_title_text">Ažurirajte informacije o vremenu</string>

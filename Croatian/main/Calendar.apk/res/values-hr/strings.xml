@@ -145,7 +145,8 @@
     <string name="change_zodiac">Promijenite horoskopski znak</string>
     <string name="character_counter_content_description">Unešeno znakova %1$d od %2$d</string>
     <string name="character_counter_overflowed_content_description">Prekoračeno je ograničenje broja znakova %1$d od %2$d</string>
-    <string name="chip_text">Chip tekst</string>
+    <string name="check_new_version">Provjeri ima li ažuriranja</string>
+	 <string name="chip_text">Chip tekst</string>
     <string name="chips_action_cancel">Odustani</string>
     <string name="chips_action_copy">Kopiraj</string>
     <string name="chips_permission_text">Dopusti prijedloge kontakata</string>
@@ -311,6 +312,7 @@
     <string name="event_info_where">Gdje</string>
     <string name="event_reminder_allday_day_zero">Na taj dan u %2$s</string>
     <string name="event_reminder_custom">Vlastito</string>
+	 <string name="event_reminder_value_zero">Prije događaja</string>
     <string name="event_title">Naslov</string>
     <string name="event_view">Prikaži događaj</string>
     <string name="every_weekday">Pon – Pet</string>
