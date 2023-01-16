@@ -1890,7 +1890,6 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
 	<string name="passport_password_login_btn">Prijavite se</string>
 	<string name="passport_password_not_show">"Ne prikazuj zaporku"</string>
 	<string name="passport_password_req_notice">Zaporka mora imati 8-16 znakova i sadržavati najmanje dva od sljedećeg: znamenke, slova i posebne simbole (npr. 123abc@#, ili 123abc, ili abc@#).</string >
-	<string name="passport_password_show">Prikaži zaporku</string>
 	<string name="passport_querying_phone_info">Traženje informacija o računu…</string>
 	<string name="passport_quick_login_title">Unesite svoju zaporku</string>
 	<string name="passport_reging">Izrada računa…</string>
