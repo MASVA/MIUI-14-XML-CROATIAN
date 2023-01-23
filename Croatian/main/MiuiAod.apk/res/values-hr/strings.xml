@@ -311,8 +311,8 @@ dd.MM."</string>
 dd/MM"</string>
     <string name="super_wallpaper_date_inter">"EEEE
 dd/MM"</string>
-    <string name="temporary_style">Za 10 sekundi nakon dodira</string>
-    <string name="temporary_style_5">5 sekundi nakon tapkanja</string>
+    <string name="temporary_style">10 sekundi nakon dodira</string>
+    <string name="temporary_style_5">5 sekundi nakon dodira</string>
     <string name="temporary_style_summary">Preporučeno</string>
     <string name="text_color">Boja teksta</string>
     <string name="text_length_exceed_limit_alert">*Tekst koji ste unijeli je predugačak</string>
