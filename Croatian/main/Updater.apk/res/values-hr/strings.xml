@@ -8,6 +8,7 @@
     <string name="btn_error">Došlo je do pogreške, pokušati ponovno?</string>
     <string name="btn_install">Instaliraj</string>
     <string name="btn_no">Odustani</string>
+	 <string name="btn_not">Ne</string>
     <string name="btn_ok">U redu</string>
     <string name="btn_pause">Pauziraj</string>
     <string name="btn_share">Podijeli</string>
@@ -40,6 +41,7 @@
     <string name="download_title_full_download">Dobivanje informacija…</string>
     <string name="downloading">Preuzimanje:</string>
     <string name="downloading_desc">U tijeku je preuzimanje, provjerite status u području obavijesti.</string>
+	 <string name="fastboot_mode">Sada ste u Fastboot načinu, možete flashati samo ROM-ove s Terminal na računalu!</string>
     <string name="fastboot_update_warning">Ovo ažuriranje je samo za fastboot instalaciju!</string>
     <string name="fetch_notification_default_channel_name">Preuzimanja</string>
     <string name="fetch_notification_download_cancel">Odustani</string>
@@ -55,13 +57,15 @@
     <string name="fetch_notification_download_retry">Pokušaj ponovo</string>
     <string name="fetch_notification_download_starting">Počinje</string>
     <string name="fetching_data">Dohvaćanje veze za preuzimanje, pričekajte…</string>
-    <string name="install_desc">"Uređaj će se ponovno pokrenuti u TWRP recovery i instalirati odabranu datoteku: %1$s
+    <string name="install_desc">"Uređaj će se ponovno pokrenuti u TWRP i instalirati odabranu datoteku: %1$s
 Podaci neće biti izbrisani."</string>
     <string name="install_title">Jeste li sigurni da želite nastaviti?</string>
     <string name="menu_title_current_version_log">Informacije o ažuriranjima</string>
+	 <string name="menu_title_fastboot_mode">Prebaci na Fastboot način</string>
     <string name="menu_title_download_current_rom">Preuzmi ažuriranje</string>
     <string name="menu_title_pick_rom_file">Odaberite ZIP iz pohrane</string>
-    <string name="menu_title_recovery">Ponovno pokretanje u TWRP recovery</string>
+    <string name="menu_title_recovery">Ponovno pokretanje u TWRP</string>
+	 <string name="menu_title_recovery_mode">Prebaci na Recovery način</string>
     <string name="menu_title_show_notifications">Prikaži obavijesti</string>
     <string name="message_checkbox">Sakrij buduće poruke Xioami.eu teama</string>
     <string name="message_checkbox_device">Ne prikazuj ponovno</string>
@@ -93,10 +97,12 @@ Ažuriranja za vas nisu dostupna!"</string>
     <string name="pick_title">Odaberi:</string>
     <string name="reboot">Ponovno pokreni</string>
     <string name="recovery_desc">Uređaj će se sada ponovno pokrenuti u TWRP Recovery. Nastaviti?</string>
+	 <string name="recovery_mode">Sada ste u Recovery načinu, možete flashati ROM-ove aplikacijom Ažuriranje!</string>
     <string name="server_error">Poslužitelj ne reagira, aplikacija možda neće ispravno raditi!</string>
     <string name="share_desc">MIUI verzija ažurirana je na %1$s, pogledajte popis promjena na: https://xiaomi.eu/community/link-forums/rom-downloads.73/</string>
     <string name="share_title">Podijeli sa</string>
     <string name="stable">Stabilna</string>
+	 <string name="twrp_update_warning">Da biste mogli koristiti OTA ažuriranja morate odabrati imate li TWRP instaliran na svom uređaju ili ne:</string>
     <string name="version">Instalirana verzija</string>
     <string name="weekly">Beta</string>
     <string name="wifi_recommended">Povežite se na Wi-Fi za preuzimanje ažuriranja!</string>
