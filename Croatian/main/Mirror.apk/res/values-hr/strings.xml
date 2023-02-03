@@ -295,7 +295,7 @@ Možete započeti drugu sesiju na svom računalu."</string>
     <string name="pad_settings_pc_history_title">Povijest povezivanja</string>
     <string name="pad_settings_pc_trusted_title">Automatski se poveži</string>
     <string name="pad_settings_pc_use_tile">O ovoj značajci</string>
-    <string name="pad_settings_phone_handoff_summary">Koristite handoff s aplikacijama, međuspremnikom, videozapisima i drugim stavkama na drugom uređaju povezanom s vašim Mi računom</string>
+    <string name="pad_settings_phone_handoff_summary">Koristite handoff s aplikacijama, međuspremnikom, videozapisima i drugim stavkama na drugom uređaju povezanom s vašim Mi Računom</string>
     <string name="pad_settings_phone_handoff_title">Handoff</string>
     <string name="pad_settings_scanner_summary">Povežite se s MIUI+ pomoću QR koda</string>
     <string name="pad_settings_trusted_delete_dialog_msg">"Nećete se moći automatski povezati s ovim uređajem nakon što ga uklonite s popisa."</string>
@@ -311,6 +311,7 @@ Možete započeti drugu sesiju na svom računalu."</string>
 	 <string name="pc_cooperate_guide_screenshot">Snimak zaslona</string>
 	 <string name="pc_cooperate_guide_task">Prikaži zadatke</string>
 	 <string name="pc_cooperate_guide_undo">Poništi (Ctrl+Z)</string>
+	 <string name="pc_settings_current_device_tip">Automatsko povezivanje s računalom s otvorenim MIUI+ i prijavljenim na isti Mi Račun</string>
     <string name="pcmode_not_support_multi_window">"Način rada s računalom ne podržava prikazivanje više prozora."</string>
 	 <string name="permission_access_nearby_device">Pristup uređajima u blizini</string>
     <string name="phone_pad_app_introduction_summary">Nastavak zadataka u istoj aplikaciji na vašem tabletu</string>
@@ -406,7 +407,8 @@ Možete započeti drugu sesiju na svom računalu."</string>
     <string name="settings_more_help">Pomoć</string>
     <string name="settings_pad">Tablet</string>
     <string name="settings_pad_handoff_title">Automatski poveži</string>
-    <string name="settings_pc">Computer</string>
+    <string name="settings_pc">Računalo</string>
+    <string name="settings_pc_handoff_title">Poveži se s računalom</string>
     <string name="settings_pc_history_title">Povijest povezivanja</string>
     <string name="settings_pc_trusted_title">Automatski poveži</string>
     <string name="settings_pc_use_tile">O ovoj značajci</string>
@@ -443,8 +445,8 @@ Možete započeti drugu sesiju na svom računalu."</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="softap_notification_action">Poveži</string>
-    <string name="softap_notification_message">Nema dostupnih Wi-Fi mreža. Želite li se povezati s ovim žarišnom hotspotom?</string>
-    <string name="softap_notification_message_china">Nema dostupnih Wi-Fi mreža. Želite li se povezati s ovim žarišnom hotspotom?</string>
+    <string name="softap_notification_message">Nema dostupnih Wi-Fi mreža. Želite li se povezati s ovim hotspotom?</string>
+    <string name="softap_notification_message_china">Nema dostupnih Wi-Fi mreža. Želite li se povezati s ovim hotspotom?</string>
     <string name="softap_notification_title">"Poveži se na %1$s hotspot"</string>
     <string name="sub_screen_lock_message">"Otključajte svoj telefon
 za nastavak"</string>

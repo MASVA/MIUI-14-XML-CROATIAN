@@ -191,6 +191,8 @@
     <string name="incoming_show_permission_msg">"Ne mogu reproducirati videozapise profila za dolazne pozive bez dopuštenja za pohranu"</string>
     <string name="manageConferenceLabel">Upravljaj konferencijskim pozivom</string>
     <string name="manager_conference_done">Gotovo</string>
+	 <string name="menu_new_display_open">Otvori u novom prozoru</string>
+    <string name="menu_pc_open">Otvori na računalnu</string>
     <string name="miuix_access_state_desc">Odabrano</string>
     <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
@@ -278,6 +280,7 @@
     <string name="onscreen_audio_mode_bluetooth">Bluetooth</string>
     <string name="onscreen_audio_mode_handset">Na uho</string>
     <string name="onscreen_audio_mode_headset">Slušalice</string>
+	 <string name="onscreen_audio_mode_mirror">Tablet</string>
     <string name="onscreen_audio_mode_speaker">Zvučnik</string>
     <string name="onscreen_call_record">Snimi poziv</string>
     <string name="onscreen_change_to_video">Videopoziv</string>

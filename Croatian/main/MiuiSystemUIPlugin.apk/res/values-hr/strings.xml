@@ -102,7 +102,7 @@
     <string name="controls_edit_panel_save_button">Gotovo</string>
     <string name="controls_edit_panel_subtitle">Povucite stavke da biste ih preuredili</string>
     <string name="controls_edit_panel_title">Dodani uređaji</string>
-    <string name="controls_error_failed">Pogreška, pokušajte ponovo</string>
+    <string name="controls_error_failed">Došlo je do pogreške. Pokušajte ponovno.</string>
     <string name="controls_error_generic">Ne mogu učitati status</string>
     <string name="controls_error_removed">Uređaj je uklonjen</string>
     <string name="controls_favorite_default_title">Kontrole</string>

@@ -43,6 +43,7 @@
     <string name="backup_action_buy_cloud_space">Nabavite još prostora za pohranu</string>
     <string name="backup_action_check_network">Provjerite mrežne postavke</string>
     <string name="backup_action_clean_disk_space">Oslobodite prostor</string>
+	 <string name="backup_action_long_time_not_auto_backup_title">Sigurnosno kopirajte svoje stavke</string>
   	 <string name="backup_action_long_time_not_backup_action">Sigurnosno kopiranje</string>
     <string name="backup_action_long_time_not_backup_title">Nema nedavnih sigurnosnih kopija</string>
     <string name="backup_action_no_space_with_wechat_off_content">Nema dovoljno prostora cloud pohrane za sigurnosno kopiranje stavki s ovog uređaja. Dodirnite za prikaz dostupnih opcija cloud pohrane.</string>
@@ -149,6 +150,8 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Xiaomi
     <string name="cloud_backup_detail_state_summary_china">Uređaj mora biti povezan na Wi-Fi, puniti se i zaključan</string>
     <string name="cloud_backup_detail_time">Posljednja sigurnosna kopija: %1$s</string>
     <string name="cloud_backup_detail_title">Sigurnosno kopirajte stavke</string>
+	 <string name="cloud_backup_get_installed_apps_summary">Za sigurnosno kopiranje i vraćanje aplikacija početnog zaslona</string>
+    <string name="cloud_backup_get_installed_apps_title">Pristupi popisu aplikacija instaliranih na ovom uređaju</string>
     <string name="cloud_backup_have_data">Pronađena je Sig. kopija na Xiaomi Cloudu</string>
     <string name="cloud_backup_in_cancel">Odustani</string>
     <string name="cloud_backup_in_process">Izrada Sig. kopije…</string>
@@ -168,6 +171,9 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Xiaomi
     <string name="confirm_restore_summary">Vaš Poč. zaslon će se ponovno pokrenuti. Sig. kopija aplikacija će se automatski preuzeti.</string>
     <string name="confirm_restore_title">Vrati</string>
     <string name="copy">Kopiraj</string>
+	 <string name="cta_dialog_all_purpose">"Dobro došli u Cloud sigurnosno kopiranje! Ovu aplikaciju možete koristiti za sigurnosno kopiranje izgleda početnog zaslona, aplikacija, postavki sustava i podataka WeChata u cloudu. Provjerite koristite li najnoviju verziju moći iskoristiti sve naše značajke."</string>
+    <string name="cta_dialog_permission_description_get_installed_apps">Za sigurnosno kopiranje i vraćanje aplikacija</string>
+    <string name="cta_dialog_permission_description_storage">Za sigurnosno kopiranje i vraćanje stavki</string>
     <string name="customization">Prilagodi</string>
     <string name="date_format">HH:mm:ss dd.MM.yyyy</string>
     <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
@@ -185,6 +191,10 @@ Molimo pošaljite ovaj kod tehničaru."</string>
     <string name="dialog_app_usage_consent_message">Ova značajka mora pristupiti podacima o korištenju aplikacije kako bi mogla procijeniti veličinu WeChat sigurnosnih kopija.</string>
     <string name="dialog_app_usage_consent_title">Dopustite pristup podacima o upotrebi aplikacije</string>
     <string name="dialog_app_usage_denied">U postavkama dajte dopuštenje za Sig. kopiju \"Pristup korištenju\" da biste mogli sigurnosno kopirati stavke.</string>
+	 <string name="dialog_auto_backup_condition_normal_content">Da biste mogli redovito automatski sigurnosno kopirati sve važne stavke, provjerite imate li dovoljno prostora za pohranu u cloudu i je li ovaj uređaj zaključan, ima li više od %s baterije i povezan na Wi-Fi noću. Također možete ručno sigurnosno kopirati bilo kada.</string>
+    <string name="dialog_auto_backup_condition_normal_content_china">Da biste mogli redovito automatski sigurnosno kopirati sve važne stavke, provjerite imate li dovoljno prostora za pohranu u cloudu i je li ovaj uređaj zaključan, ima li više od %s baterije i povezan na Wi-Fi noću. Također možete ručno sigurnosno kopirati bilo kada.</string>
+    <string name="dialog_auto_backup_condition_normal_positive">Razumijem</string>
+    <string name="dialog_auto_backup_condition_normal_title">Sigurnosno kopirajte svoje stavke</string>
     <string name="dialog_backup_failed">"Nije moguće napraviti Sig. kopiju"</string>
     <string name="dialog_btn_cancel_backup">Odustani</string>
     <string name="dialog_btn_confirm2">Razumijem</string>
@@ -210,6 +220,11 @@ Molimo pošaljite ovaj kod tehničaru."</string>
     <string name="dialog_negative_btn_cancel_restore">Zaustavi vraćanje</string>
     <string name="dialog_positive_btn_cancel_backup">"Ne otkazuj"</string>
     <string name="dialog_positive_btn_cancel_restore">"Ne zaustavljaj"</string>
+	 <string name="dialog_recommend_wechat_backup_content">Sada možete sigurnosno kopirati WeChat razgovore i druge podatke u Xiaomi Cloud. Da biste mogli izraditi sigurnosnu kopiju svojih stavki, provjerite imate li dovoljno prostora za pohranu u oblaku i je li ovaj uređaj zaključan, ima preko %s baterije i je li povezan na Wi-Fi noću. Također možete ručno sigurnosno kopirati bilo kada.</string>
+    <string name="dialog_recommend_wechat_backup_content_china">Sada možete sigurnosno kopirati WeChat razgovore i druge podatke u Xiaomi Cloud. Da biste mogli izraditi sigurnosnu kopiju svojih stavki, provjerite imate li dovoljno prostora za pohranu u oblaku i je li ovaj uređaj zaključan, ima preko %s baterije i je li povezan na Wi-Fi noću. Također možete ručno sigurnosno kopirati bilo kada.</string>
+    <string name="dialog_recommend_wechat_backup_negative">Razumijem</string>
+    <string name="dialog_recommend_wechat_backup_positive">Saznajte više</string>
+    <string name="dialog_recommend_wechat_backup_title">Sigurnosno kopirajte WeChat podatke</string>
     <string name="dialog_title_cancel_backup">Otkaži sigurnosno kopiranje</string>
     <string name="dialog_title_cancel_restore">Zaustavi vraćanje</string>
     <string name="dialog_title_require_wlan">Poveži se na Wi-Fi</string>
@@ -360,6 +375,7 @@ Molimo pošaljite ovaj kod tehničaru."</string>
     <string name="remove_task_in_process">Uklanjanje…</string>
     <string name="remove_task_unfinished">Uklanjanje nije završeno</string>
     <string name="remove_unfinished">Uklanjanje, pokušajte ponovno kasnije</string>
+	 <string name="repeat_recommend_wechat_backup_notification_content">Sada možete sigurnosno kopirati WeChat podatke. Dodirnite za detalje.</string>
     <string name="restore_app_order_finish">Gotovo</string>
     <string name="restore_app_order_loading">Samo trenutak…</string>
     <string name="restore_app_order_retry">Pokušaj ponovno</string>
@@ -458,6 +474,8 @@ Provjerite postavke mreže i pokušajte ponovno."</string>
     <string name="storage_unit_gb">%s GB</string>
     <string name="storage_unit_mb">%s MB</string>
     <string name="success_open_cloudbackup">Uključena izrada Sig. kopije aplik. Poč. zaslona</string>
+	  <string name="successful_auto_backup_recommend_wechat_backup_notification_content">Sigurnosno kopirani WeChat podaci. Dodirnite za detalje.</string>
+    <string name="successful_auto_backup_recommend_wechat_backup_notification_title">Dovršeno automatsko sigurnosno kopiranje</string>
     <string name="sunday">Nedjelja</string>
     <string name="sunday_short">Ned</string>
     <string name="sunday_shortest">N</string>

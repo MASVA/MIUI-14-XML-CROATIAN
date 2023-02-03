@@ -29,8 +29,12 @@
         <item quantity="other">prije %d min</item>
         <item quantity="one">prije 1 min</item>
     </plurals>
+	<plurals name="backup_action_long_time_not_auto_backup_content">
+        <item quantity="other">"Niste sigurnosno kopirali svoje stavke %s tjedana. Dodirnite da vidite kako uključiti automatsko sigurnosno kopiranje."</item>
+        <item quantity="one">"Niste sigurnosno kopirali svoje stavke %s tjedan. Dodirnite da vidite kako uključiti automatsko sigurnosno kopiranje."</item>
+    </plurals>
 	<plurals name="backup_action_long_time_not_backup_content">
-        <item quantity="other">"Čini se da niste sigurnosno kopirali stavke %s tjedana. Napravite sigurnosne kopije kako biste izbjegli gubitak bilo čega važnog."</item>
+        <item quantity="other">"Izgleda da niste sigurnosno kopirali stavke %s tjedana. Napravite sigurnosne kopije kako biste izbjegli gubitak bilo čega važnog."</item>
         <item quantity="one">"Čini se da niste sigurnosno kopirali stavke %s tjedan. Napravite sigurnosne kopije kako biste izbjegli gubitak bilo čega važnog."</item>
     </plurals>
     <plurals name="cloud_backup_detail_manage_summary">
