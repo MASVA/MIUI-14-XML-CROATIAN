@@ -300,6 +300,10 @@ Značajke su podložne promjenama. Neke od gore navedenih značajki možda neće
     <string name="other_settings_ad_disable_summary">Uključi personalizirane oglase</string>
     <string name="other_settings_ad_enable">Personalizirana Preporuka oglasa</string>
     <string name="other_settings_ad_enable_summary">Preporučujemo prilagođene oglase na temelju vaših podataka o ponašanju</string>
+    <string name="other_settings_alarm_assistance">Lokacija za hitne slučajeve</string>
+    <string name="other_settings_alarm_assistance_privacy">Pravila o privatnosti</string>
+	 <string name="other_settings_alarm_assistance_summary">"Podatke o svojoj lokaciji možete poslati policiji koristeći SMS ili mobilne podatke automatski dok zovete 110, 120, 119 ili 192. Pročitajte i prihvatite naše &lt;a href=\"%1$s\">Korisnički ugovor&lt;/a> i &lt;a href=\"%2$s\">Pravila o privatnosti&lt;/a> prije korištenja ove značajke."</string>
+    <string name="other_settings_alarm_assistance_user">Korisnički ugovor</string>
     <string name="other_settings_auto_update">Instaliraj automatski</string>
     <string name="other_settings_auto_update_summary">MIUI će odabrati najbolji trenutak za instaliranje ažuriranja.</string>
 	 <string name="other_settings_auto_update_summary_v1">Dopustite MIUI-ju da odabere najbolje vrijeme za preuzimanje i instaliranje ažuriranja. Vaš će se uređaj automatski ponovno pokrenuti radi primjene promjena.</string>

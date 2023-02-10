@@ -77,6 +77,7 @@
     <string name="backup_failed">Ne mogu napraviti Sig. kopiju"</string>
     <string name="backup_file_error">Ne mogu napraviti Sig. kopiju"</string>
     <string name="backup_finished">Sig. kopija uspješno završena</string>
+	 <string name="backup_for_broken_screen">Sigurnosne kopije s oštećenim zaslonom</string>
     <string name="backup_hint">"Držite vaš uređaj uključenim</string>
     <string name="backup_hint_onpad">Držite vaš uređaj uključenim</string>
     <string name="backup_hint_pad">Držite uređaj uključenim</string>
