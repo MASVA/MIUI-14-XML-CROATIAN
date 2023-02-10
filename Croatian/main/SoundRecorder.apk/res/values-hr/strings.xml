@@ -107,6 +107,7 @@
     <string name="head_set_tip_dialog_msg">Iskopčajte svoje slušalice kako biste mogli snimiti zvuk s određenim postavkama (na primjer, Glazba, Glas).</string>
     <string name="head_set_tip_dialog_ok">Razumijem</string>
     <string name="head_set_tip_dialog_title">Koristi unutarnji mikrofon</string>
+	 <string name="high_bit_rate">MP3, ~%1$d kbps, ~%2$d MB/h</string>
     <string name="icon_content_description">Ikona dijaloga</string>
     <string name="invalid_argument">Nevažeći argument</string>
     <string name="invisible_mode_error_tip">Isključite anonimni način rada u postavkama da biste mogli koristiti mikrofon</string>
@@ -122,10 +123,11 @@
     <string name="korea_permission_storage_desc">Za spremanje snimaka</string>
     <string name="loading_more">Samo trenutak…</string>
     <string name="loading_order_list">Samo trenutak…</string>
-    <string name="low_battery_error">"Preostalo je manje od 5% baterije. Zaustavite snimanje i spremite snimku da je ne izgubite."</string>
+    <string name="low_battery_error">"Preostalo je manje od %s baterije. Zaustavite snimanje i spremite snimku da je ne izgubite."</string>
     <string name="low_battery_error_confirm">U redu</string>
     <string name="low_battery_error_for_pad">"Preostalo je manje od %s baterije. Zaustavite snimanje i spremite snimku da je ne izgubite."</string>
     <string name="low_battery_error_title">Slaba baterija</string>
+	 <string name="low_bit_rate">MP3, ~%1$d kbps, ~%2$d MB/h</string>
 	 <string name="lyric_item_point_count">%1$d do %2$d</string>
     <string name="manage_external_storage">Pristup svim datotekama</string>
     <string name="mark_point_list_title">Označi</string>
@@ -142,9 +144,9 @@
     <string name="material_timepicker_text_input_mode_description">Prijeđite na način unosa teksta da biste unijeli vrijeme.</string>
     <string name="menu">Izbornik</string>
     <string name="message_file_size_error">Snimanje je dostiglo maksimalnu duljinu snimanja podržanu za %s</string>
-    <string name="mi_account_msg">Prijavite se s Mi Računom da biste prepisali datoteke u oblaku i prvih 60 minuta dobili besplatno.</string>
     <string name="mi_account_ok">Prijava</string>
     <string name="mi_account_title">Prijavite se s Mi Računom</string>
+	 <string name="middle_bit_rate">MP3, ~%1$d kbps, ~%2$d MB/h</string>
     <string name="miuix_access_state_desc">Odabrano</string>
     <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
@@ -286,6 +288,9 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
     <string name="permission_desc">Pojedinosti o dopuštenjima</string>
     <string name="permission_dialog_cancel">Odustani</string>
     <string name="permission_dialog_ok">Postavke</string>
+	 <string name="permission_notification_description">Za slanje upozorenja prilikom snimanja, reprodukcije i preuzimanja sadržaja</string>
+    <string name="permission_notification_dialog_description">"Za slanje upozorenja o trenutnom statusu aplikacije"</string>
+    <string name="permission_notification_title">Potrebna su dopuštenja</string>
     <string name="permission_read_phone_state">Pristup informacijama o uređaju</string>
     <string name="permission_read_phone_state_description">Za pristup statusu poziva kako bi se automatski zaustavilo snimanje prilikom primanja poziva</string>
     <string name="permission_record">Snimanje zvuka</string>
@@ -321,7 +326,7 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
     <string name="recognition_confirm_dialog_body">"Prepisivanje bi moglo potrajati neko vrijeme. Primit ćete obavijest kada ovaj zadatak je završen. Prepisati sada?"</string>
     <string name="recognition_error_cancel">Otkazano</string>
     <string name="recognition_error_download_cancel">Kasnije</string>
-    <string name="recognition_error_download_data_msg">Preuzmite alat za prepoznavanje kako bi ova usluga bila dostupna, što će potrošiti oko 20 MB u trenutnoj mobilnoj podatkovnoj vezi.</string>
+    <string name="recognition_error_download_data_msg">Preuzmite alat za prepoznavanje kako bi ova usluga bila dostupna, što će potrošiti oko %d MB u trenutnoj mobilnoj podatkovnoj vezi.</string>
     <string name="recognition_error_download_fail">"Ne mogu preuzeti. Provjerite mrežne postavke i pokušajte ponovo."</string>
     <string name="recognition_error_download_msg">Preuzmite program prepoznavanja da bi ova usluga dostupna.</string>
     <string name="recognition_error_download_ok">Preuzmi</string>
@@ -369,6 +374,14 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
     <string name="record_permission_dialog_title">Potrebna su dopuštenja za mikrofon</string>
     <string name="record_quliaty_preference_title">Kvaliteta snimanja</string>
     <string name="record_resotre">Obnovi snimke</string>
+	  <string name="record_scenes_summaries_HD">Tehnologija visokog dinamičkog raspona omogućuje mikrofonu snimanje detaljnijeg zvuka</string>
+    <string name="record_scenes_summaries_interview">Postavite telefon između %d osoba kako biste jasno snimili njihov razgovor</string>
+    <string name="record_scenes_summaries_music">Snimajte glazbu bolje kvalitete</string>
+    <string name="record_scenes_summaries_stereo_HD">Tehnologija visokog dinamičkog raspona omogućuje mikrofonu snimanje detaljnijeg zvuka</string>
+    <string name="record_scenes_summaries_stereo_interview">Postavite telefon između %d osoba kako biste jasno snimili njihov razgovor</string>
+    <string name="record_scenes_summaries_stereo_music">Snimajte kroz %d kanala, slušajte stereo zvuk u slušalicama</string>
+    <string name="record_scenes_summaries_stereo_voice">Približite mikrofon izvoru zvuka za bolju kvalitetu</string>
+    <string name="record_scenes_summaries_voice">Približite mikrofon izvoru zvuka za bolju kvalitetu</string>
     <string name="recorder_record">Audio</string>
     <string name="recording">Snimanje</string>
     <string name="recording_quality_high">Visoka</string>
@@ -381,7 +394,6 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
     <string name="recovery_failed_dialog_button">Razumijem</string>
     <string name="recovery_failed_dialog_title">Pažnja</string>
     <string name="reg_error_audio_exist">Ova datoteka već postoji.</string>
-    <string name="reg_error_audio_large">"Audiodatoteke ne mogu biti veće od 500 MB."</string>
     <string name="reg_error_audio_short">Audio datoteka je premala.</string>
     <string name="reg_error_server">Dogodila se pogreška poslužitelja. Prijavite je nama i pokušajte ponovo.</string>
     <string name="reg_error_upload_audio">"Učitavanje datoteke nije uspjelo, pokušajte ponovo."</string>
@@ -444,9 +456,9 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
     <string name="tab_call">Pozivi</string>
     <string name="tab_fm">FM</string>
     <string name="tap_to_record">Dodirnite tipku za početak snimanja</string>
-    <string name="text_btn_backward_3_seconds">3 sekunde natrag</string>
+    <string name="text_btn_backward_3_seconds">%d sekunde natrag</string>
     <string name="text_btn_complete">Stop</string>
-    <string name="text_btn_forward_3_seconds">3 sekunde naprijed</string>
+    <string name="text_btn_forward_3_seconds">%d sekunde naprijed</string>
     <string name="text_btn_list">Snimke</string>
     <string name="text_btn_mark">Označi</string>
     <string name="text_btn_pause">Pauza</string>

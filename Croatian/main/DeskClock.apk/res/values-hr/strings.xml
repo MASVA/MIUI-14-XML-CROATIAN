@@ -49,6 +49,7 @@
     <string name="alarm_ascending_mode_title">Pojačavanje glasnoće</string>
     <string name="alarm_clock_more_setting">Dodatne postavke</string>
     <string name="alarm_disabled">Isključeno</string>
+	 <string name="alarm_in_furture_new">Alarm za manje od %d minute</string>
     <string name="alarm_in_silent_mode_title">Alarm u bešumnom načinu</string>
     <string name="alarm_klaxon_service_desc">Usluga reprodukcije zvuka za alarme postavljena je u aplikaciji Sat.</string>
     <string name="alarm_label_hint">Tekst Alarma</string>
@@ -58,6 +59,7 @@
     <string name="alarm_repeat">Ponovi</string>
     <string name="alarm_ringtone">Melodije zvona alarma</string>
     <string name="alarm_ringtone_picker">Alarmi</string>
+	 <string name="alarm_set_new">Alarm će se uključiti za manje od %d minuta.</string>
     <string name="alarm_settings">Postavke Alarma</string>
     <string name="alarm_settings_category_title">Postavke Alarma</string>
     <string name="alarm_vibrate">Vibracija</string>
@@ -77,6 +79,14 @@
     <string name="analog_gadget">Analogni sat</string>
     <string name="app_label">Sat</string>
     <string name="app_name">miuiclock</string>
+	 <string name="auto_silence_entries1">Nikad</string>
+    <string name="auto_silence_entries2"><xliff id="MINUTES" refersto="1">%d</xliff> minute</string>
+    <string name="auto_silence_entries3"><xliff id="MINUTES" refersto="5">%d</xliff> minuta</string>
+    <string name="auto_silence_entries4"><xliff id="MINUTES" refersto="10">%d</xliff> minuta</string>
+    <string name="auto_silence_entries5"><xliff id="MINUTES" refersto="15">%d</xliff> minuta</string>
+    <string name="auto_silence_entries6"><xliff id="MINUTES" refersto="20">%d</xliff> minuta</string>
+    <string name="auto_silence_entries7"><xliff id="MINUTES" refersto="25">%d</xliff> minuta</string>
+    <string name="auto_silence_entries8"><xliff id="MINUTES" refersto="30">%d</xliff> minuta</string>
     <string name="auto_silence_never">Nikada</string>
     <string name="auto_silence_summary">Postavite vrijeme nakon kojeg će se alarmi i odbrojavanja isključiti</string>
     <string name="auto_silence_title">Autom. utišaj</string>
@@ -101,7 +111,8 @@
     <string name="bedtime_setting_repeat_type">Kada će se primjenjivati vaš raspored za spavanje?</string>
     <string name="bedtime_setting_repeat_type_desc">"Odaberite dane kada ćete primati podsjetnike"</string>
     <string name="bedtime_settings">Postavke vremena za spavanje</string>
-    <string name="bedtime_sleep_time_remind">"Podsjetiti će vas se da idete u krevet 15 minuta prije ovog vremena"</string>
+    <string name="bedtime_sleep_time_remind">"Dobiti ćete podsjetnik da odete u krevet 15 minuta prije ovog vremena"</string>
+	 <string name="bedtime_sleep_time_remind_new">"Dobiti ćete podsjetnik da odete u krevet %d min. prije ovog vremena"</string>
     <string name="bedtime_sleep_time_setting">Kada ćete otići u krevet?</string>
     <string name="bedtime_wake_up_time_remind">Alarm će se isključiti u ovo vrijeme</string>
     <string name="bedtime_wake_up_time_setting">Kada ćete ustati?</string>
@@ -225,6 +236,7 @@
     <string name="life_post_setting_open_desc">Isključite ponavljanje alarma između 04:00 i 10:00 da biste slušali informacije o vremenu</string>
     <string name="life_post_setting_open_subtitle">Primaj informacije o vremenu kad isključite alarme između 4:00 i 9:30</string>
     <string name="life_post_setting_open_summary">Uključi informacije o vremenu u prvom isključenom alarmu između 4:00 i 10:00</string>
+	 <string name="life_post_setting_open_summary_new">Uključi informacije o vremenu u prvom isključenom alarmu između %1$s i %2$s</string>
     <string name="life_post_setting_open_title">Primaj jutarnja izvješća</string>
     <string name="life_post_setting_wake_up_list_title">Povijest buđenja</string>
     <string name="life_post_wake_up_acumu_day_title">Broj dana</string>
@@ -310,23 +322,31 @@ mm"</string>
     <string name="module_update_success">Ažurirani zvuk za MIUI pametne alarme uspješno je preuzet. Možete postaviti MIUI pametne alarme u postavkama sata.</string>
     <string name="module_update_success_control">Razumijem</string>
     <string name="module_weather_ringtone_download_data">Vremenski alarm odabire različite melodije zvona prema trenutnom vremenu. Sat treba preuzeti ≈30MB datoteka zvuka da bi to radilo. Preuzeti sada?</string>
-    <string name="module_weather_ringtone_download_data_privacy"><Data>Vremenski alarm odabire različite melodije zvona prema trenutnom vremenu. Sat se mora povezati s internetom za preuzimanje ≈30MB datoteke zvuka. Prije korištenja Sata, morate pročitati i prihvatiti naše &lt;a href=\"%1$s\">Korisnički ugovor&lt;/a> i &lt;a href=\"%2$s\">Pravila o privatnosti&lt;/a>. Prihvaćate?</Data></string>
-    <string name="module_weather_ringtone_download_wifi">Vremenski alarm odabire različite melodije zvona prema trenutnom vremenu. Sat treba preuzeti datoteke zvuka da bi to radilo. Preuzeti sada?</string>
+    <string name="module_weather_ringtone_download_data_new">Vremenski alarm odabire različite melodije zvona prema trenutnom vremenu. Sat mora preuzeti ≈%d MB datoteka zvuka da bi to radilo. Preuzeti sada?</string>
+	 <string name="module_weather_ringtone_download_data_privacy"><Data>Vremenski alarm odabire različite melodije zvona prema trenutnom vremenu. Sat se mora povezati s internetom za preuzimanje ≈30MB datoteka zvuka. Prije korištenja Sata, morate pročitati i prihvatiti naše &lt;a href=\"%1$s\">Korisnički ugovor&lt;/a> i &lt;a href=\"%2$s\">Pravila o privatnosti&lt;/a>. Prihvaćate?</Data></string>
+    <string name="module_weather_ringtone_download_data_privacy_new" formatted="false"><Data>Vremenski alarm odabire različite melodije zvona prema trenutnom vremenu. Sat se mora povezati s internetom za preuzimanje ≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB datoteke zvuka. Prije korištenja Sata, morate pročitati i prihvatiti naše &lt;a href=\"%1$s\">Korisnički ugovor&lt;/a> i &lt;a href=\"%2$s\">Pravila o privatnosti&lt;/a>. Prihvaćate?</Data></string>
+	 <string name="module_weather_ringtone_download_wifi">Vremenski alarm odabire različite melodije zvona prema trenutnom vremenu. Sat treba preuzeti datoteke zvuka da bi to radilo. Preuzeti sada?</string>
     <string name="module_weather_ringtone_download_wifi_privacy">Vremenski alarm odabire različite melodije zvona prema trenutnom vremenu. Sat se mora povezati s internetom za preuzimanje datoteke zvuka. Prije korištenja Sata, morate pročitati i prihvatiti naše &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;. Prihvaćate?</string>
     <string name="module_weather_ringtone_introduce">Vremenski alarm odabire različite melodije zvona prema trenutnom vremenu. Također vam omogućuje slušanje trenutnih informacija o vremenu ujutro.</string>
     <string name="module_weather_ringtone_introduce_global">Vremenski alarm odabire različite melodije zvona prema trenutnom vremenu.</string>
     <string name="module_weather_ringtone_update_data">Vremenski alarm sada dolazi s pozadinskom glazbom i boljim glasovnim najavama. Sat treba preuzeti ≈30MB datoteka zvuka da bi to radilo. Preuzeti sada?</string>
-    <string name="module_weather_ringtone_update_success">Vremenski alarm sada dolazi s pozadinskom glazbom i boljim glasovnim najavama. Možete podesiti novi alarm kako biste isprobali ovu značajku.</string>
-    <string name="module_week_ringtone_download_data">Alarm prirode reproducira različite zvukove ovisno o datumu. Sat treba preuzeti ≈30MB datoteke zvuka da bi to radilo. Preuzeti sada?</string>
+    <string name="module_weather_ringtone_update_data_new">Vremenski alarm sada dolazi s pozadinskom glazbom i boljim glasovnim najavama. Sat treba preuzeti ≈%d MB datoteka zvuka da bi to radilo. Preuzeti sada?</string>
+	 <string name="module_weather_ringtone_update_success">Vremenski alarm sada dolazi s pozadinskom glazbom i boljim glasovnim najavama. Možete podesiti novi alarm kako biste isprobali ovu značajku.</string>
+    <string name="module_week_ringtone_download_data">Alarm prirode reproducira različite zvukove ovisno o datumu. Sat treba preuzeti ≈30MB datoteka zvuka da bi to radilo. Preuzeti sada?</string>
+	 <string name="module_week_ringtone_download_data_new">Alarm prirode reproducira različite zvukove ovisno o datumu. Sat treba preuzeti ≈%d MB datoteka zvuka da bi to radilo. Preuzeti sada?</string>
     <string name="module_week_ringtone_download_data_privacy"><Data>Alarm prirode reproducira različite zvukove ovisno o datumu. Sat se mora povezati s internetom za preuzimanje ≈30MB datoteka zvuka. Prije korištenja Sata, morate pročitati i prihvatiti naše &lt;a href=\"%1$s\">Korisnički ugovor&lt;/a> i &lt;a href=\"%2$s\">Pravila o privatnosti&lt;/a>. Prihvaćate?</Data></string>
+	 <string name="module_week_ringtone_download_data_privacy_new" formatted="false"><Data>Alarm prirode reproducira različite zvukove ovisno o datumu. Sat se mora povezati s internetom za preuzimanje ≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB datoteka zvuka. Prije korištenja Sata, morate pročitati i prihvatiti naše &lt;a href=\"%1$s\">Korisnički ugovor&lt;/a> i &lt;a href=\"%2$s\">Pravila o privatnosti&lt;/a>. Prihvaćate?</Data></string>
     <string name="module_week_ringtone_download_wifi">Alarm prirode reproducira različite zvukove ovisno o datumu. Sat treba preuzeti datoteke zvuka da bi to radilo. Preuzeti sada?</string>
     <string name="module_week_ringtone_download_wifi_privacy"><Data>Alarm prirode reproducira različite zvukove ovisno o datumu. Sat se mora povezati s internetom za preuzimanje zvuka. Prije korištenja Sata, morate pročitati i prihvatiti naše &lt;a href=\"%1$s\">Korisnički ugovor&lt;/a> i &lt;a href=\"%2$s\">Pravila o privatnosti&lt;/a>. Prihvaćate?</Data></string>
     <string name="module_week_ringtone_introduce">Alarm prirode reproducira različite zvukove ovisno o datumu.</string>
     <string name="module_week_ringtone_update_data">Alarm prirode reproducira različite zvukove ovisno o datumu. Sat treba preuzeti ≈30MB datoteka zvuka da bi to radilo. Preuzeti sada?</string>
+	 <string name="module_week_ringtone_update_data_new">Alarm prirode reproducira različite zvukove ovisno o datumu. Sat treba preuzet ≈%d MB datoteka zvuka da bi to radilo. Preuzeti sada?</string>
     <string name="module_week_ringtone_update_success">Alarm prirode reproducira različite zvukove ovisno o datumu. Možete podesiti novi alarm kako biste isprobali ovu značajku.</string>
-    <string name="module_white_noise_download_data">Sat treba preuzeti datoteke zvuka za timere buke okoline. ≈30MB vaših mobilnih podataka bit će potrebni za ovo preuzimanje. Preuzeti sada?</string>
-    <string name="module_white_noise_download_data_privacy"><Data>"Za preuzimanje audio datoteka za timere vremena za ambijentalnu buku (≈30MB) i pružanje personaliziranih usluga, Sat se mora povezati s internetom. Prije korištenja Sata, morate pročitati i prihvatiti naše &lt;a href=\"%1$s\">Korisnički ugovor&lt;/a> i &lt;a href=\"%2$s\">Pravila o privatnosti&lt;/a>. Sada upotrebljavate mobilne podatke. Prihvaćate?"</Data></string>
-    <string name="module_white_noise_download_wifi">Sat treba preuzeti datoteke zvuka za timere buke okoline. Preuzeti sada?</string>
+    <string name="module_white_noise_download_data">Sat treba preuzeti datoteke zvuka za timere ambijentalne buke. ≈30MB vaših mobilnih podataka bit će potrebni za ovo preuzimanje. Preuzeti sada?</string>
+	 <string name="module_white_noise_download_data_new">Sat treba preuzeti audio datoteke za timere ambijentalne buke. ≈%d MB of your mobile data will be required for this download. Download now?</string>
+    <string name="module_white_noise_download_data_privacy"><Data>"Za preuzimanje audio datoteka za timere ambijentalne buke (≈30MB) i pružanje personaliziranih usluga, Sat se mora povezati s internetom. Prije korištenja Sata, morate pročitati i prihvatiti naše &lt;a href=\"%1$s\">Korisnički ugovor&lt;/a> i &lt;a href=\"%2$s\">Pravila o privatnosti&lt;/a>. Sada upotrebljavate mobilne podatke. Prihvaćate?"</Data></string>
+	 <string name="module_white_noise_download_data_privacy_new" formatted="false"><Data>"Za preuzimanje audio datoteka za timere ambijentalne buke (≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB) i pružanje personaliziranih usluga, Sat se mora povezati s internetom. Prije korištenja Sata, morate pročitati i prihvatiti naše &lt;a href=\"%1$s\">Korisnički ugovor&lt;/a> i &lt;a href=\"%2$s\">Pravila o privatnosti&lt;/a>. Sada upotrebljavate mobilne podatke. Prihvaćate?"</Data></string>
+    <string name="module_white_noise_download_wifi">Sat treba preuzeti datoteke zvuka za timere ambijentalne buke. Preuzeti sada?</string>
     <string name="module_white_noise_download_wifi_privacy"><Data>Za preuzimanje audio datoteka za timere ambijentalne buke i pružanje personaliziranih usluga, Sat se mora povezati s internetom. Prije korištenja Sata, također morate pročitati i prihvatiti naše &lt;a href=\"%1$s\">Korisnički ugovor&lt;/a> i &lt;a href=\"%2$s\">Pravila o privatnosti&lt;/a>. Prihvaćate?</Data></string>
     <string name="monday">Ponedjeljak</string>
     <string name="monday_short">Pon</string>
@@ -384,6 +404,11 @@ mm"</string>
     <string name="not_set">Nije postavljeno</string>
     <string name="not_set_temporarily">Ne hvala</string>
     <string name="not_update">Ne sada</string>
+	 <string name="notification_adv_time_entries1">U postavljeno vrijeme</string>
+    <string name="notification_adv_time_entries2"><xliff id="MINUTES" refersto="15">%d</xliff> minuta unaprijed</string>
+    <string name="notification_adv_time_entries3"><xliff id="MINUTES" refersto="30">%d</xliff> minuta unaprijed</string>
+    <string name="notification_adv_time_entries4"><xliff id="HOUR" refersto="1">%d</xliff> sat unaprijed</string>
+    <string name="notification_adv_time_entries5">Ništa</string>
     <string name="oneshot_alarm">Izbriši alarm nakon isklj.</string>
     <string name="open_keep_screen">Zaslon će ostati uključen</string>
     <string name="open_sleep_record">Uključi</string>
@@ -466,6 +491,7 @@ mm"</string>
     <string name="sleep_duration_desc">Spavano %1$s %2$s</string>
     <string name="sleep_duration_no_data">Još nema dovoljno podataka</string>
     <string name="sleep_duration_recommendation">Većina ljudi treba 7 do 9 sati sna po noći</string>
+	 <string name="sleep_duration_recommendation_new" formatted="false">Većina ljudi treba %d do %d sati sna po noći</string>
     <string name="sleep_duration_text">%1$s %2$s</string>
     <string name="sleep_duration_text_avg">%1$s %2$s</string>
     <string name="sleep_no_disturbance">DND način</string>

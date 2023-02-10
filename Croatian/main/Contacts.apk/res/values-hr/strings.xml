@@ -133,9 +133,10 @@
     <string name="bh_gb">GB</string>
     <string name="bh_get_balance_success">Uspješno provjereno. Informacije se ovdje mogu ažurirati s odgodom.</string>
     <string name="bh_get_charge_phone_number">Odaberite iz kontakata</string>
-    <string name="bh_goto_granted">Odobreno</string>
+	 <string name="bh_goto_granted">Odobrite dopuštenja</string>
     <string name="bh_goto_open">Nije odobreno</string>
     <string name="bh_goto_set">Postavi</string>
+	 <string name="bh_greeting_user">%1$s</string>
     <string name="bh_i_got_it">Razumijem</string>
     <string name="bh_input_hint">Unesite broj telefona</string>
     <string name="bh_input_total_limit">Unesite iznos podataka</string>
@@ -260,10 +261,10 @@
     <string name="caching_vcard_message">Spremanje vCard datoteke u predmemoriju uređaja…</string>
     <string name="callDetailTitle">"Pojedinosti poziva"</string>
     <string name="call_assistant">"Nazovi %s"</string>
-    <string name="call_callback">Pozovi povratno</string>
+    <string name="call_callback">Nazovi povratno</string>
     <string name="call_car">Nazovi automobil</string>
     <string name="call_company_main">Nazovi glavnu tvrtku</string>
-    <string name="call_custom">Pozovi %s</string>
+    <string name="call_custom">Nazovi %s</string>
     <string name="call_disambig_title">Odaberi broj</string>
     <string name="call_fax_home">Nazovi kućni faks</string>
     <string name="call_fax_work">Nazovi poslovni faks</string>
@@ -272,7 +273,9 @@
     <string name="call_feature_vowifi">VoWiFi</string>
     <string name="call_home">Nazovi kućni</string>
     <string name="call_isdn">Nazovi ISDN</string>
-    <string name="call_main">Pozovi glavni</string>
+	 <string name="call_limit">Ograničenja poziva</string>
+    <string name="call_limit_content">"Nije moguće nazvati “%s". Možete zvati samo telefonske brojeve koji su na vašem popisu odobrenih kontakata."</string>
+    <string name="call_main">Nazovi glavni</string>
     <string name="call_mms">"Nazovi MMS"</string>
     <string name="call_mobile">"Nazovi mobitel"</string>
     <string name="call_other">Nazovi</string>
@@ -710,8 +713,9 @@ Razlog: \"%s\""</string>
     <string name="invisible_mode_unable_connect_camera">Isključite anonimni način rada da biste mogli koristiti kameru. Isključiti sada?</string>
     <string name="invisible_mode_unable_get_location">Isključite anonimni način rada da biste mogli koristiti usluge lokacije i uvoziti kontakte s drugih uređaja putem Bluetootha. Isključiti sada?</string>
     <string name="item_offical">Službena</string>
-    <string name="keep_local">"Nemoj sinkr."</string>
+    <string name="keep_local">"Nemoj sinkronizirati"</string>
     <string name="keep_local_btn">Upotrijebi lokalnu pohranu uređaja.</string>
+	 <string name="know">Razumijem</string>
     <string name="label_custom_type">"Prilagođeno"</string>
     <string name="label_no_duplicate_contacts">Nema pronađenih duplikata</string>
     <string name="label_notes">Bilješke</string>
