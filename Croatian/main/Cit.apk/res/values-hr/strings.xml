@@ -57,22 +57,27 @@
 	 <string name="cancel">Odustani</string>
 	 <string name="charger_test_end">"
 Završetak testa punjača, isključite punjač"</string>
-	 <string name="cit_DP_check_summary">DP linije trebaju biti spojene tijekom procesa testiranja</string>
-	 <string name="cit_DP_check_title">DP</string>
-	 <string name="cit_DP_in_start_test">Molimo umetnite DP liniju da započnete testiranje</string>
-	 <string name="cit_DP_plug_err">"Test nije uspio
- Nisam dobio vrijednost"</string>
-	 <string name="cit_DP_plug_fail">"Test nije uspio
- Ova linija nije DP linija, zamijenite drugu liniju za testiranje"</string>
-	 <string name="cit_DP_plug_out_err">"Test nije uspio
-Nisam dobio vrijednost"</string>
-	 <string name="cit_DP_plug_out_fail">"Otkrivena je prekinuta veza
-Test nije uspio
+<string name="cit_DP_check_summary">Type-C na DP kabel treba biti spojen tijekom procesa testiranja</string>
+    <string name="cit_DP_check_title">DP test</string>
+    <string name="cit_DP_in_start_test">Umetnite Type-C na DP kabel za početak testiranja</string>
+    <string name="cit_DP_plug_err">"Promjena veze uređaja za otkrivanje
+  Čitanje vrijednosti osnovnog čvora nije uspjelo
+  Nije dobivena vrijednost"</string>
+    <string name="cit_DP_plug_fail">"Promjena veze uređaja za otkrivanje
+  Čitanje vrijednosti osnovnog čvora nije uspjelo
+  Umetnite tip-C kabel za DP za početak testa"</string>
+    <string name="cit_DP_plug_out_err">"Test nije uspio
+Nije dobivena vrijednost"</string>
+    <string name="cit_DP_plug_out_fail">"Promjena veze uređaja za otkrivanje
+  Čitanje vrijednosti osnovnog čvora nije uspjelo
+  Test nije uspio
 "</string>
-	 <string name="cit_DP_plug_out_pass">"Otkrivena je prekinuta veza
-Test je uspio"</string>
-	 <string name="cit_DP_plug_pass">Priključena DP linija je otkrivena, molimo provjerite je li projekcija zaslona uspješna i dodirnite odgovarajući tipku</string>
-	 <string name="cit_DP_plug_re_plugin">DP test je završen, pogledajte je li zaslon uspješan i dodirnite odgovarajući tipku</string>
+    <string name="cit_DP_plug_out_pass">"Otkrivena je prekinuta veza
+Prolaz na testu"</string>
+     <string name="cit_DP_plug_pass">"Promjena veze uređaja za otkrivanje
+  Uspješno pročitajte vrijednost temeljnog čvora
+  Provjerite je li ekran uspješan i kliknite odgovarajući gumb"</string>
+   <string name="cit_DP_plug_re_plugin">DP test je završen, pogledajte je li zaslon uspješan i dodirnite odgovarajući tipku</string>
 	 <string name="cit_OTG_plug_check_summary">Tijekom testa, uključite i obrnuto uključite USB_OTG uređaj</string>
 	 <string name="cit_OTG_plug_check_title">OTG</string>
 	 <string name="cit_OTG_waiting_in">Molimo priključite USB_OTG uređaj</string>

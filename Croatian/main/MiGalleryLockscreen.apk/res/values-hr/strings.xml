@@ -672,6 +672,7 @@ mm"</string>
     <string name="passport_user_id_hint">E-mail/broj telefona/ID Xiaomi računa</string>
     <string name="passport_user_id_intro">Unesite zaporku za %1$s</string>
     <string name="passport_user_password_hint">Zaporka</string>
+	 <string name="passport_vcode_what_app_send_prompt">Vaš WhatsApp kontrolni kôd bit će poslan na vaš telefon za oporavak (&lt;font color=#1F93FF>%s&lt;/font>).</string>
     <string name="passport_wechat_not_install">Prvo instalirajte WeChat</string>
     <string name="passport_wrong_captcha">Kôd koji ste unijeli nije točan</string>
     <string name="passport_wrong_phone_number_format">Format telefonskog broja koji ste unijeli nije valjan</string>

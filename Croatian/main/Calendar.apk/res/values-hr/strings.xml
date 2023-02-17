@@ -603,6 +603,7 @@ Provjerite mrežne postavke i pokušajte ponovno."</string>
     <string name="partner_compatibility">Kompatibilnost partnera</string>
     <string name="password_toggle_content_description">Prikaži lozinku</string>
     <string name="path_calendar_settings">Aplikacije sustava/Kalendar/Postavke</string>
+	 <string name="permission_denial">Odobrite dopuštenja za korištenje ove značajke</string>
     <string name="permission_description">Pojedinosti o dopuštenjima</string>
     <string name="picker_day">Odabrani dan: %1$d. Prijeđite okomito za odabir.</string>
     <string name="picker_month">Odabrani mjesec: %1$d. Prijeđite okomito za odabir.</string>
@@ -637,6 +638,7 @@ Provjerite mrežne postavke i pokušajte ponovno."</string>
     <string name="preferences_week_start_day_title">Početak tjedna</string>
     <string name="prefsx_notify_sound_none">Bešumno</string>
     <string name="premission_description_log">Za spremanje zapisa</string>
+	 <string name="premission_description_notice">Za slanje obavijesti o događajima i praznicima</string>
     <string name="premission_description_ringtone">Za postavljanje melodija zvona</string>
     <string name="privacy_and_permissions">Privatnost i dopuštenja</string>
     <string name="privacy_card_description">Prihvatite naša Pravila o privatnosti za pristup svim značajkama.</string>
