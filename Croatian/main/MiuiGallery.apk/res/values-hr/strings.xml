@@ -54,7 +54,7 @@
 	<string name="accept_or_deny">%1$s je podijelio album %2$s s tobom.</string>
 	<string name="access_denied_info">Previše pokušaja. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
 	<string name="account_crop_user_avatar">Obreži fotografiju</string>
-	<string name="account_empty_user_name">Unesite svoje korisničko ime za Mi Račun</string>
+	<string name="account_empty_user_name">Unesite svoje korisničko ime za Xiaomi Račun</string>
 	<string name="account_error_all_space_user_name">"Korisničko ime ne može sadržavati samo razmake"</string>
 	<string name="account_error_invalid_user_name">"Ime ne može sadržavati &lt;, > ili /"</string>
 	<string name="account_error_longer_user_name">"Ime ne može biti duže od 20 znakova"</string>
@@ -75,7 +75,7 @@
 	<string name="account_user_details">Osobne informacije</string>
 	<string name="account_user_email">E-pošta za oporavak</string>
 	<string name="account_user_gender">Spol</string>
-	<string name="account_user_id">ID Mi Računa</string>
+	<string name="account_user_id">ID Xiaomi Računa</string>
 	<string name="account_user_name">Ime</string>
 	<string name="account_user_name_dialog_title">Unesite korisničko ime</string>
 	<string name="account_user_phone">Telefon za oporavak</string>
@@ -276,7 +276,7 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
 	<string name="auth_fail_warning">Sesija je istekla. Prijavite se ponovno.</string>
 	<string name="authorize_to_device_failed">"Ne mogu autorizirati"</string>
 	<string name="authorize_watch_on_tv_failed">"Ne mogu autorizirati za gledanje na TV"</string>
-	<string name="auto_backup_introduce">Automatski sinkroniziraj fotografije i videozapise (potreban Mi Račun)</string>
+	<string name="auto_backup_introduce">Automatski sinkroniziraj fotografije i videozapise (potreban Xiaomi Račun)</string>
 	<string name="auto_download_media_title">Preuzmi automatski</string>
 	<string name="auto_download_title">Odaberite kvalitetu slike</string>
 	<string name="auto_update_face">Dodaj fotografije automatski</string>
@@ -529,7 +529,7 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
 	<string name="cloud_action_upgrade">Nadogradi</string>
 	<string name="cloud_action_upgrade_free">Besplatna nadogradnja</string>
 	<string name="cloud_action_view">Pregled</string>
-	<string name="cloud_authorize_to_share_to_device">Autorizirajte gledanje stavki na televizorima povezanim s vašim Mi Računom</string>
+	<string name="cloud_authorize_to_share_to_device">Autorizirajte gledanje stavki na televizorima povezanim s vašim Xiaomi Računom</string>
 	<string name="cloud_authorizing_to_device">Autorizacija…</string>
 	<string name="cloud_backup_enable_title">Sinkroniziraj</string>
 	<string name="cloud_backup_open_button">Uključi</string>
@@ -541,6 +541,7 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
 	<string name="cloud_bacup_disable_processing">Obrada…</string>
 	<string name="cloud_camera_display_name">Fotografije kamere</string>
 	<string name="cloud_cancel_authorizing_to_device">Otkazivanje autorizacije…</string>
+	<string name="cloud_data_size">Fotografije i videozapisi u cloudu: %1$s</string>
 	<string name="cloud_full_space_tip_message">Nadogradite plan pohrane u cloudu kako biste mogli sinkronizirati sve svoje fotografije i videozapise u cloud.</string>
 	<string name="cloud_full_space_tip_negative">Ne sad</string>
 	<string name="cloud_full_space_tip_positive">Nadogradi</string>
@@ -665,7 +666,7 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
 	<string name="default_relation_name">Nova grupa</string>
 	<string name="define_by_user">Prilagođeno</string>
 	<string name="delete">Izbriši</string>
-	<string name="delete_account_message">Galerija mora očistiti predmemoriju aplikacije jer ste se odjavili sa svog Mi Računa.</string>
+	<string name="delete_account_message">Galerija mora očistiti predmemoriju aplikacije jer ste se odjavili sa svog Xiaomi Računa.</string>
 	<string name="delete_album_failed">"Ne mogu izbrisati album."</string>
 	<string name="delete_album_msg_format">Izbrisati \"%2$s\" album %1$s %3$s?</string>
 	<string name="delete_album_msg_format_cloud">Izbrisati %1$s %2$s iz Xiaomi Clouda i svih sinkroniziranih uređaja?</string>
@@ -807,11 +808,11 @@ Pošaljite ovaj kod nadzorniku."</string>
 	<string name="error_create_share_album_fail_default">"Nije moguće izraditi zbog nepoznate pogreške"</string>
 	<string name="error_decode_tip">"Format datoteke nije podržan ili su datoteke oštećene."</string>
 	<string name="error_download_tip">"Ne mogu preuzeti"</string>
-	<string name="error_dup_binded_email">Ova adresa e-pošte već je povezana s drugim Mi Računom.</string>
+	<string name="error_dup_binded_email">Ova adresa e-pošte već je povezana s drugim Xiaomi Računom.</string>
 	<string name="error_external_sdcard_write_action">Promjeni pohranu</string>
 	<string name="error_external_sdcard_write_msg">Idite u Postavke > Pohrana, promjenite pohranu i pokušajte ponovno.</string>
 	<string name="error_external_sdcard_write_tip">"Nije moguće spremiti stavke na SD karticu."</string>
-	<string name="error_forbidden">Sinkronizacija je onemogućena zbog problema s vašim Mi Računom.</string>
+	<string name="error_forbidden">Sinkronizacija je onemogućena zbog problema s vašim Xiaomi Računom.</string>
 	<string name="error_install_connect_fail">"Ne mogu učitati dodatak. Provjerite mrežnu vezu."</string>
 	<string name="error_install_sdcard_not_available">"Ne mogu učitati dodatak zbog pogreške SD kartice."</string>
 	<string name="error_install_storage_not_enough">Oslobodite nešto prostora na vašem uređaju za učitavanje dodatka.</string>
@@ -823,8 +824,8 @@ Pošaljite ovaj kod nadzorniku."</string>
 	<string name="error_network_restrict_msg">Dopustite aplikaciji Galerija da se poveže s mrežom.</string>
 	<string name="error_network_restrict_tip">"Ne mogu se povezati na mrežu."</string>
 	<string name="error_no_account_action">Prijavi se</string>
-	<string name="error_no_account_msg">Prijavite se na svoj Mi Račun i pokušajte ponovno.</string>
-	<string name="error_no_account_tip">Prijavite se na Mi Račun</string>
+	<string name="error_no_account_msg">Prijavite se na svoj Xiaomi Račun i pokušajte ponovno.</string>
+	<string name="error_no_account_tip">Prijavite se na Xiaomi Račun</string>
 	<string name="error_no_cta_permission_action">Dopusti</string>
 	<string name="error_no_cta_permission_msg">Mrežni pristup je ograničen.</string>
 	<string name="error_no_cta_permission_tip">Mrežni pristup je ograničen</string>
@@ -860,7 +861,7 @@ Pošaljite ovaj kod nadzorniku."</string>
 	<string name="error_unknown_host">"Ne mogu se povezati na mrežu. Provjerite vašu mrežnu vezu i pokušajte ponovno."</string>
 	<string name="error_unknown_msg">Dogodila se pogreška. Pošaljite nam povratne informacije.</string>
 	<string name="error_unknown_tip">Dogodila se pogreška.</string>
-	<string name="exceed_binded_phone_times_notice">Ovaj telefonski broj već je povezan s drugim Mi Računom.</string>
+	<string name="exceed_binded_phone_times_notice">Ovaj telefonski broj već je povezan s drugim Xiaomi Računom.</string>
 	<string name="exif_tag_smart_fusion">Smart Fusion</string>
 	<string name="exif_title_smart_fusion">Poboljšanje slike:</string>
 	<string name="exit">Izlaz</string>
@@ -1124,9 +1125,9 @@ za fotografije"</string>
 	<string name="get_album_info_in_process">"Dobivanje pojedinosti o dijeljenom albumu…"</string>
 	<string name="get_phone_verifycode_exceed_limit">Previše kontrolnih kodova je poslano na ovaj broj. Pričekajte 24 sata i pokušajte ponovno.</string>
 	<string name="get_user_info_btn_text">Traži</string>
-	<string name="get_user_info_edit_text_hint">Telefon//E-pošta/Mi Račun</string>
+	<string name="get_user_info_edit_text_hint">Telefon//E-pošta/Xiaomi Račun</string>
 	<string name="get_user_info_failed_hint">"Nisam mogao pronaći ovu osobu"</string>
-	<string name="get_user_info_top_hint_text">Pozovi putem Mi Računa</string>
+	<string name="get_user_info_top_hint_text">Pozovi putem Xiaomi Računa</string>
 	<string name="getverifycode_seconde">s</string>
 	<string name="gif_tip">GIF</string>
 	<string name="gigabyteShort">GB</string>
@@ -1215,6 +1216,7 @@ da radi normalno, dodirnite \"Postavi\" za ići u Dopuštenja."</string>
 	<string name="id_photo_module_finish">Dodatak \"ID\" uspješno preuzet</string>
 	<string name="id_photo_module_loading">Preuzimanje \"ID\" dodatka…</string>
 	<string name="ignore_album">"Ne prikazuj"</string>
+	<string name="ignore_alert_dialog_title">Zanemariti ovu osobu?</string>
 	<string name="ignore_alert_title">"Ne prikazivati ovaj album? Dodirnite gore desno za prikaz ignoriranih fotografija."</string>
 	<string name="ignore_face">Ignoriraj ovu osobu</string>
 	<string name="ignore_faces_title">Ignorirano</string>
@@ -1318,7 +1320,7 @@ da radi normalno, dodirnite \"Postavi\" za ići u Dopuštenja."</string>
 	<string name="login_and_enable_service">Prijavite se kako bi koristili Xiaomi Cloud</string>
 	<string name="login_by_local_phone_long_text">Prijavite se sada</string>
 	<string name="login_by_local_phone_short_text">Prijava</string>
-	<string name="login_other">Još jedan Mi Račun</string>
+	<string name="login_other">Još jedan Xiaomi Račun</string>
 	<string name="login_register_by_local_phone_long_text">Izradi račun</string>
 	<string name="login_with_sns">Drugi načini prijave</string>
 	<string name="logout_account">Odjava</string>
@@ -1491,7 +1493,7 @@ da osobno prilagodite Galeriju"</string>
 	<string name="mi_a3">Mi A3</string>
 	<string name="mi_drop">Mi Share</string>
 	<string name="mi_mover_working_desc">Mi Mover prenosi stavke…</string>
-	<string name="micloud_introduce">Automatski sinkroniziraj fotografije i videozapise (potreban Mi Račun)</string>
+	<string name="micloud_introduce">Automatski sinkroniziraj fotografije i videozapise (potreban Xiaomi Račun)</string>
 	<string name="migrate_gp_bottom_msg_0">Da biste svoje stavke premjestili na Google fotografije, trebate dodati Google račun i dati Xiaomiju dopuštenje za:</string>
 	<string name="migrate_gp_bottom_msg_1">Nakon što premjestite svoje stavke u Google fotografije, sve vaše galerijske mape (uključujući privatne stavke) bit će izbrisane.</string>
 	<string name="migrate_gp_bottom_msg_li_0">Pogledajte svoje uvjete za članstvo u usluzi Google One i preporuke za pohranu</string>
@@ -1841,7 +1843,7 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
 	<string name="passport_dialog_doing_login">Prijava…</string>
 	<string name="passport_dialog_doing_register">Izrada računa…</string>
 	<string name="passport_dialog_is_my_account">Da</string>
-	<string name="passport_dialog_is_your_mi_account">Je li ovo vaš Mi Račun?</string>
+	<string name="passport_dialog_is_your_mi_account">Je li ovo vaš Xiaomi Račun?</string>
 	<string name="passport_dialog_loading">Samo trenutak…</string>
 	<string name="passport_dialog_nick_name_prefix">Nadimak: %s</string>
 	<string name="passport_dialog_phone_number_prefix">Telefonski broj: %s</string>
@@ -1912,7 +1914,7 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
 	<string name="passport_to_password_login">Prijavite se zaporkom</string>
 	<string name="passport_to_verify_code_login">Prijavite se SMS-om</string>
 	<string name="passport_unknow_host_network_error">Provjerite mrežne postavke i pokušajte ponovno</string>
-	<string name="passport_user_id_hint">E-mail/broj telefona/ID Mi Računa</string>
+	<string name="passport_user_id_hint">E-mail/broj telefona/ID Xiaomi Računa</string>
 	<string name="passport_user_id_intro">Unesite zaporku za %1$s</string>
 	<string name="passport_user_password_hint">Zaporka</string>
 	<string name="passport_wechat_not_install">Prvo instalirajte WeChat</string>
@@ -2399,8 +2401,8 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
 	<string name="search_image_result_title">Rezultati pretraživanja</string>
 	<string name="search_login_now">Prijavi se</string>
 	<string name="search_login_sub_title">Prijavite se da biste pronašli više fotografija</string>
-	<string name="search_login_title">Mi Račun</string>
-	<string name="search_login_title_full_screen">Prijavite se sa Mi Računom bi se pronašli više objekata i osoba</string>
+	<string name="search_login_title">Xiaomi Račun</string>
+	<string name="search_login_title_full_screen">Prijavite se sa Xiaomi Računom bi se pronašli više objekata i osoba</string>
 	<string name="search_mark_feedback_false_negative_title">U redu</string>
 	<string name="search_mark_feedback_false_positive_title">Popravi</string>
 	<string name="search_menu_title">Traži</string>
@@ -2512,7 +2514,7 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
 	<string name="share_album_family_invite_default">Podijeli</string>
 	<string name="share_album_family_invite_family_cate_title">Obiteljska grupa</string>
 	<string name="share_album_family_invite_link">Poveznica</string>
-	<string name="share_album_family_invite_miaccount">Mi Račun</string>
+	<string name="share_album_family_invite_miaccount">Xiaomi Račun</string>
 	<string name="share_album_family_invite_other_cate_title">Prijatelji</string>
 	<string name="share_album_family_invite_qr">QR kod</string>
 	<string name="share_album_family_invite_resend">Pozovi ponovno</string>
@@ -3043,17 +3045,17 @@ Do %1$s možete premjestiti svoje stavke na Google fotografije ili posjetiti i.m
 	<string name="user_agree">Prihvaćam</string>
 	<string name="user_agreement2">Uvjeti pružanja usluge</string>
 	<string name="user_agreement4">Pravila o privatnosti</string>
-	<string name="user_agreement_hint_3rd_app"><Data>"Pročitao sam i prihvaćam &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a> i Mi Račun &lt;a href=%3$s>Korisnički ugovor&lt;/a> i &lt;a href=%4$s>Pravila o privatnosti&lt;/a>."</Data></string>
-	<string name="user_agreement_hint_3rd_app_mobile"><Data>"Pročitao sam i prihvaćam &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>, Mi Račun &lt;a href=%3$s>Korisnički ugovor&lt;/a> i &lt;a href=%4$s>Pravila o privatnosti&lt;/a>, kao i &lt;a href=%5$s>Odredbe i uvjete usluga provjere China Mobile&lt;/a>."</Data></string>
-	<string name="user_agreement_hint_3rd_app_with_telecom"><Data>"Pročitao sam i prihvaćam &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>, Mi Račun &lt;a href=%3$s>Korisnički ugovor&lt;/a> i &lt;a href=%4$s>Pravila o privatnosti&lt;/a>, kao i &lt;a href=%5$s>Odredbe i uvjete usluga verifikacije računa eSurfing&lt;/a>."</Data></string>
-	<string name="user_agreement_hint_3rd_app_with_unicom"><Data>"Pročitao sam i prihvaćam &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>, Mi Račun &lt;a href=%3$s>Korisnički ugovor&lt;/a> i &lt;a href=%4$s>Pravila o privatnosti&lt;/a>, kao i &lt;a href=%5$s>Odredbe i uvjete usluga provjere China Unicom&lt;/a>."</Data></string>
-	<string name="user_agreement_hint_default"><Data>"Pročitao sam i prihvaćam Mi Račun &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>."</Data></string>
+	<string name="user_agreement_hint_3rd_app"><Data>"Pročitao sam i prihvaćam &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a> i Xiaomi Račun &lt;a href=%3$s>Korisnički ugovor&lt;/a> i &lt;a href=%4$s>Pravila o privatnosti&lt;/a>."</Data></string>
+	<string name="user_agreement_hint_3rd_app_mobile"><Data>"Pročitao sam i prihvaćam &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>, Xiaomi Račun &lt;a href=%3$s>Korisnički ugovor&lt;/a> i &lt;a href=%4$s>Pravila o privatnosti&lt;/a>, kao i &lt;a href=%5$s>Odredbe i uvjete usluga provjere China Mobile&lt;/a>."</Data></string>
+	<string name="user_agreement_hint_3rd_app_with_telecom"><Data>"Pročitao sam i prihvaćam &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>, Xiaomi Račun &lt;a href=%3$s>Korisnički ugovor&lt;/a> i &lt;a href=%4$s>Pravila o privatnosti&lt;/a>, kao i &lt;a href=%5$s>Odredbe i uvjete usluga verifikacije računa eSurfing&lt;/a>."</Data></string>
+	<string name="user_agreement_hint_3rd_app_with_unicom"><Data>"Pročitao sam i prihvaćam &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>, Xiaomi Račun &lt;a href=%3$s>Korisnički ugovor&lt;/a> i &lt;a href=%4$s>Pravila o privatnosti&lt;/a>, kao i &lt;a href=%5$s>Odredbe i uvjete usluga provjere China Unicom&lt;/a>."</Data></string>
+	<string name="user_agreement_hint_default"><Data>"Pročitao sam i prihvaćam Xiaomi Račun &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>."</Data></string>
 	<string name="user_agreement_hint_default_1"><Data>Pročitajte i ptihvatite &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti.&lt;/a></Data></string>
-	<string name="user_agreement_hint_default_extra"><Data>"Pročitao sam i prihvaćam the &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti.&lt;/a> Prva prijava automatski će izraditi Mi Račun"</Data></string>
+	<string name="user_agreement_hint_default_extra"><Data>"Pročitao sam i prihvaćam the &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti.&lt;/a> Prva prijava automatski će izraditi Xiaomi Račun"</Data></string>
 	<string name="user_agreement_hint_first_login">"Automatski ćemo izraditi račun ako svoj telefonski broj koristite prvi put."</string>
-	<string name="user_agreement_hint_with_mobile"><Data>"Pročitao sam i prihvaćam Mi Račun &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>, kao i &lt;a href=%3$s>Odredbe i uvjete usluga provjere China Mobile&lt;/a>."</Data></string>
-	<string name="user_agreement_hint_with_telecom"><Data>"Pročitao sam i prihvaćam Mi Račun &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>, kao i &lt;a href=%3$s>Odredbe i uvjete usluga verifikacije računa eSurfing&lt;/a>."</Data></string>
-	<string name="user_agreement_hint_with_unicom"><Data>"Pročitao sam i prihvaćam Mi Račun &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>, kao i &lt;a href=%3$s>Odredbe i uvjete usluga provjere China Unicom&lt;/a>."</Data></string>
+	<string name="user_agreement_hint_with_mobile"><Data>"Pročitao sam i prihvaćam Xiaomi Račun &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>, kao i &lt;a href=%3$s>Odredbe i uvjete usluga provjere China Mobile&lt;/a>."</Data></string>
+	<string name="user_agreement_hint_with_telecom"><Data>"Pročitao sam i prihvaćam Xiaomi Račun &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>, kao i &lt;a href=%3$s>Odredbe i uvjete usluga verifikacije računa eSurfing&lt;/a>."</Data></string>
+	<string name="user_agreement_hint_with_unicom"><Data>"Pročitao sam i prihvaćam Xiaomi Račun &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>, kao i &lt;a href=%3$s>Odredbe i uvjete usluga provjere China Unicom&lt;/a>."</Data></string>
 	<string name="user_alias_self">Osobno</string>
 	<string name="user_avatar_update_title">Promjena fotografije profila</string>
 	<string name="user_avatar_uploading">Samo trenutak…</string>
@@ -3444,7 +3446,7 @@ Do %1$s možete premjestiti svoje stavke na Google fotografije ili posjetiti i.m
 	<string name="widget_recommend_store_detail_desc">Nedavne fotografije i svijetli trenuci iz prošlosti</string>
 	<string name="widget_talkback_custom">Galerija. Odabrane slike.</string>
 	<string name="widget_talkback_recommend">Galerija. Uspomene.</string>
-	<string name="xiaomi_account_not_exists_toast">"Mi Račun ne postoji"</string>
+	<string name="xiaomi_account_not_exists_toast">"Xiaomi Račun ne postoji"</string>
 	<string name="xiaomi_market_sdk_update_dialog_cancel">Ne sad</string>
 	<string name="xiaomi_market_sdk_update_dialog_ok">Ažuriraj</string>
 	<string name="xiaomi_market_sdk_update_dialog_title">Dostupno je ažuriranje</string>

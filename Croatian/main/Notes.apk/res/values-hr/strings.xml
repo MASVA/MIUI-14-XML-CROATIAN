@@ -42,7 +42,7 @@
     <string name="actionbar_button_up_description">Natrag</string>
     <string name="actionbar_close_description">Zatvori</string>
     <string name="actionbar_home_description">Natrag</string>
-    <string name="add_account_desc">Sinkronizirati vaše bilješke s vašim Mi Računom?</string>
+    <string name="add_account_desc">Sinkronizirati vaše bilješke s vašim Xiaomi Računom?</string>
     <string name="afternoon">PM</string>
     <string name="alarm_bar_title">Podsjetnik</string>
     <string name="alert_action_edit_anyway">Nastavi uređivati</string>
@@ -255,7 +255,7 @@ Dodirnite + da napravite mapu"</string>
     <string name="empty_folder_no_notes">Nema ništa</string>
     <string name="empty_note_mark_privacy_error">"Ne mogu sakriti praznu bilješku"</string>
     <string name="enable_sync">Sinkroniziraj</string>
-    <string name="enable_sync_desc">Sinkronizirati vaše bilješke s vašim Mi Računom (%1$s)?</string>
+    <string name="enable_sync_desc">Sinkronizirati vaše bilješke s vašim Xiaomi Računom (%1$s)?</string>
     <string name="error_contact_not_exist">"Kontakt ne postoji"</string>
     <string name="error_hide_empty_note">"Ne mogu sakriti praznu bilješku"</string>
     <string name="error_icon_content_description">Pogreška</string>
@@ -315,7 +315,6 @@ Dodirnite + da napravite mapu"</string>
     <string name="hover_font_second_level">MD: ## razmak</string>
     <string name="hover_font_third_level">MD: ### razmak</string>
     <string name="hover_gallery">Galerija</string>
-    <string name="hover_hightlight">Istakni</string>
     <string name="hover_italic">MD: *Tekst* razmak</string>
     <string name="hover_orderlist">MD: 1. razmak</string>
     <string name="hover_quote">MD: > razmak</string>
@@ -975,7 +974,6 @@ Dopustite aplikaciji Bilješke snimanje zvuka."</string>
     <string name="toolbar_undo_description">Poništi</string>
     <string name="toolbar_voice_description">Glas</string>
     <string name="trash_folder_name">Smeće</string>
-    <string name="trash_folder_reminder">Bilješke koje izbrišete trajno će biti izbrisane nakon %1$d dana.</string>
     <string name="trash_folder_reminder_new">Bilješke se čuvaju u smeću %d dana prije nego što se trajno izbrišu</string>
     <string name="tuesday">Utorak</string>
     <string name="tuesday_short">Uto</string>

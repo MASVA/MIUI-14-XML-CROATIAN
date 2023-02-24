@@ -677,6 +677,7 @@ Ovaj problem može biti uzrokovan dvofaktorskom autentifikacijom računa. Pokuš
     <string name="message_all_body">Cijeli tekst e-pošte</string>
     <string name="message_body_load_set_description">Učitaj e-poštu pri korištenju mobilnih podataka</string>
     <string name="message_discarded">Skica je odbačena</string>
+	 <string name="message_forward_has_signature_pdf">Prosljeđujete li s potpisanim PDF privicima?</string>
     <string name="message_invite_accept">Da</string>
     <string name="message_invite_calendar_download_prompt">Preuzmite Kalendar da biste mogli koristiti ovu značajku</string>
     <string name="message_invite_calendar_view">Prikaži u Kalendaru</string>

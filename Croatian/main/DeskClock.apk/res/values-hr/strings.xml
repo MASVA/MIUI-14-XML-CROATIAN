@@ -42,6 +42,7 @@
     <string name="add_timezone_title">Dodaj vremensku zonu</string>
     <string name="agree">Prihvaćam</string>
     <string name="alarm_alert_alert_silenced">Alarm utišan nakon %1$s min.</string>
+	 <string name="alarm_alert_close_entrance">Isključi</string>
     <string name="alarm_alert_disabled">Isključeno</string>
     <string name="alarm_alert_now">%s alarm</string>
     <string name="alarm_alert_snooze_button">Odgodi</string>
@@ -56,6 +57,7 @@
     <string name="alarm_list_title">Alarm</string>
     <string name="alarm_notify_snooze_label">%s odgođeno</string>
     <string name="alarm_notify_text">Odgodite ili obustavite alarm.</string>
+	 <string name="alarm_permanent_alert">Zvonjenje</string>
     <string name="alarm_repeat">Ponovi</string>
     <string name="alarm_ringtone">Melodije zvona alarma</string>
     <string name="alarm_ringtone_picker">Alarmi</string>
@@ -409,8 +411,10 @@ mm"</string>
     <string name="notification_adv_time_entries3"><xliff id="MINUTES" refersto="30">%d</xliff> minuta unaprijed</string>
     <string name="notification_adv_time_entries4"><xliff id="HOUR" refersto="1">%d</xliff> sat unaprijed</string>
     <string name="notification_adv_time_entries5">Ništa</string>
+	 <string name="notification_permission_desc">"Ako ne odobrite dopuštenja za obavijesti, nećete moći isključiti alarme kada zazvone. Odobriti sada?"</string>
     <string name="oneshot_alarm">Izbriši alarm nakon isklj.</string>
     <string name="open_keep_screen">Zaslon će ostati uključen</string>
+	 <string name="open_notification_permission_remind">Dopusti obavijestima da bi mogle isključiti alarme</string>
     <string name="open_sleep_record">Uključi</string>
     <string name="other_category_title">Ostalo</string>
     <string name="other_settings">Dodatne postavke</string>
