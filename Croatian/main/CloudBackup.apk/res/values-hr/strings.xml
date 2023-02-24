@@ -131,7 +131,7 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Xiaomi
     <string name="cloud_back_up_opening">Samo trenutak…</string>
     <string name="cloud_back_up_subscribe_vip_confirm">Nadogradi</string>
     <string name="cloud_back_up_subscribe_vip_discription">Dobijte više prostora za pohranu dnevnih Sig. kopija i više.</string>
-    <string name="cloud_back_up_subscribe_vip_title">Nadogradi Mi Račun</string>
+    <string name="cloud_back_up_subscribe_vip_title">Nadogradi Xiaomi Račun</string>
     <string name="cloud_back_up_task">Izrada Sig. kopije…</string>
     <string name="cloud_backup">Xiaomi Cloud Sig. kopije</string>
     <string name="cloud_backup_derail_size_summary">Veličina: %s</string>
@@ -344,7 +344,7 @@ Molimo pošaljite ovaj kod tehničaru."</string>
     <string name="network_error">Povežite se s mrežom</string>
     <string name="network_error_info">Dogodila se mrežna pogreška. Provjerite postavke mreže i pokušajte ponovno.</string>
     <string name="network_timeout_info">"Ne mogu se povezati s mrežom. Pokušajte ponovo."</string>
-    <string name="no_account">Niste prijavljeni u Mi Račun.</string>
+    <string name="no_account">Niste prijavljeni u Xiaomi Račun.</string>
     <string name="no_backup">Nema Sig. kopija na Xiaomi Cloudu</string>
     <string name="not_set">Nije postavljeno</string>
     <string name="notification_channel_remind">Podsjetnik</string>

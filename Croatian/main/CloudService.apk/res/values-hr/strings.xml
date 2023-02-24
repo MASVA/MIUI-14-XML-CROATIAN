@@ -32,7 +32,7 @@
     <string name="accept_all_positive">Odaberi</string>
     <string name="accept_use_permissions">Odobri</string>
     <string name="access_denied">Pristup odbijen</string>
-    <string name="account_related">Vaš uređaj je povezan s postojećim Mi Računom (%s). Povežite se na mrežu da potvrdite uređaj.</string>
+    <string name="account_related">Vaš uređaj je povezan s postojećim Xiaomi Računom (%s). Povežite se na mrežu da potvrdite uređaj.</string>
     <string name="actionbar_button_up_description">Natrag</string>
     <string name="activate_find_device_success">Pronađi uređaj je aktiviran.</string>
     <string name="activate_finddevice">Povežite se na mrežu da aktivirate uređaj</string>
@@ -138,7 +138,7 @@
     <string name="error_server_busy">Naši su poslužitelji zauzeti. Pričekajte minutu-dvije i pokušajte ponovo.</string>
     <string name="error_server_error">Pogreška poslužitelja</string>
     <string name="error_timeout">Zahtjev je istekao</string>
-    <string name="error_token_expired">Ponovno se prijavite na svoj Mi Račun</string>
+    <string name="error_token_expired">Ponovno se prijavite na svoj Xiaomi Račun</string>
     <string name="error_unknown">"Ne mogu se prijaviti"</string>
     <string name="error_unsupported">"Ova značajka nije podržana na ovom uređaju"</string>
     <string name="expand_button_title">Napredno</string>
@@ -252,20 +252,20 @@
     <string name="micloud_all_sub_resend_inter_sms_with_charge_hint">"Da biste uključili Pronađi uređaj i Xiaomi Cloud usluge, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>međunarodna plaćena SMS poruka&lt;/b>&lt;/font> biti će poslana automatski.&lt;br/>Kada promjenite SIM kartice, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>međunarodna plaćena SMS poruka&lt;/b>&lt;/font> biti će automatski poslana radi ponovne aktivacije.&lt;br/>Sve naknade za SMS generirane gore navedenim radnjama naplatit će vaš operater. Xiaomi vam neće naplatiti ove poruke."</string>
     <string name="micloud_confusion_account_hint">"Promjene koje napravite na ovom uređaju biti će sinkronizirane na svim vašim uređajima. Da biste zaštitili svoj račun, preporučujemo da isključite sinkronizaciju na drugim uređajima kada ih ne koristite."</string>
     <string name="micloud_confusion_account_name">"Račun: "</string>
-    <string name="micloud_confusion_account_notify_text">Drugi uređaj mijenja vaš Mi Račun. Potvrdite Vaš korisnički račun sada.</string>
+    <string name="micloud_confusion_account_notify_text">Drugi uređaj mijenja vaš Xiaomi Račun. Potvrdite Vaš korisnički račun sada.</string>
     <string name="micloud_confusion_account_notify_title">Potvrda računa</string>
-    <string name="micloud_confusion_account_question">Da li ovaj ID Mi Računa: %s pripada vama?</string>
-    <string name="micloud_confusion_account_title">Mi Račun</string>
-    <string name="micloud_confusion_alert_message">%s mijenja informacije Mi Računa.</string>
+    <string name="micloud_confusion_account_question">Da li ovaj ID Xiaomi Računa: %s pripada vama?</string>
+    <string name="micloud_confusion_account_title">Xiaomi Račun</string>
+    <string name="micloud_confusion_alert_message">%s mijenja informacije Xiaomi Računa.</string>
     <string name="micloud_confusion_alert_negative">Kasnije</string>
     <string name="micloud_confusion_alert_positive">Detalji</string>
     <string name="micloud_confusion_alert_title">Drugi uređaj mijenja vaš račun</string>
     <string name="micloud_confusion_cancel">Odustani</string>
-    <string name="micloud_confusion_check_account_title">Prijavite se na vaš Mi Račun da ponovno aktivirate Xiaomi Cloud.</string>
-    <string name="micloud_confusion_entrance_hint">"Nemojte se prijavljivati na vaš Mi Račun putem javnih uređaja."</string>
+    <string name="micloud_confusion_check_account_title">Prijavite se na vaš Xiaomi Račun da ponovno aktivirate Xiaomi Cloud.</string>
+    <string name="micloud_confusion_entrance_hint">"Nemojte se prijavljivati na vaš Xiaomi Račun putem javnih uređaja."</string>
     <string name="micloud_confusion_entrance_notify_text">Dodirnite za prikaz detalja.</string>
     <string name="micloud_confusion_entrance_notify_title">Drugi uređaj mijenja vaš račun</string>
-    <string name="micloud_confusion_entrance_question">Jeste li nedavno radili izmjene na vašem Mi Računu pomoću %s?</string>
+    <string name="micloud_confusion_entrance_question">Jeste li nedavno radili izmjene na vašem Xiaomi Računu pomoću %s?</string>
     <string name="micloud_confusion_entrance_title">Podaci su promijenjeni</string>
     <string name="micloud_confusion_finish_hint">"Promjene koje napravite na ovom uređaju biti će sinkronizirane na svim vašim uređajima. Da bi zaštitili vaš račun, preporučujemo da isključite sinkronizaciju na drugim uređajima kada ih ne koristite."</string>
     <string name="micloud_confusion_finish_message">Isključite sinkronizaciju za druge uređaje.</string>
@@ -278,7 +278,7 @@
     <string name="micloud_confusion_setting_question">Isključite sinkronizaciju za druge uređaje povezane s vašim računom.</string>
     <string name="micloud_confusion_setting_title">Previše uređaja</string>
     <string name="micloud_confusion_toast_confirm">Uređaj potvrđen</string>
-    <string name="micloud_confusion_toast_deny">Prijavite se u vaš Mi Račun</string>
+    <string name="micloud_confusion_toast_deny">Prijavite se u vaš Xiaomi Račun</string>
     <string name="micloud_confusion_yes">Da</string>
     <string name="micloud_dspt_provision">Koristite Xiaomi Cloud za sinkronizaciju podataka, lociranje vašeg uređaja i dijeljenje stavki s prijateljima.</string>
     <string name="micloud_dspt_provision_china">Koristite Xiaomi Cloud za sinkronizaciju podataka, lociranje vašeg uređaja i dijeljenje stavki s prijateljima.</string>
@@ -296,7 +296,7 @@
     <string name="micloud_find_device_close_progress">Isključivanje Pronađi uređaj…</string>
     <string name="micloud_find_device_common_sms_alert_with_charge_hint">"&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>plaćena SMS poruka&lt;/b>&lt;/font> bit će poslana automatski za aktiviranje ove usluge.&lt;br/>Kada promjenite SIM kartice, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>plaćena SMS poruka&lt;/b>&lt;/font> biti će poslana automatski radi ponovne aktivacije.&lt;br/>Sve naknade za SMS generirane gore navedenim radnjama naplatit će vaš operater. Xiaomi vam neće naplatiti ove poruke."</string>
     <string name="micloud_find_device_domestic_sms_alert_with_charge_hint">"&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domaća plaćena SMS poruka&lt;/b>&lt;/font> bit će poslana automatski za aktiviranje ove usluge.&lt;br/>Kada promjenite SIM kartice, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domaća plaćena SMS poruka&lt;/b>&lt;/font> biti će poslana automatski radi ponovne aktivacije.&lt;br/>Sve naknade za SMS generirane gore navedenim radnjama naplatit će vaš operater. Xiaomi vam neće naplatiti ove poruke."</string>
-    <string name="micloud_find_device_guide_alert_content">"Pronađi uređaj povezan je s vašim Mi Računom. Morate postaviti zaporku ili unijeti zaporku koju ste postavili. Pazite da uvijek zapamtite svoj ID Mi Računa i zaporku."</string>
+    <string name="micloud_find_device_guide_alert_content">"Pronađi uređaj povezan je s vašim Xiaomi Računom. Morate postaviti zaporku ili unijeti zaporku koju ste postavili. Pazite da uvijek zapamtite svoj ID Xiaomi Računa i zaporku."</string>
     <string name="micloud_find_device_guide_alert_negtive">Ne hvala</string>
     <string name="micloud_find_device_guide_alert_negtive_activate">Ne hvala</string>
     <string name="micloud_find_device_guide_alert_positive">U redu</string>
@@ -314,7 +314,7 @@
     <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat preporučuje da uključite Pronađi uređaj</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay preporučuje da uključite Pronađi uređaj</string>
     <string name="micloud_find_device_guide_progress">Uključivanje Pronađi uređaj…</string>
-    <string name="micloud_find_device_guide_title">Prijavite se na &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> sa vašim Mi Računom da locirate i zaključate uređaj, označite ga kao izgubljeni ili izbrišete podatke na daljinu. Pogledajte pojedinosti &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>here&lt;/a>.</string>
+    <string name="micloud_find_device_guide_title">Prijavite se na &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> sa vašim Xiaomi Računom da locirate i zaključate uređaj, označite ga kao izgubljeni ili izbrišete podatke na daljinu. Pogledajte pojedinosti &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>here&lt;/a>.</string>
     <string name="micloud_find_device_inter_sms_alert_with_charge_hint">""&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>međunarodna plaćena SMS poruka&lt;/b>&lt;/font> bit će poslana automatski za aktiviranje ove usluge.&lt;br/>Kada promjenite SIM kartice, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>međunarodna plaćena SMS poruka&lt;/b>&lt;/font> bit će poslana automatski za aktiviranje ove usluge.&lt;br/>Sve SMS naknade nastale gore spomenutim radnjama naplatit će vaš operater. Xiaomi vam neće naplatiti ove poruke."</string>
     <string name="micloud_find_device_open_fail">"Ne mogu uključiti Pronađi uređaj"</string>
     <string name="micloud_find_device_verify_button">Ponovno aktiviraj Pronađi uređaj</string>
@@ -715,11 +715,11 @@ Podaci o lokaciji možda se neće prijaviti kada je mrežna veza loša."</string
     <string name="share_sdk_pref_category_search_local_title">Kontakti</string>
     <string name="share_sdk_pref_category_title_scan_qr_code">Skeniraj QR kod</string>
     <string name="share_sdk_pref_family_detail_title">Pogledajte detalje obiteljske grupe</string>
-	 <string name="share_sdk_privacy_link_description">Pročitajte i prihvatite <u><a href="https://account.xiaomi.com/about/protocol/privacy">Pravila o privatnosti Mi Računa</a></u> prije korištenja ove usluge.</string>
+	 <string name="share_sdk_privacy_link_description">Pročitajte i prihvatite <u><a href="https://account.xiaomi.com/about/protocol/privacy">Pravila o privatnosti Xiaomi Računa</a></u> prije korištenja ove usluge.</string>
     <string name="share_sdk_qr_code_description">"Pozivnica od %1$s"</string>
     <string name="share_sdk_qr_code_expire_time">Rok valjanosti QR koda: %1$s</string>
     <string name="share_sdk_resend_invitation_times_exceed">Previše odlaznih pozivnica. Pokušajte ponovo za 24 sata.</string>
-    <string name="share_sdk_search_hint">Broj telefona/ID Mi Računa</string>
+    <string name="share_sdk_search_hint">Broj telefona/ID Xiaomi Računa</string>
     <string name="share_sdk_search_online">Traži online %1$s</string>
     <string name="share_sdk_share_entrance_title">Dodajte članove</string>
     <string name="share_sdk_suggest_member_pref_summary">Algoritam preporuke pruža Xiaomi Cloud</string>
@@ -728,8 +728,8 @@ Podaci o lokaciji možda se neće prijaviti kada je mrežna veza loša."</string
     <string name="share_sdk_user_info_already_invited">Pozivnica poslana</string>
     <string name="share_sdk_user_info_already_shared">Podijeljeno</string>
     <string name="share_sdk_user_info_family_suffix">" (Član obitelji)"</string>
-    <string name="share_sdk_user_info_no_account_id">"Ova osoba nema Mi Račun"</string>
-    <string name="share_sdk_user_info_no_bind_phone_number">"Ovaj Mi Račun nije povezan s brojem telefona"</string>
+    <string name="share_sdk_user_info_no_account_id">"Ova osoba nema Xiaomi Račun"</string>
+    <string name="share_sdk_user_info_no_bind_phone_number">"Ovaj Xiaomi Račun nije povezan s brojem telefona"</string>
     <string name="share_sdk_user_info_phone_number">Broj telefona: %1$s</string>
     <string name="share_sdk_user_info_role_format">Uloga: %1$s</string>
     <string name="share_sdk_user_info_role_organizer">Organizator</string>
@@ -790,7 +790,7 @@ Podaci o lokaciji možda se neće prijaviti kada je mrežna veza loša."</string
     <string name="sync_off_confirm_content">"Nećete moći sinkronizirati nove zaporke nakon isključivanja Upravitelja zaporki."</string>
     <string name="sync_off_confirm_title">Pažnja</string>
     <string name="sync_on">Uključeno</string>
-    <string name="sync_page_autofill_login">Prijavite se na Mi Račun da biste koristili Upravitelja zaporkama</string>
+    <string name="sync_page_autofill_login">Prijavite se na Xiaomi Račun da biste koristili Upravitelja zaporkama</string>
     <string name="sync_page_autofill_title">Upravitelj zaporkama</string>
     <string name="sync_page_route_message">Upravitelj zaporkama omogućuje vam šifriranje zaporki i njihovo spremanje u cloud. Želite li ga sada uključiti?</string>
     <string name="sync_page_route_not_now">Ne hvala</string>
@@ -808,7 +808,7 @@ Podaci o lokaciji možda se neće prijaviti kada je mrežna veza loša."</string
     <string name="time_picker_label_minute">M</string>
     <string name="tip_short_cut_added_success">Prečac je uspješno izrađen</string>
     <string name="tip_short_cut_already_added">Izrađeno</string>
-    <string name="title_reg">Izradite Mi Račun</string>
+    <string name="title_reg">Izradite Xiaomi Račun</string>
     <string name="today">Danas</string>
     <string name="tomorrow">Sutra</string>
     <string name="trying_to_connect_to_network">Povezivanje na mrežu…</string>

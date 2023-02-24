@@ -33,6 +33,10 @@
         <item quantity="other">Dodano igara: %d</item>
         <item quantity="one">Dodana %d igra</item>
     </plurals>
+	 <plurals name="added_apps_count">
+        <item quantity="other">%d aplikcija dodano</item>
+        <item quantity="one">%d aplikcija dodana</item>
+    </plurals>
     <plurals name="app_behavior_dashboard_title_desc">
         <item quantity="other">%d aplikacija</item>
         <item quantity="one">%d aplikacija</item>
@@ -248,6 +252,14 @@
     <plurals name="exo_controls_rewind_by_amount_description">
         <item quantity="other">Premotaj unatrag %d sek.</item>
         <item quantity="one">Premotaj unatrag %d sekundu</item>
+    </plurals>
+	 <plurals name="extreme_mode_runtime_hour">
+        <item quantity="other">%s hrs</item>
+        <item quantity="one">%s hr</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_minute">
+        <item quantity="other">%s min</item>
+        <item quantity="one">%s min</item>
     </plurals>
     <plurals name="find_applications">
         <item quantity="other">Pretraži između %d aplik.</item>
@@ -594,6 +606,10 @@ Sada možete dobiti %d-dnevno besplatno probno razdoblje!"</item>
         <item quantity="other">"Pristup mreži ograničen je za &lt;font color='#ff0000'>%d&lt;/font> aplik."</item>
         <item quantity="one">"Pristup mreži ograničen je za &lt;font color='#ff0000'>%d&lt;/font> aplikaciju"</item>
     </plurals>
+	<plurals name="not_added_apps_count">
+        <item quantity="other">%d aplikacija nije dodano</item>
+        <item quantity="one">%d aplikacija nije dodana</item>
+    </plurals>
     <plurals name="notification_antivirus_title">
         <item quantity="other">%d dana bez sigurnosnih skeniranja</item>
         <item quantity="one">%d dan bez sigurnosnih skeniranja</item>
@@ -681,6 +697,10 @@ Sada možete dobiti %d-dnevno besplatno probno razdoblje!"</item>
     <plurals name="pc_battery_history_minute">
         <item quantity="other">" min"</item>
         <item quantity="one">" min"</item>
+    </plurals>
+	 <plurals name="pc_extreme_mode_count_down_title">
+        <item quantity="other">Vaš uređaj je prazan. Ulazak u stanje hibernacije za %1$d sek.</item>
+        <item quantity="one">Vaš uređaj je prazan. Ulazak u stanje hibernacije za %1$d sekundu.</item>
     </plurals>
     <plurals name="pc_main_power_center_battery_day">
         <item quantity="other">%s dana</item>

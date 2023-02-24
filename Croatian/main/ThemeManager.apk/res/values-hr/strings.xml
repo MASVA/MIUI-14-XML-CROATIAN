@@ -195,11 +195,11 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
     <string name="common_signin_button_text">Prijava</string>
     <string name="common_signin_button_text_long">Prijava uslugom Google</string>
     <string name="common_skip">Preskoči</string>
-    <string name="community_community_message_trigger_summary">Primite obavijesti o odgovorima, lajkovima i ažuriranjima statusa Mi Community putem svog Mi Računa</string>
+    <string name="community_community_message_trigger_summary">Primite obavijesti o odgovorima, lajkovima i ažuriranjima statusa Mi Community putem svog Xiaomi Računa</string>
     <string name="community_community_message_trigger_title">Obavijesti o aktivnosti</string>
     <string name="community_cta_dialog_cancel">Ne hvala</string>
     <string name="community_cta_dialog_des">"Teme trećih strana sada podržavaju Mi Community widget. Djeluje kao prečac koji vas vodi do podforuma Teme Mi Community. Tu značajku možete isključiti u Postavkama.
-Dopustite Temama da pristupaju vašem ID-u Mi Računa i Mi Community statusima koji su povezani s računom da biste ih ovdje mogli vidjeti. Također možete uključiti i isključiti obavijesti o aktivnostima Mi Comminitya u Postavkama."</string>
+Dopustite Temama da pristupaju vašem ID-u Xiaomi Računa i Mi Community statusima koji su povezani s računom da biste ih ovdje mogli vidjeti. Također možete uključiti i isključiti obavijesti o aktivnostima Mi Comminitya u Postavkama."</string>
     <string name="community_cta_dialog_ok">Dopusti</string>
     <string name="community_cta_dialog_title">Potrebno je dopuštenje</string>
     <string name="community_entrance_summary">Pronađite sadržaj koji se odnosi na teme u Mi Community. Ova značajka je podržana odabranim temama.</string>
@@ -335,7 +335,7 @@ Dopustite Temama da pristupaju vašem ID-u Mi Računa i Mi Community statusima k
     <string name="evening">PM</string>
     <string name="exchange_alert">Kupone možete dobiti tijekom naših promotivnih događanja i razmjenjivati za teme.</string>
     <string name="exchange_code_dialog_title">Pažnja</string>
-    <string name="exchange_code_not_match_account_dialog_content">Ovaj je kôd već iskoristio drugi Mi Račun. Prijavite se s tim Mi Računom i pokušajte ponovno.</string>
+    <string name="exchange_code_not_match_account_dialog_content">Ovaj je kôd već iskoristio drugi Xiaomi Račun. Prijavite se s tim Xiaomi Računom i pokušajte ponovno.</string>
     <string name="exit_extreme_mode_dialog_agree">Prihvaćam</string>
     <string name="exit_extreme_mode_dialog_cancel">Isključi</string>
     <string name="exit_extreme_mode_dialog_title">Isključi Ekstremni način</string>
@@ -603,13 +603,13 @@ dd.MM"</string>
 mm"</string>
     <string name="miui_vertical_time_format_24">"HH
 mm"</string>
-    <string name="miuishare_account_activate_confirmation">Aktiviraj Mi Račun</string>
+    <string name="miuishare_account_activate_confirmation">Aktiviraj Xiaomi Račun</string>
     <string name="miuishare_account_activate_ok">Aktiviraj</string>
     <string name="miuishare_account_login_cancel">Odustani</string>
-    <string name="miuishare_account_login_confirmation">Prijavi se u Mi Račun</string>
+    <string name="miuishare_account_login_confirmation">Prijavi se u Xiaomi Račun</string>
     <string name="miuishare_account_login_ok">Prijavite se</string>
-    <string name="miuishare_account_need_activate">Vaš Weibo račun bi trebao biti uparen s Mi Računom za dijeljenje. Aktivirajte prvo svoj Mi Račun.</string>
-    <string name="miuishare_account_need_login">Vaš Weibo račun bi trebao biti uparen s Mi Računom za dijeljenje. Prijavite se prvo na svoj Mi Račun.</string>
+    <string name="miuishare_account_need_activate">Vaš Weibo račun bi trebao biti uparen s Xiaomi Računom za dijeljenje. Aktivirajte prvo svoj Xiaomi Račun.</string>
+    <string name="miuishare_account_need_login">Vaš Weibo račun bi trebao biti uparen s Xiaomi Računom za dijeljenje. Prijavite se prvo na svoj Xiaomi Račun.</string>
     <string name="miuishare_app_name">MIUI Share</string>
     <string name="miuishare_mini_program_title">Pogledajte sliku pozadine koju sam našao!</string>
     <string name="miuishare_no_network">"Ne mogu se povezati na mrežu."</string>
@@ -791,7 +791,7 @@ mm"</string>
     <string name="pad_fold_exit_wallpaper_warning_content">"Nakon što se odjavite, nećete moći izvršiti sljedeće radnje:
 Pregledajte i koristite stavke koje ste kupili ili dodali u favorite."</string>
     <string name="pad_fold_exit_wallpaper_warning_title">Odjaviti se s Pozadine i personalizacije?</string>
-    <string name="pad_fold_log_in_theme_detail"><Data>"Pročitao sam i prihvaćam Pozadine i personalizacije &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Korisnički ugovor&lt;/a>&lt;/font> i &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Pravila o privatnosti&lt;/a>&lt;/font>, također i Mi Račun &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Korisnički ugovor&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> i &lt;a href=\"%4$s\">Pravila o privatnosti&lt;/a>&lt;/font> (za prijavu pomoću računa sustava)."</Data></string>
+    <string name="pad_fold_log_in_theme_detail"><Data>"Pročitao sam i prihvaćam Pozadine i personalizacije &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Korisnički ugovor&lt;/a>&lt;/font> i &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Pravila o privatnosti&lt;/a>&lt;/font>, također i Xiaomi Račun &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Korisnički ugovor&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> i &lt;a href=\"%4$s\">Pravila o privatnosti&lt;/a>&lt;/font> (za prijavu pomoću računa sustava)."</Data></string>
     <string name="pad_fold_log_in_wallpaper">Prijavite se u Pozadine i personalizacije</string>
     <string name="pad_fold_no_permission">Potrebna su dopuštenja za pohranu</string>
     <string name="pad_fold_no_permission_detail">Da biste mogli promijeniti postavke personalizacije i spremiti preuzete stavke, prvo dopustite ovoj značajci pristup pohrani.</string>
@@ -822,7 +822,7 @@ Pregledajte i koristite stavke koje ste kupili ili dodali u favorite."</string>
 2. Dodajte komentare i lajkove, pratite druge ljude i komunicirajte s njima."</string>
     <string name="phone_exit_theme_warning_title">Odjaviti se iz Tema?</string>
     <string name="phone_log_in_theme">Prijavite se u Teme</string>
-    <string name="phone_log_in_theme_detail"><Data>"Pročitao sam i prihvaćam Teme &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Korisnički ugovor&lt;/a>&lt;/font> i &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Pravila o privatnosti&lt;/a>&lt;/font>, kao i Mi Račun &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Korisnički ugovor&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> i &lt;a href=\"%4$s\">Pravila o privatnosti&lt;/a>&lt;/font> (za prijavu pomoću računa sustava)."</Data></string>
+    <string name="phone_log_in_theme_detail"><Data>"Pročitao sam i prihvaćam Teme &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Korisnički ugovor&lt;/a>&lt;/font> i &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Pravila o privatnosti&lt;/a>&lt;/font>, kao i Xiaomi Račun &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Korisnički ugovor&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> i &lt;a href=\"%4$s\">Pravila o privatnosti&lt;/a>&lt;/font> (za prijavu pomoću računa sustava)."</Data></string>
     <string name="playing_ringtone">Reproducira se</string>
     <string name="pm">PM</string>
     <string name="pref_lockscreen_magazine_summary">Zamijenite sliku pozadine prezentacijama slika iz različitih kategorija</string>
@@ -930,7 +930,7 @@ Sve stavke za personalizaciju koje se trenutno koriste na ovom uređaju. Zadane 
     <string name="privacy_remind_user_mode_title">Pažnja</string>
     <string name="privacy_revoke_agree_content">Povlačenje suglasnosti</string>
     <string name="privacy_revoke_agree_content_1">1. Sve narudžbe (uključujući plaćene) napravljene na Xiaomi uređajima na kojima ste koristili svoj Mi račun. Više nećete moći koristiti kupljene artikle.</string>
-    <string name="privacy_revoke_agree_content_2">2. Sve informacije o vašim lajkovima, komentarima, ocjenama i pratiteljima generiranim na Xiaomi uređajima na kojima ste koristili svoj Mi Račun.</string>
+    <string name="privacy_revoke_agree_content_2">2. Sve informacije o vašim lajkovima, komentarima, ocjenama i pratiteljima generiranim na Xiaomi uređajima na kojima ste koristili svoj Xiaomi Račun.</string>
     <string name="privacy_revoke_agree_content_5">5. Sve stavke za personalizaciju koje se trenutno koriste na ovom uređaju. Zadane postavke personalizacije bit će vraćene.</string>
     <string name="privacy_revoke_agree_data_warning">Sljedeći podaci bit će trajno izbrisani ili anonimizirani nakon povlačenja suglasnosti (osim ako je drugačije propisano zakonima i propisima ili na drugi način zahtijevaju regulatorna tijela):</string>
     <string name="privacy_revoke_succeed">Suglasnot je uspješno povučena</string>
@@ -942,8 +942,8 @@ Sve stavke za personalizaciju koje se trenutno koriste na ovom uređaju. Zadane 
     <string name="private_pad_fold_revoke_agree_detail_content_1">"1. Provjerite imate li pravo povući suglasnost prije nego što nastavite.
 2. Vaše povlačenje suglasnosti na Pravila o privatnosti Pozadina i personalizacije neće utjecati na normalno korištenje drugih Xiaomi proizvoda.
 3. Povlačenje suglasnosti je nepovratna radnja. Sigurnosno kopirajte sve važne stavke prije nego što nastavite jer bi se mogle trajno izbrisati. Imajte na umu da nećete moći preispitati svoju odluku nakon povlačenja suglasnosti. Sljedeći podaci bit će trajno izbrisani ili anonimizirani nakon povlačenja privole (osim ako je drugačije propisano zakonima i propisima ili na drugi način zahtijevaju regulatorna tijela):"</string>
-    <string name="private_pad_fold_revoke_agree_detail_content_2">"Sve narudžbe (uključujući plaćene) napravljene na Xiaomi uređajima na kojima ste koristili svoj Mi Račun. Više nećete moći koristiti kupljene artikle.
-Sve informacije o vašim lajkovima, komentarima, ocjenama i pratiteljima generiranim na Xiaomi uređajima na kojima ste koristili svoj Mi Račun.
+    <string name="private_pad_fold_revoke_agree_detail_content_2">"Sve narudžbe (uključujući plaćene) napravljene na Xiaomi uređajima na kojima ste koristili svoj Xiaomi Račun. Više nećete moći koristiti kupljene artikle.
+Sve informacije o vašim lajkovima, komentarima, ocjenama i pratiteljima generiranim na Xiaomi uređajima na kojima ste koristili svoj Xiaomi Račun.
 Sve pozadine, fontovi i melodije zvona preuzete na ovaj uređaj.
 Sve postavke dopuštenja, postavke i stavke iz predmemorije generirane na ovom uređaju.
 Sve stavke za personalizaciju koje se trenutno koriste na ovom uređaju. Zadane postavke personalizacije bit će vraćene."</string>
@@ -959,7 +959,7 @@ Ovo dopuštenje možete dati u Postavke &gt; Privatnost."</string>
     <string name="pull_down_view_refresh">Osvježi</string>
     <string name="pull_down_view_title">"Što ima novog"</string>
 	 <string name="purchased">Kupljene</string>
-    <string name="read_and_agree_account_privacy"><Data>"Pročitao sam i prihvaćam Mi Račun &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Korisnički ugovor&lt;/a>&lt;/font> i &lt;font color=\"#37A5FF\">&lt;a href=\"%4$s\">Pravila o privatnosti&lt;/a>&lt;/font>."</Data></string>
+    <string name="read_and_agree_account_privacy"><Data>"Pročitao sam i prihvaćam Xiaomi Račun &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Korisnički ugovor&lt;/a>&lt;/font> i &lt;font color=\"#37A5FF\">&lt;a href=\"%4$s\">Pravila o privatnosti&lt;/a>&lt;/font>."</Data></string>
     <string name="recently_used">Nedavno korišteno</string>
     <string name="recommend_trigger">Prilagođene preporuke</string>
     <string name="recommend_trigger_summary">Uključite da primate preporuke na temelju svojih sklonosti</string>
@@ -978,7 +978,7 @@ Ovo dopuštenje možete dati u Postavke &gt; Privatnost."</string>
     <string name="resource_account_abnormal_state">Pogreška računa. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
     <string name="resource_account_fail_to_add">"Ne mogu dodati račun"</string>
     <string name="resource_account_login">Prijavite se</string>
-    <string name="resource_account_login_before_action">Prijavite se na vaš Mi Račun.</string>
+    <string name="resource_account_login_before_action">Prijavite se na vaš Xiaomi Račun.</string>
     <string name="resource_account_login_title">Prijavite se</string>
     <string name="resource_account_switch">Promjena računa</string>
     <string name="resource_alarm_default">Alarm</string>
@@ -1298,7 +1298,7 @@ Ovo dopuštenje možete dati u Postavke &gt; Privatnost."</string>
     <string name="super_wallpaper_setting_coordinate_title">Koordinate</string>
     <string name="super_wallpaper_setting_view_height_title">Nadm. visina</string>
     <string name="supersave_mode_toast_message">"Ova značajka nije dostupna kada koristite Ultra štednju baterije. Isključite Ultra štednju baterije da biste je mogli koristiti."</string>
-    <string name="superwallpaper_has_bound_account_dialog_content">Ova pozadina je već povezana s drugim Mi Računom. Prijavite se s tim Mi Računom i pokušajte ponovno.</string>
+    <string name="superwallpaper_has_bound_account_dialog_content">Ova pozadina je već povezana s drugim Xiaomi Računom. Prijavite se s tim Xiaomi Računom i pokušajte ponovno.</string>
     <string name="support_theme_store_des">Dobre teme uvijek stvaraju talentirani dizajneri. Naša aplikacija sadrži malu količinu oglasa što nam omogućava da podržimo njihov rad.</string>
     <string name="support_theme_store_supported">Hvala na podršci!</string>
     <string name="support_theme_store_title">Podržite naše dizajnere</string>
@@ -1392,7 +1392,7 @@ Ovo dopuštenje možete dati u Postavke &gt; Privatnost."</string>
     <string name="theme_is_external_priority_storage_summary">Aplikacija Teme će se odmah ponovno pokrenuti za primjenu ove postavke.</string>
     <string name="theme_log_out">Odjava</string>
     <string name="theme_multiple_button_title_customize">Prilagodi</string>
-    <string name="theme_need_login_dialog_content">Prijavite se na svoj Mi Račun da biste nastavili.</string>
+    <string name="theme_need_login_dialog_content">Prijavite se na svoj Xiaomi Račun da biste nastavili.</string>
     <string name="theme_no">Ne</string>
     <string name="theme_not_include_module_desc">"Ova tema ne sadrži sljedeće stavke: %s"</string>
     <string name="theme_on_the_phone_alert">"Ne mogu reproducirati tijekom poziva"</string>
@@ -1436,7 +1436,7 @@ Ovo dopuštenje možete dati u Postavke &gt; Privatnost."</string>
     <string name="title_system_audio_notification_resource">Obavijesti sustava</string>
     <string name="title_system_audio_resource">Melodije zvona sustava</string>
     <string name="title_system_wallpaper_resource">Slike pozadine sustava</string>
-    <string name="to_activate_the_account">Aktivirajte sada svoj Mi Račun</string>
+    <string name="to_activate_the_account">Aktivirajte sada svoj Xiaomi Račun</string>
 	  <string name="toast_both_all_apply_failured">"Ne mogu primijeniti na Poč. ili Zaklj. zaslon"</string>
     <string name="toast_both_all_apply_success">Uspješno primijenjeno na Poč. i Zaklj. zaslon</string>
     <string name="toast_home_apply_failured">"Ne mogu primijeniti na Poč. zaslon"</string>

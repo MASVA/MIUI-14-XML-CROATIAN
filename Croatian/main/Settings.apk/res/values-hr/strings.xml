@@ -91,7 +91,7 @@
   <string name="access_control_no_back_footer">Dodirni [ikonu] za izlaz</string>
   <string name="access_control_password_title">Zaklj. aplikacije</string>
   <string name="access_control_recording_intro_header">Iscrtajte uzorak za otključavanje</string>
-  <string name="access_control_reset_by_account">Prijavite se na vaš Mi Račun za poništavanje zaporke</string>
+  <string name="access_control_reset_by_account">Prijavite se na vaš Xiaomi Račun za poništavanje zaporke</string>
   <string name="access_denied_info">Previše pokušaja. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
   <string name="access_point_names">Pristupne točke</string>
   <string name="accessibility_alarm_vibration_title">Vibracija alarma</string>
@@ -503,7 +503,7 @@ Da biste se prebacili na neku drugu uslugu, prijeđite s dva prsta prema gore i 
   <string name="account_autostar_label">Autom. pokretanje</string>
   <string name="account_confirmation_class" />
   <string name="account_confirmation_package" />
-  <string name="account_contact_backup_info">Podaci Google računa, Mi Računa i kontakata</string>
+  <string name="account_contact_backup_info">Podaci Google računa, Xiaomi Računa i kontakata</string>
   <string name="account_dashboard_default_summary">Spremljene zaporke, automatsko popunjavanje, sinkronizirani računi</string>
   <string name="account_dashboard_title">Zaporke i računi</string>
   <string name="account_for_section_header">Računi za korisnika %1$s</string>
@@ -515,7 +515,7 @@ Da biste se prebacili na neku drugu uslugu, prijeđite s dva prsta prema gore i 
   <string name="account_settings_menu_auto_sync_personal">Aut. sinkr. osobne podatke</string>
   <string name="account_settings_menu_auto_sync_work">Aut. sinkr. poslovne podatke</string>
   <string name="account_settings_title">Google &amp; računi</string>
-  <string name="account_summary">Sig. kopija Mi Računa, Google računa i ostalih korisničkih podataka</string>
+  <string name="account_summary">Sig. kopija Xiaomi Računa, Google računa i ostalih korisničkih podataka</string>
   <string name="account_sync_settings_title">Sinkronizacija</string>
   <string name="account_sync_summary_all_off">Sinkronizacija isključena za sve stavke</string>
   <string name="account_sync_summary_all_on">Sinkronizacija uključena za sve stavke</string>
@@ -1653,8 +1653,8 @@ u razdoblju ^2"</string>
   <string name="billing_cycle_summary">Mjesečni ciklus počinje %1$s svakog mjeseca</string>
   <string name="bind_xiaomi_account_cancel">Odustani</string>
   <string name="bind_xiaomi_account_confirm">Dodaj</string>
-  <string name="bind_xiaomi_account_dialog_summery">"Spremate se dodati Mi Račun %s. Ako ste zaboravili zaporku, možete koristiti taj račun da je poništite."</string>
-  <string name="bind_xiaomi_account_success">Mi Račun uspješno dodan</string>
+  <string name="bind_xiaomi_account_dialog_summery">"Spremate se dodati Xiaomi Račun %s. Ako ste zaboravili zaporku, možete koristiti taj račun da je poništite."</string>
+  <string name="bind_xiaomi_account_success">Xiaomi Račun uspješno dodan</string>
   <string name="binded_xiaomi_summary">Trenutni račun: %s</string>
   <string name="biometric_settings_category_ways_to_unlock">Načini otključavanja</string>
   <string name="biometric_settings_category_ways_to_use">Upotrijebite lice i otisak prsta za</string>
@@ -2179,11 +2179,11 @@ Dok ste povezani, %2$s će primati sve pozive upućene broju %3$s."</string>
   <string name="bootloader_apply_step_4">To može dovesti do razotkrivanja ili gubitka podataka, ili čak do nepopravljive štete hardvera.</string>
   <string name="bootloader_apply_step_5">Budite sigurni da znate kako se koristi Fastboot način rada prije nego što ga uključite.</string>
   <string name="bootloader_apply_title">Važno upozorenje</string>
-  <string name="bootloader_device_bind_already">Uspješno dodan. Mi Račun je sada povezan s ovim uređajem.</string>
+  <string name="bootloader_device_bind_already">Uspješno dodan. Xiaomi Račun je sada povezan s ovim uređajem.</string>
   <string name="bootloader_device_bind_exceed_sim_limit">"Nije moguće dodati više računa na ovu SIM karticu."</string>
   <string name="bootloader_device_bind_fail">"Ne mogu provjeriti, pričekajte minutu ili dvije i pokušajte ponovno"</string>
   <string name="bootloader_device_bind_msg">Priprema za dodavanje računa i uređaja…</string>
-  <string name="bootloader_device_bind_no_account">Prijavite se prvo na svoj Mi Račun</string>
+  <string name="bootloader_device_bind_no_account">Prijavite se prvo na svoj Xiaomi Račun</string>
   <string name="bootloader_device_bind_no_data_network">Isključite Wi-Fi i dodajte svoj račun i uređaj pomoću mobilnih podataka.</string>
   <string name="bootloader_device_bind_no_network">Povežite se s mrežom i pokušajte ponovno</string>
   <string name="bootloader_device_bind_no_sim">Umetnite SIM karticu i pokušajte ponovo.</string>
@@ -2195,9 +2195,9 @@ Dok ste povezani, %2$s će primati sve pozive upućene broju %3$s."</string>
   <string name="bootloader_locked_answer_1_warning">"Zapamtite: Nećete biti u mogućnosti koristiti \"Pronađi uređaj\" nakon što je telefon otključan."</string>
   <string name="bootloader_locked_answer_2">"1. Provjerite jeste li već umetnuli SIM karticu u uređaj.
 2. Isključite Wi-Fi i uključite mobilne podatke. Pazite da se uređaj može povezati s internetom pomoću mobilnih podataka.
-3. Dodirnite \"Dodaj račun\" da povežete vaš Mi Račun s ovim uređajem.
+3. Dodirnite \"Dodaj račun\" da povežete vaš Xiaomi Račun s ovim uređajem.
 4. Preuzmite alat za otključavanje s naše web stranice. Imajte na umu da biste trebali otključati uređaje pomoću računala. Preuzmite ga ovdje:"</string>
-  <string name="bootloader_locked_answer_2_no_sim">"1. Dodirnite \"Dodaj račun\" da povežete vaš Mi Račun s ovim uređajem.
+  <string name="bootloader_locked_answer_2_no_sim">"1. Dodirnite \"Dodaj račun\" da povežete vaš Xiaomi Račun s ovim uređajem.
 2. Preuzmite alat za otključavanje s naše web stranice. Imajte na umu da biste trebali otključati uređaje pomoću računala. Preuzmite ga ovdje:"</string>
   <string name="bootloader_locked_check_status">Dodaj račun i uređaj</string>
   <string name="bootloader_locked_question_1">Zašto bi uređaji trebali biti zaključani?</string>
@@ -2206,7 +2206,7 @@ Dok ste povezani, %2$s će primati sve pozive upućene broju %3$s."</string>
   <string name="bootloader_status_locked">Zaključan</string>
   <string name="bootloader_status_locked_info">Ovaj uređaj je zaključan</string>
   <string name="bootloader_status_locked_summary">Telefon je siguran</string>
-  <string name="bootloader_status_privacy_dialog_message">&lt;Data&gt;Mi Unlock treba pristup vašem Mi Računu, CPU ID-u, IMSI-u da bi normalno radio. Pročitajte i prihvatite naše &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;. Prihvaćate?&lt;/Data&gt;</string>
+  <string name="bootloader_status_privacy_dialog_message">&lt;Data&gt;Mi Unlock treba pristup vašem Xiaomi Računu, CPU ID-u, IMSI-u da bi normalno radio. Pročitajte i prihvatite naše &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;. Prihvaćate?&lt;/Data&gt;</string>
   <string name="bootloader_status_privacy_dialog_no">Odustani</string>
   <string name="bootloader_status_privacy_dialog_title">Potrebno je dopuštenje</string>
   <string name="bootloader_status_privacy_dialog_url_text">Pravila o privatnosti</string>
@@ -2218,9 +2218,9 @@ Dok ste povezani, %2$s će primati sve pozive upućene broju %3$s."</string>
   <string name="bootloader_tips">"%s
   
   
-  Ako ste već učinili nešto od gore navedenog, ponovno dodajte svoj Mi Račun; u suprotnom nećete moći otključati uređaj."</string>
+  Ako ste već učinili nešto od gore navedenog, ponovno dodajte svoj Xiaomi Račun; u suprotnom nećete moći otključati uređaj."</string>
   <string name="bootloader_tips_ok">Razumijem</string>
-  <string name="bootloader_tips_warning">"Ne odspajajte s mreže, odjaviti se s Mi Računa, raditi pvraćanje na tvorničke postavke ili brisati podatke sustava."</string>
+  <string name="bootloader_tips_warning">"Ne odspajajte s mreže, odjaviti se s Xiaomi Računa, raditi pvraćanje na tvorničke postavke ili brisati podatke sustava."</string>
   <string name="bottom_function_settings">Funkcije dodatnih tipki</string>
   <string name="bottom_to_top_slide">Povucite prema gore</string>
   <string name="bottomsheet_action_expand_halfway">Proširi donju polovicu</string>
@@ -2663,7 +2663,7 @@ https://appleid.apple.com/#!&amp;page=signin da zatvorite"</string>
   <string name="closed_beta">Stabilno (interno)</string>
   <string name="cloud_app_name">Sig. kopija Xiaomi Cloud</string>
   <string name="cloud_backup_hint">Za pristup vašim Sig. kopijama, prijavite se sada</string>
-  <string name="cloud_backup_login">Prijavite se u vaš Mi Račun</string>
+  <string name="cloud_backup_login">Prijavite se u vaš Xiaomi Račun</string>
   <string name="cloud_backup_section_title">Xiaomi Cloud Sig. kopija</string>
   <string name="cloud_backup_settings_section_title">Postavke Sig. kopije</string>
   <string name="cloud_backup_window_title">Xiaomi Cloud Sig. kopija</string>
@@ -3537,7 +3537,7 @@ Da biste pokušali riješiti taj problem, možete zaustaviti aplikaciju %1$s i s
 . Ako želite koristiti mobilne podatke, dodirnite \"Pokušaj ponovo\" ili izvadite i ponovo umetnite SIM karticu."</string>
   <string name="dialog_check_title">"Ne mogu se povezati s internetom"</string>
   <string name="dialog_chose_item">Odaberite stavku za prikaz</string>
-  <string name="dialog_content_login">Prijaviti se na vaš Mi Račun za primanje ažuriranje?</string>
+  <string name="dialog_content_login">Prijaviti se na vaš Xiaomi Račun za primanje ažuriranje?</string>
   <string name="dialog_esim_button_negative">Odustani</string>
   <string name="dialog_esim_button_positive">U redu</string>
   <string name="dialog_location_message">"Vaš telefon ne može upravljati baterijom na uobičajen način jer aplikacija %1$s neprestano zahtijeva vašu lokaciju kada je ne upotrebljavate.
@@ -3582,7 +3582,7 @@ Ako se problem ponovi, možda biste trebali deinstalirati tu aplikaciju da biste
   <string name="dialog_title_color_calibration">Odabir korekcije boja</string>
   <string name="dialog_title_font_size">Veličina fonta</string>
   <string name="dialog_title_hdmi_color_calibration">Odabir korekcije boja</string>
-  <string name="dialog_title_login">Prijavite se u vaš Mi Račun</string>
+  <string name="dialog_title_login">Prijavite se u vaš Xiaomi Račun</string>
   <string name="dialog_wifi_button_negative">Ne</string>
   <string name="dialog_wifi_button_positive">Da</string>
   <string name="dialog_wifi_context">Za postavljanje uređaja morate se povezati s internetom. Ako se ne povežete s Wi-Fi-jem, možda će se koristiti mobilni podaci. Korištenje mobilnih podataka može generirati dodatne naknade operatera. Svejedno koristiti mobilne podatke?</string>
@@ -3996,8 +3996,8 @@ Možete vidjeti generirane zapise u aplikaciji Datoteke."</string>
   <string name="enable_encrypt_description">Šifriraj</string>
   <string name="enable_encrypt_fail">Pogreška šifriranja</string>
   <string name="enable_encrypt_indicator">Dodirnite za šifriranje</string>
-  <string name="enable_encrypt_summery1">Prijavite se sa svojim Mi Računom za pristup šifriranim Sig. kopijama.</string>
-  <string name="enable_encrypt_summery2">"Vaše Sig. kopije će biti automatski šifrirane. Morate se prijaviti sa svojim Mi Računom da im možete pristupiti."</string>
+  <string name="enable_encrypt_summery1">Prijavite se sa svojim Xiaomi Računom za pristup šifriranim Sig. kopijama.</string>
+  <string name="enable_encrypt_summery2">"Vaše Sig. kopije će biti automatski šifrirane. Morate se prijaviti sa svojim Xiaomi Računom da im možete pristupiti."</string>
   <string name="enable_encrypt_title">Šifriraj Sig. kopije</string>
   <string name="enable_encrypt_xiaomi_account">Sig. kopija od %1$s, obrišite trenutni račun, i prijavite se kao %2$s da vratite korisničke podatke.</string>
   <string name="enable_freeform_support">Omogući prozore slobodnog oblika</string>
@@ -4206,7 +4206,7 @@ Više pojedinosti zatražite od administratora svoje organizacije."</string>
   <string name="erase_internal_storage_description">Izbriši glazbu, fotografije, videozapise, i ostale korisničke podatke</string>
   <string name="erase_optional">Neobavezno</string>
   <string name="erase_personal_data">Sve datoteke na ovom uređaju</string>
-  <string name="erase_personal_data_description">Izbriši informacije Mi Računa, podatke aplikacija i postavke sustava</string>
+  <string name="erase_personal_data_description">Izbriši informacije Xiaomi Računa, podatke aplikacija i postavke sustava</string>
   <string name="erase_sd_data">Formatiraj SD karticu</string>
   <string name="erase_sd_data_description">Formatiranje će izbrisati sve podatke na SD kartici</string>
   <string name="erase_sim_confirm_button">Izbriši</string>
@@ -4386,7 +4386,7 @@ okrenut prema vanjskom zaslonu"</string>
   <string name="fallback_home_title">Samo trenutak…</string>
   <string name="fcc_equipment_id">ID opreme</string>
   <string name="feature_flags_dashboard_title">Oznake značajki</string>
-  <string name="feature_title_account">Mi Račun</string>
+  <string name="feature_title_account">Xiaomi Račun</string>
   <string name="feature_title_antispam">Popis blokiranih</string>
   <string name="feature_title_call_log">Povijest poziva</string>
   <string name="feature_title_contacts">Kontakti</string>
@@ -4470,7 +4470,7 @@ Da biste saznali više, obratite se operateru."</string>
   <string name="find_my_device">Pronađi uređaj</string>
   <string name="find_my_device_disable">Isključeno</string>
   <string name="find_my_device_enable">Uključeno</string>
-  <string name="find_my_device_summary">Ova značajka zahtijeva prijavu u Mi Račun</string>
+  <string name="find_my_device_summary">Ova značajka zahtijeva prijavu u Xiaomi Račun</string>
   <string name="findlost_contact">Vrati kontakte</string>
   <string name="findlost_contact_online">Vrati kontakte s Xiaomi Clouda</string>
   <string name="finger_add_user_info_dialog_cancel">Odustani</string>
@@ -4690,8 +4690,8 @@ Na ulicama je bilo mnogo ljudi, muškaraca, žena i djece, i svi su bili odjeven
   <string name="forget_password_dialog_content_two">Slijedite ove korake da biste izbrisali podatke:</string>
   <string name="forget_password_dialog_title">Brisanje podataka</string>
   <string name="forget_pattern"><u>Zaboravili ste uzorak?</u></string>
-  <string name="forget_privacy_password_setting">Dodaj Mi Račun</string>
-  <string name="forget_privacy_password_summary">Upotrijebite Mi Račun za poništavanje vaše zaporke</string>
+  <string name="forget_privacy_password_setting">Dodaj Xiaomi Račun</string>
+  <string name="forget_privacy_password_summary">Upotrijebite Xiaomi Račun za poništavanje vaše zaporke</string>
   <string name="forget_wifi_message">Vaš će se telefon prestati automatski povezivati na ovu mrežu.</string>
   <string name="forgot_password_text">Može vam pomoći s poništavanjem PIN-a, uzorka ili zaporke</string>
   <string name="forgot_password_title">Obratite se IT administratoru</string>
@@ -5072,7 +5072,7 @@ Područje u kojem možete potvrditi zaključavanje zaslona pomaknut će se udesn
   <string name="headset_notification_switch_summary">Prikažite status na widgetu Panela obavijesti kada su povezane slušalice</string>
   <string name="headset_notification_switch_title">Widget Panela obavijesti</string>
   <string name="headset_remove_message">Želite li ukloniti ovaj uređaj sa svog računa?</string>
-  <string name="headset_remove_message_indicate">%1$s neće biti uparen sa svim uređajima povezanim s ovim Mi Računom</string>
+  <string name="headset_remove_message_indicate">%1$s neće biti uparen sa svim uređajima povezanim s ovim Xiaomi Računom</string>
   <string name="headset_sbc">SBC</string>
   <string name="headset_settings_title">Efekti zvuka</string>
   <string name="headset_silent_upgrade_switch_summary">"Automatski ažuriraj firmware slušalica kada se ispune svi potrebni uvjeti"</string>
@@ -5141,7 +5141,7 @@ Ova metoda omogućuje vam spremanje postavki sustava, računa, podataka aplikaci
 "</string>
   <string name="how_backup_title">1. Kako mogu sigurnosno kopirati stavke?</string>
   <string name="how_encrypt_content">"Možete šifrirati samo lokalne Sig. kopije. Postoje dva načina za to:
-a) Otvorite stranicu s lokalnim Sig. kopijama, dodirnite tipku za uključivanje šifriranja i prijavite se na svoj Mi Račun. Rezervne kopije automatski će se šifrirati nakon toga. Imajte na umu da ćete se morati prijaviti na svoj Mi Račun kako biste vratili stavke iz šifriranih Sig. kopija.
+a) Otvorite stranicu s lokalnim Sig. kopijama, dodirnite tipku za uključivanje šifriranja i prijavite se na svoj Xiaomi Račun. Rezervne kopije automatski će se šifrirati nakon toga. Imajte na umu da ćete se morati prijaviti na svoj Xiaomi Račun kako biste vratili stavke iz šifriranih Sig. kopija.
 b) Ako za izradu Sig. kopije stavki koristite Mi PC Suite, tamo možete koristiti mogućnosti šifriranja.
 
 Napomena:
@@ -5154,7 +5154,7 @@ Lokalne Sig. kopije:
 Kopirajte datoteku Sig. kopije s računala na uređaj (MIUI-backup-AllBackup). Idite u Postavke &gt; Izradi Sig. kopiju, vrati ili resetiraj &gt; Na ovom uređaju odaberite datoteku Sig. kopije.
 
 Cloud Sig. kopije:
-Prijavite se na svoj Mi Račun, idite u Postavke &gt; Izradi Sig. kopiju, vrati ili resetiraj &gt; U Xiaomi Cloudu, i odaberite datoteku Sig. kopije.
+Prijavite se na svoj Xiaomi Račun, idite u Postavke &gt; Izradi Sig. kopiju, vrati ili resetiraj &gt; U Xiaomi Cloudu, i odaberite datoteku Sig. kopije.
 
 USB Sig. kopije:
 Kopirajte datoteku Sig. kopije na vaš uređaj (MIUI-backup-AllBackup). Idite u Postavke &gt; Izradi Sig. kopiju, vrati ili resetiraj &gt; Na ovom uređaju i odaberite datoteku Sig. kopije.
@@ -5217,7 +5217,7 @@ prvo morate izraditi iCloud Sig. kopiju."</string>
   <string name="import_from_xiaomi_account_hint1">"1.\u0009Preuzmite Mi Talk aplikaciju i prijavite se.
 \u0009http://www.miliao.com
 
-2.\u0009Idite u Mi Talk postavke i odaberite ”Pohrani kontakte na Mi Račun”"</string>
+2.\u0009Idite u Mi Talk postavke i odaberite ”Pohrani kontakte na Xiaomi Račun”"</string>
   <string name="import_from_xiaomi_account_hint2">Ako već imate napravljenu Sig. kopiju, dodirnite Dalje.</string>
   <string name="import_from_xiaomi_account_hint_title">Koristite Mi Talk za Sig. kopiju kontakata između uređaja</string>
   <string name="import_tip_summary">Zbog problema s kompatibilnošću možete prenositi samo djelomične podatke s iOS uređaja. Svakako izradite Sig. kopiju na iCloud prije pokretanja prijenosa.</string>
@@ -6252,8 +6252,8 @@ Povežite barem 4 točke."</string>
   <string name="lockscreen_trivial_controls_summary">Kontrolirajte vanjske uređaje bez otključavanja telefona ili tableta ako to dopušta aplikacija za upravljanje uređajem</string>
   <string name="lockscreen_trivial_disabled_controls_summary">Za upotrebu najprije uključite opciju \"Prikaži kontrole uređaja\".</string>
   <string name="login">Prijava</string>
-  <string name="login_account_dialog_message">Prijavite se sa Mi Računom i uključite sinkronizaciju s Xiaomi Cloudom.</string>
-  <string name="login_account_dialog_title">Prijavite se sa Mi Računom</string>
+  <string name="login_account_dialog_message">Prijavite se sa Xiaomi Računom i uključite sinkronizaciju s Xiaomi Cloudom.</string>
+  <string name="login_account_dialog_title">Prijavite se sa Xiaomi Računom</string>
   <string name="login_account_summary">Upravljanje računima, uslugama u oblaku, plaćanjima i još mnogo toga</string>
   <string name="login_account_summary_temp">Upravljajte računima, uslugama u cloudu i još mnogo toga</string>
   <string name="login_action">Prijavite se</string>
@@ -6760,13 +6760,13 @@ Ne možete poništiti ovu radnju!"</string>
   <string name="miheadset_triple_click_key_mode_summary">Promijeni trostruki način rada tipke</string>
   <string name="miheadset_triple_press_left">Triput pritisnite lijevu slušalicu</string>
   <string name="miheadset_triple_press_right">Triput pritisnite desnu slušalicu</string>
-  <string name="miheadset_unpair_device_text">%1$s bit će rasparen sa svih uređaja povezanih s ovim Mi Računom.</string>
+  <string name="miheadset_unpair_device_text">%1$s bit će rasparen sa svih uređaja povezanih s ovim Xiaomi Računom.</string>
   <string name="miheadset_virtual_surround">Virtualni impresivan zvuk</string>
   <string name="miheadset_virtual_surround_summary">"Obogatite dubinu zvuka za reprodukciju zvuka i videa u slušalicama. Ova značajka neće raditi kada se reproducira %s audio kanal."</string>
   <string name="miheadset_voiceIncrease">Pojačajte glas</string>
   <string name="miheadset_voice_control_summary">Kada je ova značajka uključena, možete reći Mi AI-u da upravlja vašim uređajem ili kontrolira reprodukciju zvuka pomoću glasovnih naredbi</string>
   <string name="miheadset_windnoise">Vjetar</string>
-  <string name="miliao_account_guide">Koristite svoj Mi Račun za prijavu na Xiaomi Cloud, MIUI Teme, te druge Mi Usluge, s bilo kojeg mjesta.</string>
+  <string name="miliao_account_guide">Koristite svoj Xiaomi Račun za prijavu na Xiaomi Cloud, MIUI Teme, te druge Mi Usluge, s bilo kojeg mjesta.</string>
   <string name="miliao_account_login">Prijavite se s Mi Talk</string>
   <string name="mipush_fake_channel_group_name">Mi Push</string>
   <string name="miracast_PC2THOR_streaming_on">Miracast nije dostupan jer računalo emitira na ovaj uređaj</string>
@@ -8321,7 +8321,7 @@ Pročitajte i pristanite na %s prije korištenja ove usluge."</string>
   <string name="path_wifi_wapi_cert_install">Postavke/Wi-Fi/Napredne postavke/Instaliraj WAPI certifikat</string>
   <string name="path_wifi_wapi_cert_uninstall">Postavke/Wi-Fi/Napredne postavke/Deinstaliraj WAPI certifikat</string>
   <string name="path_wps_connect_title">Postavke/Wi-Fi/Napredne postavke/WPS tipka</string>
-  <string name="path_xiaomi_account">Postavke/Mi Račun</string>
+  <string name="path_xiaomi_account">Postavke/Xiaomi Račun</string>
   <string name="path_xiaomi_cloud_service">Aplikacije</string>
   <string name="path_xiaomi_money_service">Aplikacije</string>
   <string name="path_xspace">Postavke/Dvojne aplikacije</string>
@@ -8748,9 +8748,9 @@ istovremeno pritisnite tipku za uključivanje/isključivanje i tipku za glasnoć
   <string name="privacy_notes">Bilješke</string>
   <string name="privacy_password">Zaporka zaštite privatnosti</string>
   <string name="privacy_password_add_account">Dodaj</string>
-  <string name="privacy_password_add_account_info">Dodajte svoj Mi Račun da bi mogli poništiti zaporku u slučaju da ste je zaboravili</string>
+  <string name="privacy_password_add_account_info">Dodajte svoj Xiaomi Račun da bi mogli poništiti zaporku u slučaju da ste je zaboravili</string>
   <string name="privacy_password_add_account_setting">Račun &amp; privatnost</string>
-  <string name="privacy_password_bind_account">Dodaj Mi Račun</string>
+  <string name="privacy_password_bind_account">Dodaj Xiaomi Račun</string>
   <string name="privacy_password_bind_account_immediate">Dodaj</string>
   <string name="privacy_password_confirm_SecondSpace_Password">Potvrdite zaporku Drugog prostora</string>
   <string name="privacy_password_confirm_use_finger">Otključajte pomoću otiska prsta</string>
@@ -8765,9 +8765,9 @@ istovremeno pritisnite tipku za uključivanje/isključivanje i tipku za glasnoć
   <string name="privacy_password_never_remind">"Ne pitaj ponovno"</string>
   <string name="privacy_password_not_add_account">Ne sada</string>
   <string name="privacy_password_not_login_account">"Niste prijavljeni"</string>
-  <string name="privacy_password_remind_bind_notlogin_account">Dodajte svoj Mi Račun da bi mogli poništiti zaporku u slučaju da ste je zaboravili.</string>
-  <string name="privacy_password_remind_bindaccont_message">Dodajte svoj Mi Račun (%s) da bi mogli poništiti zaporku u slučaju da ste je zaboravili.</string>
-  <string name="privacy_password_remind_bindaccount_title">Dodaj Mi Račun</string>
+  <string name="privacy_password_remind_bind_notlogin_account">Dodajte svoj Xiaomi Račun da bi mogli poništiti zaporku u slučaju da ste je zaboravili.</string>
+  <string name="privacy_password_remind_bindaccont_message">Dodajte svoj Xiaomi Račun (%s) da bi mogli poništiti zaporku u slučaju da ste je zaboravili.</string>
+  <string name="privacy_password_remind_bindaccount_title">Dodaj Xiaomi Račun</string>
   <string name="privacy_password_settings">Upotrijebi Zaporku zaštite privatnosti</string>
   <string name="privacy_password_settings_next">Dalje</string>
   <string name="privacy_password_settings_summary">Zaporka zaštite privatnosti koristi se za aplikacije koje mogu sadržavati osjetljive informacije</string>
@@ -8802,10 +8802,10 @@ istovremeno pritisnite tipku za uključivanje/isključivanje i tipku za glasnoć
   <string name="private_dns_mode_provider_hostname_hint">Unesite naziv hosta davatelja usluge DNS-a</string>
   <string name="private_gallery_need_to_unlock">Unesite zaporku</string>
   <string name="private_gallery_recording_intro_header">Iscrtajte uzorak otključavanja</string>
-  <string name="private_gallery_reset_by_account">Za poništavanje zaporke, prijavite se na vaš Mi Račun</string>
+  <string name="private_gallery_reset_by_account">Za poništavanje zaporke, prijavite se na vaš Xiaomi Račun</string>
   <string name="private_sms_need_to_unlock">Unesite zaporku</string>
   <string name="private_sms_recording_intro_header">Iscrtajte uzorak otključavanja</string>
-  <string name="private_sms_reset_by_account">Za poništavanje zaporke, prijavite se na vaš Mi Račun</string>
+  <string name="private_sms_reset_by_account">Za poništavanje zaporke, prijavite se na vaš Xiaomi Račun</string>
   <string name="privileged_action_disable_fail_text">Nešto je pošlo po zlu i onemogućivanje mobilnog operatera nije uspjelo.</string>
   <string name="privileged_action_disable_fail_title">Onemogućivanje mobilnog operatera nije uspjelo</string>
   <string name="privileged_action_disable_sub_dialog_progress">Isključivanje SIM-a…</string>
@@ -9131,7 +9131,7 @@ Ponovo pokrenite uređaj i pokušajte još jednom."</string>
   <string name="reset_second_space_passwd">Poništi zaporku Drugog prostora</string>
   <string name="reset_second_space_passwd_cancel">Odustani</string>
   <string name="reset_second_space_passwd_confirm">Nastavi</string>
-  <string name="reset_second_space_passwd_detail">Unesite zaporku Mi Računa koji se koristi u Prvom prostoru</string>
+  <string name="reset_second_space_passwd_detail">Unesite zaporku Xiaomi Računa koji se koristi u Prvom prostoru</string>
   <string name="reset_shortcut_manager_throttling">Poništi ograničavanje brzine ShortcutManagera</string>
   <string name="reset_shortcut_manager_throttling_complete">Ograničavanje brzine ShortcutManagera poništeno je</string>
   <string name="reset_title">Poništi</string>
@@ -9298,7 +9298,7 @@ Podaci koji nisu uvezeni moraju se ponovno uvesti."</string>
   <string name="sc_internal_server_error">Interna greška poslužitelja</string>
   <string name="sc_network_unavailable">Provjerite vezu i pokušajte ponovno.</string>
   <string name="sc_others">Došlo je do pogreške</string>
-  <string name="sc_precondition_failed">Morate prvo dodati adresu e-pošte na vaš Mi Račun</string>
+  <string name="sc_precondition_failed">Morate prvo dodati adresu e-pošte na vaš Xiaomi Račun</string>
   <string name="sc_request_timeout">Zahtjev je istekao</string>
   <string name="sc_service_unavailable">Xiaomi Cloud nedostupan</string>
   <string name="sc_unaccess_password_file">"Ne mogu naći zaporku Wi-Fi mreže"</string>
@@ -9790,7 +9790,7 @@ Kako upotrebljavati prikvačivanje aplikacije: \u0009
   <string name="search_tts_settings_title">Pretvaranje teksta u govor;Tekst-u-govor</string>
   <string name="search_turn_on_security_lock">Odaberite Zaklj. zaslona;Zaklj. zaslon;Uredi Zaklj. zaslona;uredi Zaklj. zaslona;Zaklj. zaslon</string>
   <string name="search_unlock_set">Auto. Zaklj. zaslona;Zaklj. zaslon;Zaklj. zaslon;Informacije o vlasniku;Mirovanje;Buđenje Zaklj. zaslona;Probudi;Probudi telefon;Probudi uređaj;Zaporka;Spriječi slučajno biranje u džepu;džepno biranje;džep;Bluetooth otključavanje;otključaj;zaporka;Zaklj. zaslona;PIN;Otključaj sa Bluetooth uređajem;Zaklj. zaslon &amp; zaporka</string>
-  <string name="search_unlogin_account_title">Mi Račun; ID Mi Računa;Račun;ID Računa;Xiaomi Račun;Zaštita računa;Zaštitite račun;Sigurnost računa;Moj račun</string>
+  <string name="search_unlogin_account_title">Xiaomi Račun; ID Xiaomi Računa;Račun;ID Računa;Xiaomi Račun;Zaštita računa;Zaštitite račun;Sigurnost računa;Moj račun</string>
   <string name="search_usb_tethering_button_text">USB dijeljenje;Dijeljenje;USB</string>
   <string name="search_user_agreement">Uvjeti pružanja usluge</string>
   <string name="search_user_dict_settings_title">Osobni rječnik;Riječnik</string>
@@ -9826,7 +9826,7 @@ Kako upotrebljavati prikvačivanje aplikacije: \u0009
   <string name="search_wifi_wapi_cert_install">Instaliraj WAPI certifikat;WAPI certifikati;WAPI</string>
   <string name="search_wifi_wapi_cert_uninstall">Deinstaliraj WAPI certifikat;WAPI certifikati;WAPI</string>
   <string name="search_wps_connect_title">WPS tipka;Poveži WPS;WPS</string>
-  <string name="search_xiaomi_account">Mi Račun; ID Mi Računa;Račun;ID Računa</string>
+  <string name="search_xiaomi_account">Xiaomi Račun; ID Xiaomi Računa;Račun;ID Računa</string>
   <string name="search_xspace">Dvojne aplikacije;kloniraj aplikacije</string>
   <string name="search_zen_mode_option_miui_silent">Bešumni način;tišina;bešumno;utišaj</string>
   <string name="second_space">Drugi prostor</string>
@@ -11292,9 +11292,9 @@ Pokušajte upotrijebiti brži medij ^3 ili upotrebljavajte ovaj medij ^4 za prij
   <string name="suggestions_title">Prijedlozi</string>
   <string name="suggestions_title_v2">Prijedlozi za vas</string>
   <string name="sum_carrier_select">Odaberite mrežnog operatera</string>
-  <string name="summary_err_backup_encrypting">Prijavite se u vaš Mi Račun.</string>
+  <string name="summary_err_backup_encrypting">Prijavite se u vaš Xiaomi Račun.</string>
   <string name="summary_err_backup_no_network">"Ne mogu se povezati na mrežu"</string>
-  <string name="summary_err_restore_encrypting">"Ne mogu vratiti. Provjerite je li ta Sig. kopija napravljena korištenjem vašeg Mi Računa."</string>
+  <string name="summary_err_restore_encrypting">"Ne mogu vratiti. Provjerite je li ta Sig. kopija napravljena korištenjem vašeg Xiaomi Računa."</string>
   <string name="summary_err_restore_no_network">"Ne mogu se povezati na mrežu"</string>
   <string name="summary_font_size_v2">Podešavanje veličine teksta, slika i ikona</string>
   <string name="sunday">Nedjelja</string>
@@ -11663,7 +11663,7 @@ Možete pretvoriti svoj Android uređaj u prijenosni Wi-Fi hotspot, da podijelit
   <string name="toast_apply_font_fail">"Nije moguće postaviti font"</string>
   <string name="toast_disconnect_earphone">Odspojite slušalice i pokušajte ponovo</string>
   <string name="toast_lockscreen_glogin_empty_password">Unesite zaporku</string>
-  <string name="toast_need_login">Prijavite se na vaš Mi Račun</string>
+  <string name="toast_need_login">Prijavite se na vaš Xiaomi Račun</string>
   <string name="toast_sta_ap_works_wifi_display_disable">"Ne mogu emitirati kada se uspostavi Wi-Fi veza i uključi hotspot."</string>
   <string name="today">Danas</string>
   <string name="toggle_auto_speaker_preference_summary">Uređaj će se prebaciti na zvučnik kada ga udaljite od uha tijekom poziva. Ova značajka radi samo kad je TalkBack uključen.</string>
@@ -11772,7 +11772,7 @@ da preuzmete i instalirate Mi Mover."</string>
   <string name="trans_intro_desc_9_method_2_title">2. Pošaljite nam e-mail</string>
   <string name="trans_intro_desc_9_method_3_dec">"Mi Mover QQ Grupa: 687338378"</string>
   <string name="trans_intro_desc_9_method_3_title">3. Prijavite poteškoće u QQ</string>
-  <string name="trans_intro_desc_account">Zbog sigurnosnih razloga ponovno se morate prijaviti na svoje račune (npr. Mi Račun, Exchange, Google itd.) na novom uređaju.</string>
+  <string name="trans_intro_desc_account">Zbog sigurnosnih razloga ponovno se morate prijaviti na svoje račune (npr. Xiaomi Račun, Exchange, Google itd.) na novom uređaju.</string>
   <string name="trans_intro_desc_gms">"Due to high probability of unsuccessful transfers caused by compatibility issues, Mi Mover doesn't support transferring the data generated by Google apps."</string>
   <string name="trans_intro_desc_multiapp">"Mi Mover ne prenosi podatke Dvojnih aplikacije kako bi se izbjegli konflikti između datoteka."</string>
   <string name="trans_intro_desc_multiuser">"Mi Mover ne može pristupiti stavkama u Drugom prostoru. Premjestite stavke u Prvi prostor i pokrenite Mi Mover otamo."</string>
@@ -12162,8 +12162,8 @@ Sa ovog profila bit će uklonjeni i vaši spremljeni otisci prstiju i nećete mo
   <string name="unlock_setup_wizard_fingerprint_details">Nakon postavljanja Zaklj. zaslona možete postaviti i otisak prsta u Postavkama &gt; Sigurnost.</string>
   <string name="unlock_sound_effect_enable_title">Reproduciraj zvuk prilikom otključavanja uređaja</string>
   <string name="unlock_type_category_title">Metoda prepoznavanja</string>
-  <string name="unlogin_account_summary">Sve Mi usluge. Jedan Mi Račun</string>
-  <string name="unlogin_account_title">Prijavite se u Mi Račun</string>
+  <string name="unlogin_account_summary">Sve Mi usluge. Jedan Xiaomi Račun</string>
+  <string name="unlogin_account_title">Prijavite se u Xiaomi Račun</string>
   <string name="unmount_inform_text">Memorija USB bit će isključena.</string>
   <string name="unmute_sound_title">Reproduciraj zvuk kada je Bešumno isključeno</string>
   <string name="unrestrict_max_aspect_ratio_title">Te su aplikacije optimizirane za cijeli zaslon</string>
@@ -13433,7 +13433,7 @@ Dodirnite "<b>Natrag</b> za povezivanje s drugom Wi-Fi mrežom."</string>
   <string name="wifi_share">Podijeli Wi-Fi</string>
   <string name="wifi_share_action_turn_off">Zaustavi dijeljenje mreže</string>
   <string name="wifi_share_action_turn_on">Podijeli Wi-Fi</string>
-  <string name="wifi_share_action_turn_on_summary">Prijavite se na vaš Mi Račun radi dijeljenja</string>
+  <string name="wifi_share_action_turn_on_summary">Prijavite se na vaš Xiaomi Račun radi dijeljenja</string>
   <string name="wifi_share_add">Podijeli moje javne mreže</string>
   <string name="wifi_share_add_summary">"Kada dijelite vaše javne mreže, možete također upotrebljavati mreže drugih korisnika"</string>
   <string name="wifi_share_connect">Poveži</string>
@@ -13747,7 +13747,7 @@ Pohrana vjerodajnica možda nije omogućena"</string>
   <string name="xiaoai_key_shortcut">Tipke</string>
   <string name="xiaoai_other_shortcut">Ostale metode</string>
   <string name="xiaoai_shortcut_settings_title">Pokrenite Mi AI pomoću tipke i gesta</string>
-  <string name="xiaomi_account">Mi Račun</string>
+  <string name="xiaomi_account">Xiaomi Račun</string>
   <string name="xiaomi_cloud_find_device">Pronađi uređaj</string>
   <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
   <string name="xiaomi_cloud_service_description">Xiaomi Cloud sinkronizira vaše kontakte i fotografije, radi Sig. kopiju vaših aplikacija i postavki, i pomaže vam pronaći telefon pomoću usluge Pronađi uređaj.</string>

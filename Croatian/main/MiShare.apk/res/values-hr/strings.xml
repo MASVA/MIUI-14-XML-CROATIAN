@@ -258,6 +258,7 @@ Prije upotrebe Mi Share-a morate odobriti sljedeća dopuštenja i omogućiti mu 
     <string name="start_scan">ZAPOČNI SKENIRANJE</string>
     <string name="stop_advertise">ZAUSTAVI OGLAŠAVANJE</string>
     <string name="stop_scan">ZAUSTAVI SKENIRANJE</string>
+	 <string name="sub_title_mishare_switch">Ova će se značajka automatski isključiti nakon %d minuta</string>
     <string name="success_receive_much_file_from_pc">Primljeno je više od 200 datoteka od %1$s. Dodirnite za prikaz.</string>
     <string name="sunday">Nedjelja</string>
     <string name="sunday_short">Ned</string>
@@ -278,6 +279,8 @@ Prije upotrebe Mi Share-a morate odobriti sljedeća dopuštenja i omogućiti mu 
     <string name="tips_p2p_support_use5g_china">Za najbolje rezultate koristite Wi-Fi mrežu od 5 GHz.</string>
     <string name="tips_prompt_enable_midrop">Dijelite datoteke s uređajima u blizini</string>
     <string name="to_feedback">Povratne inf.</string>
+	 <string name="toast_auto_close_in_minutes">Mi Share će se isključiti nakon %d minuta</string>
+    <string name="toast_transfering">Prijenos stavki. Pokušajte ponovno kasnije.</string>
     <string name="today">Danas</string>
     <string name="tomorrow">Sutra</string>
     <string name="transfer_intercept_to_remote">Nije moguće poslati: %1$s</string>
@@ -286,8 +289,10 @@ Popis kompatibilnih uređaja možete pronaći na našoj web stranici. Ako je va�
     <string name="transfer_to_pc_summary_new"><Data>"Najnovija verzija MIUI+ instalirana na Mi prijenosnim računalima kompatibilna je s Mi Share. Popis podržanih modela prijenosnih računala možete provjeriti na web stranici MIUI+ (&lt;a href=%1$s>%2$s&lt;/a>). Ako je vaše prijenosno računalo na popisu, ali MIUI+ nije instaliran na njemu, ažurirajte BIOS prijenosnog računala i upravljački program mrežnog adaptera i preuzmite MIUI+."</Data></string>
     <string name="transfer_to_pc_title">Pošaljite datoteke na računala</string>
     <string name="transfer_to_phone_summary">Mi Share omogućuje vam slanje slika i datoteka na obližnje Mi telefone i druge kompatibilne uređaje.</string>
+	 <string name="transfer_to_phone_summary_new">Uključite Mi Share u Centru za kontrolu kako biste mogli jednostavno slati i primati stavke. Nakon što ga uključite, možete dijeliti stavke s uređajima u blizini %d min. prije nego što se automatski isključi.</string>
     <string name="transfer_to_phone_title">Pošaljite datoteke na telefone</string>
     <string name="transfer_to_summary">"Uključite Mi Share putem prečaca u Panelu obavijesti. Nakon toga, moći ćete vidjeti uređaje u blizini kada počnete dijeliti fotografiju ili datoteku. Dodirnite uređaj primatelja da pošaljete stavku koju dijelite."</string>
+	 <string name="transfer_to_summary_new">Uključite Mi Share u Centru za kontrolu kako biste mogli jednostavno slati i primati stavke. Nakon što ga uključite, možete dijeliti stavke s uređajima u blizini %d min. prije nego što se automatski isključi.</string>
     <string name="transfer_to_title">Pošaljite datoteke na mobilne uređaje</string>
     <string name="tuesday">Utorak</string>
     <string name="tuesday_short">Uto</string>
@@ -296,7 +301,7 @@ Popis kompatibilnih uređaja možete pronaći na našoj web stranici. Ako je va�
     <string name="unrecognized_manufacture">Nepoznato</string>
     <string name="unrecognized_model">Nepoznati uređaj</string>
     <string name="user_instructions">Pažnja</string>
-    <string name="uwb_guide_summary_1">"Ako ne možete pronaći ciljni uređaj, zamolite drugu osobu da dodirne prečac Mi Share u svom kontrolnom centru."</string>
+    <string name="uwb_guide_summary_1">"Ako ne možete pronaći ciljni uređaj, zamolite drugu osobu da dodirne prečac Mi Share u svom Centru za kontrolu."</string>
     <string name="uwb_guide_title_1">Zamolite drugu osobu da uključi Mi Share</string>
     <string name="uwb_guide_title_2">Brže pronađite ciljni uređaj uz Beam</string>
     <string name="uwb_setting_guide">Saznajte više</string>

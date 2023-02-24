@@ -36,9 +36,9 @@
     <string name="activate_feature_mi_roaming">Mi Roaming</string>
     <string name="activate_feature_mms_sync">Sinkr. poruka</string>
     <string name="activate_feature_mx">Mi Poruka</string>
-    <string name="activate_feature_register_xiaomi_account">Postavljanje Mi Računa</string>
+    <string name="activate_feature_register_xiaomi_account">Postavljanje Xiaomi Računa</string>
     <string name="activate_feature_remote_assist">Pomoćnik na daljinu</string>
-    <string name="activate_feature_verify_mx_token">Provjera Mi Računa</string>
+    <string name="activate_feature_verify_mx_token">Provjera Xiaomi Računa</string>
     <string name="activate_feature_voip">Mi poruka VoIP</string>
     <string name="activate_history_canceled_overview">Aktivacija SIM kartice je otkazana. Aktivirano značajkom \"%1$s\".</string>
     <string name="activate_history_multisim_canceled_overview">Aktivacija SIM kartice %2$d je otkazana. Aktivirano značajkom \"%1$s\".</string>
@@ -47,8 +47,8 @@
     <string name="activate_history_success_overview">SIM kartica uspješno aktivirana. Aktivirano značajkom \"%1$s\".</string>
     <string name="activate_history_title">Aktivacija SIM kartice</string>
     <string name="activate_phone_failed_notif_title_sim">"Ne mogu aktivirati \"%2$s\" koristeći SIM %1$d"</string>
-    <string name="activate_phone_register_xiaomi_account_success_notif_title_sim">Mi Račun uspješno izrađen koristeći SIM %d</string>
-    <string name="activate_phone_registered_xiaomi_account_failed_notif_title_sim">"Ne mogu izraditi Mi Račun koristeći SIM %d"</string>
+    <string name="activate_phone_register_xiaomi_account_success_notif_title_sim">Xiaomi Račun uspješno izrađen koristeći SIM %d</string>
+    <string name="activate_phone_registered_xiaomi_account_failed_notif_title_sim">"Ne mogu izraditi Xiaomi Račun koristeći SIM %d"</string>
     <string name="activate_phone_server_failed_notif_title">"Ne mogu aktivirati \"%s\"</string>
     <string name="activate_phone_server_success_notif_title">\"%s\" uspješno aktiviran</string>
     <string name="activate_phone_success_notif_title_sim">\"%2$s\" uspješno aktiviran koristeći SIM %1$d</string>
@@ -87,8 +87,8 @@ Unesite broj telefona povezan s vašom novom SIM karticom da ponovno aktivirate 
     <string name="activate_popup_failed_send_sms_desc">"Ne mogu poslati aktivacijski SMS. Provjerite radi li SIM %d ispravno i pokušajte ponovno."</string>
     <string name="activate_popup_failed_send_sms_desc_one_sim">"Ne mogu poslati aktivacijski SMS. Provjerite radi li SIM kartica ispravno i pokušajte ponovo."</string>
     <string name="activate_progress_status_title">Aktiviranje\"%s\"…</string>
-    <string name="activate_registered_xiaomi_account_failed_notif_title">"Ne mogu izraditi Mi Račun"</string>
-    <string name="activate_registered_xiaomi_account_success_notif_title">Mi Račun je uspješno izrađen</string>
+    <string name="activate_registered_xiaomi_account_failed_notif_title">"Ne mogu izraditi Xiaomi Račun"</string>
+    <string name="activate_registered_xiaomi_account_success_notif_title">Xiaomi Račun je uspješno izrađen</string>
     <string name="activate_status_desc_acquire_phone_number">Provjera telefonskog broja…</string>
     <string name="activate_status_desc_acquire_phone_number_server_no_info_tip">"Ne mogu provjeriti broj telefona. Provjerite radi li SIM %d ispravno i pokušajte ponovno."</string>
     <string name="activate_status_desc_acquire_phone_number_server_no_info_tip_one_sim">"Ne mogu provjeriti broj telefona. Provjerite radi li SIM kartica ispravno i pokušajte ponovo."</string>
@@ -102,8 +102,8 @@ Unesite broj telefona povezan s vašom novom SIM karticom da ponovno aktivirate 
     <string name="activate_status_desc_sending_sms">Slanje SMS-a aktivacije…</string>
     <string name="activate_status_desc_wait_for_sms">Čeka se aktivacijski SMS s poslužitelja…</string>
     <string name="activate_status_title_activating_sim">Aktivacija \"%2$s\" koristeći SIM %1$d…</string>
-    <string name="activate_status_title_registering_xiaomi_account">Izrada Mi Računa…</string>
-    <string name="activate_status_title_registering_xiaomi_account_sim">Izrada Mi Računa koristeći SIM %d…</string>
+    <string name="activate_status_title_registering_xiaomi_account">Izrada Xiaomi Računa…</string>
+    <string name="activate_status_title_registering_xiaomi_account_sim">Izrada Xiaomi Računa koristeći SIM %d…</string>
     <string name="app_name">Xiaomi Usluga aktivacije SIM kartice</string>
 	  <string name="checking_client">Provjera okruženja za aktivaciju</string> 
     <string name="clearable_edittext_clear_description">Clear</string>
@@ -115,7 +115,7 @@ Unesite broj telefona povezan s vašom novom SIM karticom da ponovno aktivirate 
     <string name="error_no_get_send_sms_permission_one_sim">Prvo dopustite slanje SMS-a.</string>
     <string name="error_sim_not_in_service_tip">"SIM %d se ne može povezati s mrežom. Provjerite radi li SIM kartica ispravno i pokušajte ponovno."</string>
     <string name="error_sim_not_in_service_tip_one_sim">"Ne mogu se povezati s mrežom. Provjerite radi li SIM kartica ispravno i pokušajte ponovno."</string>
-    <string name="explain_activate_register_xiaomi_account_title">Izradite Mi Račun</string>
+    <string name="explain_activate_register_xiaomi_account_title">Izradite Xiaomi Račun</string>
     <string name="explain_activate_send_sms_permission_msg">Za aktiviranje %s, vaš uređaj treba dopuštenja za slanje aktivacijskog SMS-a. Vaš će vam operater naplatiti tu poruku.</string>
     <string name="explain_send_sms_permission_button">Provjeri</string>
     <string name="friday">Petak</string>
@@ -200,7 +200,7 @@ Unesite broj telefona povezan s vašom novom SIM karticom da ponovno aktivirate 
     <string name="sim_activated_failed_msg">"Nije moguće aktivirati uslugu. Dodirnite da biste pokušali ponovno."</string>
     <string name="sim_unactivated_feature_title">"\"%s\" nije aktiviran"</string>
     <string name="sim_unactivated_msg">"Ova usluga nije aktivirana. Dodirnite da biste pokušali ponovno."</string>
-    <string name="sim_unactivated_register_xiaomi_account_feature_title">"Mi Račun nije izrađen"</string>
+    <string name="sim_unactivated_register_xiaomi_account_feature_title">"Xiaomi Račun nije izrađen"</string>
     <string name="sunday">Nedjelja</string>
     <string name="sunday_short">Ned</string>
     <string name="sunday_shortest">N</string>

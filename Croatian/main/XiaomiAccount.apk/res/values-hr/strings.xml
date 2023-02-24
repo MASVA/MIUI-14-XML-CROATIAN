@@ -28,7 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Dijeljenje sa: %s</string>
     <string name="abc_toolbar_collapse_description">Sažmi</string>
     <string name="about_device_info">Prikaži pojedinosti o uređaju</string>
-	 <string name="about_mi_account">O Mi Računu</string>
+	 <string name="about_mi_account">O Xiaomi Računu</string>
     <string name="accept">Dopusti</string>
 	 <string name="access_denied_info">Previše pokušaja. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
     <string name="access_token_expired_warning">Weibo račun je istekao</string>
@@ -40,7 +40,7 @@
     <string name="account_bind_secure_phone_title">Dodaj broj telefona</string>
     <string name="account_bind_settings">Računi</string>
     <string name="account_crop_user_avatar">Obreži sliku</string>
-    <string name="account_empty_user_name">Unesite naziv kor. imena vašeg Mi Računa</string>
+    <string name="account_empty_user_name">Unesite naziv kor. imena vašeg Xiaomi Računa</string>
     <string name="account_error_all_space_user_name">"Naziv ne može biti prazan bez znakova"</string>
     <string name="account_error_invalid_user_name">"Naziv ne može sadržavati &lt;, >, /"</string>
     <string name="account_error_longer_user_name">"Naziv ne može biti duže od 20 znakova"</string>
@@ -74,8 +74,8 @@ ID vašeg računa: %s"</string>
     <string name="account_user_details">Osobni podaci</string>
     <string name="account_user_email">E-pošta</string>
     <string name="account_user_gender">Spol</string>
-    <string name="account_user_id">ID Mi Računa</string>
-    <string name="account_user_id_show">Mi Račun: %s</string>
+    <string name="account_user_id">ID Xiaomi Računa</string>
+    <string name="account_user_id_show">Xiaomi Račun: %s</string>
     <string name="account_user_name">Ime</string>
     <string name="account_user_name_dialog_title">Unesite korisničko ime</string>
     <string name="account_user_other_info">Više izvora</string>
@@ -96,7 +96,7 @@ ID vašeg računa: %s"</string>
     <string name="add_account">Dodaj račun</string>
     <string name="agreement_and_privacy">Uvjeti i odredbe</string>
     <string name="alert_title_remove_account">Ukloniti račun?</string>
-    <string name="app_name">Mi Račun</string>
+    <string name="app_name">Xiaomi Račun</string>
     <string name="area_code_no_search_result">"Nisam mogao pronaći rezultate"</string>
     <string name="area_code_search_hint">Tražite zemlju ili regiju</string>
     <string name="auth_fail_warning">Račun za prijavu je istekao, pokušajte ponovno kasnije</string>
@@ -105,13 +105,13 @@ ID vašeg računa: %s"</string>
     <string name="bind_facebook">Povežite svoj Facebook račun</string>
     <string name="bind_google">Povežite svoj Google račun</string>
     <string name="bind_qq">QQ</string>
-    <string name="bind_safe_phone_msg">Dodajte broj telefona za sljedeću prijavu u vaš Mi Račun.</string>
+    <string name="bind_safe_phone_msg">Dodajte broj telefona za sljedeću prijavu u vaš Xiaomi Račun.</string>
     <string name="bind_sina_weibo">Dodaj Sina Weibo račun</string>
     <string name="bind_sns_description">Prijavite se s %s.</string>
     <string name="bind_weibo_description">"Dodaj svoje prijatelje s Sina Wiebo</string>
     <string name="bind_weixin">Povežite svoj WeChat račun</string>
     <string name="binded">Povezano</string>
-    <string name="binded_description" formatted="false">%s je povezan na vaš Mi Račun. 
+    <string name="binded_description" formatted="false">%s je povezan na vaš Xiaomi Račun. 
 Vaš profil je ažuriran sa informacijama iz vašeg %s računa.</string>
     <string name="button_agree">Privaćam</string>
     <string name="button_close">Zatvori</string>
@@ -199,7 +199,7 @@ Vaš profil je ažuriran sa informacijama iz vašeg %s računa.</string>
     <string name="confirm_phone_number_dialog_message">Kod za provjeru će biti poslan na: %s.</string>
     <string name="confirm_phone_number_dialog_title">Potvrdi broj telefona</string>
     <string name="confirm_unbind">Prekinuti vezu s ovim računom?</string>
-    <string name="confirm_unbundled_phone_dialog_message">Broj telefona %1$s je povezan na Mi Račun %2$s. Isti više neće biti povezan s Mi Računom %3$s ako nastavite. Nastaviti?</string>
+    <string name="confirm_unbundled_phone_dialog_message">Broj telefona %1$s je povezan na Xiaomi Račun %2$s. Isti više neće biti povezan s Xiaomi Računom %3$s ako nastavite. Nastaviti?</string>
     <string name="continue_action">Nastavi</string>
     <string name="copy">Kopiraj</string>
 	 <string name="copy_link">Kopiraj poveznicu</string>
@@ -211,7 +211,7 @@ Vaš profil je ažuriran sa informacijama iz vašeg %s računa.</string>
     <string name="delete_bank_card_title">Brisanje vaše bankovne kartice</string>
     <string name="delete_device_btn">Ukloni</string>
     <string name="delete_device_failed">"Ne mogu ukloniti uređaj"</string>
-    <string name="delete_device_notice">"Nakon što je uređaj uklonjen, isti će biti odjavljen iz Mi Računa automatski. Nećete biti u mogućnosti koristiti ovaj uređaj za pristup fotografijama, porukama, ili drugom sadržaju pohranjenim na vašem računu."</string>
+    <string name="delete_device_notice">"Nakon što je uređaj uklonjen, isti će biti odjavljen iz Xiaomi Računa automatski. Nećete biti u mogućnosti koristiti ovaj uređaj za pristup fotografijama, porukama, ili drugom sadržaju pohranjenim na vašem računu."</string>
     <string name="deny">Odbij</string>
     <string name="device_delete_success_message">"Ako se vi niste niste prijavili na ovom uređaju, odmah promijenite svoju zaporku."</string>
     <string name="device_delete_success_title">Odjavljeno</string>
@@ -227,15 +227,15 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="download_file">Preuzimanje %s…</string>
     <string name="empty_device_list_notice">Nema uređaja</string>
     <string name="enable">Postavke</string>
-    <string name="ep_unsupported">"Ne mogu se prijaviti na Mi Račun na vašem uređaju"</string>
-    <string name="error_dup_binded_email">Ova adresa e-pošte već je povezana s drugom Mi Računom.</string>
+    <string name="ep_unsupported">"Ne mogu se prijaviti na Xiaomi Račun na vašem uređaju"</string>
+    <string name="error_dup_binded_email">Ova adresa e-pošte već je povezana s drugom Xiaomi Računom.</string>
     <string name="error_invalid_bind_address">Adresa e-pošte koju ste unijeli nije važeća.</string>
-    <string name="exceed_binded_phone_times_notice">Ovaj broj telefona je već povezan s drugim Mi Računom.</string>
+    <string name="exceed_binded_phone_times_notice">Ovaj broj telefona je već povezan s drugim Xiaomi Računom.</string>
     <string name="exit">Izlaz</string>
     <string name="expand_button_title">Napredno</string>
     <string name="facebook">Facebook</string>
     <string name="facebook_login">Prijavite se s Facebook računom</string>
-    <string name="failed_dup_secure_phone_number">Ovaj broj telefona već je povezan s drugim Mi Računom</string>
+    <string name="failed_dup_secure_phone_number">Ovaj broj telefona već je povezan s drugim Xiaomi Računom</string>
 	 <string name="family_service">Obiteljske usluge</string>
     <string name="family_service_not_open">Pozovite članove</string>
     <string name="family_share">Dijeljenje s obitelji</string>
@@ -246,7 +246,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="find_device_bad_response_error">"Pogreška poslužitelja, pričekajte minutu ili dvije i pokušajte ponovno"</string>
     <string name="find_device_clear_data">Izbriši podatke</string>
     <string name="find_device_close">Isključeno</string>
-    <string name="find_device_error_password_not_confirmed">"Ne mogu isključiti Pronađi uređaj. Ponovno unesite zaporku Mi Računa"</string>
+    <string name="find_device_error_password_not_confirmed">"Ne mogu isključiti Pronađi uređaj. Ponovno unesite zaporku Xiaomi Računa"</string>
     <string name="find_device_error_password_recently_changed">"Promijenili ste zaporku u zadnja 3 dana. Ne mogu sada isključiti Pronađi uređaj iz sigurnosnih razloga."</string>
     <string name="find_device_interrupted">"Radnja je prekinuta, pričekajte minutu ili dvije i pokušajte ponovno"</string>
     <string name="find_device_io_error">"Ne mogu se povezati na mrežu"</string>
@@ -277,7 +277,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="get_back_pwd">Resetiranje vaše zaporke</string>
     <string name="get_device_list_failed">"Ne mogu dobiti uređaje"</string>
     <string name="get_identity_auth_url_failed">"Ne mogu provjeriti ID"</string>
-    <string name="get_phone_bind_exceed_limit">Možete povezati do 3 Mi Računa s jednim brojem telefona. Nije moguće dodati nove račune.</string>
+    <string name="get_phone_bind_exceed_limit">Možete povezati do 3 Xiaomi Računa s jednim brojem telefona. Nije moguće dodati nove račune.</string>
     <string name="get_phone_verifycode_exceed_limit">Previše poslanih kodova za potvrdu na ovu adresu e-pošte. Pričekajte 24 sata i pokušajte ponovno.</string>
     <string name="google">Google</string>
     <string name="google_login">Prijavite se s Google računom</string>
@@ -301,7 +301,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="io_error_title">Potvrdite vašu mrežu</string>
     <string name="just_a_second">Samo trenutak…</string>
 	 <string name="keep_phone_ticket_login">Prijavite se kontrolnim kodom</string>
-    <string name="kr_license_desc">Za Mi Račun i Xiaomi Cloud Usluge trebate prihvatiti Korisnički ugovor i Pravila o privatnosti.</string>
+    <string name="kr_license_desc">Za Xiaomi Račun i Xiaomi Cloud Usluge trebate prihvatiti Korisnički ugovor i Pravila o privatnosti.</string>
     <string name="kr_permission_contacts_desc">Koristi se za čitanje informacija o kontaktima</string>
     <string name="kr_permission_desc">U nastavku pročitajte potrebna dopuštenja</string>
     <string name="kr_permission_phone_desc">Koristi se za sigurnost računa</string>
@@ -311,10 +311,10 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="login_3rd_app_with_system_account">Prijavite se u %s</string>
     <string name="login_check_find_device">Dobivanje informacija o sigurnosti uređaja…</string>
     <string name="login_check_find_device_failed_title">"Ne mogu provjeriti informacije o sigurnosti uređaja"</string>
-    <string name="login_find_device_bind">Ovaj uređaj je povezan s postojećim ID Mi Računa (%s).</string>
+    <string name="login_find_device_bind">Ovaj uređaj je povezan s postojećim ID Xiaomi Računa (%s).</string>
 	 <string name="login_notification_button_text">Prijavite se</string>
     <string name="login_notification_desc">Uživajte u Cloud uslugama, obiteljskom prostoru za pohranu i više</string>
-    <string name="login_notification_title">Prijavite se na svoj Mi Račun</string>
+    <string name="login_notification_title">Prijavite se na svoj Xiaomi Račun</string>
     <string name="login_with_other">Više opcija</string>
     <string name="logout_account">Odjava</string>
     <string name="logout_failed">"Ne mogu se odjaviti"</string>
@@ -401,7 +401,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="month_september_shortest">R</string>
     <string name="more">Više</string>
     <string name="mtrl_chip_close_icon_content_description">Ukloni %1$s</string>
-    <string name="multi_user_not_show_sync_activity_message_1">"Izgleda da koristite vaš Prvi prostor Mi Računa."</string>
+    <string name="multi_user_not_show_sync_activity_message_1">"Izgleda da koristite vaš Prvi prostor Xiaomi Računa."</string>
     <string name="multi_user_not_show_sync_activity_message_2">"U tom slučaju, svi podaci će se sinkronizirati na vaš Drugi prostor. Da bi to izbjegli, nemojte uključiti sinkronizaciju s Xiaomi Cloudom"</string>
     <string name="multi_user_not_show_sync_activity_title">"Nemojte uključiti sinkronizaciju s Xiaomi Cloudom"</string>
     <string name="my_device_title">Trenutan uređaj</string>
@@ -423,16 +423,16 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="not_set">Nije postavljeno</string>
     <string name="notify_bind_security_phone">Dodajte broj telefona za oporavak</string>
     <string name="notify_complete_security_info">Dodajte informacije o oporavku</string>
-    <string name="notify_network_restricted_content_bg_network">"Mi Računu je ograničen pristup Internetu. Dodirnite da dopustite."</string>
-    <string name="notify_network_restricted_content_hidden_state">"Aktivnost Mi Računa u pozadini je ograničena. Dodirnite da dopustite."</string>
-    <string name="notify_network_restricted_content_mobile_network">"Mi Računu je ograničen pristup Internetu. Dodirnite da dopustite."</string>
-    <string name="notify_network_restricted_title">"Mi Račun se ne može povezati na mrežu"</string>
+    <string name="notify_network_restricted_content_bg_network">"Xiaomi Računu je ograničen pristup Internetu. Dodirnite da dopustite."</string>
+    <string name="notify_network_restricted_content_hidden_state">"Aktivnost Xiaomi Računa u pozadini je ograničena. Dodirnite da dopustite."</string>
+    <string name="notify_network_restricted_content_mobile_network">"Xiaomi Računu je ograničen pristup Internetu. Dodirnite da dopustite."</string>
+    <string name="notify_network_restricted_title">"Xiaomi Račun se ne može povezati na mrežu"</string>
     <string name="notify_verify_again_security_phone">Potvrdi</string>
     <string name="notify_verify_security_phone">Telefon</string>
     <string name="oauth_get_scopes_failed">"Ne mogu dobiti informacije o računu"</string>
     <string name="oauth_getting_scopes">Provjera računa…</string>
     <string name="oauth_scopes_intro">&lt;font color=#%1$s>%2$s&lt;/font> će dobiti sljedeća dopuštenja:&lt;br> &lt;br> %3$s</string>
-    <string name="oauth_title">Prijavite se s Mi Računom</string>
+    <string name="oauth_title">Prijavite se s Xiaomi Računom</string>
     <string name="ok">U redu</string>
     <string name="operator_mobile">China Mobile</string>
     <string name="operator_mobile_agreement">Usluge potvrde koje pruža China Mobile</string>
@@ -445,9 +445,9 @@ Pošaljite ovaj kod našem tehničaru."</string>
 	 <string name="page_load_failed">"Ne mogu otvoriti stranicu"</string>
     <string name="passport_Resend">Pošalji ponovno</string>
     <string name="passport_access_denied">Pristup odbijen</string>
-    <string name="passport_account_hint_text">E-pošta/Broj telefona/ID Mi Računa</string>
+    <string name="passport_account_hint_text">E-pošta/Broj telefona/ID Xiaomi Računa</string>
     <string name="passport_account_identity_title">Potvrdite vaš identitet</string>
-    <string name="passport_account_label">Mi Račun</string>
+    <string name="passport_account_label">Xiaomi Račun</string>
     <string name="passport_account_name">"Račun: %1$s"</string>
     <string name="passport_account_not_activated">"Račun nije aktiviran"</string>
     <string name="passport_account_not_actived">"Vaš račun nije aktiviran"</string>
@@ -474,14 +474,14 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="passport_completed">Dovršeno</string>
     <string name="passport_confirm_login">Nastavi</string>
     <string name="passport_confirm_recycle_account">Da</string>
-    <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red>Izgleda da je&lt;/font> broj %s reciklirao vaš operater, a Mi Račun je povezan s njim. Je li taj račun vaš?"</string>
+    <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red>Izgleda da je&lt;/font> broj %s reciklirao vaš operater, a Xiaomi Račun je povezan s njim. Je li taj račun vaš?"</string>
     <string name="passport_continue">Nastavi</string>
     <string name="passport_copy_message_text_success">Uspješno kopirano</string>
     <string name="passport_copy_message_vcode">Kopiraj kod</string>
     <string name="passport_delete_account">Odjava</string>
     <string name="passport_downlink_reg">Broj telefona</string>
     <string name="passport_email">E-pošta</string>
-    <string name="passport_email_or_id_hint_text">Email/ID Mi Računa</string>
+    <string name="passport_email_or_id_hint_text">Email/ID Xiaomi Računa</string>
     <string name="passport_email_reg_success_summary">%1$s je povezan s vašim računom. Možete ga koristiti za prijavu ili za resetiranje vaše zaporke.</string>
     <string name="passport_error_auth_fail">Sesija istekla, ponovno se prijavite kasnije</string>
     <string name="passport_error_device_id">"Ne mogu dobiti ID uređaja"</string>
@@ -511,7 +511,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="passport_error_verify_activator_phone_title">"Ne mogu provjeriti broj telefona"</string>
     <string name="passport_failed_to_send_activate_email">"Ne mogu poslati e-poštu aktivacije"</string>
     <string name="passport_find_password_on_web_msg">Posjetite account.mi.com da poništite svoju zaporku.</string>
-    <string name="passport_first_login_prompt">Mi Račun će se izraditi automatski kada prvi put koristite broj telefona.</string>
+    <string name="passport_first_login_prompt">Xiaomi Račun će se izraditi automatski kada prvi put koristite broj telefona.</string>
     <string name="passport_forget_password"><u>Zaboravljena zaporka</u></string>
     <string name="passport_forget_password_no_underline">Zaboravljena zaporka</string>
     <string name="passport_get_back_pwd">Dobivanje zaporke računa</string>
@@ -524,11 +524,11 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="passport_getting_verify_code">Dobivanje</string>
     <string name="passport_google_login">Prijaviti se pomoću ranije korištenog Google računa?</string>
     <string name="passport_google_login_agree">Google račun</string>
-    <string name="passport_google_login_disagree">Mi Račun</string>
-    <string name="passport_google_login_failed">"Ne mogu se prijaviti s Google računom. Prijavite se izravno na svoj Mi Račun."</string>
+    <string name="passport_google_login_disagree">Xiaomi Račun</string>
+    <string name="passport_google_login_failed">"Ne mogu se prijaviti s Google računom. Prijavite se izravno na svoj Xiaomi Račun."</string>
     <string name="passport_i_know">Razumijem</string>
     <string name="passport_identification_expired">Kôd za potvrdu istekao je, počnite ispočetka</string>
-    <string name="passport_imei_permission_denied_message">"Tražimo dopuštenje za dobivanje IMEI vašeg uređaja. Mi Račun koristi IMEI za identitifikaciju uređaja na kojeg ste se prijavili/prijavljujete, kako bi održali svoj Mi Račun sigurnim."</string>
+    <string name="passport_imei_permission_denied_message">"Tražimo dopuštenje za dobivanje IMEI vašeg uređaja. Xiaomi Račun koristi IMEI za identitifikaciju uređaja na kojeg ste se prijavili/prijavljujete, kako bi održali svoj Xiaomi Račun sigurnim."</string>
     <string name="passport_imei_permission_denied_title">Zahtjev za IMEI Dopuštenje</string>
     <string name="passport_input_captcha_hint">Unesite kod</string>
     <string name="passport_input_password_for_login">Ovaj je broj povezan s postojećim računom, unesite svoju zaporku</string>
@@ -548,17 +548,17 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="passport_login_other_account">Drugi račun</string>
     <string name="passport_login_other_phone">Koristi drugi račun</string>
     <string name="passport_login_other_way">Drugi načini za prijavu</string>
-    <string name="passport_login_prompt">Sve Mi usluge. Jedan Mi Račun.</string>
+    <string name="passport_login_prompt">Sve Mi usluge. Jedan Xiaomi Račun.</string>
     <string name="passport_login_recycle_account_no">Ne</string>
     <string name="passport_login_recycle_account_yes">Da</string>
-    <string name="passport_login_title">Prijavite se u vaš Mi Račun</string>
+    <string name="passport_login_title">Prijavite se u vaš Xiaomi Račun</string>
     <string name="passport_login_using_other_ways">Drugi načini za prijavu</string>
     <string name="passport_message_dialog_title">SMS s kodovima provjere</string>
     <string name="passport_new_user_register">Izradi račun</string>
     <string name="passport_next">Dalje</string>
     <string name="passport_no">Ne</string>
     <string name="passport_notification_title">Pogreška prijave za %1$s</string>
-    <string name="passport_password_phone_login">Prijavite se s Mi Računom</string>
+    <string name="passport_password_phone_login">Prijavite se s Xiaomi Računom</string>
     <string name="passport_password_req_notice">Zaporka mora biti između 8-16 znakova i sadržavati brojeve i slova (velika i mala slova).</string>
     <string name="passport_phone_num_hint_text">Broj telefona</string>
     <string name="passport_phone_ticket_login">Prijavite se sa SMS-om</string>
@@ -581,16 +581,16 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="passport_quick_register_notice">"Nemate Mi račun? Izradite ga."</string>
     <string name="passport_re_get_verify_code">Nabavite kôd ponovno</string>
     <string name="passport_re_register">Prijavite se ponovno</string>
-    <string name="passport_recycle_account_prompt">Je li ovo vaš Mi Račun?</string>
+    <string name="passport_recycle_account_prompt">Je li ovo vaš Xiaomi Račun?</string>
     <string name="passport_recycle_login_other_account">Nisu moji. Koristit ću drugi.</string>
     <string name="passport_reg_btn_using_other_phone">Koristi alternativan broj telefona</string>
     <string name="passport_reg_failed">"Ne mogu postaviti račun"</string>
     <string name="passport_reg_new_account">Izradi novi račun</string>
-    <string name="passport_reg_prompt">"Nemate Mi Račun? Izradite ga besplatno."</string>
+    <string name="passport_reg_prompt">"Nemate Xiaomi Račun? Izradite ga besplatno."</string>
     <string name="passport_reg_recycle_account_no">Ne</string>
     <string name="passport_reg_recycle_account_yes">Da</string>
     <string name="passport_reg_success">Račun izrađen</string>
-    <string name="passport_reg_success_summary">%1$s je povezan s vašim Mi Računom. Možete ga koristiti za prijavu ili za resetiranje vaše zaporke.</string>
+    <string name="passport_reg_success_summary">%1$s je povezan s vašim Xiaomi Računom. Možete ga koristiti za prijavu ili za resetiranje vaše zaporke.</string>
     <string name="passport_reg_type_email">Adresa e-pošte</string>
     <string name="passport_reg_using_other_phone">&lt;u&gt;Koristi alternativan broj telefona&lt;/u&gt;</string>
     <string name="passport_reg_using_other_phone_number_prompt">"Izradite novi račun koristeći "</string>
@@ -619,7 +619,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="passport_reset_password_title">Resetiraj zaporku</string>
     <string name="passport_restart">Započni ponovno</string>
     <string name="passport_restart_register_prompt">Još jedna poruka potvrde može biti potrebna da izradite svoj račun.</string>
-    <string name="passport_restart_register_title">Izradi Mi Račun</string>
+    <string name="passport_restart_register_title">Izradi Xiaomi Račun</string>
     <string name="passport_retry">Pokušaj ponovno</string>
     <string name="passport_select_reg_ways_title">Drugi načini za prijavu</string>
     <string name="passport_select_the_login_account">Odaberite račun za prijavu</string>
@@ -633,13 +633,13 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="passport_setting">Postavljanje…</string>
     <string name="passport_skip_login">Preskoči</string>
     <string name="passport_skip_register">Preskoči prijavu</string>
-    <string name="passport_skip_setup_account_msg">Možete postaviti Mi Račun kasnije u Postavkama.</string>
+    <string name="passport_skip_setup_account_msg">Možete postaviti Xiaomi Račun kasnije u Postavkama.</string>
     <string name="passport_skip_setup_account_title">Preskoči postavljanje</string>
     <string name="passport_sms_send_success">Poslano</string>
     <string name="passport_sms_verification_code_login">Prijavite se koristeći SMS</string>
     <string name="passport_sms_verification_code_login_or_register">Prijavite se ili izradite račun koristeći SMS</string>
     <string name="passport_sync_account_data">Sinkr. detalja računa…</string>
-    <string name="passport_sync_account_data_failed_warning">Podaci o računu trenutačno se sinkroniziraju, a možete se prijaviti pomoću svog ID Mi Računa. Ako se želite prijaviti putem telefona ili e-pošte, pričekajte da se informacije potpuno sinkroniziraju.</string>
+    <string name="passport_sync_account_data_failed_warning">Podaci o računu trenutačno se sinkroniziraju, a možete se prijaviti pomoću svog ID Xiaomi Računa. Ako se želite prijaviti putem telefona ili e-pošte, pričekajte da se informacije potpuno sinkroniziraju.</string>
     <string name="passport_talkback_image_captcha">Slikovni kontrolni kôd</string>
     <string name="passport_talkback_switch_image_captcha">Prebacite se na slikovni kontrolni kôd</string>
     <string name="passport_talkback_switch_voice_captcha">Prebacite se na glasovni kontrolni kôd</string>
@@ -667,7 +667,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="passport_user_agreement">Korisnički Sporazum</string>
     <string name="passport_user_agreement_link"><Data>"Pročitao sam i prihvaćam Xiaomi &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>."</Data></string>
     <string name="passport_user_agreement_required">Korisnički sporazum (obavezno)</string>
-    <string name="passport_user_id_notice">Vaš ID Mi Računa je %s.</string>
+    <string name="passport_user_id_notice">Vaš ID Xiaomi Računa je %s.</string>
     <string name="passport_user_reg_region">Zemlja/Regija</string>
     <string name="passport_user_reg_region_warning">"Nećete moći promijeniti svoju zemlju/regiju nakon stvaranja računa"</string>
     <string name="passport_vcode_notification_title">Vaš potvrda prijave je nepotpuna</string>
@@ -704,19 +704,19 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="phone_ticket_register">Izradite račun s telefonskim brojem</string>
     <string name="photoPickerNotFoundText">Nema dostupnih fotografija.</string>
     <string name="preference_copied">Sažetak \"%1$s\" je kopiran u međuspremnik.</string>
-    <string name="privacy_policy_reject_confirm_msg">"Nećete moći nastaviti koristiti Mi Račun ako ne pristanete na novu verziju njegovih Pravila o privatnosti. Prihvaćate ažurirana &lt;a href=%1$s>Pravila o privatnosti&lt;/a> Mi Računa?"</string>
-    <string name="privacy_policy_reject_confirm_title">"Ne mogu koristiti Mi Račun"</string>
-    <string name="privacy_policy_update_msg">Pravila o privatnosti Mi Računa su ažurirana:&lt;br/>%1$s&lt;br/>Pročitajte i prihvatite novu verziju &lt;a href=%2$s>&lt;u>Pravila o privatnosti&lt;/u>&lt;/a> prije nego nastavite.</string>
+    <string name="privacy_policy_reject_confirm_msg">"Nećete moći nastaviti koristiti Xiaomi Račun ako ne pristanete na novu verziju njegovih Pravila o privatnosti. Prihvaćate ažurirana &lt;a href=%1$s>Pravila o privatnosti&lt;/a> Xiaomi Računa?"</string>
+    <string name="privacy_policy_reject_confirm_title">"Ne mogu koristiti Xiaomi Račun"</string>
+    <string name="privacy_policy_update_msg">Pravila o privatnosti Xiaomi Računa su ažurirana:&lt;br/>%1$s&lt;br/>Pročitajte i prihvatite novu verziju &lt;a href=%2$s>&lt;u>Pravila o privatnosti&lt;/u>&lt;/a> prije nego nastavite.</string>
     <string name="privacy_policy_update_title">Ažurirana Pravila o privatnosti</string>
     <string name="progressbar_title">Provjera sigurnosnih problema…</string>
     <string name="provision_back">Natrag</string>
     <string name="provision_next">Dalje</string>
     <string name="provision_skip_underline">Preskoči</string>
     <string name="push_notification_content">Dobij kôd</string>
-    <string name="push_notification_title">Prijavili ste se na svoj Mi Račun na nepoznatog uređaja</string>
-    <string name="push_notify_dialog_message">"Nepoznati uređaj se koristi za prijavu na vaš Mi Račun. Upišite kod za provjeru na uređaju. Ako to niste bili vi, promijenite odmah zaporku Mi Računa. Ne otkrivajte kod za provjeru drugim osobama."</string>
+    <string name="push_notification_title">Prijavili ste se na svoj Xiaomi Račun na nepoznatog uređaja</string>
+    <string name="push_notify_dialog_message">"Nepoznati uređaj se koristi za prijavu na vaš Xiaomi Račun. Upišite kod za provjeru na uređaju. Ako to niste bili vi, promijenite odmah zaporku Xiaomi Računa. Ne otkrivajte kod za provjeru drugim osobama."</string>
     <string name="push_notify_dialog_title">Provjera računa</string>
-    <string name="pwd_width_phone_number_or_mail_num">"Zaporka ne može sadržavati vaš broj telefona, e-poštu ili ID Mi Računa"</string>
+    <string name="pwd_width_phone_number_or_mail_num">"Zaporka ne može sadržavati vaš broj telefona, e-poštu ili ID Xiaomi Računa"</string>
     <string name="qq">QQ</string>
     <string name="qrcode_login_entry_text"><Data>Signed in on a different device? Use &lt;a href=>quick sign-in&lt;/a></Data></string>
     <string name="qrcode_login_load_refresh"><Data>This QR code expired. Tap to &lt;a href=>refresh&lt;/a>.</Data></string>
@@ -724,15 +724,15 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="qrcode_login_message">"Skenirajte aplikacijom Skener svog Xiaomi telefona ili tableta, Mi Home ili drugom Xiaomi aplikacijom za prijavu"</string>
     <string name="qrcode_login_title">Skenirajte za prijavu</string>
     <string name="recycle_phone_notification_msg">Izgleda da je vaš broj telefona recikliran. Dodirnite za ažuriranje.</string>
-    <string name="recycle_phone_notification_title">Sigurnosni rizik Mi Računa</string>
+    <string name="recycle_phone_notification_title">Sigurnosni rizik Xiaomi Računa</string>
     <string name="removing_account">Odjava…</string>
     <string name="replace_binded_phone">Zamjeni telefon</string>
     <string name="request_open_permission">Potrebna dopuštenja</string>
-    <string name="request_use_camera_message">"Dopustiti Mi Računu pristup kameri vašeg telefona?"</string>
+    <string name="request_use_camera_message">"Dopustiti Xiaomi Računu pristup kameri vašeg telefona?"</string>
     <string name="request_use_camera_title">Pristup Kameri</string>
-    <string name="request_use_gallery_message">Dopustiti Mi Računu pristup Galeriji?</string>
+    <string name="request_use_gallery_message">Dopustiti Xiaomi Računu pristup Galeriji?</string>
     <string name="request_use_gallery_title">Pristup Galeriji</string>
-    <string name="request_use_writing_clipboard_message">Da biste kopirali ID Mi Računa, dopustite Mi Računu spremanje stavki u međuspremnik.</string>
+    <string name="request_use_writing_clipboard_message">Da biste kopirali ID Xiaomi Računa, dopustite Xiaomi Računu spremanje stavki u međuspremnik.</string>
     <string name="resend_active_email">Pošalji ponovno</string>
     <string name="resend_email_reach_limit_message">"Zatražili ste previše provjere putem e-pošte. Provjerite da e-pošta za provjeru nije u Spam mapi."</string>
     <string name="resend_email_reach_limit_title">"Ne mogu poslati e-poštu"</string>
@@ -741,28 +741,28 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="restart_phone_bind_message">Potrebno je neko vrijeme za primanje SMS poruke. Svejedno započeti ispočetka?</string>
     <string name="restart_phone_bind_title">Promjeni telefon za oporavak</string>
     <string name="revoke_privacy_policy">Povlačenje suglasnosti</string>
-    <string name="revoke_privacy_policy_instructions">"Ako nastavite, povući ćete svoj pristanak na Pravila privatnosti Mi Računa. Prestat ćemo prikupljati vaše osobne podatke. Osobni podaci koji su već prikupljeni i zadržani bit će izbrisani u određenom roku u skladu s važećim zakonima i propisima, osim ako se ne zahtijeva drugačije. Budući da Mi Account pruža svoje usluge na temelju prikupljanja potrebnih osobnih podataka, vaše povlačenje privole smatrat će se odbijanjem prihvaćanja usluga Mi Računa. Povući privolu?"</string>
+    <string name="revoke_privacy_policy_instructions">"Ako nastavite, povući ćete svoj pristanak na Pravila privatnosti Xiaomi Računa. Prestat ćemo prikupljati vaše osobne podatke. Osobni podaci koji su već prikupljeni i zadržani bit će izbrisani u određenom roku u skladu s važećim zakonima i propisima, osim ako se ne zahtijeva drugačije. Budući da Mi Account pruža svoje usluge na temelju prikupljanja potrebnih osobnih podataka, vaše povlačenje privole smatrat će se odbijanjem prihvaćanja usluga Xiaomi Računa. Povući privolu?"</string>
     <string name="revoke_privacy_policy_title">Povlačenje suglasnosti</string>
     <string name="risky_pwd_not_allow">"Nova zaporka nije sigurna. Postavite neku drugu."</string>
     <string name="same_new_and_old_pwd">Nova zaporka mora se razlikovati od stare</string>
     <string name="saturday">Subota</string>
     <string name="saturday_short">Sub</string>
     <string name="saturday_shortest">S</string>
-    <string name="scan_barcode_title">Da se prijavite u svoj Mi Račun, skenirajte QR kod</string>
+    <string name="scan_barcode_title">Da se prijavite u svoj Xiaomi Račun, skenirajte QR kod</string>
     <string name="search_account_security">Sigurnost računa</string>
     <string name="search_account_security_desc">Postavke računa</string>
     <string name="search_account_security_key_words">Promjeni broj,Promjeni E-poštu,Zaštita računa,Računi,Sina Weibo,QQ,Authorization,Uređaji</string>
-    <string name="search_account_security_path">Postavke/Mi Račun/Siurnost računa</string>
-    <string name="search_app_name">Mi Račun</string>
+    <string name="search_account_security_path">Postavke/Xiaomi Račun/Siurnost računa</string>
+    <string name="search_app_name">Xiaomi Račun</string>
     <string name="search_menu_title">Traži</string>
-    <string name="search_mi_account">Mi Račun</string>
-    <string name="search_mi_account_desc">Mi Račun</string>
+    <string name="search_mi_account">Xiaomi Račun</string>
+    <string name="search_mi_account_desc">Xiaomi Račun</string>
     <string name="search_mi_account_key_words">Xiaomi Cloud,Postavke računa, Mi Pay podaci, Odjava</string>
-    <string name="search_mi_account_path">Postavke/Mi Račun</string>
+    <string name="search_mi_account_path">Postavke/Xiaomi Račun</string>
     <string name="search_user_detail">Osobne informacije</string>
     <string name="search_user_detail_bottom_key_words">Promijeni Telefon,Promijeni E-poštu,Promijeni dohodak,Promijeni obrazovanje,Promijeni lokaciju,Promijeni regiju</string>
     <string name="search_user_detail_desc">Osobne informacije</string>
-    <string name="search_user_detail_path">Postavke/Mi Račun/Osobne informacije</string>
+    <string name="search_user_detail_path">Postavke/Xiaomi Račun/Osobne informacije</string>
     <string name="search_user_detail_top_key_words">Osobne informacije, Promijeni fotografiju profila, Promijeni korisničko ime, Promijeni nadimak, Promijeni rođendan, Promijeni spol</string>
     <string name="select_all">Odaberi sve</string>
     <string name="self_account_info">Osobne informacije</string>
@@ -814,7 +814,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="two_factor_auth_need_code">Unesite kod</string>
     <string name="two_factor_auth_need_code_summary">"Vidjet ćete kôd na ostalim povezanim Mi uređajima. Unesite ovaj kôd na novi uređaj za prijavu."</string>
     <string name="two_factor_auth_summary">"Kada se pokušate prijaviti na novom uređaju ili na novoj lokaciji, o tome ćete biti obaviješteni na ostalim povezanim uređajima. Morate potvrditi da li ste vi takve pokušaje prijave odobrili."</string>
-    <string name="unbind_sns_description">Nakon što prekinete vezu s ovim računom, nećete biti u mogućnosti koristiti informacije vašeg %s Računa, za prijavu u vaš Mi Račun."</string>
+    <string name="unbind_sns_description">Nakon što prekinete vezu s ovim računom, nećete biti u mogućnosti koristiti informacije vašeg %s Računa, za prijavu u vaš Xiaomi Račun."</string>
 	 <string name="unit_gb">" GB"</string>
     <string name="unit_mb">" MB"</string>
     <string name="unknown_error_info">Nepoznata pogreška</string>
@@ -834,25 +834,25 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="user_agreement_device_permission_title">Pristup informacijama o uređaju</string>
     <string name="user_agreement_must_permission_msg">Obvezna dopuštenja (koriste se za osnovne značajke i usluge ove aplikacije)</string>
     <string name="user_agreement_network_permission_msg">Ova aplikacija mora se povezati s internetom i zahtijeva sljedeća dopuštenja da bi mogla normalno raditi:</string>
-    <string name="user_agreement_permission_summary_msg">Mi Račun omogućuje vam pristup svim uslugama koje pruža Xiaomi. Ova aplikacija mora se povezati s internetom i zahtijeva sljedeća dopuštenja da bi mogla normalno raditi:</string>
-    <string name="user_agreement_use_account_msg">Mi Račun omogućuje vam pristup svim uslugama koje pruža Xiaomi.</string>
+    <string name="user_agreement_permission_summary_msg">Xiaomi Račun omogućuje vam pristup svim uslugama koje pruža Xiaomi. Ova aplikacija mora se povezati s internetom i zahtijeva sljedeća dopuštenja da bi mogla normalno raditi:</string>
+    <string name="user_agreement_use_account_msg">Xiaomi Račun omogućuje vam pristup svim uslugama koje pruža Xiaomi.</string>
 	 <string name="user_agreement_wifi_permission_title">Uključiti i isključiti Wi-Fi</string>
     <string name="user_agreement_wlan_permission_desc">Za provjeru sigurnosnih problema u okruženju za prijavu</string>
     <string name="user_agreement_wlan_permission_title_china">Uključiti i isključiti Wi-Fi</string>
     <string name="user_avatar_update_title">Promijeni sliku profila</string>
     <string name="user_avatar_uploading">Samo trenutak…</string>
-    <string name="user_instruction_all_purpose">Dobro došli u Mi Račun! Pomoću svog računa možete pristupiti uslugama koje pruža Xiaomi i njegove povezane tvrtke, poput Mi.com, Xiaomi Cloud i GetApps. Možete nabaviti Mi novčiće, kupiti virtualnu robu i uživati u uslugama s dodanom vrijednošću, uključujući igre, teme i e-knjige.</string>
+    <string name="user_instruction_all_purpose">Dobro došli u Xiaomi Račun! Pomoću svog računa možete pristupiti uslugama koje pruža Xiaomi i njegove povezane tvrtke, poput Mi.com, Xiaomi Cloud i GetApps. Možete nabaviti Mi novčiće, kupiti virtualnu robu i uživati u uslugama s dodanom vrijednošću, uključujući igre, teme i e-knjige.</string>
     <string name="user_instruction_tip">Da biste se mogli prijaviti, pročitajte i prihvatite odredbe i uvjete.</string>
-    <string name="user_license_with_3rd_app"><Data>"Prijavom na svoj Mi Račun potvrđujem da sam pročitao i prihvaćam &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a> i Mi Račun&lt;a href=%3$s>Korisnički ugovor&lt;/a> i &lt;a href=%4$s>Pravila o privatnosti&lt;/a>."</Data></string>
-    <string name="user_license_with_3rd_app_mobile"><Data>"Pročitao sam i prihvaćam &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>, Mi Račun &lt;a href=%3$s>Korisnički ugovor&lt;/a> i &lt;a href=%4$s>Pravila o privatnosti&lt;/a>, kao i &lt;a href=%5$s>Odredbe i uvjete usluga provjere China Mobile&lt;/a>."</Data></string>
-    <string name="user_license_with_3rd_app_no_operator"><Data>"Pročitao sam i prihvaćam &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a> i Mi Račun &lt;a href=%3$s>Korisnički ugovor&lt;/a> i &lt;a href=%4$s>Pravila o privatnosti&lt;/a>."</Data></string>
-    <string name="user_license_with_3rd_app_telcom"><Data>"Pročitao sam i prihvaćam &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>, Mi Račun &lt;a href=%3$s>Korisnički ugovor&lt;/a> i &lt;a href=%4$s>Pravila o privatnosti&lt;/a>, kao i &lt;a href=%5$s>Uvjete i odredbe usluge provjere računa eSurfing&lt;/a>."</Data></string>
-    <string name="user_license_with_3rd_app_unicom"><Data>"Pročitao sam i prihvaćam &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>, Mi Račun &lt;a href=%3$s>Korisnički ugovor&lt;/a> i &lt;a href=%4$s>Pravila o privatnosti&lt;/a>, kao i &lt;a href=%5$s>Uvjete i odredbe usluge provjere China Unicom&lt;/a>."</Data></string>
-    <string name="user_license_with_out_3rd_app_no_operator"><Data>"Pročitao sam i prihvaćam Mi Račun &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>."</Data></string>
-    <string name="user_license_without_3rd_app"><Data>"Pročitao sam i prihvaćam Mi Račun &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>."</Data></string>
-    <string name="user_license_without_3rd_mobile"><Data>"Pročitao sam i prihvaćam Mi Račun &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>, kao i &lt;a href=%3$s>Odredbe i uvjete usluga provjere China Mobile&lt;/a>."</Data></string>
-    <string name="user_license_without_3rd_telcom"><Data>"Pročitao sam i prihvaćam Mi Račun &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>, kao i &lt;a href=%3$s>Uvjete i odredbe usluge provjere računa eSurfing&lt;/a>."</Data></string>
-    <string name="user_license_without_3rd_unicom"><Data>"Pročitao sam i prihvaćam Mi Račun &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>, kao i &lt;a href=%3$s>Uvjete i odredbe usluge provjere China Unicom&lt;/a>."</Data></string>
+    <string name="user_license_with_3rd_app"><Data>"Prijavom na svoj Xiaomi Račun potvrđujem da sam pročitao i prihvaćam &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a> i Xiaomi Račun&lt;a href=%3$s>Korisnički ugovor&lt;/a> i &lt;a href=%4$s>Pravila o privatnosti&lt;/a>."</Data></string>
+    <string name="user_license_with_3rd_app_mobile"><Data>"Pročitao sam i prihvaćam &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>, Xiaomi Račun &lt;a href=%3$s>Korisnički ugovor&lt;/a> i &lt;a href=%4$s>Pravila o privatnosti&lt;/a>, kao i &lt;a href=%5$s>Odredbe i uvjete usluga provjere China Mobile&lt;/a>."</Data></string>
+    <string name="user_license_with_3rd_app_no_operator"><Data>"Pročitao sam i prihvaćam &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a> i Xiaomi Račun &lt;a href=%3$s>Korisnički ugovor&lt;/a> i &lt;a href=%4$s>Pravila o privatnosti&lt;/a>."</Data></string>
+    <string name="user_license_with_3rd_app_telcom"><Data>"Pročitao sam i prihvaćam &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>, Xiaomi Račun &lt;a href=%3$s>Korisnički ugovor&lt;/a> i &lt;a href=%4$s>Pravila o privatnosti&lt;/a>, kao i &lt;a href=%5$s>Uvjete i odredbe usluge provjere računa eSurfing&lt;/a>."</Data></string>
+    <string name="user_license_with_3rd_app_unicom"><Data>"Pročitao sam i prihvaćam &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>, Xiaomi Račun &lt;a href=%3$s>Korisnički ugovor&lt;/a> i &lt;a href=%4$s>Pravila o privatnosti&lt;/a>, kao i &lt;a href=%5$s>Uvjete i odredbe usluge provjere China Unicom&lt;/a>."</Data></string>
+    <string name="user_license_with_out_3rd_app_no_operator"><Data>"Pročitao sam i prihvaćam Xiaomi Račun &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>."</Data></string>
+    <string name="user_license_without_3rd_app"><Data>"Pročitao sam i prihvaćam Xiaomi Račun &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>."</Data></string>
+    <string name="user_license_without_3rd_mobile"><Data>"Pročitao sam i prihvaćam Xiaomi Račun &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>, kao i &lt;a href=%3$s>Odredbe i uvjete usluga provjere China Mobile&lt;/a>."</Data></string>
+    <string name="user_license_without_3rd_telcom"><Data>"Pročitao sam i prihvaćam Xiaomi Račun &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>, kao i &lt;a href=%3$s>Uvjete i odredbe usluge provjere računa eSurfing&lt;/a>."</Data></string>
+    <string name="user_license_without_3rd_unicom"><Data>"Pročitao sam i prihvaćam Xiaomi Račun &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>, kao i &lt;a href=%3$s>Uvjete i odredbe usluge provjere China Unicom&lt;/a>."</Data></string>
     <string name="v7_preference_off">ISKLJUČENO</string>
     <string name="v7_preference_on">UKLJUČENO</string>
     <string name="vip_account_settings">Vip Postavke</string>

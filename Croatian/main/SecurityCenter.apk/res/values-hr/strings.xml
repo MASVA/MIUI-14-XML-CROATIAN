@@ -116,7 +116,7 @@
 ili unesite Zaporku zaštite privatnosti"</string>
   <string name="access_control_need_to_unlock_nofingerprint">Unesite zaporku zaštite privatnosti</string>
   <string name="access_control_recording_intro_header">Nacrtajte uzorak za dodavanje Zaklj. aplikacija</string>
-  <string name="access_control_reset_by_account">Prijavite se na svoj Mi Račun da poništite Zaklj. aplikacija</string>
+  <string name="access_control_reset_by_account">Prijavite se na svoj Xiaomi Račun da poništite Zaklj. aplikacija</string>
   <string name="accessibility_gameboosterservice_description">"Uključite da biste utišali dolazne WeChat pozive dok igrate igre"</string>
   <string name="action_button_text_100">Optimiziraj</string>
   <string name="action_button_text_60">Popravi</string>
@@ -178,7 +178,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="adb_install_open_error">"Ne mogu dopustiti, provjerite mrežnu vezu"</string>
   <string name="adb_install_reject_notiy">"Nije odobreno instaliranje %s putem USB-a"</string>
   <string name="adb_install_reject_notiy_desc">Možete dopustiti instalaciju putem USB-a u Opcije Raz. programera</string>
-  <string name="adb_login_xiaomi_account">Prijavite se prvo s Mi Računom</string>
+  <string name="adb_login_xiaomi_account">Prijavite se prvo s Xiaomi Računom</string>
   <string name="add_auto_task_desktop_icon">Dodaj prečac na Poč. zaslon</string>
   <string name="add_bill_reminder_alarm">Postavite upozorenje o stanju na telefonu</string>
   <string name="add_done">Uspješno dodano</string>
@@ -187,10 +187,10 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="added_game_notification_title">%s je sada u Game Turbo</string>
   <string name="added_game_start_game">Igrajte</string>
   <string name="add_game_notification_summary">Dodirni za pokretanje &amp; ubrzanje brzine</string>
-  <string name="add_miservice_dialog_content">"%s zahtijeva od vas da dodate MIUI Service Framework na popis iznimaka. 
+  <string name="add_miservice_dialog_content">"%s zahtijeva od vas da dodate Xiaomi Service Framework na popis iznimaka. 
   
-Možete primiti obavijesti od MIUI ugrađenih aplikacija i aplikacija drugih proizvođača."</string>
-  <string name="add_miservice_dialog_title">MIUI Service Framework</string>
+Možete primiti obavijesti od Xiaomi ugrađenih aplikacija i aplikacija drugih proizvođača."</string>
+  <string name="add_miservice_dialog_title">Xiaomi Service Framework</string>
   <string name="add_to_whitelist_button">Iznimke podataka roaminga</string>
   <string name="add_whitelist">Dodaj u iznimke</string>
   <string name="address">Adresa</string>
@@ -748,15 +748,15 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="applock_add_account">Dodaj</string>
   <string name="applock_add_account_ignore">Ne sad</string>
   <string name="applock_add_account_ignore_with_seconds">Ne sad (%ds)</string>
-  <string name="applock_add_account_info">"Dodajte svoj Mi Račun da bi mogli poništiti zaporku\nu slučaju da ste je zaboravili"</string>
+  <string name="applock_add_account_info">"Dodajte svoj Xiaomi Račun da bi mogli poništiti zaporku\nu slučaju da ste je zaboravili"</string>
   <string name="applock_add_account_setting">Račun &amp; privatnost</string>
-  <string name="applock_add_account_tips">"Pomoću Mi Računa, moći ćete vratiti vaš Zaklj. aplikacija ako ga zaboravite."</string>
-  <string name="applock_add_account_title">Dodajte svoj Mi Račun</string>
+  <string name="applock_add_account_tips">"Pomoću Xiaomi Računa, moći ćete vratiti vaš Zaklj. aplikacija ako ga zaboravite."</string>
+  <string name="applock_add_account_title">Dodajte svoj Xiaomi Račun</string>
   <string name="applock_add_account_title_part">Dodajte svoj Mi račun kako biste mogli poništiti lozinku</string>
   <string name="applock_already_add_account">Trenutni račun: %s</string>
   <string name="applock_app_recommend_lock_title">Možete zaključati sljedeće aplikacije</string>
-  <string name="applock_bind_account_dialog_content">Vaš Mi Račun jedini je način za vraćanje Zaklj. aplikacija u slučaju da ga zaboravite. Prijavite se da biste dodali svoj Mi Račun.</string>
-  <string name="applock_bind_account_dialog_title">Dodajte svoj Mi Račun</string>
+  <string name="applock_bind_account_dialog_content">Vaš Xiaomi Račun jedini je način za vraćanje Zaklj. aplikacija u slučaju da ga zaboravite. Prijavite se da biste dodali svoj Xiaomi Račun.</string>
+  <string name="applock_bind_account_dialog_title">Dodajte svoj Xiaomi Račun</string>
   <string name="applock_bind_account_title">Zaboravljena zaporka</string>
   <string name="applock_biometric_recognition">Biometrija</string>
   <string name="applock_close_dialog_summary">Sve skrivene aplikacije bit će vidljive, njihovi prečaci Poč. zaslona bit će obnovljeni, a zaporka za Zaklj. aplikacija bit će izbrisana. Želite li isključiti Zaklj. aplikacija?</string>
@@ -780,7 +780,7 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="applock_guide_tip1_without_face">Dostupne su vištestruke vrste zaporke. Otključajte aplikacije s otiskom prsta ili unesite zaporku.</string>
   <string name="applock_guide_tip1_without_finger">Dostupne su vištestruke vrste zaporke. Otključajte aplikacije s licem ili unesite zaporku.</string>
   <string name="applock_guide_tip1_without_finger_face">Dostupne su vištestruke vrste zaporke.</string>
-  <string name="applock_guide_tip2">Dodajte svoj Mi Račun kako biste mogli resetirati zaporku.</string>
+  <string name="applock_guide_tip2">Dodajte svoj Xiaomi Račun kako biste mogli resetirati zaporku.</string>
   <string name="applock_guide_tip3">Sakrij sadržaj obavijesti.</string>
   <string name="applock_guide_tip3_global">Sakrij sadržaj obavijesti.</string>
   <string name="applock_guide_title">Zaštitite svoju privatnost sa Zaklj. aplikacija</string>
@@ -793,7 +793,7 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="applock_login_and_add_account">Prijavi se &amp; dodaj</string>
   <string name="applock_mixtype_hidepwd_icon">Sakrij</string>
   <string name="applock_mixtype_showpwd_icon">Pokaži</string>
-  <string name="applock_no_account_login">"Niste prijavljeni na svoj Mi Račun"</string>
+  <string name="applock_no_account_login">"Niste prijavljeni na svoj Xiaomi Račun"</string>
   <string name="applock_not_add_account">Ne sada</string>
   <string name="applock_not_add_account_normal">"Ne dodaj račun"</string>
   <string name="applock_not_login_account">"Niste prijavljeni"</string>
@@ -1172,10 +1172,10 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="bill_traffic_reminder_instruction_text">Metode naplate i standardi izračuna podataka različitih operatera mogu se razlikovati. Može doći i do kašnjenja naplate. Ovdje navedeni statistički podaci o korištenju služe samo za vašu referencu.</string>
   <string name="bind_xiaomi_account_cancel">Odustani</string>
   <string name="bind_xiaomi_account_confirm">Dodaj</string>
-  <string name="bind_xiaomi_account_dialog_summery">"Spremate se dodati Mi Račun %s. Ako ste zaboravili zaporku, možete koristiti taj račun da je poništite. Račun će biti uklonjen automatski ako se odjavite."</string>
-  <string name="bind_xiaomi_account_success">Mi Račun uspješno dodan</string>
-  <string name="bind_xiaomi_account_summary">Koristite Mi Račun za poništavanje zaporke</string>
-  <string name="bind_xiaomi_account_title">Dodaj Mi Račun</string>
+  <string name="bind_xiaomi_account_dialog_summery">"Spremate se dodati Xiaomi Račun %s. Ako ste zaboravili zaporku, možete koristiti taj račun da je poništite. Račun će biti uklonjen automatski ako se odjavite."</string>
+  <string name="bind_xiaomi_account_success">Xiaomi Račun uspješno dodan</string>
+  <string name="bind_xiaomi_account_summary">Koristite Xiaomi Račun za poništavanje zaporke</string>
+  <string name="bind_xiaomi_account_title">Dodaj Xiaomi Račun</string>
   <string name="birthday">Rođendan</string>
   <string name="bl_no_blacklist">Nema blokiranih brojeva.</string>
   <string name="bl_no_block_call">Nema blokiranih poziva.</string>
@@ -1415,7 +1415,7 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="confirmSecondSpacePassword">Potvrdite zaporku Drugog prostora</string>
   <string name="confirm_ai_allow_all_permission">Želite li promijeniti status dopuštenja u \"Odluči umjesto mene\" za sve aplikacije?</string>
   <string name="confirm_allow_all_permission">Želite li dopustiti svim aplikacijama upotrebu ove značajke?</string>
-  <string name="confirm_bind_xiaomi_account_dialog_title">Dodavanje Mi Računa</string>
+  <string name="confirm_bind_xiaomi_account_dialog_title">Dodavanje Xiaomi Računa</string>
   <string name="confirm_close">Isključi</string>
   <string name="confirm_fingerprint_msg">Stavite prst na senzor</string>
   <string name="confirm_leave">Ne hvala</string>
@@ -1435,6 +1435,11 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="continue_set">Nastavi</string>
   <string name="convenient_mode">Otključaj sve aplikacije odjednom</string>
   <string name="convenient_summary">Unesite zaporku jednom za otključavanje svih aplikacija</string>
+  <string name="conversation_settings_top">"·Izvucite traku s alatima konferencije tijekom audio i video poziva preko cijelog zaslona kako biste pristupili njezinim značajkama.
+·Vrsta i broj značajki ovisi o modelu uređaja."</string>
+   <string name="conversation_sider_tips">Koristite nove konferencijske alate za najbolje iskustvo poziva</string>
+   <string name="conversation_summary">Uljepšavanje, transkripcija titlova i druge značajke tijekom audio i video poziva</string>
+   <string name="conversation_title">Konferencijski alati</string>
   <string name="copy">Kopiraj</string>
   <string name="correction_attention_dialog_message">Podešavanje postavki u tijeku. Pričekajte dok se proces ne završi i pokušajte ponovno.</string>
   <string name="cpu_usage_android_system">Sustav Android</string>
@@ -1452,6 +1457,19 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="cpu_usage_view_action_btn_text">Dodirni za prikaz</string>
   <string name="create_gamebooster_destop">Prečac Poč. zaslona uspješno napravljen</string>
   <string name="create_shortcut">Izradi prečac Poč. zaslona za Game Turbo</string>
+  <string name="cs_color_sense">Temperatura boje</string>
+  <string name="cs_func_toast_headset">Odspojite svoje slušalice da biste mogli koristiti ovu značajku</string>
+  <string name="cs_func_toast_light">Prebacite se na prednju kameru da biste mogli koristiti ovu značajku</string>
+  <string name="cs_func_toast_pickup">Prebacite se na videopoziv da biste mogli koristiti ovu značajku</string>
+  <string name="cs_pickup_multi_desc">%d stupanj hvatanja zvuka</string>
+  <string name="cs_pickup_multi_title">Više sudionika</string>
+  <string name="cs_pickup_single_desc">Uhvati zvuk samo ispred ekrana</string>
+  <string name="cs_pickup_single_title">Jedan sudionik</string>
+  <string name="cs_pickup_surround_desc">Koristi AI za smanjenje buke za oštar, čist zvuk</string>
+  <string name="cs_pickup_surround_title">Smanjenje buke mikrofona</string>
+  <string name="cs_title_pickup">Smanjenje buke</string>
+  <string name="cs_title_smart_subtitle">Transkripcija podnaslova</string>
+  <string name="cs_title_ultraclear">Ultra HD način</string>
   <string name="cta_HIPS_Perm_Location_Desc">Za korištenje informacija o vašoj lokaciji u MIUI centru za upozorenje, hitnom SOS-u, štednji baterije aplikacije i sigurnosnom skeneru plaćanja, kao i za omogućavanje približne lokacije</string>
   <string name="cta_agree_desc">Kako biste mogli koristiti naše usluge, dopustite ovoj aplikaciji da se poveže s internetom i odobrite gore navedena dopuštenja.</string>
   <string name="cta_button_text_agree">U redu</string>
@@ -1819,7 +1837,6 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
    <string name="exit_dialog_garbage_clean_title">Oslobodite prostor za pohranu</string>
   <string name="exit_dialog_homepage_optimise_message">"Rezultat performansi vašeg uređaja niži je od 80 bodova. Optimizirati sada?"</string>
   <string name="exit_dialog_release_memory_positive_button">Zatvori</string>
-  <string name="exit_dialog_release_memory_title"><Data>Ubrzajte svoj uređaj za &lt;font color=#0099ff>%d%%&lt;/font></Data></string>
   <string name="exit_dialog_release_memory_title_new"><Data>Ubrzajte svoj uređaj za &lt;font color=#0099ff>%s&lt;/font></Data></string>
   <string name="exit_dialog_release_storage_message">Više od 80% prostora za pohranu na uređaju je zauzeto. Oslobodite prostor deinstaliranjem aplikacija koje nikad ne upotrebljavate.</string>
   <string name="exit_dialog_release_storage_message_new">Više od %s prostora za pohranu na uređaju je zauzeto. Oslobodite prostor deinstaliranjem aplikacija koje nikad ne upotrebljavate.</string>
@@ -2193,6 +2210,9 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="gb_advance_settings_vibration_4d">4D vibracija</string>
   <string name="gb_advance_settings_vibration_4d_summary">Ilustrirajte akcije u igri pomoću vibracija</string>
   <string name="gb_advance_settings_vibration_4d_summary2">Vibriraj tijekom ubijanja u igri</string>
+  <string name="gb_already_in_game_list_tips">"Ova je stavka već među dodanim igrama. Ne možete je dodati ovdje."</string>
+  <string name="gb_already_in_video_list_tips">"Ova je stavka već među dodanim videoaplikacijama. Ne možete je dodati ovdje."</string>
+  <string name="gb_application_not_find">Ovdje nema ništa</string>
   <string name="gb_audition_instruction">Pritisnite i držite za snimanje (%1$s-%2$s sek)</string>
   <string name="gb_audition_play_instruction">Za najbolji učinak koristite slušalice</string>
   <string name="gb_barrage_chat_desc">Uvijek vjerujte da će se dogoditi nešto prekrasno</string>
@@ -2402,6 +2422,8 @@ vašeg igranja"</string>
   <string name="gb_wonderful_video_save_suc">Spremljeno</string>
   <string name="gd_app_edit_done">Gotovo</string>
   <string name="gd_app_edit_title_new">Uredite najčešće korištene aplikacije s malim prozorima</string>
+  <string name="gd_setting_conversation">Konferencijski alati</string>
+  <string name="gd_setting_conversation_desc">Pruža niz značajki za korištenje u audio i video pozivima preko cijelog zaslona</string>
   <string name="gd_setting_group_custom_gtb_apps">Igre</string>
   <string name="gd_setting_group_custom_settings">Personalizacije</string>
   <string name="gd_setting_group_custom_vtb_apps">Video aplikacije</string>
@@ -2496,10 +2518,10 @@ vašeg igranja"</string>
   <string name="gtb_dialog_btn_close">Isključi</string>
   <string name="gtb_dialog_btn_open">Uključi</string>
   <string name="gtb_dialog_hint_smart_5g">Možete uključiti i isključiti ovu značajku u Game Turbo &gt; Postavke.</string>
-  <string name="gtb_dialog_privacy_speed_message">"Upravo ćete koristiti Xunyou Game Booster. Ova usluga će prikupiti ID vašeg Mi Računa kako bi zabilježila trajanje vašeg članstva."</string>
+  <string name="gtb_dialog_privacy_speed_message">"Upravo ćete koristiti Xunyou Game Booster. Ova usluga će prikupiti ID vašeg Xiaomi Računa kako bi zabilježila trajanje vašeg članstva."</string>
   <string name="gtb_dialog_privacy_speed_tips"><Data>"Pročitao sam i prihvaćam Xunyou Game Booster &lt;a href=\"%1$s\">Pravila o privatnosti.&lt;/a>"</Data></string>
   <string name="gtb_dialog_privacy_speed_title">Xunyou Game Booster</string>
-  <string name="gtb_dialog_privacy_voice_message">"Upravo ćete koristiti Xunyou Game Voice Changer. Ova usluga će prikupiti ID vašeg Mi Računa kako bi zabilježila trajanje vašeg članstva."</string>
+  <string name="gtb_dialog_privacy_voice_message">"Upravo ćete koristiti Xunyou Game Voice Changer. Ova usluga će prikupiti ID vašeg Xiaomi Računa kako bi zabilježila trajanje vašeg članstva."</string>
   <string name="gtb_dialog_privacy_voice_tips"><Data>"Pročitao sam i prihvaćam Xunyou Game Voice Changer &lt;a href=\"%1$s\">Pravila o privatnosti.&lt;/a>"</Data></string>
   <string name="gtb_dialog_privacy_voice_title">Xunyou Game Voice Changer</string>
   <string name="gtb_dialog_summary_smart_5g">Kad god Game Turbo otkrije 5G mrežu, vaš se uređaj može povezati s najboljom dostupnom mrežom kako bi se smanjilo kašnjenje u mreži. Želite li sada uključiti tu značajku?</string>
@@ -2741,6 +2763,7 @@ da se pridružite našem lovu na jaja!"</string>
   <string name="keywords_securitycenter_settings">Potrošnja baterije;Dopuštenja;Popis blokiranih;Uporaba podataka:Kalibriraj plan podataka;Test mreže;Zaklj. aplikacija;Štednja baterije;Grijanje;Uključi;Isključi;Baterija;Potrošnja;Autom. pokretanje;ROOT;Lokacija;Pristup kontaktima;Blokiraj;Popis blokiranih;Popis dopuštenih;Prevarant;Trgovac;Agenti;Podaci;Promet;Kalibriraj;Povezanost;Internet;Test;Zaporka;Privatnost;Pristup;Zaštita</string>
   <string name="kilobyteShort">KB</string>
   <string name="kilobyte_per_second">KB/s</string>
+  <string name="label">Oznaka</string>
   <string name="label_callwait">Obavijest poziva na čekanju</string>
   <string name="label_mi_stats">Mi analitika</string>
   <string name="last_check_canceled">Prethodno skeniranje je otkazano</string>
@@ -2938,9 +2961,6 @@ podatkovnu vezu"</string>
   <string name="memory_clean_click_tip">Povećaj brzinu</string>
   <string name="memory_clean_memory_size_tip">Predmemorija</string>
   <string name="memory_clean_no_need_clean">Sve izgleda dobro</string>
-  <string name="memory_clean_no_need_clean_1" formatted="false">"Oslobođeno %s.
-  
-Vaš je uređaj sad %d%% brži."</string>
   <string name="memory_clean_no_need_clean_1_new" formatted="false">"Oslobođeno %s.
 Vaš je uređaj sad %s brži."</string>
   <string name="memory_clean_no_running_process">Nema zadataka za brisanje</string>
@@ -2976,7 +2996,6 @@ Vaš je uređaj sad %s brži."</string>
   <string name="menu_item_notification_antispam_text_normal">Spam</string>
   <string name="menu_item_notification_garbage_text">%s</string>
   <string name="menu_item_notification_garbage_text_error">Greška</string>
-  <string name="menu_item_notification_optimize_text">%d%% zauzeto</string>
   <string name="menu_item_notification_optimize_text_new">%s zauzeto</string>
   <string name="menu_item_notification_power_text">Optimizacija baterije</string>
   <string name="menu_item_notification_title">Prikaži izbornik u panelu obavijesti</string>
@@ -3007,7 +3026,6 @@ Vaš je uređaj sad %s brži."</string>
   <string name="menu_summary_networkassistants_3">Preostalo je dovoljno podataka</string>
   <string name="menu_summary_networkassistants_4">Ponestaje podataka</string>
   <string name="menu_summary_optimize_manage">Očisti memoriju</string>
-  <string name="menu_summary_optimize_manage_1">Učinite svoj uređaj %d%% bržim</string>
   <string name="menu_summary_optimize_manage_1_new">Učinite svoj uređaj %s bržim</string>
   <string name="menu_summary_power_manager">Štednja baterije daje vam više vremena između punjenja</string>
   <string name="menu_summary_power_manager_1">Baterija je napunjena</string>
@@ -3342,7 +3360,6 @@ Pokušajte upotrijebiti drugi Ethernet kabel za povezivanje usmjerivača. Ako su
   <string name="notification_link_cleaner_3001">Očistite WeChat smeće da ubrzate svoj uređaj</string>
   <string name="notification_link_cleaner_3002">Očistite WeChat smeće</string>
   <string name="notification_link_cleaner_4000">Očistite QQ smeće</string>
-  <string name="notification_link_optimizemanage_1011">%d%% memorije zauzeto. Očistite sada.</string>
   <string name="notification_link_optimizemanage_1011_new">%s memorije zauzeto. Očistite sada.</string>
   <string name="notification_low_battery_need_charge">Priključite punjač</string>
   <string name="notification_low_battery_open_save_mode">Uključi Štednju baterije</string>
@@ -3360,7 +3377,6 @@ Pokušajte upotrijebiti drugi Ethernet kabel za povezivanje usmjerivača. Ako su
   <string name="notification_open_extreme_mode_text">Ekstremna Štednja baterije je uključena</string>
   <string name="notification_optimize_button_text">Očisti</string>
   <string name="notification_optimize_message">Očistite memoriju za povećanje brzine</string>
-  <string name="notification_optimize_title">%d%% memorije zauzeto</string>
   <string name="notification_optimize_title_new">%s memorije zauzeto</string>
   <string name="notification_power_consume_issue_summary">Velika potrošnja energije</string>
   <string name="notification_power_consume_suggest_summary">Popravite probleme radi uštede baterije</string>
@@ -3386,6 +3402,7 @@ Pokušajte upotrijebiti drugi Ethernet kabel za povezivanje usmjerivača. Ako su
   <string name="notify_channel_name_behavior">Povijest ponašanja</string>
   <string name="notify_channel_name_security">Sigurnost sustava</string>
   <string name="notify_channel_optimize">Obavijesti o sigurnosti</string>
+  <string name="notify_channel_resident_hide">Obavijesti asistenta sigurnosti</string>
   <string name="notify_daily_data_usage_body">Kako bi se ograničila uporaba podataka automatski, postavite vaš mjesečni promet.</string>
   <string name="notify_daily_limit_body">Dodirnite za post. ogranič.</string>
   <string name="notify_daily_limit_title">Iskorišteno %s danas</string>
@@ -3571,11 +3588,11 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="password_forget_pattern_message_none">"Aplikacije nisu zaključane. Možete resetirati vašu zaporku."</string>
   <string name="password_forget_pattern_reset">Resetiraj</string>
   <string name="password_forget_pattern_title">Izradite Sig. kopiju podataka</string>
-  <string name="password_promotion_button_text">Dodaj Mi Račun</string>
-  <string name="password_promotion_message">Dodajte svoj Mi Račun (%s) da bi mogli poništiti zaporku u slučaju da ste je zaboravili.</string>
-  <string name="password_promotion_not_login_xiaomi_account_message">Dodajte svoj Mi Račun da bi mogli poništiti zaporku u slučaju da ste je zaboravili.</string>
+  <string name="password_promotion_button_text">Dodaj Xiaomi Račun</string>
+  <string name="password_promotion_message">Dodajte svoj Xiaomi Račun (%s) da bi mogli poništiti zaporku u slučaju da ste je zaboravili.</string>
+  <string name="password_promotion_not_login_xiaomi_account_message">Dodajte svoj Xiaomi Račun da bi mogli poništiti zaporku u slučaju da ste je zaboravili.</string>
   <string name="password_promotion_postbutton_text">Dodaj</string>
-  <string name="password_promotion_title">Dodaj Mi Račun</string>
+  <string name="password_promotion_title">Dodaj Xiaomi Račun</string>
   <string name="password_toggle_content_description">Prikaži zaporku</string>
   <string name="password_type">Promjeni zaporku</string>
   <string name="password_type_underline">Promjeni zaporku</string>
@@ -3622,6 +3639,17 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pc_battery_history_total_consumption_title">Ukupna potrošnja energije</string>
   <string name="pc_battery_history_usetime_title">Aktivan</string>
   <string name="pc_endurance_calculation">Izračun…</string>
+  <string name="pc_entered_extreme_mode">Način hibernacije je uključen</string>
+  <string name="pc_entered_extreme_mode_summary">"Vaš uređaj je prazan i ušao je u stanje hibernacije. Aplikacije će raditi u pozadini i neće slati obavijesti."</string>
+  <string name="pc_extreme_exit_and_power_off">Izlaz</string>
+  <string name="pc_extreme_mode_bg_toast">"U načinu hibernacije, aplikacije će raditi u pozadini i neće slati obavijesti"</string>
+  <string name="pc_extreme_mode_entering">Ulazak u stanje hibernacije…</string>
+  <string name="pc_extreme_mode_exit_risk_title">Pažnja</string>
+  <string name="pc_extreme_mode_exit_risk_title_summary">Vaš uređaj je prazan. Ako izađete iz stanja hibernacije, vaš uređaj će se isključiti.</string>
+  <string name="pc_extreme_mode_exiting">Izlazak iz načina hibernacije…</string>
+  <string name="pc_extreme_mode_find_charger">Napunite svoj uređaj što je prije moguće.</string>
+  <string name="pc_extreme_mode_runtime">Način hibernacije bio je uključen %1$s %2$s.</string>
+  <string name="pc_extreme_mode_title">Način hibernacije</string>
   <string name="pc_emergency_call">Hitna pomoć</string>
   <string name="pc_fast_charge_notifi_action_text_off">Stop</string>
   <string name="pc_fast_charge_notifi_action_text_on">Povećaj</string>
@@ -3637,6 +3665,9 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pc_fast_charge_switch_title">Povećajte brzinu punjenja</string>
   <string name="pc_fast_charge_switch_toast_message">Promjene će se primijeniti prilikom sljedećeg punjenja ovog uređaja</string>
   <string name="pc_fast_charge_title">Povećajte brzinu punjenja</string>
+  <string name="pc_going_to_exit_extreme_mode">Izlazak iz načina hibernacije</string>
+  <string name="pc_going_to_exit_extreme_mode_summary">Vaš uređaj se puni. Način hibernacije je isključen.</string>
+  <string name="pc_going_to_extreme_mode">Ulazak u stanje hibernacije</string>
   <string name="pc_hidemode_normal">Uravnoteženo</string>
   <string name="pc_hidemode_normal_title">Uravnoteženo</string>
   <string name="pc_hidemode_performance">Performanse</string>
@@ -3700,6 +3731,8 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="permgroupdesc_location">Pristup informacijama o lokaciji</string>
   <string name="permgroupdesc_microphone">Snimanje zvuka</string>
   <string name="permgroupdesc_phone">Upućivanje poziva i upravljanje razgovorom</string>
+  <string name="permgroupdesc_readmediaimages">Pristup fotografijama i videozapisima</string>
+  <string name="permgroupdesc_readmediavideo">Pristup glazbi i zvuku</string>
   <string name="permgroupdesc_recognition">Pristup podacima o zdravlju &amp; i aktivnosti</string>
   <string name="permgroupdesc_sensors">Pristup podacima senzora tijela</string>
   <string name="permgroupdesc_sms">Čitati ili slati SMS</string>
@@ -3741,6 +3774,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="permission_instruction_get_accounts">Ovo dopuštenje omogućuje aplikacijama pristup popisu računa pohranjenih na vašem uređaju. Ovaj popis može sadržavati sve vaše osobne račune koje su stvorile instalirane aplikacije, kao i račune s platformi društvenih medija i alata za komunikaciju.</string>
   <string name="permission_instruction_install_shortcuts">Ovo dopuštenje omogućuje aplikacijama stvaranje prečaca na početnom zaslonu.</string>
   <string name="permission_instruction_install_unknown_source">Ovo dopuštenje omogućuje aplikacijama instaliranje drugih aplikacija na vaš uređaj. Zlonamjerne aplikacije koriste ovo dopuštenje za instaliranje aplikacija bez vaše potvrde.</string>
+  <string name="permission_instruction_location">Kada date ovo dopuštenje, aplikacije će koristiti mreže ili satelitsko pozicioniranje za pristup vašoj lokaciji. Aplikacijama koje podržavaju tu značajku možete dopustiti pristup samo vašoj približnoj lokaciji.</string>
   <string name="permission_instruction_modify_audio_settings">Ovo dopuštenje omogućuje aplikacijama izmjenu postavki zvuka (npr. podešavanje glasnoće bez vaše potvrde). Možda nećete moći prilagoditi glasnoću u nekim aplikacijama ako im ne date ovo dopuštenje.</string>
   <string name="permission_instruction_media_audio">Ovo dopuštenje omogućuje aplikacijama pristup pjesmama i drugim audio datotekama pohranjenim na ovom uređaju. Ove stavke mogu sadržavati osobne podatke.</string>
   <string name="permission_instruction_media_files">Ovo dopuštenje omogućuje aplikacijama pristup datotekama i dokumentima pohranjenim na ovom uređaju. Ove stavke mogu sadržavati osobne podatke.</string>
@@ -3782,6 +3816,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="permission_instruction_touch_pay">Ovo dopuštenje omogućuje aplikacijama beskontaktno plaćanje.</string>
   <string name="permission_instruction_use_sip">Ovo dopuštenje omogućuje aplikacijama upotrebu SIP video usluga.</string>
   <string name="permission_instruction_vr_assistant">Ovo dopuštenje omogućuje aplikacijama upotrebu usluga pomoćnika VR-a.</string>
+  <string name="permission_instruction_wall_paper">Odobrite ovo dopuštenje kako biste aplikacijama omogućili promjenu zadanih usluga dinamičke pozadine i nastavak rada u pozadini.</string>
   <string name="permission_instruction_write_calllog">Ovo dopuštenje omogućuje aplikacijama uređivanje povijesti poziva koja može sadržavati detaljne informacije o vašim dolaznim i odlaznim pozivima. Zlonamjerne aplikacije mogu upotrijebiti ovo dopuštenje za brisanje ili uređivanje povijesti poziva.
 </string>
   <string name="permission_instruction_write_clipboard">Ovo dopuštenje omogućuje aplikacijama spremanje stavki u međuspremnik. Neželjene poruke mogu utjecati na vašu uobičajenu upotrebu međuspremnika.</string>
@@ -4256,6 +4291,8 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pp_identifier_protection">Zaštitite osobne identifikatore</string>
   <string name="pp_interception_net_visit_content_manager">Zaštitite Galeriju i datoteke aplikacija društvenih mreža</string>
   <string name="pp_interception_net_visit_content_manager_detail">Odaberite kojim aplikacijama je dopušten pristup vašim fotografijama, videozapisima i povijesti chata</string>
+  <string name="pp_lab_compact_blur_location">Aplikacije koje pristupaju približnoj lokaciji</string>
+  <string name="pp_lab_compact_blur_location_summary">"Odaberite \"Zadano\" za korištenje Androidove funkcije približne lokacije ili \"Sve\" za prebacivanje na MIUI."</string>
   <string name="pp_local_msg">Informacije o lokaciji</string>
   <string name="pp_manage_apps_location_information">Dopustite aplikacijama pristup vašoj lokaciji</string>
   <string name="pp_manage_track">Nadgledajte tragače</string>
@@ -4529,9 +4566,9 @@ Isklj. maks.: %2$s</string>
   <string name="privacy_flares_recent">Nedavna radnja</string>
   <string name="privacy_flares_recent_detail_cam">Ova aplikacija koristi kameru</string>
   <string name="privacy_flares_recent_detail_cam_loc">Ova je aplikacija koristila kameru i pristupila vašoj lokaciji</string>
-  <string name="privacy_flares_recent_detail_cam_mic">Ova aplikacija koristi kameru i mikrofon</string>
+  <string name="privacy_flares_recent_detail_cam_mic">Ova je aplikacija koristila kameru i mikrofon</string>
   <string name="privacy_flares_recent_detail_loc">Ova je aplikacija pristupila vašoj lokaciji</string>
-  <string name="privacy_flares_recent_detail_mic">Ova aplikacija koristi mikrofon</string>
+  <string name="privacy_flares_recent_detail_mic">Ova je aplikacija koristila mikrofon</string>
   <string name="privacy_flares_recent_detail_mic_loc">Ova je aplikacija koristila mikrofon i pristupila vašoj lokaciji</string>
   <string name="privacy_flares_recent_detail_more">Ova je aplikacija koristila osjetljivo dopuštenje</string>
   <string name="privacy_global_guide_permission_guide_text">"Primit ćete upozorenje na traci statusa kada aplikacije snimaju zvuk ili upotrebljavaju kameru. Da biste saznali koja aplikacija to radi, dodirnite upozorenje."</string>
@@ -4794,7 +4831,7 @@ Povući suglasnost sada?"</string>
   <string name="report_warning_title">Pažnja</string>
   <string name="required_permissions">Obavezna dopuštenja</string>
   <string name="required_permissions_desc">Ova su dopuštenja potrebna kako bi se omogućile osnovne značajke i usluge ove aplikacije.</string>
-  <string name="reset_data_dialog_message">"Ovaj uređaj nije povezan s vašim Mi Računom. Nije moguće vratiti ili poništiti zaporku. Izradite sig. kopiju svih važnih stavki i napravite vraćanje na tvorničke postavke. Svi podaci bit će trajno izbrisani i SD kartica će biti formatirana tijekom vraćanja na tvorničke postavke."</string>
+  <string name="reset_data_dialog_message">"Ovaj uređaj nije povezan s vašim Xiaomi Računom. Nije moguće vratiti ili poništiti zaporku. Izradite sig. kopiju svih važnih stavki i napravite vraćanje na tvorničke postavke. Svi podaci bit će trajno izbrisani i SD kartica će biti formatirana tijekom vraćanja na tvorničke postavke."</string>
   <string name="reset_data_dialog_ok">Vraćanje na tvorničke postavke</string>
   <string name="reset_data_title">"Ne mogu vratiti zaporku"</string>
   <string name="resource_antispam">Popis blokiranih</string>
@@ -4970,7 +5007,7 @@ Povući suglasnost sada?"</string>
   <string name="set_now">Postavke</string>
   <string name="set_numeric_password_name">Postavite PIN</string>
   <string name="set_package_tips">"Poslat ćemo besplatni SMS vašem mobilnom operateru kako bismo provjerili vaš podatkovni paket. Podaci koje navedete šifrirat će se i prenijeti na naše poslužitelje kako bi se sastavila ova poruka."</string>
-  <string name="set_package_tips_detail">"Podaci preneseni na poslužitelje Xiaomi sadržavat će podatke o vašem mobilnom operateru, kao i vaš broj telefona, IMEI i Mi Račun."</string>
+  <string name="set_package_tips_detail">"Podaci preneseni na poslužitelje Xiaomi sadržavat će podatke o vašem mobilnom operateru, kao i vaš broj telefona, IMEI i Xiaomi Račun."</string>
   <string name="set_pattern_password_name">Postavite uzorak</string>
   <string name="set_traffic_tips">Postavite svoj podatkovni plan za upravljanje korištenjem mobilnih podataka i izbjegavajte dodatne naknade mobilnog operatera</string>
   <string name="seton_immediately">Uključi</string>
@@ -5521,7 +5558,7 @@ Povući suglasnost sada?"</string>
   <string name="storage_clear_more_tools">Više alata za čišćenje</string>
   <string name="storage_clear_video">Očisti predmemoriju videozapisa</string>
   <string name="storage_compact_warning">Podešavanje višestrukih dopuštenja</string>
-  <string name="storage_compact_warning_desc">"Ova aplikacija ne podržava podešavanje dopuštenja za pojedinačne fotografije, videozapise, zvuk, datoteke ili dokumente."</string>
+  <string name="storage_compact_warning_desc">"Dopuštenja za fotografije, videozapise i zvuk za ovu aplikaciju moraju se promijeniti istovremeno. Promjenom jednog od ovih dopuštenja promijenit će se sva."</string>
   <string name="storage_deepclean_entry">Duboko čišćenje</string>
   <string name="storage_dialog_unmountable">"Ovaj ^1 je oštećen.
 
@@ -5670,7 +5707,6 @@ Formatiranjem će se izbrisati postojeći sadržaj na ^2. Da biste izbjegli gubi
   <string name="superpower_dialog_button_ok">U redu</string>
   <string name="superpower_dialog_massage">"Ultra štednja baterije ograničava značajke koje najviše troše energiju i smanjuje performanse uređaja kako bi osnovne funkcije (npr. pozivi, SMS poruke i povezivanje s mrežom) bile dostupne koliko god je to moguće. Uključiti Ultra štednju baterije?"</string>
   <string name="superpower_dialog_title">Ultra štednja baterije</string>
-  <string name="superpower_notification_new_title">Preostalo je manje od %s baterije</string>
   <string name="superpower_notification_new_title_new">Preostalo je manje od %s baterije</string>
   <string name="superpower_notification_summary">Napunite bateriju ili uključite Ultra štednju baterije</string>
   <string name="superpower_notification_time_12">EEEE, dd.MM</string>
@@ -5698,11 +5734,11 @@ Formatiranjem će se izbrisati postojeći sadržaj na ^2. Da biste izbjegli gubi
   <string name="superpower_settins_switch_summary">Ograničava značajke koje najviše troše energiju kako bi ostavile osnovne funkcije (npr. Pozive, SMS i odabrane aplikacije) dostupnima koliko god je moguće</string>
   <string name="support_game_booster_tips">Ubzravanje brzine &amp; poboljšanje doživljaja igranja</string>
   <string name="sys_app_prot_cracked_confirm">Razumijem</string>
-  <string name="sys_app_prot_cracked_login">Prijavite se s Mi Računom</string>
+  <string name="sys_app_prot_cracked_login">Prijavite se s Xiaomi Računom</string>
   <string name="sys_app_prot_cracked_text_login">"Trenutna MIUI verzija je izmijenjena te dovodi sigurnost vašeg uređaja u opasnost.
 
 Pobrinite se da znate odakle ovaj uređaj dolazi, i obratite se ovlaštenom Xiaomi servisu u vašem području da biste dobili pomoć."</string>
-  <string name="sys_app_prot_cracked_text_unlogin">"Trenutna MIUI verzija je izmijenjena te dovodi sigurnost vašeg uređaja u opasnost. Prijavite se sa svojim Mi Računom da biste isključili ovo upozorenje.
+  <string name="sys_app_prot_cracked_text_unlogin">"Trenutna MIUI verzija je izmijenjena te dovodi sigurnost vašeg uređaja u opasnost. Prijavite se sa svojim Xiaomi Računom da biste isključili ovo upozorenje.
   
 Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle ovaj uređaj dolazi i obratite se ovlaštenom Xiaomi servisu u vašem području."</string>
   <string name="sys_app_prot_cracked_title">Sigurnosni rizik</string>
@@ -5963,7 +5999,7 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="title_block_calls_from_strangers">Propustili ste važne pozive?</string>
   <string name="title_chain_start">Ograniči lančano pokretanje</string>
   <string name="title_cleaner_cloudscan">Skeniraj cloud smeće</string>
-  <string name="title_cloud_account">Mi Račun</string>
+  <string name="title_cloud_account">Xiaomi Račun</string>
   <string name="title_cloud_service">Xiaomi Cloud</string>
   <string name="title_cloud_space_almost_full">Cloud pohrana je gotovo puna, neke stavke neće biti sink.</string>
   <string name="title_cloud_space_full">"Cloud pohrana je puna"</string>

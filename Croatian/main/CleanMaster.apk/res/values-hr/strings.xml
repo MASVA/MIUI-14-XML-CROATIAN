@@ -841,7 +841,7 @@
     <string name="tips_low_storage_dialog_title">Prostor za pohranu je nizak</string>
     <string name="tips_of_app_manage">Izbrišite rijetko korištene aplikacije za uštedite prostor za pohranu</string>
     <string name="tips_of_auto_launch_manage">Spriječite rijetko korištene aplikacije od automatskog pokretanja</string>
-    <string name="tips_of_cloud_service">Prijavite se sa svojim Mi Računom da koristite više Mi Usluga</string>
+    <string name="tips_of_cloud_service">Prijavite se sa svojim Xiaomi Računom da koristite više Mi Usluga</string>
     <string name="tips_of_connect">Povežite se na Internet da koristite cijeli set značajki sigurnosti</string>
     <string name="tips_of_garbage_cloud_scan">Pronađite skriveno smeće s cloud skeniranjem</string>
     <string name="tips_of_garbage_data_set">Ažurirajte bazu podataka Čistača da pronađete više smeća na vašem uređaju</string>
