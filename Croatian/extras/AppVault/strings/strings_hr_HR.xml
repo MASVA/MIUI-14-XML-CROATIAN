@@ -24,6 +24,7 @@
 	 <string name="app_mifitness">Mi Fitness</string>
 	 <string name="app_mihome">Mi Home</string>
 	 <string name="app_mipay">Novčanik</string>
+	 <string name="app_mivideo">Mi Video</string>
 	 <string name="app_notes">Bilješke</string>
 	 <string name="app_recorder">Snimač</string>
 	 <string name="app_scanner">Skener</string>
@@ -97,6 +98,8 @@
 	 <string name="widget_health_steps_desc">Pogledajte današnje korake i napredak u cilju</string>
 	 <string name="widget_mipay_wallet">Pomoćnik</string>
 	 <string name="widget_mipay_wallet_desc">Brzo pregledajte financijske, kreditne podatke, informacije o osiguranju i važne podsjetnike za obveze</string>
+	 <string name="widget_mivideo_local">Lokalni videozapisi</string>
+   <string name="widget_mivideo_local_desc">Brz pristup lokalnim audio i video datotekama</string>
 	 <string name="widget_notes_quick">Prečaci</string>
 	 <string name="widget_notes_quick_desc">Brzo stvarajte i pristupajte bilješkama i zadacima</string>
 	 <string name="widget_notes_quick_note">Stvorite bilješke</string>
