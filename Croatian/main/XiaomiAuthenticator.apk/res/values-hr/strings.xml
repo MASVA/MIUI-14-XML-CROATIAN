@@ -6,7 +6,7 @@
     <string name="action_settings">Postavke</string>
     <string name="activation_page">Nije aktivirano</string>
     <string name="activation_page_btn_txt">Aktiviraj</string>
-    <string name="activation_page_info">Prijavite se na vaš Mi Račun da aktivirate Osiguranu prijavu</string>
+    <string name="activation_page_info">Prijavite se na vaš Xiaomi Račun da aktivirate Osiguranu prijavu</string>
     <string name="add_account_menu_item">Dodaj račun</string>
     <string name="app_name">Xiaomi Authenticator</string>
     <string name="app_name_lockpattern">Uzorak zaključavanja</string>
@@ -104,7 +104,7 @@ Prijavite se na account.xiaomi.com, i kliknite na Aktiviraj ponovno"</string>
     <string name="original_pattern_tip">Unesite uzorak otključavanja</string>
     <string name="password_error">Zaporka koju ste unijeli nije točna</string>
     <string name="password_forget">Zaboravljena zaporka?</string>
-    <string name="password_hint">Unesite zaporku Mi Računa</string>
+    <string name="password_hint">Unesite zaporku Xiaomi Računa</string>
     <string name="privacy_page_url">http://www.Xiaomi.com/policies/privacy/</string>
     <string name="privacy_preference_title">Pravila o privatnosti</string>
     <string name="progress_loading">Učitavanje…</string>

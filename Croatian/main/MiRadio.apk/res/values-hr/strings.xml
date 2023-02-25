@@ -44,7 +44,7 @@
     <string name="group_other">Ostalo</string>
     <string name="hint_frequency">Frekvencija: %1$s ~ %2$s</string>
     <string name="hint_label">Označiti</string>
-    <string name="isornot_your_mi_account">Je li ovo vaš Mi Račun?</string>
+    <string name="isornot_your_mi_account">Je li ovo vaš Xiaomi Račun?</string>
     <string name="label_recording">Snimanje: %s</string>
     <string name="menu_exit">Izlaz</string>
     <string name="menu_headset">Prebacite se na slušalice</string>
@@ -97,7 +97,7 @@
     <string name="passport_user_agreement_prefix">Prihvaćam </string>
     <string name="passport_v_code_error">Kod za provjeru nije valjan</string>
     <string name="passport_wechat_not_install">WeChat nije instaliran</string>
-    <string name="phone_bind_too_many">Ovaj je broj telefona povezan s nekoliko Mi Računa u kratkom vremenskom razdoblju. Pokušajte upotrijebiti drugi broj telefona.</string>
+    <string name="phone_bind_too_many">Ovaj je broj telefona povezan s nekoliko Xiaomi Računa u kratkom vremenskom razdoblju. Pokušajte upotrijebiti drugi broj telefona.</string>
     <string name="phone_hint">Broj telefona</string>
     <string name="phone_number">Broj telefona</string>
     <string name="pre_station">Prethodna postaja</string>
@@ -106,7 +106,7 @@
     <string name="runtime_permission_ungranted">Zapis nije moguće pokrenuti zbog nedopuštenih dopuštenja</string>
     <string name="search_dialog_title">Skeniraj postaje</string>
     <string name="search_menu_title">Pretraživanje</string>
-    <string name="sign_in_title">Prijavite se na Mi Račun</string>
+    <string name="sign_in_title">Prijavite se na Xiaomi Račun</string>
     <string name="sns_sign_in">Drugi načini za prijavu</string>
     <string name="station_check_favorite">Dodaj u pred-postavke</string>
     <string name="stations_list">Popis postaja</string>

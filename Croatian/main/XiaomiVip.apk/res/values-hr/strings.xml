@@ -62,8 +62,8 @@
     <string name="miuishare_account_login_cancel">Odustani</string>
     <string name="miuishare_account_login_confirmation">Potrebna je prijava</string>
     <string name="miuishare_account_login_ok">Prijavite se</string>
-    <string name="miuishare_account_need_activate">"Dodajte svoj Weibo račun trenutnom Mi Računu za dijeljenje. Izgleda da vaš Mi Račun nije aktiviran. Aktivirati ga sada?"</string>
-    <string name="miuishare_account_need_login">"Dodajte svoj Weibo račun trenutnom Mi Računu za dijeljenje. Prijaviti se sada?"</string>
+    <string name="miuishare_account_need_activate">"Dodajte svoj Weibo račun trenutnom Xiaomi Računu za dijeljenje. Izgleda da vaš Xiaomi Račun nije aktiviran. Aktivirati ga sada?"</string>
+    <string name="miuishare_account_need_login">"Dodajte svoj Weibo račun trenutnom Xiaomi Računu za dijeljenje. Prijaviti se sada?"</string>
     <string name="miuishare_app_name">MIUI Share</string>
     <string name="miuishare_no_network">"Ne mogu se povezati na mrežu."</string>
     <string name="miuishare_publish">Pošalji</string>

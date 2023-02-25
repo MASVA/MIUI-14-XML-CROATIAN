@@ -41,7 +41,7 @@
     <string name="custom_define_permission_desc_android.permission_group.LOCATION">Za lociranje vašeg uređaja i prelazak na izgubljeni način rada</string>
     <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
     <string name="default_debt_msg_words">"Ovaj je uređaj zaključan zbog kasne rate plaćanja.\nKontaktirajte svog prodajnog agenta za detalje."</string>
-    <string name="default_lock_msg_words">Ovaj uređaj je povezan s postojećim Mi Računom. Iz sigurnosnih razloga, potrebno je unijeti zaporku za provjeru uređaja.</string>
+    <string name="default_lock_msg_words">Ovaj uređaj je povezan s postojećim Xiaomi Računom. Iz sigurnosnih razloga, potrebno je unijeti zaporku za provjeru uređaja.</string>
     <string name="default_lock_msg_words_with_phone">Bok! Izgubio sam mobitel. Možete li me, molim vas kontaktirati? Hvala!</string>
     <string name="device_locked">Ovaj uređaj je zaključan</string>
     <string name="device_lost">Ovaj uređaj je izgubljen!</string>
@@ -59,8 +59,8 @@
     <string name="find_device_capture_notification_title">Značajka Pronađi uređaj sprema se za snimanje fotografije</string>
     <string name="find_device_crash">Značajka Pronađi uređaj je neočekivano prekinuta.</string>
     <string name="find_device_error_access_denied">Pristup je odbijen.</string>
-    <string name="find_device_error_account_sys_timeout">"Ne mogu se povezati na Mi Račun."</string>
-    <string name="find_device_error_account_unknown_error">Pogreška Mi Računa (%s).</string>
+    <string name="find_device_error_account_sys_timeout">"Ne mogu se povezati na Xiaomi Račun."</string>
+    <string name="find_device_error_account_unknown_error">Pogreška Xiaomi Računa (%s).</string>
     <string name="find_device_error_custom">%s</string>
     <string name="find_device_error_network">Pogreška mreže.</string>
     <string name="find_device_error_password_changed">Zaporka računa je nedavno promijenjena.</string>
@@ -158,7 +158,7 @@
     <string name="passport_vcode_prompt_long">Unesite kod za provjeru</string>
     <string name="passport_verify">Provjeri</string>
     <string name="password">Unesite zaporku</string>
-    <string name="phone_locked">Ovaj je uređaj povezan s postojećim Mi Računom (%s). Unesite zaporku da aktivirate uređaj.</string>
+    <string name="phone_locked">Ovaj je uređaj povezan s postojećim Xiaomi Računom (%s). Unesite zaporku da aktivirate uređaj.</string>
     <string name="phone_locked_account_email">, povezana e-pošta: %s</string>
     <string name="phone_locked_account_phone">, povezan broj telefona: %s</string>
     <string name="preference_copied">Sažetak \"%1$s\" kopiran je u međuspremnik.</string>
@@ -200,7 +200,7 @@
     <string name="unlock_error_device_id">"Ne mogu dobiti ID uređaja"</string>
     <string name="unlock_error_interrupted">Prekinuto</string>
     <string name="unlock_error_network">"Ne mogu se povezati na mrežu"</string>
-    <string name="unlock_error_passport_sdk_timeout">"SDK Mi Računa ne odgovara"</string>
+    <string name="unlock_error_passport_sdk_timeout">"SDK Xiaomi Računa ne odgovara"</string>
     <string name="unlock_error_rpc">RPC pogreška</string>
     <string name="unlock_error_server">Pogreška poslužitelja</string>
     <string name="unlock_error_ssl_hand_shake">"Ne mogu se povezati s poslužiteljem, pokušajte podesiti datum i vrijeme ručno."</string>
@@ -222,7 +222,7 @@ Idite na i.mi.com/ss i pošaljite svoju aplikaciju za otključavanje uređaja."<
     <string name="v7_preference_off">ISKLJUČENO</string>
     <string name="v7_preference_on">UKLJUČENO</string>
     <string name="verifing_account">Provjera zaporke…</string>
-    <string name="verify_password_failed">"Ne mogu potvrditi ID Mi Računa. %s."</string>
+    <string name="verify_password_failed">"Ne mogu potvrditi ID Xiaomi Računa. %s."</string>
     <string name="wednesday">Srijeda</string>
     <string name="wednesday_short">Sri</string>
     <string name="wednesday_shortest">S</string>

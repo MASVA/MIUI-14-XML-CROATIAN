@@ -139,9 +139,9 @@ Možete započeti drugu sesiju na svom računalu."</string>
     <string name="log_warning">"Uključivanje promjene dnevnika može povećati sigurnosne rizike i utjecati na performanse. Koristite ove promjene samo kad je to potrebno."</string>
 	 <string name="login_xiaomi_account_cancel">Odustani</string>
     <string name="login_xiaomi_account_goto_login">Prijava</string>
-    <string name="login_xiaomi_account_summary_pad">Da biste se mogli povezati s drugim telefonima, koristite isti Mi Račun na oba povezana uređaja. Prijaviti se sada?</string>
-    <string name="login_xiaomi_account_summary_phone">Da biste se mogli povezati s drugim tabletima, koristite isti Mi Račun na oba povezana uređaja. Prijaviti se sada?</string>
-    <string name="login_xiaomi_account_title">Prijavite se na Mi Račun</string>
+    <string name="login_xiaomi_account_summary_pad">Da biste se mogli povezati s drugim telefonima, koristite isti Xiaomi Račun na oba povezana uređaja. Prijaviti se sada?</string>
+    <string name="login_xiaomi_account_summary_phone">Da biste se mogli povezati s drugim tabletima, koristite isti Xiaomi Račun na oba povezana uređaja. Prijaviti se sada?</string>
+    <string name="login_xiaomi_account_title">Prijavite se na Xiaomi Račun</string>
     <string name="low_battery_notification_action">Uključi</string>
     <string name="low_battery_notification_content">Preostalo je manje od %2$d%% baterije na %1$s. Uključite Štednju baterije.</string>
     <string name="low_battery_notification_title">Slaba baterija</string>
@@ -295,7 +295,7 @@ Možete započeti drugu sesiju na svom računalu."</string>
     <string name="pad_settings_pc_history_title">Povijest povezivanja</string>
     <string name="pad_settings_pc_trusted_title">Automatski se poveži</string>
     <string name="pad_settings_pc_use_tile">O ovoj značajci</string>
-    <string name="pad_settings_phone_handoff_summary">Koristite handoff s aplikacijama, međuspremnikom, videozapisima i drugim stavkama na drugom uređaju povezanom s vašim Mi Računom</string>
+    <string name="pad_settings_phone_handoff_summary">Koristite handoff s aplikacijama, međuspremnikom, videozapisima i drugim stavkama na drugom uređaju povezanom s vašim Xiaomi Računom</string>
     <string name="pad_settings_phone_handoff_title">Handoff</string>
     <string name="pad_settings_scanner_summary">Povežite se s MIUI+ pomoću QR koda</string>
     <string name="pad_settings_trusted_delete_dialog_msg">"Nećete se moći automatski povezati s ovim uređajem nakon što ga uklonite s popisa."</string>
@@ -311,7 +311,7 @@ Možete započeti drugu sesiju na svom računalu."</string>
 	 <string name="pc_cooperate_guide_screenshot">Snimak zaslona</string>
 	 <string name="pc_cooperate_guide_task">Prikaži zadatke</string>
 	 <string name="pc_cooperate_guide_undo">Poništi (Ctrl+Z)</string>
-	 <string name="pc_settings_current_device_tip">Automatsko povezivanje s računalom s otvorenim MIUI+ i prijavljenim na isti Mi Račun</string>
+	 <string name="pc_settings_current_device_tip">Automatsko povezivanje s računalom s otvorenim MIUI+ i prijavljenim na isti Xiaomi Račun</string>
     <string name="pcmode_not_support_multi_window">"Način rada s računalom ne podržava prikazivanje više prozora."</string>
 	 <string name="permission_access_nearby_device">Pristup uređajima u blizini</string>
     <string name="phone_pad_app_introduction_summary">Nastavak zadataka u istoj aplikaciji na vašem tabletu</string>

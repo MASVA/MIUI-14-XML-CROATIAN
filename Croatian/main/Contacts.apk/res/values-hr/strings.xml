@@ -48,8 +48,8 @@
     <string name="add_field">Dodaj drugo polje</string>
     <string name="add_field_toast">Nema više polja za dodavanje.</string>
     <string name="add_new_account">Dodaj novi račun</string>
-    <string name="add_xiaomi_account_dialog_btn">Upotrijebi Mi Račun</string>
-    <string name="add_xiaomi_account_dialog_msg">Koristite vaš Mi Račun za sinkronizaciju i izradu sigurnosnih kopija vaših kontakata između više uređaja.</string>
+    <string name="add_xiaomi_account_dialog_btn">Upotrijebi Xiaomi Račun</string>
+    <string name="add_xiaomi_account_dialog_msg">Koristite vaš Xiaomi Račun za sinkronizaciju i izradu sigurnosnih kopija vaših kontakata između više uređaja.</string>
     <string name="add_xiaomi_account_dialog_title">Odabir računa</string>
     <string name="aggregation_suggestion_edit_dialog_message">Prebaciti se na uređivanje kontakta jednakog imena? Informacije koje ste do sada unijeli će biti kopirane.</string>
     <string name="aggregation_suggestion_edit_dialog_title">Istoimeni</string>
@@ -94,7 +94,7 @@
     <string name="bh_cancellation_of_carrier_services_result">"Ako nastavite, otkazat ćete Xiaomi Carrier usluge. Nakon toga prestat ćemo prikupljati i koristiti vaše osobne podatke te ćemo trajno izbrisati vašu povijest narudžbi. Provjerite jesu li sve vaše transakcije dovršene prije nego što otkažete usluge."</string>
     <string name="bh_cannot_action">"Ne mogu koristiti %1$s. Prvo instalirajte odgovarajuću aplikaciju."</string>
     <string name="bh_cannot_fetch_num">Nepoznati broj telefona</string>
-    <string name="bh_cannot_login_miacount">"Ne mogu se prijaviti na Mi Račun"</string>
+    <string name="bh_cannot_login_miacount">"Ne mogu se prijaviti na Xiaomi Račun"</string>
     <string name="bh_card_order_detail">Informacije o narudžbi</string>
     <string name="bh_card_order_name">Paket usluga</string>
     <string name="bh_card_order_pay_price">Uplaćeni iznos</string>
@@ -206,7 +206,7 @@
     <string name="bh_save_desc">Spremi ovaj broj kako biste ga upotrijebili za sljedeću nadoplatu</string>
     <string name="bh_save_sccuss">Uspješno spremljeno</string>
     <string name="bh_saved_number">Spremljeni broj: %1$s</string>
-    <string name="bh_should_login_to_buy">Prijavite se na Mi Račun da biste mogli kupiti minute poziva i mobilne podatke</string>
+    <string name="bh_should_login_to_buy">Prijavite se na Xiaomi Račun da biste mogli kupiti minute poziva i mobilne podatke</string>
     <string name="bh_sim">SIM %1$d</string>
     <string name="bh_similar_number_hint">Ovaj broj je sličan %1$s. Svejedno nadoplatiti ovaj broj?</string>
     <string name="bh_stop_carrier_services">Isključi Xiaomi Carrier Services</string>
@@ -340,6 +340,9 @@
     <string name="callrecordview_item_op_time_rejected">"Odbijeno"</string>
     <string name="callrecordview_item_op_time_short_incoming">"Dolazno: "</string>
     <string name="callrecordview_item_op_time_short_outgoing">"Odlazno: "</string>
+	 <string name="callrecordview_item_op_time_xiaoai_automatic_answer">Automatski odgovor</string>
+    <string name="callrecordview_item_op_time_xiaoai_call">Mi AI Call Assistant</string>
+    <string name="callrecordview_item_op_time_xiaoai_manual_answer">Ručni odgovor</string>
     <string name="callrecordview_item_op_video">Video</string>
     <string name="callrecordview_menu_add_call_note">Dodaj bilješku poziva</string>
     <string name="callrecordview_menu_aiphone">AI pozivi</string>
@@ -469,7 +472,7 @@
     <string name="create_group_dialog_title">Izrada nove grupe</string>
     <string name="create_qrcode_fail_message">"Ne mogu kreirati QR kod"</string>
     <string name="cta_content_seg1"><Data>"&lt;strong>Važna obavijest
-Dodirom na \"Prihvaćam\" u nastavku prihvaćate &lt;font color=#33aaff>&lt;a href ='https://static.account.xiaomi.com/html/agreement/account/en.html'>Ugovor o usluzi Mi Račun&lt;/a>&lt;/font>, &lt;font color=#33aaff>&lt;a href ='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'>Xiaomi Roaming Korisnički ugovor&lt;/a>&lt;/font>, i &lt;font color=#33aaff>&lt;a href ='http://www.miui.com/res/doc/privacy/en.html'>Pravila o privatnosti&lt;/a>&lt;/font>. Pažljivo pročitajte ove dokumente i u potpunosti razumite sve povezane odredbe i uvjete prije nego što prihvatite.&lt;/strong>"</Data></string>
+Dodirom na \"Prihvaćam\" u nastavku prihvaćate &lt;font color=#33aaff>&lt;a href ='https://static.account.xiaomi.com/html/agreement/account/en.html'>Ugovor o usluzi Xiaomi Račun&lt;/a>&lt;/font>, &lt;font color=#33aaff>&lt;a href ='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'>Xiaomi Roaming Korisnički ugovor&lt;/a>&lt;/font>, i &lt;font color=#33aaff>&lt;a href ='http://www.miui.com/res/doc/privacy/en.html'>Pravila o privatnosti&lt;/a>&lt;/font>. Pažljivo pročitajte ove dokumente i u potpunosti razumite sve povezane odredbe i uvjete prije nego što prihvatite.&lt;/strong>"</Data></string>
     <string name="cta_content_seg2">"
 Mi Roaming mora se povezati s internetom i pristupiti podacima o vašoj lokaciji da bi normalno radio. Uz to, Mi Roaming može prikupljati, koristiti i dijeliti vaše osobne podatke. Vaši osobni podaci bit će zaštićeni u skladu s lokalnim zakonima i propisima."</string>
     <string name="cta_dialog_cancel">Odbijam</string>
@@ -698,7 +701,7 @@ Razlog: \"%s\""</string>
     <string name="import_to_xiaomi_account_confirm">"Uvoz"</string>
     <string name="import_to_xiaomi_account_progress_finish">Kontakti uvezeni</string>
     <string name="import_to_xiaomi_account_progress_message">"Uvoz…"</string>
-    <string name="import_to_xiaomi_account_title">Uvezi u Mi Račun</string>
+    <string name="import_to_xiaomi_account_title">Uvezi u Xiaomi Račun</string>
     <string name="import_vcard_dialog_message">Uvesti vCard?</string>
     <string name="importing_sim_contacts_miui">"Uvoz kontakata sa SIM kartice…"</string>
     <string name="importing_sim_contacts_miui_prepare">Priprema kontakata…</string>
@@ -974,9 +977,9 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
     <string name="pref_key_sim_manage">SIM kartice</string>
     <string name="pref_key_sim_manage1">Postavljanje SIM kartice 1</string>
     <string name="pref_key_sim_manage2">Postavljanje SIM kartice 2</string>
-    <string name="pref_summary_import_from_account">Premjesti kontakte sa Google i Exchange računa na moj Mi Račun</string>
+    <string name="pref_summary_import_from_account">Premjesti kontakte sa Google i Exchange računa na moj Xiaomi Račun</string>
     <string name="pref_title_account_import">Uvezi kontakte</string>
-    <string name="pref_title_import_from_account">Uvezi u Mi Račun</string>
+    <string name="pref_title_import_from_account">Uvezi u Xiaomi Račun</string>
     <string name="preference_contacts">"Kontakti"</string>
     <string name="preference_contacts_filter">Konfiguriraj popis kontakata</string>
     <string name="preference_contacts_more">Organiziraj kontakte</string>
@@ -1115,7 +1118,8 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
     <string name="scan_business_card">Skeniraj posjetnicu</string>
     <string name="scan_bussiness_card_merge_tip">Konfliktirajući podaci su zamijenjeni</string>
     <string name="scan_merge">Pretraživanje dvostrukih kontakata…</string>
-    <string name="scan_not_installed">Instalirajte prvo aplikaciju Skaner</string>
+	 <string name="scan_not_installed_china">Instalirajte prvo Mi AI Scanner</string>
+    <string name="scan_not_installed_global">Instalirajte prvo aplikaciju Skener</string>
     <string name="scan_qrcode_card_hint1">Skeniraj QR kod</string>
     <string name="scan_qrcode_card_hint2"/>
     <string name="scanning_sdcard_failed_message">Razlog: \"%s\".</string>

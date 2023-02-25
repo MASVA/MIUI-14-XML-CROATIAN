@@ -911,8 +911,8 @@ Sve stavke za personalizaciju koje se trenutno koriste na ovom uređaju. Zadane 
     <string name="privacy_phone_revoke_agree_detail_content_1">"1.Provjerite imate li pravo povući suglasnost prije nego što nastavite.
 2. Vaše povlačenje suglasnosti na Pravila o privatnosti Tema neće utjecati na normalno korištenje drugih Xiaomi proizvoda.
 3. Povlačenje suglasnosti je nepovratna radnja. Sigurnosno kopirajte sve važne stavke prije nego što nastavite jer bi se mogle trajno izbrisati. Imajte na umu da nećete moći preispitati svoju odluku nakon povlačenja suglasnosti. Sljedeći podaci bit će trajno izbrisani ili anonimizirani nakon povlačenja suglasnosti (osim ako je drugačije propisano zakonima i propisima ili na drugi način zahtijevaju regulatorna tijela):"</string>
-    <string name="privacy_phone_revoke_agree_detail_content_2">"Sve narudžbe (uključujući plaćene) napravljene na Xiaomi uređajima na kojima ste koristili svoj Mi račun. Više nećete moći koristiti kupljene artikle.
-Sve informacije o vašim lajkovima, komentarima, ocjenama i pratiteljima generiranim na Xiaomi uređajima na kojima ste koristili svoj Mi račun.
+    <string name="privacy_phone_revoke_agree_detail_content_2">"Sve narudžbe (uključujući plaćene) napravljene na Xiaomi uređajima na kojima ste koristili svoj Xiaomi Račun. Više nećete moći koristiti kupljene artikle.
+Sve informacije o vašim lajkovima, komentarima, ocjenama i pratiteljima generiranim na Xiaomi uređajima na kojima ste koristili svoj Xiaomi Račun.
 Sve teme, pozadine, dinamičke pozadine, fontovi, ikone i melodije zvona preuzete na ovaj uređaj.
 Svi zapisi povijesti pretraživanja, postavke dopuštenja, postavke i predmemorije generirane na ovom uređaju.
 Sve stavke za personalizaciju koje se trenutno koriste na ovom uređaju. Zadane postavke personalizacije bit će vraćene."</string>
@@ -936,7 +936,7 @@ Sve stavke za personalizaciju koje se trenutno koriste na ovom uređaju. Zadane 
     <string name="privacy_revoke_succeed">Suglasnot je uspješno povučena</string>
     <string name="privacy_revoking_warning">Povlačenje suglasnosti…</string>
     <string name="privacy_select_mode">Odaberite način</string>
-    <string name="privacy_select_mode_desc">"Budući da niste pristali na našu Politiku privatnosti, odaberite jedan od sljedećih načina:"</string>
+    <string name="privacy_select_mode_desc">"Budući da niste prihvatili naša Pravila o privatnosti, odaberite jedan od sljedećih načina:"</string>
     <string name="privacy_settings">Privatnost</string>
     <string name="privacy_update_prompt_title">Pravila o privatnosti su ažurirana</string>
     <string name="private_pad_fold_revoke_agree_detail_content_1">"1. Provjerite imate li pravo povući suglasnost prije nego što nastavite.
@@ -958,7 +958,7 @@ Ovo dopuštenje možete dati u Postavke &gt; Privatnost."</string>
     <string name="pull_down_view_error_message">Nema internetske veze. Provjerite vezu ili pokušajte ponovo.</string>
     <string name="pull_down_view_refresh">Osvježi</string>
     <string name="pull_down_view_title">"Što ima novog"</string>
-	 <string name="purchased">Kupljene</string>
+	 <string name="purchased">Kupljeno</string>
     <string name="read_and_agree_account_privacy"><Data>"Pročitao sam i prihvaćam Xiaomi Račun &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Korisnički ugovor&lt;/a>&lt;/font> i &lt;font color=\"#37A5FF\">&lt;a href=\"%4$s\">Pravila o privatnosti&lt;/a>&lt;/font>."</Data></string>
     <string name="recently_used">Nedavno korišteno</string>
     <string name="recommend_trigger">Prilagođene preporuke</string>
