@@ -180,7 +180,7 @@
     <string name="delete_folders">Izbrisati mape: %1$d?</string>
     <string name="delete_operation_record">Izbrisati ovaj zapis?</string>
     <string name="delete_operation_record_timeout">"Ne mogu izbrisati zapis. Pričekajte minutu-dvije i pokušajte ponovo."</string>
-    <string name="delete_record_only">"Stavke na koje se odnose odabrani zapisi neće biti izbrisane."</string>
+    <string name="delete_record_only">Ova radnja će izbrisati samo odabrane zapise. Nijedna datoteka neće biti izbrisana.</string>
     <string name="delete_success">Uspješno izbrisano</string>
     <string name="detail_download_path">"Lokacija: "</string>
     <string name="detail_download_time">"Preuzeto: "</string>
@@ -510,7 +510,7 @@ Pobrinite se da koristite trenutnu Xiaomi Račun kao račun MIUI sustava."</stri
     <string name="operation_resume_all">Nastavi sve</string>
     <string name="operation_save">Spremi</string>
     <string name="operation_send">Pošalji</string>
-    <string name="operation_sure_to_delete">Izbrisati sada?</string>
+    <string name="operation_sure_to_delete">Izbrisati povijest?</string>
     <string name="operation_task_manage">Prikaži prijenose</string>
     <string name="operation_transport_success">Uspješno dodano u prijenose</string>
     <string name="operation_upload">Učitaj</string>

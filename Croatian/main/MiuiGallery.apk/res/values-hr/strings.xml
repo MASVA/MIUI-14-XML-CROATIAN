@@ -507,6 +507,7 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
 	<string name="cleaner_space_description">može biti oslobođeno</string>
 	<string name="cleaner_space_detail_description">Izbrišite fotografije u Galeriji kako biste oslobodili prostor za pohranu</string>
 	<string name="cleaner_stop_scan">Zaustavi skeniranje</string>
+	<string name="cleaner_subtitle_slim_space_prefix">%1$s %2$s zauzeto</string>
 	<string name="cleaner_title">Čistač</string>
 	<string name="cleaner_video_action">Izbriši sad</string>
 	<string name="cleaner_video_description">Izbrišite videozapise koji zauzimaju prostor za pohranu</string>
@@ -589,7 +590,7 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
 	<string name="collage_poster_global_tea_text">VRIJEME ZA ČAJ</string>
 	<string name="collage_ratio_text">Omjer slike</string>
 	<string name="collage_rotate">Rotiraj</string>
-	<string name="collage_select_image_range">Kolaži mogu sadržavati 1-6 fotografija</string>
+	<string name="collage_select_image_range">Kolaži mogu sadržavati %1$d-%2$d fotografija</string>
 	<string name="collage_talkback_margin_large">Deblja margina</string>
 	<string name="collage_talkback_margin_medium">Regularna margina</string>
 	<string name="collage_talkback_margin_non">Bez margina</string>
@@ -1290,8 +1291,6 @@ da radi normalno, dodirnite \"Postavi\" za ići u Dopuštenja."</string>
 	<string name="last_some_performance_title">Stvari koje sam vidio</string>
 	<string name="lenovo">Lenovo</string>
 	<string name="lenovo_phone">Lenovo telefon</string>
-	<string name="limit_height">Visina treba biti > 0</string>
-	<string name="limit_width">Širina treba biti > 0</string>
 	<string name="live_photo">Dinamična fotografija</string>
 	<string name="load_complete">Nema više stavki ovdje</string>
 	<string name="load_failed">"Ne mogu učitati podatke, dodirnite za ponovni pokušaj"</string>
@@ -2054,9 +2053,9 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
 	<string name="photo_editor_talkback_crop_mirror">Ogledalo</string>
 	<string name="photo_editor_talkback_crop_original">Original</string>
 	<string name="photo_editor_talkback_crop_reset">Poništi</string>
-	<string name="photo_editor_talkback_crop_right_rotate">Rotiraj 90 stupnjeva</string>
+	<string name="photo_editor_talkback_crop_right_rotate">Rotiraj %d stupnjeva</string>
 	<string name="photo_editor_talkback_crop_rotate">Rotiraj</string>
-	<string name="photo_editor_talkback_crop_scale_default_value">Zadana vrijednost prije primjene rotacije je 0 stupnjeva</string>
+	<string name="photo_editor_talkback_crop_scale_default_value">Zadana vrijednost prije primjene rotacije je %d stupnjeva</string>
 	<string name="photo_editor_talkback_crop_screen">Omjer slike preko cijelog zaslona</string>
 	<string name="photo_editor_talkback_crop_view">Izreži sliku</string>
 	<string name="photo_editor_talkback_doodle_arrow">Strelica</string>
@@ -2624,6 +2623,8 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
 	<string name="slim_action_auto_backup_enable_description">Prijenos stavki u cloud…</string>
 	<string name="slim_action_auto_backup_sub_tip">Oslobodite prostor za pohranu</string>
 	<string name="slim_action_auto_backup_tip">Uključite sinkronizaciju s cloudom</string>
+	<string name="slim_auto_backup_cloud_confirm_detail">Uključite sinkronizaciju s cloudom da biste mogli prenijeti fotografije i videozapise sa svog uređaja u cloud.</string>
+   <string name="slim_auto_backup_cloud_confirm_title">Sinkronizacija s cloudom</string>
 	<string name="slim_complete">Gotovo</string>
 	<string name="slim_complete_action_title">Uspješno optimizirano</string>
 	<string name="slim_complete_count">"Optimizrano %1$s i %2$s. "</string>
@@ -2638,11 +2639,14 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
 	<string name="slim_dialog_empty_message">"Nije moguće pronaći stavke za optimizaciju."</string>
 	<string name="slim_dialog_empty_positive">Razumijem</string>
 	<string name="slim_dialog_empty_title">Pažnja</string>
-	<string name="slim_dialog_message" formatted="false">"Zamijenite originalne fotografije i videozapise visokokvalitetnim kopijama %d dana nakon izrade stavki. Originalne datoteke bit će pohranjene u oblaku. Moći ćete osloboditi oko %s lokalnog prosttora za pohranu."</string>
+	<string name="slim_dialog_message" formatted="false">"Zamijenite originalne fotografije i videozapise visokokvalitetnim kopijama %d dana nakon izrade stavki. Originalne datoteke bit će pohranjene u cloudu. Moći ćete osloboditi oko %s lokalnog prosttora za pohranu."</string>
 	<string name="slim_dialog_positive">Optimiziraj</string>
 	<string name="slim_dialog_title">Optimiziraj prostor za pohranu</string>
 	<string name="slim_exit_dialog_positive">Zaustavi</string>
 	<string name="slim_exit_dialog_title">Zaustavi optimiziranje</string>
+	<string name="slim_finish_upgrade_tip"><Data>Nadogradite svoj plan pohrane u cloudu za sinkronizaciju više stavki u cloud. Dodirnite da &lt;a href=\"%1$s\">nadogradite sada&lt;/a>.</Data></string>
+  <string name="slim_function_summery_first">Držite optimizirane fotografije na svom uređaju i spremite izvornu sliku u cloud</string>
+  <string name="slim_function_summery_second">Datoteke stvorene u zadnjih %d dana bit će spremljene na vaš uređaj</string>
 	<string name="slim_preference_scanning">Analiziranje fotografija i videozapisa…</string>
 	<string name="slim_preference_summery">Pohranite originalne fotografije i videozapise u cloudu, a na ovom uređaju držite manje visokokvalitetne kopije. Manje kopije zamijenit će originalne datoteke %d dana nakon izrade stavki.</string>
 	<string name="slim_preference_title">Optimiziraj prostor za pohranu</string>
@@ -2650,7 +2654,12 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
 	<string name="slim_space">oslobodi</string>
 	<string name="slim_stop">Zaustavi optimiziranje</string>
 	<string name="slim_stop_v2">Stop</string>
+	<string name="slim_subtitle_slim_space_prefix">Oslobodite %1$s %2$s</string>
+  <string name="slim_subtitle_sync_off_no_slimdata">Uključite sinkronizaciju s cloudom da biste dobili procjenu slobodnog prostora</string>
+  <string name="slim_subtitle_sync_on_no_slimdata">Sinkronizacija. Pokušajte ponovno kasnije.</string>
+  <string name="slim_subtitle_sync_on_no_slimdata_no_cloudspace">Nadogradite svoj plan pohrane u cloudu za sinkronizaciju više stavki</string>
 	<string name="slim_success_tip">Oslobodi %s prostora za pohranu</string>
+	<string name="slim_upgrade_button">Nadogradi</string>
 	<string name="slow_motion_enter">Slow-motion</string>
 	<string name="sns_access_token_expired_warning">Sesija je istekla. Prijavite se ponovo da ponovno povežete ovaj račun.</string>
 	<string name="sns_bind_limit">Previše pokušaja. Pokušajte se prijaviti na druge načine.</string>
@@ -2828,13 +2837,13 @@ Do %1$s možete premjestiti svoje stavke na Google fotografije ili posjetiti i.m
 	<string name="text_edit_dialog_style_toast">"Nije moguće postaviti ocrtani tekst na pozadine"</string>
 	<string name="text_edit_dialog_style_transparent">Neprozirnost</string>
 	<string name="text_edit_sub_menu_text">Mjehurić</string>
-	<string name="text_item_type_talkback_bubble_arrow1">Strelica 1</string>
-	<string name="text_item_type_talkback_bubble_arrow2">Strelica 2</string>
+	<string name="text_item_type_talkback_bubble_arrow1">Strelica %d</string>
+	<string name="text_item_type_talkback_bubble_arrow2">Strelica %d</string>
 	<string name="text_item_type_talkback_bubble_circular">Govorni mjehurić</string>
 	<string name="text_item_type_talkback_bubble_none">Polje za tekst</string>
 	<string name="text_item_type_talkback_bubble_oval">Ovalni govorni mjehurić</string>
-	<string name="text_item_type_talkback_bubble_rectangle">Četvrtasti govorni mjehurić 1</string>
-	<string name="text_item_type_talkback_bubble_rectangle2">Četvrtasti govorni mjehurić 2</string>
+	<string name="text_item_type_talkback_bubble_rectangle">Četvrtasti govorni mjehurić %d</string>
+	<string name="text_item_type_talkback_bubble_rectangle2">Četvrtasti govorni mjehurić %d</string>
 	<string name="text_item_type_talkback_bubble_signature">Potpis</string>
 	<string name="text_item_type_talkback_bubble_watermark_1">Samo za moju Nataliju!</string>
 	<string name="text_item_type_talkback_bubble_watermark_2">Savršen odmor 1</string>
@@ -2845,11 +2854,11 @@ Do %1$s možete premjestiti svoje stavke na Google fotografije ili posjetiti i.m
 	<string name="text_item_type_talkback_bubble_watermark_7">Savršen odmor 2</string>
 	<string name="text_item_type_talkback_bubble_watermark_8">Pozdrav proljeću!</string>
 	<string name="text_item_type_talkback_bubble_watermark_9">Pozdrav svijete!</string>
-	<string name="text_item_type_talkback_festival_chaojieyueliang2">Supermjesec 2</string>
+	<string name="text_item_type_talkback_festival_chaojieyueliang2">Supermjesec %d</string>
 	<string name="text_item_type_talkback_festival_chaojiyueliang">Supermjesec</string>
-	<string name="text_item_type_talkback_festival_chaojiyueliang3">Supermjesec 3</string>
-	<string name="text_item_type_talkback_festival_chaojiyueliang4">Supermjesec 4</string>
-	<string name="text_item_type_talkback_festival_chaojiyueliang5">Supermjesec 5</string>
+	<string name="text_item_type_talkback_festival_chaojiyueliang3">Supermjesec %d</string>
+	<string name="text_item_type_talkback_festival_chaojiyueliang4">Supermjesec %d</string>
+	<string name="text_item_type_talkback_festival_chaojiyueliang5">Supermjesec %d</string>
 	<string name="text_item_type_talkback_scene_baby">Djeca</string>
 	<string name="text_item_type_talkback_scene_caodi">Grassland</string>
 	<string name="text_item_type_talkback_scene_cat">Mačke</string>
