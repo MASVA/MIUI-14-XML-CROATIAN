@@ -1604,7 +1604,7 @@ da osobno prilagodite Galeriju"</string>
 	<string name="mosaic_item_talkback_eraser">Gumica</string>
 	<string name="motion_photo_enter"/>
 	<string name="motion_photo_play">Reproduciraj</string>
-	<string name="move_to_other_albums_tip">Premjestiti ovaj album u album Ostalo?</string>
+	<string name="move_to_other_albums_tip">Premjestiti ovaj album u \"Drugi albumi\"?</string>
 	<string name="move_to_rubbish_albums_tip">Premjestiti odabrane albume u smeće?</string>
 	<string name="movie_add_disable">Možete odabrati do %d fotografija</string>
 	<string name="movie_audio_antiquity">Retro</string>
@@ -1777,7 +1777,7 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
 	<string name="operation_hide_time">Sakrij datume</string>
 	<string name="operation_in_process">Obrada…</string>
 	<string name="operation_move">Premjesti</string>
-	<string name="operation_move_to_other_albums">Premjesti u Drugi albumi</string>
+	<string name="operation_move_to_other_albums">Premjesti u \"Drugi albumi\"</string>
 	<string name="operation_move_to_rubbish_albums">Premjesti u smeće</string>
 	<string name="operation_not_show_in_photos_tab">"Ne prikazuj u kartici Fotografije"</string>
 	<string name="operation_photo_rename">Preimenuj</string>
@@ -1786,7 +1786,7 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
 	<string name="operation_projection">Emitiraj</string>
 	<string name="operation_remove_face">Ukloni</string>
 	<string name="operation_remove_from_face_album">Ukloni iz albuma</string>
-	<string name="operation_remove_from_other_albums">Ukloni iz Drugih albuma</string>
+	<string name="operation_remove_from_other_albums">Ukloni iz \"Drugi albumi\"</string>
 	<string name="operation_remove_from_rubbish_albums">Vrati</string>
 	<string name="operation_remove_rubbish">Vrati</string>
 	<string name="operation_remove_secret">Ukloni iz privatnog albuma</string>
@@ -1794,8 +1794,8 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
 	<string name="operation_replace_album_cover">Promijeni naslovnicu albuma</string>
 	<string name="operation_replace_album_cover_custom_mode">Vlastito</string>
 	<string name="operation_replace_album_cover_default_mode">Zadano</string>
-	<string name="operation_replace_album_cover_status_default_mode_success">Uspješno vraćena zadana naslovnica albuma</string>
-	<string name="operation_replace_album_cover_status_success">Uspješno promjenjena naslovnica albuma</string>
+	<string name="operation_replace_album_cover_status_default_mode_success">Zadana naslovnica albuma uspješno vraćena </string>
+	<string name="operation_replace_album_cover_status_success">Naslovnica albuma uspješno promjenjena </string>
 	<string name="operation_save">Spremi</string>
 	<string name="operation_send">Pošalji</string>
 	<string name="operation_set_contact_photo">Postavi za sliku kontakta</string>
@@ -1810,7 +1810,7 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
 	<string name="operation_slide_show">Pokreni dijaprojekciju</string>
 	<string name="operation_sort">Poredaj</string>
 	<string name="operation_successful">Podijeljeno</string>
-	<string name="operation_too_often">Previše je zahtjeva napravljeno s vaše IP adrese. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
+	<string name="operation_too_often">Previše zahtjeva s vaše IP adrese. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
 	<string name="operation_unforce_top">Otkači</string>
 	<string name="operation_unhide">Prikaži</string>
 	<string name="operation_upgrade_gallery">Ažuriraj</string>
@@ -2197,7 +2197,7 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
 	<string name="privacy_rejected_map_new">Povlačenje suglasnosti za Gallery Map Third Party Data Sharing Statement</string>
 	<string name="privacy_rejected_pos_btn">Povuci</string>
 	<string name="privacy_share_album_confirm">Uvjeti i odredbe</string>
-	<string name="privacy_share_album_confirm_detail">Dijeljene albume pokreće Xiaomi Cloud. Prije korištenja ove značajke, pročitajte i prihvatite naše &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Korisnički sporazum>&lt;/a>&lt;/font> i &lt;font color=\"#ff32b4ff\">&lt;a href=\"%2$s\" style=\"color:#ff32b4ff;\">Pravila o privatnosti&lt;/a>&lt;/font>.</string> 
+	<string name="privacy_share_album_confirm_detail">Dijeljene albume pokreće Xiaomi Cloud. Prije korištenja ove značajke, pročitajte i prihvatite naše &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Korisnički ugovor&lt;/a>&lt;/font> i &lt;font color=\"#ff32b4ff\">&lt;a href=\"%2$s\" style=\"color:#ff32b4ff;\">Pravila o privatnosti&lt;/a>&lt;/font>.</string> 
 	<string name="private_entry_lock_state_activated_text">Otpusti za otvaranje privatne mape</string>
 	<string name="private_entry_lock_state_enterd_text">Povuci dolje za otvaranje privatne mape</string>
 	<string name="problem_feedback">Povratne inf.</string>
@@ -2260,11 +2260,11 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
 	<string name="remove_from_album_title">Ukloni iz ovog albuma</string>
 	<string name="remove_from_current_album">Ukloni iz ovog albuma</string>
 	<string name="remove_from_favorites_failed">"Ne mogu ukloniti iz favorita"</string>
-	<string name="remove_from_other_albums_tip">Premjestiti ovaj album iz albuma Ostalo?</string>
+	<string name="remove_from_other_albums_tip">Ukloniti ovaj album iz \"Drugih albuma\"?</string>
 	<string name="remove_from_secret_fail">"Ne mogu ukloniti iz privatnog albuma."</string>
 	<string name="remove_from_secret_failed_with_reason">"Ne mogu ukloniti iz privatnog albuma. %1$s."</string>
 	<string name="remove_from_secret_successful">Uklonjeno iz privatnog albuma</string>
-	<string name="remove_hidden_status_success">Uklonjeno %s iz privatnog albuma</string>
+	<string name="remove_hidden_status_success">%s uklonjen iz privatnog albuma</string>
 	<string name="remove_hidden_status_tip">Ovaj album prikazat će se među ostalim albumima ako ga prikažete.</string>
 	<string name="remove_hidden_status_title">Prikaži</string>
 	<string name="remove_single_album_from_rubbish_page_tip">Vratiti odabrane albume?</string>
@@ -2590,8 +2590,8 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
 	<string name="show_cloud_albumlist_summary">"Nove stavke iz odabranih albuma neće biti učitane na Xiaomi Cloud nakon što isključite sinkronizaciju."</string>
 	<string name="show_hidden_album_summary">Pregled i upravljanje skrivenima albumima</string>
 	<string name="show_hidden_album_title">Pokaži skrivene albume</string>
-	<string name="show_in_other_albums_disable_toast_long_press_menu">Uspješno premješteno, idite na album Ostalo za pregled</string>
-	<string name="show_in_other_albums_enable_toast_long_press_menu">Uspješno premješteno, idite na Albumi za pregled</string>
+	<string name="show_in_other_albums_disable_toast_long_press_menu">Uspješno uklonjeno. Sada možete vidjeti ovu stavku među \"Albumi\".</string>
+	<string name="show_in_other_albums_enable_toast_long_press_menu">Uspješno premješteno. Sada možete vidjeti ovu stavku u \"Drugi albumi\".</string>
 	<string name="show_in_rubbish_albums_enable_toast_long_press_menu">Premješteno u smeće</string>
 	<string name="show_nearby_photos">Prikaži fotografije i videozapise u blizini</string>
 	<string name="signature_dialog_clear">Očisti</string>
