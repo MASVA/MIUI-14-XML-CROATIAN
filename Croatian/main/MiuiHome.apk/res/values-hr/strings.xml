@@ -54,7 +54,7 @@
     <string name="add">Dodaj</string>
     <string name="add_custom_category">Prilagodi</string>
     <string name="add_screen">Dodaj zaslon</string>
-	 <string name="add_to_workspace">Dodaj na Poč. zaslon</string>
+    <string name="add_to_workspace">Dodaj na Poč. zaslon</string>
     <string name="added_all_category">Sve su aplikacije uspješno dodane</string>
     <string name="agree_button">Prihvaćam</string>
     <string name="additional_settings">Dodatne postavke</string>
@@ -89,7 +89,7 @@
     <string name="all_apps_setting_drawer_tips_desc">Ladicu aplikacija otvarate povlačenjem prema gore na Početnom zaslonu. Ako promjenite na Početni zaslon sa Ladicom aplikacija, pretraživanje će biti nedostupno. Promjeniti svejedno?</string>
     <string name="all_apps_setting_drawer_tips_title">Koristi Ladicu aplikacija</string>
     <string name="all_apps_setting_drawer_title">Sa Ladicom aplikacija</string>
-	 <string name="all_apps_setting_jeejen_title">Lite način</string>
+    <string name="all_apps_setting_jeejen_title">Lite način</string>
     <string name="all_apps_setting_letter_scrollbar">A-Z</string>
     <string name="all_apps_setting_min_category_limit">Odaberite najmanje 1 kategoriju</string>
     <string name="all_apps_setting_original_scrollbar">Originalni raspored</string>
@@ -156,7 +156,7 @@
     <string name="app_drawer_guide_description">"Pronađite ono što tražite u svojim omiljenim aplikacijama"</string>
     <string name="app_drawer_guide_title">Ladica aplikacija</string>
     <string name="app_drawer_tip_title">"Feed sadržaja zamijenili smo ladicom za aplikacije."</string>
-	 <string name="app_edit_icon">Uredi ikonu</string>
+    <string name="app_edit_icon">Uredi ikonu</string>
     <string name="app_install_state">Instalirano</string>
     <string name="application_name">MIUI Pokretač</string>
     <string name="apply">Postavi</string>
@@ -184,13 +184,13 @@
     <string name="back">Natrag</string>
     <string name="backup_fail">Ne mogu napraviti Sig. kopiju Pokretača.</string>
     <string name="bad_wallpaper_source_prompt">"Ne mogu učitati pozadinu"</string>
-	 <string name="bottomsheet_action_expand_halfway">Proširi donju polovicu</string>
+    <string name="bottomsheet_action_expand_halfway">Proširi donju polovicu</string>
     <string name="branch_core_version">Branch Core verzija</string>
     <string name="branch_deepview_button">Preuzmite aplikaciju</string>
     <string name="branch_deepview_button_description">Pogledajte ovaj sadržaj odmah nakon instalacije</string>
     <string name="branch_feature_description">Osim aplikacija, Quick Finder može pronaći sadržaj i stavke unutar aplikacije na mreži.</string>
     <string name="branch_guide_attention">Korištenje poboljšanog pretraživanja zahtijeva dijeljenje vaših zahtjeva za pretraživanje, Google Ads ID-a i IP adrese s Branch Metrics Inc. Pročitajte i prihvatite<font color="#B3000000"><a href="http://url1">Uvjeti  i odredbe za krajnjeg korisnika</a></font> i <font color="#B3000000"><a href="http://url2">Branch Discovery Pravila o privatnosti</a></font> prije korištenja ove značajke.</string>
-	 <string name="branch_guide_description_one">"Sve vaše aplikacije stavit ćemo u ladicu aplikacija. Vaš će početni zaslon izgledati uredno i organizirano."</string>
+    <string name="branch_guide_description_one">"Sve vaše aplikacije stavit ćemo u ladicu aplikacija. Vaš će početni zaslon izgledati uredno i organizirano."</string>
     <string name="branch_guide_description_three">"Uz ugrađeno pretraživanje, moći ćete pronaći sve što trebate u trenu!"</string>
     <string name="branch_guide_description_two">Ladica aplikacija automatski kategorizira aplikacije.</string>
     <string name="branch_guide_tip_title">Svaka aplikacija na svom mjestu</string>
@@ -236,16 +236,16 @@
     <string name="category_group_summary">Razvrstaj aplikacije u ladici aplikacija</string>
     <string name="category_not_selected">Dostupne aplikacije</string>
     <string name="change_wallpaper">Promjeni</string>
-	  <string name="character_counter_content_description">Unešeno znakova %1$d od %2$d</string>
+    <string name="character_counter_content_description">Unešeno znakova %1$d od %2$d</string>
     <string name="character_counter_overflowed_content_description">Prekoračeno je ograničenje broja znakova %1$d od %2$d</string>
     <string name="children_folder_title">Dječji način</string>
     <string name="children_mode_exit">Izlaz</string>
     <string name="children_mode_tips_message">Nema aplikacija u dječjem načinu. Odaberite koje aplikacije želite dodati.</string>
     <string name="children_mode_tips_title">Odaberite aplikacije</string>
-	 <string name="chip_text">Chip tekst</string>
+    <string name="chip_text">Chip tekst</string>
     <string name="choose_wallpaper">Odaberi sliku pozadine</string>
     <string name="chooser_wallpaper">Odaberi novu sliku pozadine</string>
-	 <string name="clear_text_end_icon_content_description">Izbriši tekst</string>
+    <string name="clear_text_end_icon_content_description">Izbriši tekst</string>
     <string name="clearable_edittext_clear_description">Izbriši</string>
     <string name="close">Zatvori</string>
     <string name="close_multi_finger_slide_summary">Ove će geste biti zanemarene u nekim scenarijima (npr. reprodukcija igara i videozapisa)</string>
@@ -304,7 +304,7 @@
     <string name="dialog_work_profile_content_2">Radne aplikacije &amp; podaci vidljivi su vašem IT administratoru</string>
     <string name="dialog_work_profile_title">Radni profil</string>
     <string name="disable_wallpaper_scroll">Isključi pomicanje slike</string>
-	 <string name="dock_and_folder_not_edit_icon_tip">Za uređivanje prvo premjestite aplikaciju iz docka i mape</string>
+    <string name="dock_and_folder_not_edit_icon_tip">Za uređivanje prvo premjestite aplikaciju iz docka i mape</string>
     <string name="dock_not_edit_icon_tip">Za uređivanje najprije premjestite aplikaciju iz docka</string>
     <string name="double_tap_to_lock_title">Dvaput dodirnite da Zaklj. zaslon</string>
     <string name="download_action">Preuzmi</string>
@@ -316,7 +316,7 @@
     <string name="drawer_settings">Ladica aplikacija</string>
     <string name="dual_app">Dvojne aplikacije</string>
     <string name="edit">Uredi</string>
-	 <string name="edit_folder">Uredi mapu</string>
+    <string name="edit_folder">Uredi mapu</string>
     <string name="edit_folder_title">Uredi naziv mape</string>
     <string name="edit_mode_dual_app">Izradi dvojnu aplikaciju</string>
     <string name="edit_mode_group">Grupiraj</string>
@@ -339,23 +339,23 @@
     <string name="enable_wallpaper_scroll">Uključi pomicanje slike</string>
     <string name="encryption">Šifriranje</string>
     <string name="enter_search_setting_title">Otvori pretraživanje nakon otvaranja ladice aplikacija</string>
-	 <string name="error_icon_content_description">Pogreška</string>
+    <string name="error_icon_content_description">Pogreška</string>
     <string name="exit_overview_because_task_stack_changed">Zatvoreno nedavno zbog promjena koje su se dogodile u pozadini</string>
     <string name="expand_button_title">Napredno</string>
-	 <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>
-	 <string name="external_not_support_split_screen_j18">"Podijeljeni zaslon nije podržan na vanjskom zaslonu"</string>
+    <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>
+    <string name="external_not_support_split_screen_j18">"Podijeljeni zaslon nije podržan na vanjskom zaslonu"</string>
     <string name="failed_to_delete_temporary">"Ne mogu ukloniti"</string>
     <string name="failed_to_drop">"Ne mogu premjestiti"</string>
     <string name="failed_to_drop_widget_invalid">Ovaj widget nije valjan</string>
     <string name="failed_to_drop_widget_nospace">Na ovom zaslonu više nema mjesta</string>
     <string name="failed_to_load_image">"Ne mogu učitati sliku"</string>
-	 <string name="fold_pair_install_shortcut_launcher_success">Uspješno izrađeno</string>
-	 <string name="fold_pair_install_shortcut_long_click">Pritisnite i držite za dodavanje na Poč. zaslon</string>
+    <string name="fold_pair_install_shortcut_launcher_success">Uspješno izrađeno</string>
+    <string name="fold_pair_install_shortcut_long_click">Pritisnite i držite za dodavanje na Poč. zaslon</string>
     <string name="fold_pair_installed_shortcut_launcher">Ovaj prečac već postoji</string>
     <string name="folder_name">Mapa</string>
-	 <string name="folder_not_edit_icon_tip">Za uređivanje prvo premjestite aplikaciju iz mape</string>
-	 <string name="folder_picker_big_2x2_9_text">XXL</string>
-	 <string name="folder_picker_big_text">Uvećano</string>
+    <string name="folder_not_edit_icon_tip">Za uređivanje prvo premjestite aplikaciju iz mape</string>
+    <string name="folder_picker_big_2x2_9_text">XXL</string>
+    <string name="folder_picker_big_text">Uvećano</string>
     <string name="folder_picker_default_text">Regularno</string>
     <string name="folder_picker_options_tab_text">Veličina</string>
     <string name="folder_picker_sliding_button_tab_text">Predloži istaknute aplikacije</string>
@@ -414,6 +414,7 @@
     <string name="gadget_weather_title">Vrijeme</string>
     <string name="gadget_weather_title_14">Vrijeme</string>
     <string name="gadget_weather_title_24">Vrijeme</string>
+    <string name="global_search">Traži</string>
     <string name="global_search_hint">Unesite traženi pojam</string>
     <string name="got_it_botton">Razumijem</string>
     <string name="group_folder">Nova mapa</string>
@@ -428,13 +429,16 @@
     <string name="home_gesture_content_center">Centar za sadržaj</string>
     <string name="home_gesture_global_search">Traži</string>
     <string name="home_gesture_no_action">Ništa</string>
+    <string name="home_gesture_notification_and_control_center">Panel obavijesti i centar za kontrolu</string>
     <string name="home_gesture_notification_bar">Obavijesti</string>
     <string name="home_pull_down_action">Povuci prema dolje na Poč. zaslonu</string>
+    <string name="home_pull_down_know">Razumijem</string>
+   <string name="home_pull_up_content">Možete otvoriti pretraživanje tako da sada povučete prstom dolje na Poč. zaslonu.</string>
     <string name="home_screen">Poč. zaslon</string>
     <string name="home_screen_settings">Poč. zaslon</string>
     <string name="home_slide_up_action">Povuci prema gore na Poč. zaslonu</string>
     <string name="home_switch_personal_assistant">-1 zaslon</string>
-	 <string name="icon_content_description">Ikona dijaloga</string>
+    <string name="icon_content_description">Ikona dijaloga</string>
     <string name="icon_customize_summary">Odaberite stil i prilagodite veličinu</string>
     <string name="icon_form">Ikone</string>
     <string name="icon_reorganize_channel">Rasporedite ikone</string>
@@ -443,16 +447,16 @@
     <string name="image_too_small_message">"Originalna slika nije dovoljno velika"</string>
     <string name="in_app_result_by">Rezultati unutar aplikacije prema</string>
     <string name="install">Instaliraj</string>
-	  <string name="intelligent_exposed_button_summary_text">Koristite pametne prijedloge na temelju vaše upotrebe aplikacije za isticanje aplikacija u povećanim mapama</string>
+    <string name="intelligent_exposed_button_summary_text">Koristite pametne prijedloge na temelju vaše upotrebe aplikacije za isticanje aplikacija u povećanim mapama</string>
     <string name="invalid_contact_shortcut">Nevažeći kontakt</string>
     <string name="is_setting_wallpaper_message">Postavljanje slike pozadine…</string>
     <string name="is_system_wallpaper_message">"Ne mogu izbrisati resurse sustava"</string>
     <string name="item_view_role_description">Kartica</string>
-	 <string name="jeejen_description">"Veći elementi korisničkog sučelja.
+    <string name="jeejen_description">"Veći elementi korisničkog sučelja.
 Pristupačnije pozivanje.
 Poboljšana sigurnost."</string>
     <string name="key_shortcut_settings_title">Prečaci tipki</string>
-	 <string name="label">Oznaka</string>
+    <string name="label">Oznaka</string>
     <string name="launcher_auto_fill_empty_title">Autom. popuni prazna mjesta</string>
     <string name="launcher_global_search_mode_title">Globalno pretraživanje</string>
     <string name="launcher_global_search_provider_title">Globalna usluga pretraživanja</string>
@@ -492,7 +496,7 @@ Poboljšana sigurnost."</string>
     <string name="maml_download_tip_wait_wifi">Ova će se stavka preuzeti kad se povežete na Wi-Fi</string>
     <string name="maml_download_tip_wait_wifi_china">Ova će se stavka preuzeti kad se povežete na Wi-Fi</string>
     <string name="manager_group_settings">Upravljaj kategorijama aplikacija</string>
-	 <string name="material_clock_toggle_content_description">Odaberite prijepodne ili poslijepodne</string>
+    <string name="material_clock_toggle_content_description">Odaberite prijepodne ili poslijepodne</string>
     <string name="material_hour_selection">Odaberite sat</string>
     <string name="material_hour_suffix">%1$s h</string>
     <string name="material_minute_selection">Odaberite minute</string>
@@ -522,7 +526,7 @@ Poboljšana sigurnost."</string>
     <string name="menu_lock">Zaključaj raspored Poč. zaslona</string>
     <string name="menu_more">Više</string>
     <string name="menu_no_word">"Ne prikazuj tekst"</string>
-	 <string name="menu_only_widget_no_word">Ukloni tekst iz widgeta</string>
+    <string name="menu_only_widget_no_word">Ukloni tekst iz widgeta</string>
     <string name="menu_no_word_setting_tip" formatted="false">Koristite %d×%d izgled bez teksta</string>
     <string name="menu_picktheme">Odaberite temu</string>
     <string name="menu_reset_scene">Vraćanje na zadane postavke</string>
@@ -536,8 +540,8 @@ Poboljšana sigurnost."</string>
     <string name="minus_one_screen">Zaklj. aplikacija</string>
     <string name="minus_one_screen_none">Ništa</string>
     <string name="miui_screen_config_title">Postavke Poč. zaslona</string>
-	 <string name="miui_widget_menu_replace_text">Promjeni</string>
-	 <string name="miui_widget_toast_for_not_support_by_pa">"Zaklj. aplikacija ne podržava widgete ove veličine"</string>
+    <string name="miui_widget_menu_replace_text">Promjeni</string>
+    <string name="miui_widget_toast_for_not_support_by_pa">"Zaklj. aplikacija ne podržava widgete ove veličine"</string>
     <string name="miuix_access_state_desc">Odabrano</string>
     <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
@@ -607,16 +611,16 @@ Poboljšana sigurnost."</string>
     <string name="month_september">Rujan</string>
     <string name="month_september_short">Ruj</string>
     <string name="month_september_shortest">R</string>
-	  <string name="monochrome_summary">Promjena boje pozadine za kompatibilne ikone</string>
+    <string name="monochrome_summary">Promjena boje pozadine za kompatibilne ikone</string>
     <string name="monochrome_title">Boja pozadine</string>
     <string name="more">Više</string>
-	  <string name="mtrl_badge_numberless_content_description">Nova obavijest</string>
+    <string name="mtrl_badge_numberless_content_description">Nova obavijest</string>
     <string name="mtrl_chip_close_icon_content_description">Ukloni %1$s</string>
     <string name="mtrl_exceed_max_badge_number_content_description">Više od %1$d novih obavijesti</string>
     <string name="mtrl_picker_a11y_next_month">Prijelaz na sljedeći mjesec</string>
     <string name="mtrl_picker_a11y_prev_month">Pomicanje na prethodni mjesec</string>
     <string name="mtrl_picker_announce_current_selection">Trenutačan odabir: %1$s</string>
-	 <string name="mtrl_picker_confirm">U redu</string>
+    <string name="mtrl_picker_confirm">U redu</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Odaberite datum</string>
     <string name="mtrl_picker_date_header_unselected">Odabrani datum</string>
@@ -644,7 +648,7 @@ Poboljšana sigurnost."</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Prijelaz na način unosa teksta</string>
     <string name="mtrl_picker_toggle_to_year_selection">Dodirnite za prijelaz na odabir godine</string>
     <string name="mtrl_timepicker_confirm">U redu</string>
-	  <string name="mtzgadget_missing_text">"Widget nije dostupan"</string>
+    <string name="mtzgadget_missing_text">"Widget nije dostupan"</string>
     <string name="multi_selecting_tips">Da pokupite neku aplikaciju, odvucite njenu ikonu i ispustite je ovdje.</string>
     <string name="navigation_guide_app_quick_switch_hide_line_summary">Povucite prstom prema gore s donje strane zaslona, a zatim povucite prstom ulijevo ili udesno</string>
     <string name="navigation_guide_app_quick_switch_hide_line_summary_pad">Povucite prstom ulijevo ili udesno pri dnu zaslona</string>
@@ -712,7 +716,7 @@ Poboljšana sigurnost."</string>
     <string name="new_feature_title">"Što je novo"</string>
     <string name="no_detail_page">Nema detalja stranice</string>
     <string name="no_space_toast">Nema dovoljno prostora</string>
-	 <string name="no_space_toast_fold">Ovdje nema dovoljno prostora</string>
+    <string name="no_space_toast_fold">Ovdje nema dovoljno prostora</string>
     <string name="no_space_toast_when_click_widget">Nema dovoljno mjesta na ovoj stranici. Pokušajte povući ovu stavku na drugu stranicu.</string>
     <string name="normal_wallpaper">Slika pozadine</string>
     <string name="not_set">Nije postavljeno</string>
@@ -723,14 +727,14 @@ Poboljšana sigurnost."</string>
     <string name="notification_reset_title">Autom. čišćenje je završeno</string>
     <string name="one_key_call_title">Dodirni za biranje</string>
     <string name="online_wallpaper">Online</string>
-	  <string name="open_pad_personal_assistant_settings">Widgeti Poč. zaslona</string>
+    <string name="open_pad_personal_assistant_settings">Widgeti Poč. zaslona</string>
     <string name="open_personal_assistant_dialog_btn_cancel">Odustani</string>
     <string name="open_personal_assistant_dialog_btn_confirm">Isključi</string>
     <string name="open_personal_assistant_dialog_desc">"Nećete biti u mogućnosti koristiti Zaklj. aplikacija i primati njegova ažuriranja. Isključiti sada?"</string>
     <string name="open_personal_assistant_dialog_desc_international">"Nećete moći koristiti kartice Zaklj. aplikacija (dionice, prečaci i sl.) i primati ažuriranja nakon isključivanja ove značajke."</string>
     <string name="open_personal_assistant_dialog_title">Isključi Zaklj. aplikacija</string>
     <string name="open_personal_assistant_settings">Postavke Zaklj. aplikacija</string>
-	  <string name="open_personal_assistant_settings_off">Isključeno</string>
+    <string name="open_personal_assistant_settings_off">Isključeno</string>
     <string name="open_personal_assistant_settings_on">Uključeno</string>
     <string name="open_personal_assistant_settings_simplified">Zaklj. aplikacija</string>
     <string name="open_personal_assistant_title">Zaklj. aplikacija</string>
@@ -738,8 +742,8 @@ Poboljšana sigurnost."</string>
     <string name="ota_layout_adjustment_content">Raspored unutarnjeg i vanjskog Poč. zaslona sinkroniziran je u novoj verziji.</string>
     <string name="ota_layout_adjustment_title">Izgled Poč. zaslona</string>
     <string name="out_of_space">Na ovom zaslonu više nema mjesta.</string>
-	  <string name="pair_icon_name">%1$s | %2$s</string>
-	  <string name="password_toggle_content_description">Prikaži zaporku</string>
+    <string name="pair_icon_name">%1$s | %2$s</string>
+    <string name="password_toggle_content_description">Prikaži zaporku</string>
     <string name="perfect_icons_switch_summary">Prikaži animacije ikona aplikacija treće strane</string>
     <string name="perfect_icons_switch_title">Globalne animacije ikona</string>
     <string name="permdesc_install_shortcut">Aplikaciji omogućuje dodavanje prečaca bez potrebe za dodatnim radnjama od strane korisnika.</string>
@@ -789,7 +793,7 @@ Poboljšana sigurnost."</string>
     <string name="quick_search_guide_quick_search">Brzo pretraživanje</string>
     <string name="quick_search_guide_title">Odaberite zadani način rada</string>
     <string name="recent_apps">Nedavno</string>
-	 <string name="recent_menu_item_add_pair">Izradite prečac na Poč. zaslonu za ovu kombinaciju podijeljenog zaslona</string>
+    <string name="recent_menu_item_add_pair">Izradite prečac na Poč. zaslonu za ovu kombinaciju podijeljenog zaslona</string>
     <string name="recent_menu_item_add_pair_first_toast">Izradite prečac na Poč. zaslonu za ovu kombinaciju podijeljenog zaslona</string>
     <string name="recent_menu_item_info">Info</string>
     <string name="recent_menu_item_lock">Zaključaj</string>
@@ -819,7 +823,7 @@ Poboljšana sigurnost."</string>
     <string name="recents_title_security_scan">Sigurnosno skeniranje</string>
     <string name="recents_tv_small_window_text">Plutajući prozori</string>
     <string name="recents_worldcirculate_text">Otpustite za odabir</string>
-	 <string name="recnets_relay_device_info">Od %s</string>
+    <string name="recnets_relay_device_info">Od %s</string>
     <string name="recnets_worldcirculate_button_text">Mi Smart Hub</string>
     <string name="recnets_worldcirculate_display_computer_info">Aplikacija radi na %s.</string>
     <string name="recnets_worldcirculate_display_default_info">Dodirnite da je vratite ovdje.</string>
@@ -841,7 +845,7 @@ Poboljšana sigurnost."</string>
     <string name="remove_invalidate_gadget_tips">Jedan od widgeta koji koristite više nije dostupan. Možete dodati neki drugi.</string>
     <string name="remove_sys_app_content">"Moći ćete ponovo dodati prečac Poč. zaslona u Postavke &gt; Aplikacije &gt; Upravljanje prečacima Poč. zaslona. Ukloniti sada?"</string>
     <string name="remove_sys_app_title">Ukloniti prečac Poč. zaslona?</string>
-	 <string name="request_permission_msg">POCO Launcher treba nekoliko dopuštenja da bi vam omogućio pristup svojoj punoj funkcionalnosti.</string>
+    <string name="request_permission_msg">POCO Launcher treba nekoliko dopuštenja da bi vam omogućio pristup svojoj punoj funkcionalnosti.</string>
     <string name="request_permission_title">Potrebna su dopuštenja</string>
     <string name="reset_cate_tip_content">Ako nastavite, zadane grupe aplikacija će biti vraćene. Nastaviti svejedno?</string>
     <string name="reset_cate_tip_title">Vrati zadane grupe</string>
@@ -851,13 +855,14 @@ Poboljšana sigurnost."</string>
     <string name="reset_scene_prompt">Zaslon će se vratiti na zadani raspored.</string>
     <string name="reset_title">Vrati</string>
     <string name="restore_icon_successful">Uspješno dodano</string>
+    <string name="risk_app_report">Prijavi ovu aplikaciju</string>
     <string name="saturday">Subota</string>
     <string name="saturday_short">Sub</string>
     <string name="saturday_shortest">S</string>
     <string name="screen_cells_config_title">Raspored Poč. zaslona</string>
     <string name="screen_locked_toast">Raspored Poč. zaslona je zaključan.</string>
     <string name="screen_number">Zaslon %d</string>
-	 <string name="search_bar_hint_content">Traženje aplikacija i sadržaja</string>
+    <string name="search_bar_hint_content">Traženje aplikacija i sadržaja</string>
     <string name="search_guide_btn">Razumijem</string>
     <string name="scroll_tip_format_when_announce_accessibility">na stranici %1$d, %2$d aplikacija</string>
     <string name="search_in_apps_store">Traži \"%1$s\" u %2$s</string>
@@ -868,7 +873,7 @@ Poboljšana sigurnost."</string>
     <string name="select_photo">Fotografija</string>
     <string name="send">Pošalji</string>
     <string name="server_error">Dogodila se pogreška poslužitelja. Pričekajte minutu-dvije i pokušajte ponovo.</string>
-	 <string name="service_double_attention">Poboljšanu funkciju pretraživanja pruža Branch Metrics Inc. Da bi ova značajka funkcionirala, moramo podijeliti vaše zahtjeve za pretraživanje, Google Ads ID i IP adresu s Branch Metrics Inc. Pročitajte i prihvatite <font color="#B3000000"><a href="http://url1">Uvjeti i odredbe za krajnjeg korisnika</a></font> i <font color="#B3000000"><a href="http://url2">Branch Discovery Pravila o privatnosti</a></font> prije korištenja ove značajke.</string>
+    <string name="service_double_attention">Poboljšanu funkciju pretraživanja pruža Branch Metrics Inc. Da bi ova značajka funkcionirala, moramo podijeliti vaše zahtjeve za pretraživanje, Google Ads ID i IP adresu s Branch Metrics Inc. Pročitajte i prihvatite <font color="#B3000000"><a href="http://url1">Uvjeti i odredbe za krajnjeg korisnika</a></font> i <font color="#B3000000"><a href="http://url2">Branch Discovery Pravila o privatnosti</a></font> prije korištenja ove značajke.</string>
     <string name="setting_wallpaper_tip">Pomakni ili uvećaj za prilagodbu</string>
     <string name="settings">Postavke</string>
     <string name="settings_shortcut">Postavke</string>
@@ -885,7 +890,7 @@ Poboljšana sigurnost."</string>
     <string name="show_most_popular_apps_you_used">Prikaži najčešće korištene aplikacije u ladici</string>
     <string name="show_recents_recommend_title">Prikaži prijedloge</string>
     <string name="slide_to_open_newhome">Povuci gore za otvaranje Centra za kontrolu</string>
-	 <string name="small_window">Plutajući prozor</string>
+    <string name="small_window">Plutajući prozor</string>
     <string name="small_window_button_complete">Gotovo</string>
     <string name="small_window_edit_content">Možete dodati do %d aplikacija</string>
     <string name="small_window_edit_title">Trenutne aplikacije</string>
@@ -907,13 +912,13 @@ Poboljšana sigurnost."</string>
     <string name="status_installing">Instaliranje</string>
     <string name="status_paused">Pauzirano</string>
     <string name="status_pending">Na čekanju</string>
-	 <string name="suggestions">Prijedlozi</string>
+    <string name="suggestions">Prijedlozi</string>
     <string name="sunday">Nedjelja</string>
     <string name="sunday_short">Ned</string>
     <string name="sunday_shortest">N</string>
     <string name="swipe_the_desktop_to_the_left">Prijeđite prstom ulijevo na Poč. zaslonu</string>
     <string name="swipe_the_desktop_to_the_right">Prijeđite prstom udesno na Poč. zaslonu</string>
-	 <string name="switch_on_button">Uključi</string>
+    <string name="switch_on_button">Uključi</string>
     <string name="switch_personal_assistant_app_vault">Zaklj. aplikacija</string>
     <string name="switch_personal_assistant_google">Google</string>
     <string name="switch_personal_assistant_none">Ništa</string>
@@ -924,7 +929,7 @@ Poboljšana sigurnost."</string>
     <string name="system_shortcuts_remove">Ukloni</string>
     <string name="system_text">Sustav</string>
     <string name="task_access_locked_app_msg">Zaklj. aplikacija uključeno</string>
-	 <string name="term_of_service">Uvjeti i odredbe</string>
+    <string name="term_of_service">Uvjeti i odredbe</string>
     <string name="terms_of_services_one">"Dobrodošli u ladicu aplikacija i Quick Finder. Quick Finder omogućuje brže pronalaženje aplikacija, sadržaja unutar aplikacije i stavki na mreži. Pročitajte i prihvatite Xiaomi "<font color="#B3000000"><a href="http://url1">Pravila o privatnosti</a></font> prije korištenja ovih značajki.</string>
     <string name="terms_of_services_three">Ovu značajku možete isključiti u postavkama.</string>
     <string name="terms_of_services_two">Korištenje poboljšanog pretraživanja zahtijeva dijeljenje potrebnih osobnih podataka, uključujući vaše upite za pretraživanje, Google Advertising ID i IP adresu, s Branch Metrics Inc. Branch će obraditi vaše osobne podatke u skladu s <font color="#B3000000"><a href="http://url1">Pravila o privatnosti Branch Discovery</a></font>. Pročitajte i prihvatite <font color="#B3000000"><a href="http://url2">Uvjeti za otkrivanje krajnjeg korisnika</a></font> i <font color="#B3000000"><a href="http://url3">Pravila o privatnosti Branch Discovery</a></font> prije korištenja ove značajke.</string>
@@ -941,7 +946,7 @@ Poboljšana sigurnost."</string>
     <string name="toast_screen_icons_misplaced">Obnovljeno iz drugih izvora, neke ikone mogu biti zagubljene</string>
     <string name="toast_split_app_unsupported">"Ova aplikacija ne podržava podijeljeni zaslon"</string>
     <string name="toast_split_select_app">Dodirnite aplikaciju za korištenje podijeljenog zaslona</string>
-	 <string name="today">Danas</string>
+    <string name="today">Danas</string>
     <string name="toggle_select_title">Odaberite prečac</string>
     <string name="toggle_title">Prečaci</string>
     <string name="tomorrow">Sutra</string>
@@ -956,7 +961,7 @@ Poboljšana sigurnost."</string>
     <string name="tuesday">Utorak</string>
     <string name="tuesday_short">Uto</string>
     <string name="tuesday_shortest">U</string>
-	  <string name="uni_search_permission_content">Uključite značajke pretraživanja na mreži. (Usluge pretraživanja pruža Branch.)</string>
+    <string name="uni_search_permission_content">Uključite značajke pretraživanja na mreži. (Usluge pretraživanja pruža Branch.)</string>
     <string name="uni_search_permission_msg">Dopustite POCO Launcher-u pristup vašoj lokaciji i kontaktima radi poboljšanja rezultata pretraživanja.</string>
     <string name="uni_search_permission_title">Poboljšano pretraživanje</string>
     <string name="uni_search_setting_summary">Izravno pronađite sadržaj unutar aplikacije</string>
@@ -975,9 +980,9 @@ Poboljšana sigurnost."</string>
     <string name="uninstall_xspace_dialog_title_format">Deinstalirati dvojnu \"%s\"?</string>
     <string name="unknown_artist_name">Nepoznati izvođač</string>
     <string name="unnamed_folder_name">Mapa</string>
-	 <string name="unstable_dialog_message">Ovaj je uređaj upisan u Android 13 Developer Preview Program. Program omogućuje razvojnim programerima i entuzijastima Androida da isprobaju verzije Androida 13 prije objave. Ova verzija prije objave može sadržavati pogreške i nedostatke koji mogu utjecati na normalno funkcioniranje vašeg uređaja.</string>
+    <string name="unstable_dialog_message">Ovaj je uređaj upisan u Android 13 Developer Preview Program. Program omogućuje razvojnim programerima i entuzijastima Androida da isprobaju verzije Androida 13 prije objave. Ova verzija prije objave može sadržavati pogreške i nedostatke koji mogu utjecati na normalno funkcioniranje vašeg uređaja.</string>
     <string name="unstable_dialog_title">Android Developer Preview Program</string>
-	 <string name="upgrade_remove_small_window_in_recents">Možete koristiti bočnu traku za otvaranje aplikacija u plutajućim prozorima</string>
+    <string name="upgrade_remove_small_window_in_recents">Možete koristiti bočnu traku za otvaranje aplikacija u plutajućim prozorima</string>
     <string name="unstable_dialog_content">"Ovo je testna verzija sustava Android, te je podložna promjenama. Korištenje ove verzije uređena je licencnim ugovorom za pregled SDK za Android. Testna verzija sustava Android nije stabilno izdanje i može sadržavati pogreške i nedostatke koji mogu dovesti do oštećenja računalnih sustava, uređaja ili podataka. Testna verzija sustava Android ne podliježe istom testiranju kao tvornički OS i može uzrokovati prestanak rada ovog uređaja, instaliranih usluga ili aplikacija."</string>
     <string name="use_theme_screen_cells_title">Dopusti temi da poništi izgled zaslona</string>
     <string name="v7_preference_off">ISKLJUČENO</string>
@@ -1001,7 +1006,7 @@ Poboljšana sigurnost."</string>
     <string name="widgets_preview_title">Dodaj widget</string>
     <string name="work_mode_off_label">"Obavijesti su isključene i aplikacije sada nisu dostupne"</string>
     <string name="work_mode_on_label">Upravlja vaša organizacija</string>
-	 <string name="work_mode_off_detailed_text">"Vaše poslovne aplikacije ne mogu vam slati obavijesti, koristiti bateriju ili pristupiti vašoj lokaciji"</string>
+    <string name="work_mode_off_detailed_text">"Vaše poslovne aplikacije ne mogu vam slati obavijesti, koristiti bateriju ili pristupiti vašoj lokaciji"</string>
     <string name="work_mode_off_text">Poslovne aplikacije su pauzirane</string>
     <string name="work_mode_toggle_off">Isključite poslovne aplikacije</string>
     <string name="work_mode_toggle_on">Uključite poslovne aplikacije</string>
@@ -1011,7 +1016,7 @@ Poboljšana sigurnost."</string>
     <string name="work_profile_second_content">Radne aplikacije &amp; podaci su vidljivi vašem IT administratoru</string>
     <string name="work_profile_title">Radni profil</string>
     <string name="work_profile_toggle_label">Radni profil</string>
-	 <string name="xiaomi_market_sdk_update_dialog_cancel">Ne sad</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Ne sad</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Ažuriraj</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Dostupno je ažuriranje</string>
     <string name="yesterday">Jučer</string>

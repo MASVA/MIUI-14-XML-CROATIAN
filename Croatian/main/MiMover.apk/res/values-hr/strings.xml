@@ -197,8 +197,8 @@ Zaštitit ćemo Vaše osobne podatke u skladu sa važećim zakonima, odredbama i
     <string name="dialog_request_permission_message_buttom_content">Dopustite ovoj aplikaciji da se poveže s internetom i odobrite gore navedena obvezna dopuštenja.</string>
     <string name="dialog_request_permission_message_extra_summary">Ova su dopuštenja potrebna kako bi se omogućile osnovne značajke i usluge ove aplikacije.</string>
     <string name="dialog_request_permission_message_extra_title">Obavezna dopuštenja</string>
-    <string name="dialog_request_permission_message_link" formatted="false"><Data>"U isto vrijeme, za cjelovito razumijevanje vaših prava kao korisnika, kao i načina na koji koristimo vaše podatke, pročitajte i prihvatite naše &lt;a href='%1s'>Korisnički ugovor&lt;/a> i &lt;a href='%2s'>Pravila o privatnosti&lt;/a>."</Data></string>
-    <string name="dialog_request_permission_message_provision_link">U isto vrijeme, za cjelovito razumijevanje vaših prava kao korisnika, kao i načina na koji koristimo vaše podatke, pročitajte i prihvatite naše %1$s i %2$s.</string>
+    <string name="dialog_request_permission_message_link" formatted="false"><Data>"Dopustite ovoj aplikaciji da se poveže s internetom i dajte gore navedena potrebna dopuštenja. Dodatno, kako biste u potpunosti razumjeli svoja prava kao korisnika kao i načine na koje koristimo vaše podatke, pročitajte i prihvatite naše &lt;a href='%1s'>Korisnički ugovor&lt;/a> i &lt;a href='%2s'>Pravila o privatnosti&lt;/a>."</Data></string>
+    <string name="dialog_request_permission_message_provision_link">Dopustite ovoj aplikaciji da se poveže s internetom i dajte gore navedena potrebna dopuštenja. Dodatno, kako biste u potpunosti razumjeli svoja prava kao korisnika kao i načine na koje koristimo vaše podatke, pročitajte i prihvatite naše %1$s i %2$s.</string>
     <string name="dialog_request_permission_title">Pažnja</string>
     <string name="dialog_tip_upgrade_summary">Izgleda da je Mi Mover prestar. Ažurirajte Mi Mover na njezinu najnoviju verziju da biste mogli prenositi datoteke.</string>
     <string name="dialog_tip_upgrade_title">Ažurirajte Mi Mover</string>

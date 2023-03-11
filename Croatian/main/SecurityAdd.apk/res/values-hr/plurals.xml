@@ -37,6 +37,14 @@
         <item quantity="other">Pronađeno %d aplikacija</item>
         <item quantity="one">Pronađena %d aplikacija</item>
     </plurals>
+	 <plurals name="extreme_mode_runtime_hour">
+        <item quantity="other">%s hr</item>
+        <item quantity="one">%s hr</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_minute">
+        <item quantity="other">%s min</item>
+        <item quantity="one">%s min</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Prije pola sata</item>
     </plurals>

@@ -8406,7 +8406,6 @@ Pročitajte i pristanite na %s prije korištenja ove usluge."</string>
   <string name="picture_source">Izvor slike</string>
   <string name="pin_failed">Operacija PIN-a SIM kartice nije uspjela!</string>
   <string name="ping_test_label">Pokreni ping test</string>
-  <string name="placeholder_activity">*This is a temporary placeholder fallback activity.</string>
   <string name="platform_chooser_item_android_mi">Mi Telefon</string>
   <string name="platform_chooser_item_android_others">Ostale marke</string>
   <string name="platform_chooser_item_ios">Uvezi s iOS uređaja</string>
@@ -8429,7 +8428,7 @@ Pročitajte i pristanite na %s prije korištenja ove usluge."</string>
   <string name="pm_auto_start_by_system_event">Dopusti aplikacijama automatsko pokretanje</string>
   <string name="pm_auto_start_proc_is_running">Pokrenuto</string>
   <string name="poco_launcher_privacy_policy">POCO Launcher Pravila o privatnosti</string>
-  <string name="poco_launcher_user_agreement">POCO Launcher Korisnički sporazum</string>
+  <string name="poco_launcher_user_agreement">POCO Launcher Korisnički ugovor</string>
   <string name="pointer_location">Mjesto pokazivača</string>
   <string name="pointer_location_summary">Na zaslonu se prikazuju podaci o dodirima.</string>
   <string name="pointer_settings_category">Miš/dodirna površina</string>
@@ -10306,7 +10305,7 @@ Napomena: ovaj uređaj ne možete otključati otiskom prsta. Više informacija m
   <string name="shoulder_key_shortcut_mute">Bešumno</string>
   <string name="shoulder_key_shortcut_none">Ništa</string>
   <string name="shoulder_key_shortcut_settings">Tipke</string>
-  <string name="shoulder_key_shortcut_settings_summary">"This feature won't work when you're playing games"</string>
+  <string name="shoulder_key_shortcut_settings_summary">"Ova značajka neće raditi dok igrate igre"</string>
   <string name="shoulder_key_shortcut_single_click">Pritisni</string>
   <string name="shoulder_key_shortcut_turn_on_torch">Bljeskalica</string>
   <string name="shoulder_key_shortcut_vibrate">Vibracija</string>
@@ -10318,11 +10317,13 @@ Napomena: ovaj uređaj ne možete otključati otiskom prsta. Više informacija m
   <string name="shoulder_key_sound_text_wind">Stroj</string>
   <string name="shoulder_key_switch_status_close">Isključeno</string>
   <string name="shoulder_key_switch_status_open">Uključeno</string>
-  <string name="show_all_anrs">Pokaži pozadinske ANR-ove</string>
+  <string name="show_alarm_icon_title">Prikaži ikonu alarma</string>
+  <string name="show_all_anrs">Prikaži pozadinske ANR-ove</string>
   <string name="show_all_anrs_summary">Prikaz dijaloškog okvira o pozadinskim aplikacijama koje ne reagiraju</string>
   <string name="show_all_apps">Prikaži ukupnu potrošnju uređaja</string>
   <string name="show_background_processes">Prikaži procese iz predmemorije</string>
   <string name="show_badge_notifications_short">Značke</string>
+  <string name="show_bt_icon_title">Prikaži Bluetooth ikonu</string>
   <string name="show_carrier_under_keyguard_title">Prikaži naziv operatera kada je uređaj zaključan</string>
   <string name="show_charging_in_non_lockscreen_animation">Prikaži animaciju punjenja nakon što je uređaj otključan</string>
   <string name="show_charging_in_non_lockscreen_animation_summary">Nastavi prikazivati animaciju punjenja nakon što je uređaj otključan, skrivajući je samo za reprodukciju videozapisa i druge slične scene na cijelom zaslonu</string>
@@ -10347,7 +10348,9 @@ Napomena: ovaj uređaj ne možete otključati otiskom prsta. Više informacija m
   <string name="show_magnifier_when_input">Povećalo za tekst</string>
   <string name="show_mem_info_title">Prikaži status memorije</string>
   <string name="show_menu">Prikaži Izbornik</string>
+  <string name="show_mute_icon_title">Prikaži Bešumno ikonu</string>
   <string name="show_network_speed_title">Prikaži brzinu veze</string>
+  <string name="show_nfc_icon_title">Prikaži NFC ikonu</string>
   <string name="show_non_rect_clip">Otkloni pogreške operacija nepravokutnog isječka</string>
   <string name="show_notification_channel_warnings">Prikaži upozorenja kanala obavijesti</string>
   <string name="show_notification_channel_warnings_summary">Prikazuje upozorenje na zaslonu kada aplikacija objavi obavijest bez važećeg kanala</string>
@@ -10653,7 +10656,7 @@ Ako se prihvatite dati takva dopuštenja, nećete moći koristiti neke značajke
   <string name="sos_phone_call_privacy_dialog_message_confirm">Dopusti</string>
   <string name="sos_phone_log_privacy_dialog_message">"Ovoj aplikaciji potrebno je dopuštenje za pristup vašoj povijesti poziva da biste je mogli dijeliti sa svojim kontaktima za hitne slučajeve.
 Ako se prihvatite dati takva dopuštenja, nećete moći koristiti neke značajke ove aplikacije; međutim, njena osnovna funkcionalnost i dalje će vam biti dostupna. Uvijek možete isključiti tu značajku."</string>
-  <string name="sos_privacy_and_content_policy">Korisnički sporazum i Pravila o Privatnosti</string>
+  <string name="sos_privacy_and_content_policy">Korisnički ugovor i Pravila o Privatnosti</string>
   <string name="sos_privacy_dialog_button_cancel">Odustani</string>
   <string name="sos_privacy_dialog_button_ok">Prihvaćam</string>
   <string name="sos_privacy_dialog_message">"Pročitajte i prihvatite naše %s prije korištenja ove značajke. 

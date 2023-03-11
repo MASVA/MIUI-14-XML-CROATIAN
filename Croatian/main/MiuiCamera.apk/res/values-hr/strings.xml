@@ -681,6 +681,10 @@ skenirane dokumente automatski"</string>
     <string name="download_cancel_hint">Otkazati preuzimanje %1$s?</string>
     <string name="download_confirm">Preuzmi</string>
     <string name="download_hint">%1$s MB mobilnih podataka koristit će se za preuzimanje stavke. Svejedno preuzeti?</string>
+	 <string name="download_hint_check_on_wifi">"Povezani ste na Wi-Fi. Sada preuzeti ovu %1$s MB datoteku?"</string>
+    <string name="download_hint_check_on_wifi_cn">"Povezani ste na Wi-Fi. Sada preuzeti ovu %1$s MB datoteku?"</string>
+    <string name="download_hint_check_on_wifi_remind">"Nemoj ponovno podsjećati"</string>
+    <string name="download_hint_check_on_wifi_remind_cn">"Nemoj ponovno podsjećati"</string>
     <string name="download_hint_cn">"Čini se da vaš uređaj nije povezan s Wi-Fi mrežom. Koristiti %1$s MB mobilnih podataka za preuzimanje stavki?"</string>
     <string name="download_hint_wifi">"Čini se da vaš uređaj nije povezan s Wi-Fi mrežom. Koristiti %1$s MB mobilnih podataka za preuzimanje stavki?"</string>
     <string name="download_in_progress">Preuzimanje…</string>

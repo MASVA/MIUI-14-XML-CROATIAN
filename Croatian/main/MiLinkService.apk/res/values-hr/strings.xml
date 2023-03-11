@@ -54,6 +54,7 @@ vaše uređaje?"</string>
     <string name="appcirculate_fragment_circulate_device_list_text_searching">Traženje uređaja u blizini…</string>
     <string name="appcirculate_toast_busy">Čini se da drugi uređaj sada prenosi datoteke. Pričekajte da prijenos završi i pokušajte ponovo.</string>
     <string name="appcirculate_toast_cancel">Otkazano</string>
+	 <string name="appcirculate_toast_connected">Emitiranje je pokrenuto</string>
     <string name="appcirculate_toast_fail">"Nije moguće prebaciti se na drugi uređaj"</string>
     <string name="appcirculate_toast_loading">Prebacivanje na drugi uređaj…</string>
     <string name="appcirculate_toast_not_support_device_pad">"Ne mogu otvoriti ovu aplikaciju na tabletima"</string>
@@ -90,18 +91,17 @@ Prijavite se na svoj Mi račun u Postavke > Mi račun za sinkronizaciju dopušte
     <string name="circulate_card_mirror_device_title_pad">Tablet</string>
     <string name="circulate_card_mirror_device_title_television">TV</string>
     <string name="circulate_card_mirror_help"><u>Kompatibilni uređaji</u></string>
-    <string name="circulate_card_mirror_pad_subtitle">"Povucite \"Ekran tableta\" na TV
-na zrcalni zaslon"</string>
+    <string name="circulate_card_mirror_pad_subtitle">"Povucite \"Zaslon tableta\" na TV da zrcalite zaslon"</string>
     <string name="circulate_card_mirror_pad_title">"Zaslon tableta"</string>
-    <string name="circulate_card_mirror_phone_subtitle">"Povucite \"Ekran telefona\" na drugi uređaj
-na zrcalni zaslon"</string>
+    <string name="circulate_card_mirror_phone_subtitle">"Povucite \"Zaslon telefona\" na drugi uređaj
+da zrcalite zaslon"</string>
     <string name="circulate_card_mirror_phone_title">"Zaslon telefona"</string>
     <string name="circulate_card_mirror_subtitle_active_format">Zrcaljenje zaslona na %1$s</string>
     <string name="circulate_card_mirror_subtitle_normal">Povucite na zrcalni zaslon</string>
     <string name="circulate_card_mirror_subtitle_pad_normal">"Povucite na drugi uređaj
 za zrcaljenje zaslona ovog tableta"</string>
     <string name="circulate_card_mirror_tv_button_1">Plutajući prozor</string>
-    <string name="circulate_card_mirror_tv_button_2">Ekran isključen</string>
+    <string name="circulate_card_mirror_tv_button_2">Zaslon isključen</string>
     <string name="circulate_card_mirror_tv_button_3">Privatnost</string>
     <string name="circulate_card_sticker">Naljepnice</string>
     <string name="circulate_card_sticker__remote_control_expend_contentDescription">Prikaži daljinske upravljače</string>
@@ -129,6 +129,8 @@ za zrcaljenje zaslona ovog tableta"</string>
     <string name="circulate_card_sticker_remote_control_volum_reduce">Stišaj glasnoću</string>
     <string name="circulate_card_sticker_selected">Odabrano</string>
     <string name="circulate_common_retry_later">Pričekajte minutu ili dvije i pokušajte ponovo</string>
+	 <string name="circulate_controlphone_button_hint">Prikaz zaslona</string>
+    <string name="circulate_controlphone_title">Upravljanje uređajem</string>
     <string name="circulate_cta_agree">Slažem se</string>
     <string name="circulate_cta_app_name">Mi Smart Hub</string>
     <string name="circulate_cta_desc_pad">Dobro došli u Mi Smart Hub! Ova vam aplikacija omogućuje korištenje emitiranja i Mi Smart Playa, kao i prijenos multimedijske reprodukcije s jednog uređaja na drugi. Ova aplikacija mora se povezati s internetom i zahtijeva sljedeća dopuštenja da bi mogla normalno raditi:</string>
@@ -192,6 +194,12 @@ Vaši uređaji?"</string>
     <string name="circulate_local_pad_name">Moj tablet</string>
     <string name="circulate_local_phone_name">Moj telefon</string>
     <string name="circulate_public_device_title_format">"%2$s korisnika %1$s"</string>
+	 <string name="circulate_ringfind_button_hint_play">Reproduciraj zvuk</string>
+    <string name="circulate_ringfind_button_hint_stop">Zaustavi reprodukciju zvuka</string>
+    <string name="circulate_ringfind_error_hint_ringing">Zvuk se već reproducira</string>
+    <string name="circulate_ringfind_error_hint_start">"Nije moguće reproducirati zvuk. Pokušajte ponovno."</string>
+    <string name="circulate_ringfind_error_hint_stop">"Nije moguće zaustaviti reprodukciju zvuka. Pokušajte ponovno."</string>
+    <string name="circulate_ringfind_title">Reproduciraj zvuk</string>
     <string name="circulate_title">Mi Smart Hub</string>
     <string name="circulate_tv_power_alter_text">"Postavili ste TV da se isključi ili isključi zaslon. Daljinski upravljači i TV će nestati odavde nakon što se TV isključi."</string>
     <string name="circulate_tv_power_alter_title">Pažnja</string>
@@ -221,6 +229,8 @@ Vaši uređaji?"</string>
     <string name="current_wifi_tv">Trenutna mreža</string>
     <string name="date_time_picker_dialog_title">Postavite datum i vrijeme</string>
     <string name="device_desc_trust">Pouzdani uređaji</string>
+	 <string name="device_type_name_pad">Tablet</string>
+    <string name="device_type_name_phone">Telefon</string>
     <string name="dialog_can_not_find_device">"Ne mogu pronaći uređaje u blizini"</string>
     <string name="dialog_cancle">Odustani</string>
     <string name="dialog_connect_fail">"Povezivanje nije uspjelo"</string>
@@ -274,6 +284,16 @@ Pogledajte pomoć ako imate problema sa povezivanjem."</string>
     <string name="expand_button_title">Napredno</string>
     <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>
     <string name="file_read_des">Za prikaz fotografija i drugih datoteka na vanjskim monitorima</string>
+	 <string name="find_device_close">Shvaćam</string>
+    <string name="find_device_notification_content_phone">%1$s traži ovaj uređaj koristeći %2$s. Otključajte da zaustavite reprodukciju zvuka.</string>
+    <string name="find_device_notification_content_single_phone">Netko traži ovaj uređaj koristeći %1$s. Otključajte da zaustavite reprodukciju zvuka.</string>
+    <string name="find_device_notification_content_single_tablet">Netko traži ovaj uređaj koristeći %1$s. Otključajte da zaustavite reprodukciju zvuka.</string>
+    <string name="find_device_notification_content_tablet">%1$s traži ovaj uređaj koristeći %2$s. Otključajte da zaustavite reprodukciju zvuka.</string>
+    <string name="find_device_popup_content_phone">%1$s traži ovaj uređaj koristeći %2$s.</string>
+    <string name="find_device_popup_content_single_phone">Netko traži ovaj uređaj koristeći %1$s.</string>
+    <string name="find_device_popup_content_single_tablet">Netko traži ovaj uređaj koristeći %1$s.</string>
+    <string name="find_device_popup_content_tablet">%1$s traži ovaj uređaj koristeći %2$s.</string>
+    <string name="find_device_title">Reprodukcija zvuka na uređaju</string>
     <string name="friday">Petak</string>
     <string name="friday_short">Pet</string>
     <string name="friday_shortest">P</string>
@@ -297,6 +317,7 @@ Pogledajte pomoć ako imate problema sa povezivanjem."</string>
     <string name="guide_page_subtitle_2">"Povucite karticu sa zaslonom ovog uređaja na tablet, računalo ili TV kako biste preslikali ono što je na zaslonu vašeg uređaja."</string>
     <string name="guide_page_subtitle_2_pad">"Povucite karticu sa zaslonom ovog uređaja na TV kako biste preslikali ono što je na zaslonu vašeg uređaja."</string>
     <string name="guide_page_subtitle_3">"Povucite aplikaciju na Mi Smart Hub i odaberite uređaj na kojem želite nastaviti svoj trenutni zadatak."</string>
+	 <string name="guide_page_subtitle_earphones">"Povucite slušalice između telefona, tableta i TV-a kako biste brzo prebacili vezu slušalica na drugi uređaj"</string>
     <string name="guide_page_title_0">Dobro došli u Mi Smart Hub!</string>
     <string name="guide_page_title_0_pad">Dobro došli u Mi Smart Hub!</string>
     <string name="guide_page_title_1">Reprodukcija zvuka</string>
@@ -304,6 +325,7 @@ Pogledajte pomoć ako imate problema sa povezivanjem."</string>
     <string name="guide_page_title_2">Zrcalni zaslon</string>
     <string name="guide_page_title_2_pad">Zrcalni zaslon</string>
     <string name="guide_page_title_3">Aplikacije</string>
+	 <string name="guide_page_title_earphones">Brzo prebacivanje</string>
     <string name="hang_up">Emitiraj kad je ekran isključen</string>
     <string name="hang_up_alert_dialog_content">"Emitiranje se neće prekinuti kada se zaslon vašeg telefona isključi. Pritisnite tipku za Power na telefonu da biste ponovo uključili zaslon."</string>
     <string name="hang_up_alert_dialog_neg">Odustani</string>
