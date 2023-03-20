@@ -519,6 +519,7 @@ nije generirana u Drugom prostoru"</string>
     <string name="screen_fps_title">Brzina osvježavanja</string>
     <string name="screen_fps_unit_power_save">%dHz (Štedi bateriju)</string>
     <string name="screen_fps_unit_smooth">%dHz (Bolja kvaliteta)</string>
+	 <string name="screen_fps_unit_string">%s Hz</string>
     <string name="screen_original_gamut">Poboljšano</string>
     <string name="screen_original_gamut_summary">Prikaži sav sadržaj zaslona u najširem rasponu boja</string>
     <string name="screen_paper_mode_apps_loading">Samo trenutak…</string>

@@ -57,24 +57,24 @@
 	 <string name="cancel">Odustani</string>
 	 <string name="charger_test_end">"
 Završetak testa punjača, isključite punjač"</string>
-<string name="cit_DP_check_summary">Type-C na DP kabel treba biti spojen tijekom procesa testiranja</string>
-    <string name="cit_DP_check_title">DP test</string>
-    <string name="cit_DP_in_start_test">Umetnite Type-C na DP kabel za početak testiranja</string>
-    <string name="cit_DP_plug_err">"Promjena veze uređaja za otkrivanje
+   <string name="cit_DP_check_summary">Type-C na DP kabel treba biti spojen tijekom procesa testiranja</string>
+	 <string name="cit_DP_check_title">DP test</string>
+	 <string name="cit_DP_in_start_test">Umetnite Type-C na DP kabel za početak testiranja</string>
+	 <string name="cit_DP_plug_err">"Promjena veze uređaja za otkrivanje
   Čitanje vrijednosti osnovnog čvora nije uspjelo
   Nije dobivena vrijednost"</string>
-    <string name="cit_DP_plug_fail">"Promjena veze uređaja za otkrivanje
+	 <string name="cit_DP_plug_fail">"Promjena veze uređaja za otkrivanje
   Čitanje vrijednosti osnovnog čvora nije uspjelo
   Umetnite tip-C kabel za DP za početak testa"</string>
-    <string name="cit_DP_plug_out_err">"Test nije uspio
+	 <string name="cit_DP_plug_out_err">"Test nije uspio
 Nije dobivena vrijednost"</string>
-    <string name="cit_DP_plug_out_fail">"Promjena veze uređaja za otkrivanje
+	 <string name="cit_DP_plug_out_fail">"Promjena veze uređaja za otkrivanje
   Čitanje vrijednosti osnovnog čvora nije uspjelo
   Test nije uspio
 "</string>
-    <string name="cit_DP_plug_out_pass">"Otkrivena je prekinuta veza
+	 <string name="cit_DP_plug_out_pass">"Otkrivena je prekinuta veza
 Prolaz na testu"</string>
-     <string name="cit_DP_plug_pass">"Promjena veze uređaja za otkrivanje
+	 <string name="cit_DP_plug_pass">"Promjena veze uređaja za otkrivanje
   Uspješno pročitajte vrijednost temeljnog čvora
   Provjerite je li ekran uspješan i kliknite odgovarajući gumb"</string>
    <string name="cit_DP_plug_re_plugin">DP test je završen, pogledajte je li zaslon uspješan i dodirnite odgovarajući tipku</string>
@@ -84,6 +84,10 @@ Prolaz na testu"</string>
 	 <string name="cit_OTG_waiting_in_charge">Sada povežite USB OTG uređaj</string>
 	 <string name="cit_OTG_waiting_out">Molimo priključite USB_OTG uređaj, i obrnuto</string>
 	 <string name="cit_OTG_waiting_out_end">Molimo priključite USB_OTG uređaj, završite test</string>
+	 <string name="cit_USB3_2GEN1_check_summary">Uređaji koji podržavaju USB3.2 GEN1 moraju biti umetnuti tijekom testiranja</string>
+	 <string name="cit_USB3_2GEN1_check_title">USB3.2 GEN1</string>
+	 <string name="cit_USB3_2_check_summary">Uređaji koji podržavaju USB3.2 moraju biti umetnuti tijekom testiranja</string>
+	 <string name="cit_USB3_2_check_title">USB3.2</string>
 	 <string name="cit_USB3_OTG_error_condition">"Otkriveno je umetanje OTG uređaja, ali nije moguće dobiti informacije o uređaju
  Test nije uspio"</string>
 	 <string name="cit_USB3_check_summary">Uređaji koji podržavaju USB3.0 moraju biti umetnuti tijekom testiranja</string>
@@ -91,16 +95,16 @@ Prolaz na testu"</string>
 	 <string name="cit_USB3_error_condition">"Otkriveno je umetanje uređaja, ali nije bilo moguće dobiti informacije o uređaju
  Test nije uspio"</string>
 	 <string name="cit_USB3_in_need_plugout">Otkriven je spojeni USB uređaj, izvucite za početak testiranja</string>
-	 <string name="cit_USB3_in_start_test">Umetnite uređaje na kojima je omogućen USB3.0 i počnite testirati</string>
+	 <string name="cit_USB3_in_start_test">Umetnite uređaje na kojima je omogućen %1$s i počnite testirati</string>
 	 <string name="cit_USB3_plug_err">Nisam pročitao ispravnu vrijednost, kontaktirajte razvojnog stručnjaka da vidite razlog</string>
-	 <string name="cit_USB3_plug_fail">Testni uređaj ne podržava USB3.0 i test nije uspio</string>
-	 <string name="cit_USB3_plug_out_test_err">"Uređaj se izvukao, test nije uspio
+	 <string name="cit_USB3_plug_fail">Testni uređaj ne podržava %1$s i test nije uspio</string>
+	 <string name="cit_USB3_plug_out_test_err">"Uređaj je izvučen, test nije uspio
 Niste dobili točnu vrijednost, kontaktirajte studenta istraživanja i razvoja kako biste saznali razlog"</string>
-	 <string name="cit_USB3_plug_out_test_fail">"Uređaj se izvukao, test nije uspio
-Preporuča se ponovno testiranje zamjenske opreme"</string>
-	 <string name="cit_USB3_plug_out_test_pass">Uređaj se izvukao, test prošao</string>
-	 <string name="cit_USB3_plug_pass">USB3.0 propusnica, izvucite uređaje</string>
-	 <string name="cit_USB3_plug_re_plugin">"USB3.0 test je završio, nemojte ponavljati test"</string>
+	 <string name="cit_USB3_plug_out_test_fail">"Uređaj je izvučen, test nije uspio
+Testna oprema možda ne podržava %1$s, preporuča se ponovno testirati zamjensku opremu "</string>
+	 <string name="cit_USB3_plug_out_test_pass">Uređaj je izvučen, test prošao</string>
+	 <string name="cit_USB3_plug_pass">%1$s je prošao, izvucite uređaj</string>
+	 <string name="cit_USB3_plug_re_plugin">"%1$s test je završio, nemojte ponavljati test"</string>
 	 <string name="cit_abnormal_reboot_summary">Pričekajte… Čitanje podataka o stabilnosti na ovom uređaju.</string>
 	 <string name="cit_abnormal_reboot_title">Podaci o stabilnosti uređaja</string>
 	 <string name="cit_ac_charger_in">Punjenje putem (USB_DCP)</string>
@@ -176,6 +180,7 @@ Držite uređaj kao da upućujete poziv, govorite u glavni mikrofon, trebali bis
 	 <string name="cit_camera_deleted">Fotografija je izbrisana</string>
 	 <string name="cit_camera_deleted_failed">Brisanje fotografije nije uspjelo</string>
 	 <string name="cit_camera_flash_adjust">Podesite bljeskalicu</string>
+	 <string name="cit_camera_hardware_check">U tijeku je otkrivanje funkcije kamere povezane s hardverom, pričekajte...</string>
 	 <string name="cit_camera_otp_download_title">Test OTP preuzimanja kamere</string>
 	 <string name="cit_camera_rearsub">U tijeku je testiranje stražnje pomoćne kamere, pričekajte…</string>
 	 <string name="cit_camerasfr_test">Razbor slike, pričekajte…</string>
@@ -673,6 +678,7 @@ Molimo odaberite ispravan tipku prema različitim uvjetima vibracije"</string>
 	 <string name="cit_wifi_fail_to_scan">"Ne mogu skenirati mreže"</string>
 	 <string name="cit_wifi_state_refresh">Osvježi</string>
 	 <string name="cit_x_tele_camera_check_title">Super Tele kamera</string>
+	 <string name="clear_text_end_icon_content_description">Izbriši tekst</string>
 	 <string name="close_third_color_led">Zatvorite trobojnu LED diodu</string>
 	 <string name="cold_light_title">Hladno svjetlo</string>
 	 <string name="continue_vibrator">Nastavi vibraciju</string>
@@ -680,11 +686,13 @@ Molimo odaberite ispravan tipku prema različitim uvjetima vibracije"</string>
 	 <string name="dispaly_sar_sensor_values">Prikaži sve trenutne vrijednosti senzora</string>
 	 <string name="display_test_finish">Test zaslona dovršen</string>
 	 <string name="dsi_sar_on_off_tips">Dsi Sar uključivanje/isključivanje</string>
-	  <string name="edittextdisplay">Dobrodošli u Sar alat !!!</string>
+	 <string name="edittextdisplay">Dobrodošli u Sar alat !!!</string>
 	 <string name="edittextdisplayf">Dopuštenja su ograničena !!!</string>
 	 <string name="enrol">Enrol</string>
 	 <string name="enrolCount">EnrolCount</string>
 	 <string name="enrolQuality">EnrolQuality</string>
+	 <string name="error_icon_content_description">Pogreška</string>
+   <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>
 	 <string name="failed_to_get_permission">Otkrivanje kontrole Clouda nije uspjelo, a neke funkcije izgubljene</string>
 	 <string name="fingerprint_input_title">Test unosa otiska prsta</string>
 	 <string name="firstplug_mic_check_record_tip">Zaustavi snimanje, nakon što priključite slušalice potvrdite rezultat</string>
@@ -718,10 +726,78 @@ Test nije uspio!"</string>
 	 <string name="headset_test_tips">Ovim će se testirati umetanje, izvlačenje, mikrofon na slušalicama i tipku na slušalicama, a svi će testovi biti uspješni</string>
 	 <string name="headset_unplug_check_tip">Molimo umetnite slušalice</string>
 	 <string name="interval_vibrator">Intervalni vibrator</string>
+	 <string name="item_view_role_description">Kartica</string>
 	 <string name="keyboard">KLJUČ</string>
 	 <string name="keyboard_vibrator_test">Test tipkovnice</string>
+	 <string name="label">Oznaka</string>
 	 <string name="lcminfo">Informacije o LCM-u</string>
 	 <string name="main_mic_check_record_tip">Snimanje, recite nešto MIC-u na glavnom dijelu uređaja</string>
+	 <string name="material_clock_toggle_content_description">Odaberite prijepodne ili poslijepodne</string>
+    <string name="material_hour_selection">Odaberite sat</string>
+    <string name="material_hour_suffix">%1$s h</string>
+    <string name="material_minute_selection">Odaberite minute</string>
+    <string name="material_minute_suffix">%1$s min</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Prijeđite na način rada sata da biste unijeli vrijeme.</string>
+    <string name="material_timepicker_hour">Sat</string>
+    <string name="material_timepicker_minute">Minuta</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Odabir vremena</string>
+    <string name="material_timepicker_text_input_mode_description">Prijeđite na način unosa teksta da biste unijeli vrijeme.</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
+    <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Više</string>
+    <string name="miuix_appcompat_cancel_description">Odustani</string>
+    <string name="miuix_appcompat_confirm_description">Potvrdi</string>
+    <string name="miuix_appcompat_delete_description">Izbriši</string>
+    <string name="miuix_appcompat_deselect_all">Poništi odabir</string>
+	  <string name="miuix_appcompat_deselect_all_description">Poništi odabir</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">Odustani</string>
+    <string name="miuix_appcompat_search_input_description">Traži</string>
+    <string name="miuix_appcompat_select_all">Odaberi sve</string>
+    <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
+    <string name="miuix_appcompat_select_item">Odaberi stavke</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Otpusti za osvježiti</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"To je sve za sada"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"To je sve za sada"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
+    <string name="mtrl_badge_numberless_content_description">Nova obavijest</string>
+    <string name="mtrl_chip_close_icon_content_description">Ukloni %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Više od %1$d novih obavijesti</string>
+    <string name="mtrl_picker_a11y_next_month">Prijelaz na sljedeći mjesec</string>
+    <string name="mtrl_picker_a11y_prev_month">Pomicanje na prethodni mjesec</string>
+    <string name="mtrl_picker_announce_current_selection">Trenutačan odabir: %1$s</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Odaberite datum</string>
+    <string name="mtrl_picker_date_header_unselected">Odabrani datum</string>
+    <string name="mtrl_picker_day_of_week_column_header">Stupac s danima: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Nevažeći format.</string>
+    <string name="mtrl_picker_invalid_format_example">Primjer: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Koristi format: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Raspon nije važeći.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Prijelaz na godinu %1$s</string>
+    <string name="mtrl_picker_out_of_range">Izvan raspona: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Datum početka – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – datum završetka</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Odaberite raspon</string>
+    <string name="mtrl_picker_range_header_unselected">Datum početka – datum završetka</string>
+    <string name="mtrl_picker_save">Spremi</string>
+    <string name="mtrl_picker_text_input_date_hint">Datum</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Datum završetka</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Datum početka</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">g</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Prijelaz na način unosa u Kalendaru</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Dodirnite za prijelaz na odabir dana</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Prijelaz na način unosa teksta</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Dodirnite za prijelaz na odabir godine</string>
 	 <string name="mic1_spk_loop">Mic speak Loop</string>
 	 <string name="mic_check_rm_headset_tip">Najprije uklonite slušalice i snimite zvuk.</string>
 	 <string name="mic_tip">Molimo da napravite buku na MIC-u. Nakon što priključite slušalice, slušajte slušalice za zvuk</string>
@@ -813,7 +889,7 @@ Nakon uspješnog kalibriranja, kontrolirajte uređaj blizu i dalje od uređaja"<
 	 <string name="test_front_mic">Prednji mikrofon</string>
 	 <string name="test_main_mic">Glavni mikrofon</string>
 	 <string name="test_sidebottom_mic">Bočni donji MIC</string>
-    <string name="test_sidetop_mic">Bočni gornji MIC</string>
+	 <string name="test_sidetop_mic">Bočni gornji MIC</string>
 	 <string name="test_speaker">Zvučnik</string>
 	 <string name="test_speaker_summary">"Čut ćete dva nasumična broja
 Molimo dodirnite odgovarajući tipku prema broju koji čujete"</string>

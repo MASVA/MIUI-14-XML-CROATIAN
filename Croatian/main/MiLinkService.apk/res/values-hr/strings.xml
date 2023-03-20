@@ -718,6 +718,7 @@ Pročitajte i prihvatite naše &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a
     <string name="toast_msg_for_multi_window">Ova funkcija nije dostupna u načinu s podijeljenim zaslonom</string>
     <string name="toast_msg_for_small_window">Nakon otvaranja aplikacije koju želite emitirati, koristite funkciju projekcije malog prozora, prikazana aplikacija neće se prekinuti, a mobilni telefon može raditi s drugim aplikacijama.</string>
     <string name="toast_nfc_dont_move">"Ne mičite telefon predaleko"</string>
+	 <string name="toast_nfc_same_wifi">Povežite svoj TV i ovaj uređaj na istu mrežu</string>
     <string name="toast_title_for_small_window">Koristite mali prozor za emitiranje zaslona u aplikaciji.</string>
     <string name="toast_turn_off_hotspot_before_cast">Isključite prijenosni hotspot prije emitiranja</string>
     <string name="today">Danas</string>

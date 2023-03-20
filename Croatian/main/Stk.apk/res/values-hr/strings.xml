@@ -211,6 +211,7 @@
     <string name="error_icon_content_description">Pogreška</string>
     <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>
     <string name="item_view_role_description">Kartica</string>
+	 <string name="lable_sim_not_ready">SIM Alat nije spreman ili nije podržan</string>
     <string name="material_clock_toggle_content_description">Odaberite prijepodne ili poslijepodne</string>
     <string name="material_hour_selection">Odaberite sat</string>
     <string name="material_hour_suffix">%1$s h</string>
@@ -223,6 +224,6 @@
     <string name="material_timepicker_select_time">Odabir vremena</string>
     <string name="material_timepicker_text_input_mode_description">Prijeđite na način unosa teksta da biste unijeli vrijeme.</string>
     <string name="mtrl_exceed_max_badge_number_content_description">Više od %1$d novih obavijesti</string>
-    <string name="stk_ic_remove_content">"Nakon uklanjanja prečaca s početnog zaslona, i dalje ćete moći koristiti USIM toolkit putem aplikacije Postavke."</string>
-    <string name="stk_ic_remove_title">Ukloniti USIM toolkit s početnog zaslona?</string>
+    <string name="stk_ic_remove_content">"Nakon uklanjanja prečaca s početnog zaslona, i dalje ćete moći koristiti SIM Alat putem aplikacije Postavke."</string>
+    <string name="stk_ic_remove_title">Ukloniti SIM Alat s početnog zaslona?</string>
 </resources>

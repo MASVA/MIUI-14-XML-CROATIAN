@@ -51,7 +51,7 @@
     <string name="app_notification_info">Kalkulator radi u pozadini</string>
     <string name="base_rate">Osnovna kamatna stopa</string>
     <string name="birthday">Rođendan</string>
-    <string name="bmi_error_text">"Ovaj BMI ne izgleda kako treba. Provjerite jesu li visina i težina koju ste unijeli ispravni."</string>
+    <string name="bmi_error_text">Unesite valjane parametre</string>
     <string name="bmi_label_information">Informacije</string>
     <string name="bmi_label_normal">Normalna</string>
     <string name="bmi_label_overweight">Pretežak</string>
@@ -238,6 +238,7 @@
     <string name="global_search_key_word_figure">Financijski likovi</string>
     <string name="golbal_search_calculator_setting">Kalkulator;Postavke kalkulatora;Postavke</string>
     <string name="golbal_search_path_calculator_setting">Aplikacije sustava/Kalkulator/Postavke</string>
+	 <string name="gst_initial_value">%d</string>
     <string name="height_prompt">Visina</string>
     <string name="help_content_desc">Pomoć</string>
     <string name="hint_annual_rate">Unesite godišnju stopu</string>
@@ -256,6 +257,7 @@
     <string name="instruction">Instrukcije</string>
     <string name="interest_rate_hint">Unesite kamatnu stopu</string>
     <string name="investment_invalid_duration">Trajanje ulaganja mora biti duže od nule</string>
+	 <string name="investment_loan_result">Detalji</string>
     <string name="investment_type_once">Jednokratno</string>
     <string name="investment_type_recurring">Ponavlja se</string>
     <string name="item_page_title_investment">Investicijski kalkulator</string>
