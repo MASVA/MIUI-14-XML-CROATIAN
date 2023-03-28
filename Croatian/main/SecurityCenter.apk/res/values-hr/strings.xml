@@ -1860,9 +1860,9 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="exo_controls_playback_speed">Brzina</string>
   <string name="exo_controls_playback_speed_normal">Normalna</string>
   <string name="exo_controls_previous_description">Prethodna pjesma</string>
-  <string name="exo_controls_repeat_all_description">Ponovi sve</string>
-  <string name="exo_controls_repeat_off_description">Bez ponavljanja</string>
-  <string name="exo_controls_repeat_one_description">Ponovi jednu</string>
+  <string name="exo_controls_repeat_all_description">Trenutni način rada: Ponovi sve. Uključi/isključi način ponavljanja.</string>
+  <string name="exo_controls_repeat_off_description">Trenutni način rada: Ponovi sve. Uključi/isključi način ponavljanja.</string>
+  <string name="exo_controls_repeat_one_description">Trenutni način rada: Ponovi sve. Uključi/isključi način ponavljanja.</string>
   <string name="exo_controls_rewind_description">Premotaj</string>
   <string name="exo_controls_seek_bar_description">Napredak reprodukcije</string>
   <string name="exo_controls_settings_description">Postavke</string>
@@ -2075,7 +2075,7 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
  %5$d. Podržane su podatkovne SIM kartice koje su izdali China Mobile i China Unicom. Podržane su obične SIM kartice koje izdaju China Mobile, China Unicom i China Telecom."</string>
   <string name="function_gwsd_title">"Ne dopusti dolaznim pozivima da prekidaju podatkovnu SIM vezu"</string>
   <string name="function_oncall_not_close_network">"Ne prekidaj vezu za pozive"</string>
-  <string name="function_oncall_not_close_network_detail">"O ovoj značajki
+  <string name="function_oncall_not_close_network_detail">"O ovoj značajki:
   %1$d. Ova vam značajka omogućuje da ostanete na mreži tijekom sesija igranja bez da vas ometaju dolazni pozivi kada je ovaj uređaj spojen na određene 5G mreže.
   %2$d. Ako niti jedna od vaših SIM kartica nije spojena na 5G mrežu, vaš primarni SIM automatski će odbiti dolazne pozive.
   %3$d. Ova je značajka podržana samo u kontinentalnoj Kini.
@@ -2513,6 +2513,7 @@ vašeg igranja"</string>
   <string name="gs_slip_gamebox_detail">Koristite klizač ili prijeđite prstom od gornjeg ruba zaslona kako bi se pojavila ploča prečaca.</string>
   <string name="gtb_brightness_dialog_right_btn">Drži uključenim</string>
   <string name="gtb_brightness_dialog_sub_message">*Ovu značajku možete uključiti i isključiti u Postavkama.</string>
+  <string name="gtb_casual_guide_toast">Otkrijte još više u Igrama</string>
   <string name="gtb_content_switch">Preporuke sadržaja</string>
   <string name="gtb_content_switch_summary">Primajte preporuke o sadržaju vezanim uz igre</string>
   <string name="gtb_dialog_btn_close">Isključi</string>
@@ -3638,6 +3639,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pc_battery_history_show_imei">IMEI:</string>
   <string name="pc_battery_history_total_consumption_title">Ukupna potrošnja energije</string>
   <string name="pc_battery_history_usetime_title">Aktivan</string>
+  <string name="pc_close_notifi_action">Isključi</string>
   <string name="pc_endurance_calculation">Izračun…</string>
   <string name="pc_entered_extreme_mode">Način hibernacije je uključen</string>
   <string name="pc_entered_extreme_mode_summary">"Vaš uređaj je prazan i ušao je u stanje hibernacije. Aplikacije će raditi u pozadini i neće slati obavijesti."</string>
@@ -6407,10 +6409,11 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="vb_video_effects_dolby_headset">" (Samo slušalice)"</string>
   <string name="vb_video_effects_dolby_open">Dolby Atmos je uključen</string>
   <string name="vb_video_effects_dolby_stereo_expansion">Prošireni stereo</string>
+  <string name="vb_video_effects_dolby_tips">"Poboljšani dijalog i prošireni stereo neće raditi kada je uključen Imerzivni zvuk"</string>
   <string name="vb_video_effects_liquid_summary">Poboljšajte jasnoću dijaloga u videozapisima</string>
   <string name="vb_video_effects_immersion_sound">Imerzivni zvuk</string>
   <string name="vb_video_effects_immersion_sound_summary">Iskusite uranjanje i osjećaj prostora kada se podržani zvuk reproducira putem slušalica</string>
-  <string name="vb_video_effects_spatial_summary_new">Doživite poboljšani osjećaj prostora i smjera za podržani audio i video te prilagodite impresivan zvuk na temelju pokreta glave</string>
+  <string name="vb_video_effects_spatial_summary_new">Doživite poboljšani osjećaj prostora i smjera za podržani zvuk kada koristite slušalice</string>
   <string name="vb_video_effects_only_headphone">Radi samo sa slušalicama</string>
   <string name="vb_video_effects_setting_black_white">B&amp;W</string>
   <string name="vb_video_effects_setting_cinema">Cinema</string>

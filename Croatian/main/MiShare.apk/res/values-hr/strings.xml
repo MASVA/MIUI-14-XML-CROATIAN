@@ -288,10 +288,10 @@ Prije upotrebe Mi Share-a morate odobriti sljedeća dopuštenja i omogućiti mu 
 Popis kompatibilnih uređaja možete pronaći na našoj web stranici. Ako je vaše prijenosno računalo na popisu, ali Mi Share nije instaliran na njemu, ažurirajte BIOS i upravljački program mrežnog adaptera vašeg prijenosnog računala i preuzmite Mi Share."</string>
     <string name="transfer_to_pc_summary_new"><Data>"Najnovija verzija MIUI+ instalirana na Mi prijenosnim računalima kompatibilna je s Mi Share. Popis podržanih modela prijenosnih računala možete provjeriti na web stranici MIUI+ (&lt;a href=%1$s>%2$s&lt;/a>). Ako je vaše prijenosno računalo na popisu, ali MIUI+ nije instaliran na njemu, ažurirajte BIOS prijenosnog računala i upravljački program mrežnog adaptera i preuzmite MIUI+."</Data></string>
     <string name="transfer_to_pc_title">Pošaljite datoteke na računala</string>
-    <string name="transfer_to_phone_summary">Mi Share omogućuje vam slanje slika i datoteka na obližnje Mi telefone i druge kompatibilne uređaje.</string>
+	 <string name="transfer_to_phone_summary">"Uključite Mi Share pomoću prečaca u Panelu obavijesti. Nakon toga, moći ćete vidjeti uređaje u blizini kada počnete dijeliti fotografiju ili datoteku. Dodirnite uređaj primatelja da biste poslali stavku koju dijelite."</string>
 	 <string name="transfer_to_phone_summary_new">Uključite Mi Share u Centru za kontrolu kako biste mogli jednostavno slati i primati stavke. Nakon što ga uključite, možete dijeliti stavke s uređajima u blizini %d min. prije nego što se automatski isključi.</string>
     <string name="transfer_to_phone_title">Pošaljite datoteke na telefone</string>
-    <string name="transfer_to_summary">"Uključite Mi Share putem prečaca u Panelu obavijesti. Nakon toga, moći ćete vidjeti uređaje u blizini kada počnete dijeliti fotografiju ili datoteku. Dodirnite uređaj primatelja da pošaljete stavku koju dijelite."</string>
+	 <string name="transfer_to_summary">"Uključite Mi Share pomoću prečaca u Panelu obavijesti. Nakon toga, moći ćete vidjeti uređaje u blizini kada počnete dijeliti fotografiju ili datoteku. Dodirnite uređaj primatelja da pošaljete stavku koju dijelite."</string>
 	 <string name="transfer_to_summary_new">Uključite Mi Share u Centru za kontrolu kako biste mogli jednostavno slati i primati stavke. Nakon što ga uključite, možete dijeliti stavke s uređajima u blizini %d min. prije nego što se automatski isključi.</string>
     <string name="transfer_to_title">Pošaljite datoteke na mobilne uređaje</string>
     <string name="tuesday">Utorak</string>

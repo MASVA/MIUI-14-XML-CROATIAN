@@ -358,6 +358,9 @@
     <string name="now_here">A sada?</string>
     <string name="original_sound">Reproduciraj originalni zvuk</string>
     <string name="password_toggle_content_description">Prikaži zaporku</string>
+	 <string name="permission_go_to_settings">Postavke</string>
+    <string name="permission_requesr_content">Dopustite ovoj aplikaciji povezivanje s uređajima u blizini u postavkama.</string>
+    <string name="permission_requesr_title">Potrebna su dopuštenja</string>
     <string name="personal_sound">Reproduciraj sa postavljenim presetom</string>
     <string name="preference_copied">\"%1$s\" je kopiran u međuspremnik.</string>
     <string name="retry_test">Počni ispočetka</string>
