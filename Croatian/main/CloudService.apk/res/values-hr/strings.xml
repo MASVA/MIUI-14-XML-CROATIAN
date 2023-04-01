@@ -605,6 +605,8 @@ Podaci o lokaciji možda se neće prijaviti kada je mrežna veza loša."</string
     <string name="privacy_runtime_perm_contacts_title">Pristup i uređivanje kontakata</string>
     <string name="privacy_runtime_perm_external_storage_desc">Za sinkronizaciju profilnih fotografija kontakata</string>
     <string name="privacy_runtime_perm_external_storage_title">Pristup pohrani</string>
+	 <string name="privacy_runtime_perm_notification_desc">Za slanje obavijesti usluga Xiaomi Clouda</string>
+    <string name="privacy_runtime_perm_notification_title">Obavijesti</string>
     <string name="privacy_runtime_perm_phone_state_desc">Za pristup telefonskom broju i statusu uređaja</string>
     <string name="privacy_runtime_perm_phone_state_title">Pristup informacijama o uređaju</string>
     <string name="privacy_runtime_perm_sms_desc">Za sinkronizaciju poruka</string>

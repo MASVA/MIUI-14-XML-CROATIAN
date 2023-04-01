@@ -77,7 +77,10 @@ Unesite broj telefona povezan s vašom novom SIM karticom da ponovno aktivirate 
     <string name="activate_popup_desc_find_device_postfix_msg">%1$s Za aktiviranje \"%3$s\", unesite broj telefona SIM %2$d. Ako zamijenite ovu SIM karticu, poslat će se drugi aktivacijski SMS.</string>
     <string name="activate_popup_desc_find_device_postfix_msg_one_sim">%1$s Za aktiviranje \"%2$s\", unesite vaš broj telefona. Ako zamijenite ovu SIM karticu, poslat će se drugi aktivacijski SMS.</string>
     <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">Za aktiviranje \"%2$s\", &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>međunarodna plaćena SMS poruka&lt;/b> bit će poslana. Vaš će vam operater naplatiti tu poruk.</string>
-    <string name="activate_popup_desc_mi_account_user_manual">%1$s. <Data>Pogledajte &lt;a href=https://account.xiaomi.com/helpcenter/faq>Mi Account User Manual&lt;/a> ako imate ikakvih pitanja.</Data></string>
+    <string name="activate_popup_desc_mi_account_user_manual">%1$s. 
+	
+	
+<Data>Pogledajte &lt;a href=https://account.xiaomi.com/helpcenter/faq>Mi Account User Manual&lt;/a> ako imate ikakvih pitanja.</Data></string>
     <string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">Za aktiviranje \"%3$s\", &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;obična plaćena SMS poruka&lt;/b&gt; i &lt;xliff:g id=number_sms refersto=1&gt;%2$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;međunarodna plaćena SMS poruka&lt;/b&gt; bit će poslane. Vaš će vam operater naplatiti te poruke.</string>
     <string name="activate_popup_desc_sim_card_downlink_msg">Za aktiviranje \"%2$s\", unesite broj telefona SIM %1$d.</string>
     <string name="activate_popup_desc_sim_card_downlink_msg_one_sim">Za aktiviranje %s, unesite vaš broj telefona.</string>

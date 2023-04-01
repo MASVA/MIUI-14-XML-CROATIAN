@@ -55,6 +55,7 @@
     <string name="backup_failed_reason_app_usage_denied">Dodijelite potrebna dopuštenja za sigurnosno kopiranje stavki</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Nema dovoljno prostora za pohranu u Xiaomi Cloudu. Nadogradite svoj plan ili oslobodite prostor za pohranu.</string>
     <string name="backup_failed_reason_disk_space_not_enough">Nema dovoljno prostora za pohranu. Oslobodite prostor za pohranu.</string>
+	 <string name="backup_failed_reason_get_installed_apps_denied">Odobrite potrebna dopuštenja u Postavkama za sigurnosno kopiranje stavki</string>
     <string name="backup_failed_reason_network_error">Provjerite mrežne postavke i pokušajte ponovo.</string>
     <string name="backup_finished_notification_content">Pohranjene su aplikacije Poč. zaslona, postavke sustava, itd.</string>
     <string name="backup_now">Izradi Sig. kopiju sada</string>
@@ -204,6 +205,8 @@ Molimo pošaljite ovaj kod tehničaru."</string>
     <string name="dialog_btn_restore_skip">Vrati kasnije</string>
     <string name="dialog_button_agree">Dopuštam</string>
     <string name="dialog_button_disagree">"Odbijam"</string>
+	 <string name="dialog_button_get_installed_apps_agree">Postavke</string>
+    <string name="dialog_button_get_installed_apps_disagree">Odustani</string>
     <string name="dialog_buy_cloud_space">Nadogradi</string>
     <string name="dialog_cancel_backup_cancel">Odustani</string>
     <string name="dialog_cancel_backup_confirm">U redu</string>
@@ -212,6 +215,8 @@ Molimo pošaljite ovaj kod tehničaru."</string>
     <string name="dialog_cloud_space_not_enough">Ova Sig. kopija zahtijeva %1$s besplatnog prostora za pohranu u Xiaomi Cloudu. Nadogradite svoj plan za pohranu da biste izradili Sig. kopije stavki.</string>
     <string name="dialog_content_cancel_backup">Već preneseni podaci bit će izgubljeni ako otkažete sigurnosnu kopiju. Želite li ipak otkazati?</string>
     <string name="dialog_content_cancel_restore">Podaci koji su već vraćeni bit će zadržani ako prestanete s vraćanjem. Prestati s vraćanjem sada?</string>
+	 <string name="dialog_get_installed_apps_consent_message">Da biste mogli automatski sigurnosno kopirati, dajte ovoj aplikaciji dopuštenje u Postavkama za pristup popisu aplikacija instaliranih na vašem uređaju i odaberite Uvijek dopusti.</string>
+    <string name="dialog_get_installed_apps_consent_title">Potrebna su dopuštenja</string>
 	 <string name="dialog_msg_overwrite_backup">Lokalna Sig. kopija razlikuje se od one u Xiaomi Cloudu. Ako nastavite, trenutna Sig. kopija će prebrisati postojeću.</string>
     <string name="dialog_msg_restore_require_wlan">Vraćanje Sig. kopija zahtijeva povezivanje s Wi-Fi mrežom.</string>
     <string name="dialog_msg_restore_require_wlan_china">Vraćanje Sig. kopija zahtijeva povezivanje s Wi-Fi mrežom.</string>
@@ -245,7 +250,7 @@ Molimo pošaljite ovaj kod tehničaru."</string>
     <string name="dump_app_data_record_complete_title">Uspješno sigurnosno kopiranje WeChat podataka</string>
     <string name="dump_app_data_record_not_found_msg">"Izgleda da dosad niste sigurnosno kopirali WeChat podatke"</string>
     <string name="dump_app_data_record_not_found_title">"Nisam mogao pronaći WeChat sigurnosne kopije"</string>
-     <string name="dump_app_data_record_running_title">Sigurnosno kopiranje WeChat podataka…</string>
+    <string name="dump_app_data_record_running_title">Sigurnosno kopiranje WeChat podataka…</string>
     <string name="error_retry_later">"Ne mogu dovršiti radnju. Pričekajte trenutak ili dva i pokušajte ponovno."</string>
     <string name="error_unknown">Nešto je pošlo po krivu</string>
     <string name="expand_button_title">Napredno</string>
@@ -265,6 +270,10 @@ Molimo pošaljite ovaj kod tehničaru."</string>
     <string name="loading_progress_num">Učitano %s%%</string>
     <string name="loading_user_backup">Učitavanje korisničkih Sig. kopija…</string>
     <string name="managespace_delete_backup">Izbriši</string>
+	 <string name="manual_request_notification_permission_dialog_negative_button">Zatvori</string>
+    <string name="manual_request_notification_permission_dialog_positive_button">Postavke</string>
+    <string name="manual_request_permissions_dialog_description">"Ako ne odobrite dopuštenja za \"%s\", nećete primati pravovremene obavijesti o neuspješnim sigurnosnim kopijama i drugim važnim radnjama. Možete dati ovu dozvolu u Postavkama."</string>
+    <string name="manual_request_permissions_dialog_title">Potrebna su dopuštenja</string>
     <string name="menu_item_managespace">Upravljaj prostorom</string>
     <string name="menu_item_sort">Poredaj po</string>
     <string name="menu_item_sort_name">Naziv</string>
@@ -376,6 +385,11 @@ Molimo pošaljite ovaj kod tehničaru."</string>
     <string name="remove_task_unfinished">Uklanjanje nije završeno</string>
     <string name="remove_unfinished">Uklanjanje, pokušajte ponovno kasnije</string>
 	 <string name="repeat_recommend_wechat_backup_notification_content">Sada možete sigurnosno kopirati WeChat podatke. Dodirnite za detalje.</string>
+	 <string name="request_notification_permission_dialog_confirm">Shvaćam</string>
+    <string name="request_permission_post_notification">Za slanje obavijesti o sigurnosnim kopijama u Cloudu</string>
+    <string name="request_permission_post_notification_title">Obavijesti</string>
+    <string name="request_permissions_dialog_description">Odobrite dopuštenja za slanje obavijesti i podsjetnika kako biste mogli uživati u svim uslugama koje sigurnosna kopija u Cloudu nudi.</string>
+    <string name="request_permissions_dialog_title">Potrebna su dopuštenja</string>
     <string name="restore_app_order_finish">Gotovo</string>
     <string name="restore_app_order_loading">Samo trenutak…</string>
     <string name="restore_app_order_retry">Pokušaj ponovno</string>
@@ -445,6 +459,8 @@ Provjerite postavke mreže i pokušajte ponovno."</string>
     <string name="session_failed_disk_no_space_restore_detail">Za vraćanje stavki potrebno je najmanje %s.</string>
     <string name="session_failed_disk_no_space_title">Nedovoljno unutarnje memorije. Očistite pohranu i pokušajte ponovno.</string>
     <string name="session_failed_dist_no_space_btn_text">Očisti pohranu</string>
+	 <string name="session_failed_get_installed_apps_denied_detail">Da biste mogli automatski sigurnosno kopirati, odobrite ovoj aplikaciji dopuštenje u postavkama za pristup popisu aplikacija instaliranih na vašem uređaju i odaberite Uvijek dopusti.</string>
+    <string name="session_failed_get_installed_apps_denied_title">Potrebna su dopuštenja</string>
     <string name="session_failed_no_server_response_title">"Nisam se mogao povezati s poslužiteljem."</string>
     <string name="session_failed_override_detail">Lokalna sigurnosna kopija razlikuje se od one u Xiaomi Cloudu. Ako nastavite, trenutna sigurnosna kopija će prepisati prethodnu. Prepisati sada?</string>
     <string name="session_failed_override_title">Prepisivanje Sig. kopije</string>

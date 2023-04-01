@@ -216,7 +216,12 @@ Generirane zapisnike možete vidjeti u aplikaciji Datoteke."</string>
 	 <string name="long_press_home_key">Dugo pritisnite tipku Početna</string>
 	 <string name="long_press_menu_key">Dugo pritisnite tipku Izbornik</string>
 	 <string name="long_press_menu_key_when_lock">Dugo pritisnite Izbornik na Zaklj. zaslonu</string>
-	 <string name="long_press_power_key">Dugo pritisnite tipku za uključivanje</string>
+	 <string name="long_press_power_guide_know">Razumijem</string>
+   <string name="long_press_power_guide_message" formatted="false">"Pritisnite i držite tipku Power %s sekundi da biste probudili Google pomoćnika.
+Ako držite tipku %s sekundi, umjesto toga otvorit ćete izbornik za isključivanje."</string>
+   <string name="long_press_power_guide_settings">Postavke</string>
+   <string name="long_press_power_guide_title">Probudi sa tipkom Power</string>
+	 <string name="long_press_power_key">Dugo pritisnite tipku Power</string>
 	 <string name="long_press_power_key_half_of_second">Pritisnite i držite tipku Power 0,5 s da biste uključili Google pomoćnika</string>
 	 <string name="long_press_power_key_half_second">Pritisnite i držite tipku Power %ss</string>
 	 <string name="long_press_power_key_tips">&lt;Data>Duži pritisak tipke Power je &lt;font color=#999999>brži i praktičniji&lt;/font>&lt;/Data></string>
@@ -397,6 +402,7 @@ Dodirnite dvaput za otvaranje Nedavno."</string>
    <string name="stylus_connect_fail">"Nije moguće povezati se. Ponovno priložite."</string>
 	 <string name="stylus_connect_fail_no_battery">Napunite svoju olovku sada</string>
 	 <string name="stylus_connect_fail_no_reason">"Nije moguće povezati se"</string>
+	 <string name="stylus_connect_fail_not_match_tablet">"Stylus nije kompatibilan s tabletom"</string>
 	 <string name="stylus_connect_fail_not_open_gps">"Nije moguće povezati se. Uključite usluge lokacije i pokušajte ponovno."</string>
 	 <string name="stylus_connecting">Povezivanje…</string>
 	 <string name="stylus_default_percent">100</string>
