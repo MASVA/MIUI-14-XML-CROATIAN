@@ -40,7 +40,7 @@
     <string name="cache_clearing_dialog_title">Izbriši privremene datoteke aplikacije</string>
     <string name="cache_clearing_in_progress_title">Brisanje privremenih datoteka aplikacije…</string>
     <string name="character_counter_content_description">Uneseni znakovi %1$d od %2$d</string>
-    <string name="character_counter_overflowed_content_description">Ograničenje broja znakova premašilo je %1$d od %2$d</string>
+    <string name="character_counter_overflowed_content_description">Prekoračeno je ograničenje broja znakova %1$d od %2$d</string>
     <string name="chip_text">Chip tekst</string>
     <string name="clear">Izbriši</string>
     <string name="clear_text_end_icon_content_description">Izbriši tekst</string>

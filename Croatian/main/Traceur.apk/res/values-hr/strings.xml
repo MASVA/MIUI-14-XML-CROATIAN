@@ -264,7 +264,7 @@ Audio"</string>
      <string name="category_work">Posao</string>
      <string name="cell_data_off_content_description">Mobilni su podaci isključeni</string>
      <string name="character_counter_content_description">Uneseno znakova: %1$d od %2$d</string>
-     <string name="character_counter_overflowed_content_description">Premašeno je ograničenje broja znakova: %1$d od %2$d</string>
+     <string name="character_counter_overflowed_content_description">Prekoračeno je ograničenje broja znakova %1$d od %2$d</string>
      <string name="charge_length_format">Prije %1$s</string>
 	   <string name="chip_text">Chip tekst</string>
      <string name="choose_profile">Odabir profila</string>

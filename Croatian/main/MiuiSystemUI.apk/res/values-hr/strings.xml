@@ -531,7 +531,7 @@ Dodirnite za ponovno postavljanje"</string>
   <string name="cell_data_off">Isključeno</string>
   <string name="cell_data_off_content_description">Mobilni su podaci isključeni</string>
   <string name="character_counter_content_description">Uneseno znakova: %1$d od %2$d</string>
-  <string name="character_counter_overflowed_content_description">Premašeno je ograničenje broja znakova: %1$d od %2$d</string>
+  <string name="character_counter_overflowed_content_description">Prekoračeno je ograničenje broja znakova %1$d od %2$d</string>
   <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="charge_length_format">prije %1$s</string>
   <string name="chip_text">Chip tekst</string>

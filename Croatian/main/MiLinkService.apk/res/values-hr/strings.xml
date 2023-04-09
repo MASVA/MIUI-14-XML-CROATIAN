@@ -70,7 +70,7 @@ vaše uređaje?"</string>
 MIUI 13 Beta testere."</string>
     <string name="auth_check_loading">Samo trenutak…</string>
     <string name="auth_no_user">"Ova je stranica dostupna samo beta testerima.
-Prijavite se na svoj Mi račun u Postavke > Mi račun za sinkronizaciju dopuštenja."</string>
+Prijavite se na svoj Xiaomi račun u Postavke > Xiaomi račun za sinkronizaciju dopuštenja."</string>
     <string name="auth_phone_model">"Ova se stranica ne može vidjeti na ovom uređaju."</string>
     <string name="auth_show_to_test_user">Ova je stranica dostupna samo beta testerima.</string>
     <string name="ball_hint_connect_fail">"Nije moguće izvesti ovu radnju. Pričekajte minutu ili dvije i pokušajte ponovo."</string>
@@ -80,7 +80,7 @@ Prijavite se na svoj Mi račun u Postavke > Mi račun za sinkronizaciju dopušte
     <string name="cast_image_des">Udžbenik za emitiranje</string>
     <string name="casting_tips">Emitiranje…</string>
     <string name="character_counter_content_description">Uneseni znakovi %1$d od %2$d</string>
-    <string name="character_counter_overflowed_content_description">Ograničenje broja znakova premašilo je %1$d od %2$d</string>
+    <string name="character_counter_overflowed_content_description">Prekoračeno je ograničenje broja znakova %1$d od %2$d</string>
     <string name="chip_text">Chip tekst</string>
     <string name="circulate_audio_group_title">Reprodukcija…</string>
     <string name="circulate_back_button_content_description">Natrag</string>

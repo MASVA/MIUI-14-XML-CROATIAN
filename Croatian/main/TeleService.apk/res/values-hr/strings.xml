@@ -768,7 +768,7 @@ Audio"</string>
     <string name="change_pin_system_error">PIN se ne može postaviti</string>
     <string name="change_pin_title">Promjena PIN-a govorne pošte</string>
     <string name="character_counter_content_description">Uneseno znakova: %1$d od %2$d</string>
-    <string name="character_counter_overflowed_content_description">Premašeno je ograničenje broja znakova: %1$d od %2$d</string>
+    <string name="character_counter_overflowed_content_description">Prekoračeno je ograničenje broja znakova %1$d od %2$d</string>
     <string name="charge_length_format">Prije %1$s</string>
     <string name="china_mobile_palm_category">Usluge operatera</string>
     <string name="chip_text">Chip tekst</string>

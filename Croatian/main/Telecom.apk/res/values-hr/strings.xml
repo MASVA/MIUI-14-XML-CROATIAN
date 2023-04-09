@@ -291,7 +291,7 @@ Audio"</string>
     <string name="change_default_dialer_warning_message">%s će moći uspostaviti poziv i upravljati svim njegovim aspektima. Kao zadanu aplikaciju telefona postavite samo aplikaciju koju smatrate pouzdanom.</string>
     <string name="change_default_dialer_with_previous_app_set_text">Koristiti %1$s umjesto %2$s kao zadanu aplikaciju telefona?</string>
     <string name="character_counter_content_description">Uneseno znakova: %1$d od %2$d</string>
-    <string name="character_counter_overflowed_content_description">Premašeno je ograničenje broja znakova: %1$d od %2$d</string>
+    <string name="character_counter_overflowed_content_description">Prekoračeno je ograničenje broja znakova %1$d od %2$d</string>
     <string name="charge_length_format">Prije %1$s</string>
     <string name="chip_text">Chip tekst</string>
     <string name="choose_profile">Odabir profila</string>

@@ -35,7 +35,7 @@
     <string name="button_ok">U redu</string>
     <string name="button_yes">Da</string>
     <string name="character_counter_content_description">Unešeno znakova %1$d od %2$d</string>
-    <string name="character_counter_overflowed_content_description">Prekoračeno je ograničenje broja znakova %1$d od %2$d</string>
+    <string name="character_counter_overflowed_content_description">Prekoračeno je ograničenje broja znakova %1$d od %2$d</string>    
     <string name="chip_text">Chip tekst</string>
     <string name="clear_text_end_icon_content_description">Brisanje teksta</string>
     <string name="clearable_edittext_clear_description">Izbriši</string>

@@ -67,7 +67,7 @@
     <string name="can_not_send_with_too_many">"Ne mogu odjednom poslati toliko puno stavaka"</string>
     <string name="cancel">Odustani</string>
     <string name="cancel_error">"Ne mogu ukloniti. Pokušajte ponovo."</string>
-	 <string name="cancel_mi_drive">Otkažite Mi Drive usluge</string>
+    <string name="cancel_mi_drive">Otkažite Mi Drive usluge</string>
     <string name="cancel_mi_drive_alert_description" formatted="false">Izbrišite sve stavke s Mi Drivea kako biste mogli otkazati usluge. Slijedite ove korake za brisanje stavki:&lt;br />&lt;xliff:g id=cancel_mi_drive_alert_description_list_1 refersto=1>%1d&lt;/xliff:g>. Na početnoj stranici Mi Drivea pritisnite i držite stavku kako bi se prikazaa tipka \"Odaberi sve\". Koristite ovu tipku za odabir do 200 datoteka odjednom i njihovo brisanje.&lt;br />&lt;xliff:g id=cancel_mi_drive_alert_description_list_2 refersto=2>%2d&lt;/xliff:g>. Nakon toga izbrišite nedavno obrisane stavke.</string>
     <string name="cancel_mi_drive_alert_reminder_card_summary" formatted="false">"&lt;xliff:g id=cancel_mi_drive_alert_reminder_card_summary_list_1 refersto=1>%1d&lt;/xliff:g>. Preporučujemo da napravite sigurnosnu kopiju svojih stavki prije njihovog brisanja. Da biste to učinili, posjetite i.mi.com, kliknite Mi Drive i preuzmite svoje stavke na računalo.&lt;br />&lt;xliff:g id=cancel_mi_drive_alert_reminder_card_summary_list_2 refersto=2>%2d&lt;/xliff:g>. Imajte na umu da se nedavno izbrisane stavke ne mogu vratiti nakon što ih izbrišete."</string>
     <string name="cancel_mi_drive_confirm_button">Otkažite usluge</string>
@@ -86,7 +86,7 @@
     <string name="category_all">Sve datoteke</string>
     <string name="category_apk">Aplikacije</string>
     <string name="category_bluetooth">Bluetooth</string>
-	 <string name="category_cloud_drive">Mi Drive</string>
+    <string name="category_cloud_drive">Mi Drive</string>
     <string name="category_document">Dokumenti</string>
     <string name="category_download">Preuzimanja</string>
     <string name="category_editor_mode">Uredi</string>
@@ -126,8 +126,8 @@
     <string name="click_to_switch_volume_pad">Dodirni za promjenu između unutarnje memorije i SD kartice</string>
     <string name="clock_in">Provjera…</string>
     <string name="close">Zatvori</string>
-	 <string name="cloud_copy_to_local_title">Spremi u…</string>
-	 <string name="cloud_drive_files">Datoteke Mi Drivea</string>
+    <string name="cloud_copy_to_local_title">Spremi u…</string>
+    <string name="cloud_drive_files">Datoteke Mi Drivea</string>
     <string name="cloud_drive_not_login_summary">Nisam prijavljen</string>
     <string name="cloud_drive_settings">Postavke Mi Drivea</string>
     <string name="cloud_empty_hint_text">"Ovdje nema još ništa.
@@ -251,7 +251,7 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
     <string name="exit">Izlaz</string>
     <string name="expand_button_title">Napredno</string>
     <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>
-	 <string name="extend_service_setting">Dodatne usluge</string>
+    <string name="extend_service_setting">Dodatne usluge</string>
     <string name="extend_service_summary">"Ako isključite ovu uslugu, nećete moći koristiti značajke povezane s Mi Driveom"</string>
     <string name="extend_service_title">Upravljanje Mi Drive datotekama</string>
     <string name="extended_storage_file_can_not_open">"Ne mogu otvoriti datoteku. Kopirajte je u unutarnju pohranu."</string>
@@ -323,7 +323,7 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
     <string name="image_loading_error">"Ne mogu učitati sliku"</string>
     <string name="imm_str_storage">Pohrana</string>
     <string name="import_files_from_old_phones">Uvezi sa starog uređaja</string>
-	 <string name="install_media_editor_button_text">Preuzimanje</string>
+    <string name="install_media_editor_button_text">Preuzimanje</string>
     <string name="install_media_editor_message">Da biste mogli uređivati stavke, prvo preuzmite dodatak. Preuzeti sada?</string>
     <string name="install_media_editor_title">Potreban je dodatak</string>
     <string name="instruction">Unesite sljedeću adresu u FTP klijent: </string>
@@ -352,7 +352,7 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
     <string name="make_private_msg_1">Želite li ovu datoteku učiniti privatnom?</string>
     <string name="make_private_msg_2">Želite li ove datoteke učiniti privatnima?</string>
     <string name="make_private_msg_3">Sve datoteke u ovoj mapi bit će privatne.</string>
-	 <string name="manage_cloud_space">Upravljanje pohranom u cloudu</string>
+    <string name="manage_cloud_space">Upravljanje pohranom u cloudu</string>
     <string name="material_slider_range_end">Kraj,</string>
     <string name="material_slider_range_start">Početak,</string>
     <string name="megabyteShort">MB</string>
@@ -368,10 +368,10 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
     <string name="menu_item_sort_type">Vrsti</string>
     <string name="menu_item_usb">USB</string>
     <string name="menu_set_wallpaper">Postavi za sliku pozadine</string>
-	  <string name="message_request_manage_external_storage_perm">Aplikacija Datoteke treba dopuštenje za pristup datotekama kako bi mogla upravljati datotekama na vašem uređaju. Ovo dopuštenje možete dati u postavkama.</string>
+     <string name="message_request_manage_external_storage_perm">Aplikacija Datoteke treba dopuštenje za pristup datotekama kako bi mogla upravljati datotekama na vašem uređaju. Ovo dopuštenje možete dati u postavkama.</string>
     <string name="mi_router_label">Router</string>
     <string name="mi_share">MiShare</string>
-	 <string name="midrive_display_related">Zaslon</string>
+    <string name="midrive_display_related">Zaslon</string>
     <string name="midrive_get_cloudvideo_file">Samo trenutak…</string>
     <string name="midrive_hide_recent_cloud_files">"Ne prikazuj Mi Drive datoteke u Nedavno"</string>
     <string name="midrive_not_found">"Ne mogu pristupiti ovoj stavci"</string>
@@ -591,20 +591,20 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
     <string name="operation_paste">Zalijepi</string>
     <string name="operation_paste_to_folder">Zalijepi u mapu</string>
     <string name="operation_pasting">Kopiranje…</string>
-	 <string name="operation_pic_to_pdf">Izradi PDF</string>
+    <string name="operation_pic_to_pdf">Izradi PDF</string>
     <string name="operation_refresh">Osvježi</string>
     <string name="operation_rename">Preimenuj</string>
-	 <string name="operation_rename_err">"Ne mogu preimenovati"</string>
+    <string name="operation_rename_err">"Ne mogu preimenovati"</string>
     <string name="operation_rename_message">Unesite novi naziv</string>
     <string name="operation_retry">Pokušaj ponovno</string>
     <string name="operation_send">Pošalji</string>
     <string name="operation_send_to_pc">Premjesti na računalo</string>
-	 <string name="operation_set_pic_wallpaper">Postavi kao pozadinu</string>
+    <string name="operation_set_pic_wallpaper">Postavi kao pozadinu</string>
     <string name="operation_show_privacy_policy">Prikaži Pravila o privatnosti</string>
     <string name="operation_show_sys">Pokaži skrivene datoteke</string>
-	 <string name="operation_sync_cloud_data_error">Došlo je do pogreške poslužitelja. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
+    <string name="operation_sync_cloud_data_error">Došlo je do pogreške poslužitelja. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
     <string name="operation_unfavorite">Ukloni iz favorita</string>
-	 <string name="operation_unknown_err">"Ova radnja nije mogla biti dovršena."</string>
+    <string name="operation_unknown_err">"Ova radnja nije mogla biti dovršena."</string>
     <string name="operation_upload_buy_space">Nadogradi</string>
     <string name="operation_upload_delete">Izbriši</string>
     <string name="operation_upload_err_file_not_found">"Izgleda da ova datoteka ne postoji."</string>
@@ -617,18 +617,21 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
     <string name="operation_upload_error_title">"Nije moguće prenijeti"</string>
     <string name="operation_upload_retry">Pokušajte ponovno</string>
     <string name="operation_upload_save_to_local">Spremi u…</string>
-	 <string name="operation_upload_use_data">Pošalji</string>
+    <string name="operation_upload_use_data">Pošalji</string>
     <string name="otg_data_transfer_success">Uspješno poslano</string>
     <string name="otg_data_transferring">"Prijenos datoteka… Ne isključujte vanjsku pohranu."</string>
     <string name="otg_file_security_note">OGTSecurity</string>
     <string name="overwrite_msg">\"%s\" već postoji. Dodirnite da biste je zamijenili novom datotekom.</string>
+    <string name="pad">Tablet</string>
+    <string name="pad_homepage_tab_file_view_phone">Tablet</string>
+    <string name="pad_start_phone">Pohrana</string>
     <string name="partial_cancel_successful">"Ne mogu ukloniti neke datoteke. Ostale datoteke premještene su u %s."</string>
     <string name="partial_delete_failure">"Ne mogu izbrisati neke datoteke. Pokušajte ponovo."</string>
     <string name="partial_encrypt_success">"Neke datoteke nije bilo moguće učiniti privatnim. Pokušajte ponovo."</string>
     <string name="password_toggle_content_description">Prikaži zaporku</string>
     <string name="path_name_email">E-pošta</string>
-	 <string name="perm_manage_external_storage">Pristup svim datotekama</string>
-	 <string name="permission_account_desc">Za pristup informacijama o računu pohranjenim na vašem uređaju</string>
+    <string name="perm_manage_external_storage">Pristup svim datotekama</string>
+    <string name="permission_account_desc">Za pristup informacijama o računu pohranjenim na vašem uređaju</string>
     <string name="permission_account_desc_pad">Za pristup informacijama o računu pohranjenim na vašem uređaju</string>
     <string name="permission_account_title">Pristup računima uređaja</string>
     <string name="permission_account_title_pad">Pristup računima uređaja</string>
@@ -656,7 +659,7 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
     <string name="pick_file">Odaberite datoteke</string>
     <string name="pick_folder">Odaberite mapu</string>
     <string name="port_range">Port mora biti između 1024–65535</string>
-	 <string name="pre_privacy_recall">Povlačenje suglasnosti</string>
+    <string name="pre_privacy_recall">Povlačenje suglasnosti</string>
     <string name="pref_permission_allowed">Odobreno</string>
     <string name="pref_permission_manage_key_storage">Pristup fotografijama i datotekama na uređaju</string>
     <string name="pref_permission_not_allowed">Nije odobreno</string>
@@ -667,12 +670,12 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
     <string name="privacy_recall_alert_description" formatted="false">Izbrišite sve stavke iz Mi Drive-a kako biste mogli povući suglasnost. Slijedite ove korake za brisanje stavki:&lt;br />&lt;xliff:g id=privacy_recall_alert_description_list_1 refersto=1>%1d&lt;/xliff:g>. Na početnoj stranici Mi Drivea pritisnite i držite stavku kako bi se prikazaa tipka \"Odaberi sve\". Koristite ovu tipku za odabir do 200 datoteka odjednom i njihovo brisanje.&lt;br />&lt;xliff:g id=privacy_recall_alert_description_list_2 refersto=2>%2d&lt;/xliff:g>. Nakon toga izbrišite nedavno obrisane stavke.</string>
     <string name="privacy_recall_alert_reminder_card_summary" formatted="false">"&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_1 refersto=1>%1d&lt;/xliff:g>. Preporučujemo da napravite sigurnosnu kopiju svojih stavki prije njihovog brisanja. Da biste to učinili, posjetite i.mi.com, kliknite Mi Drive i preuzmite svoje stavke na računalo.&lt;br />&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_2 refersto=2>%2d&lt;/xliff:g>. Imajte na umu da se nedavno izbrisane stavke ne mogu vratiti nakon što ih izbrišete."</string>
     <string name="privacy_recall_confirm_button">Povuci</string>
-    <string name="privacy_recall_confirm_description">"Ako nastavite, povući ćete svoj suglasnost na Pravila o privatnosti Datoteka. Prestat ćemo prikupljati vaše osobne podatke. Osobni podaci koji su već prikupljeni i zadržani bit će izbrisani unutar određenog razdoblja u skladu s primjenjivim zakonima i propisima osim ako se ne zahtijeva drugačije."</string>
+    <string name="privacy_recall_confirm_description">"Ako nastavite, povući ćete svoj suglasnost na Pravila o privatnosti aplikacije Datoteke. Prestat ćemo prikupljati vaše osobne podatke. Osobni podaci koji su već prikupljeni i zadržani bit će izbrisani unutar određenog razdoblja u skladu s primjenjivim zakonima i propisima osim ako se ne zahtijeva drugačije."</string>
     <string name="privacy_recall_confirm_reminder_card_summary" formatted="false">&lt;font color=#F22424>Sljedeće stavke bit će trajno izbrisane nakon povlačenja suglasnosti:&lt;/font>&lt;br />&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_1 refersto=1>%1d&lt;/xliff:g>. Sve stavke na Mi Driveu, uključujući ali ne ograničavajući se na dokumente, privatne datoteke i izbrisane stavke.&lt;br />&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_2 refersto=2>%2d&lt;/xliff:g>. Dopuštenja uređaja, postavke i drugi sadržaj u predmemoriji.&lt;br />&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_3 refersto=3>%3d&lt;/xliff:g>. Mi Drive povijest prijenosa i preuzimanja.</string>
     <string name="privacy_recall_success">Suglasnost je uspješno povučena</string>
     <string name="privacy_recall_title">Povlačenje suglasnosti</string>
     <string name="privacy_recalling">Povlačenje suglasnosti…</string>
-	 <string name="private_files">Privatno</string>
+    <string name="private_files">Privatno</string>
     <string name="private_folder">Privatne datoteke</string>
     <string name="private_folder_no_file_hints">Pritisnite i držite datoteku ili mapu kako biste je učinili privatnom</string>
     <string name="private_folder_update">Ažuriranje privatnih datoteka…</string>
@@ -683,15 +686,15 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
     <string name="pull_to_enter_private">Povuci dolje za otvaranje privatne mape</string>
     <string name="qq_msg">"Zbog ograničenja Androida 11, aplikacija Ddatoteke ne može pristupiti i prikazati QQ dokumente."</string>
     <string name="qq_title">"Ne mogu pristupiti QQ dokumentima"</string>
-	 <string name="query_quota_exception">Došlo je do pogreške poslužitelja. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
+    <string name="query_quota_exception">Došlo je do pogreške poslužitelja. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
     <string name="query_quota_searching">Samo trenutak…</string>
     <string name="recent_hide_camera_and_screenshots">"Ne prikazuj stavke galerije i snimke zaslona među nedavnim datotekama"</string>
-	 <string name="recent_hide_cloud_drive_files">"Ne prikazuj Mi Drive datoteke u Nedavno"</string>
+    <string name="recent_hide_cloud_drive_files">"Ne prikazuj Mi Drive datoteke u Nedavno"</string>
     <string name="refresh_success">Osvježavanje gotovo</string>
     <string name="reinstall_midriver_message">Želite li sada ponovo instalirati?</string>
     <string name="release_enter_private">Otpusti za otvaranje privatne mape</string>
     <string name="remainder_size">Preostalo: %s</string>
-	 <string name="reminder_card_title">Pažnja</string>
+    <string name="reminder_card_title">Pažnja</string>
     <string name="rename_alert">"Ako promijenite ekstenziju ove datoteke, možda nećete biti u mogućnosti otvoriti je."</string>
     <string name="rename_alert2">Datoteka će biti skrivena nakon što promijenite njenu ekstenziju.</string>
     <string name="rename_failed">"Ne mogu preimenovati %1$s"</string>
@@ -769,7 +772,7 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
     <string name="start_server">Start</string>
     <string name="stay_awake_summary">Zaslon se neće isključiti tijekom FTP prijenosa</string>
     <string name="stay_awake_title">Drži zaslon uključen</string>
-	 <string name="stop_extend_service_dialog_confirm">Isključi</string>
+    <string name="stop_extend_service_dialog_confirm">Isključi</string>
     <string name="stop_extend_service_dialog_summary">"Ako isključite ovu značajku, nećete moći upravljati svojim datotekama pohranjenim na Mi Driveu. Svejedno isključiti?"</string>
     <string name="stop_extend_service_dialog_tilte">Dodatne usluge</string>
     <string name="stop_server">Stop</string>
@@ -843,10 +846,10 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
     <string name="utf8_title">UTF-8</string>
     <string name="v7_preference_off">ISKLJUČENO</string>
     <string name="v7_preference_on">UKLJUČENO</string>
-	 <string name="video_data_consume_dialog_confirm">Nastavi</string>
+    <string name="video_data_consume_dialog_confirm">Nastavi</string>
     <string name="video_data_consume_dialog_title">Koristiti mobilne podatke?</string>
     <string name="view_type">Pregled</string>
-	 <string name="web_sso_login_fail">Morate se ponovo prijaviti</string>
+    <string name="web_sso_login_fail">Morate se ponovo prijaviti</string>
     <string name="web_sso_login_message">Prijava…</string>
     <string name="webview_reload">Pokušajte ponovno</string>
     <string name="wechat_msg">"Zbog ograničenja Androida 11, aplikacija Ddatoteke ne može pristupiti i prikazati dokumente pregledane u WeChatu. Otvorite i spremite dokumente u WeChat kako bi se pojavili ovdje."</string>

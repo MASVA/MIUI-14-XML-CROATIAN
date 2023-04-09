@@ -30,12 +30,12 @@
     <string name="actionbar_button_up_description">Natrag</string>
     <string name="add_sound">Dodaj vlastiti preset</string>
 	 <string name="app_disable_description_title">Onemogućiti ovu aplikaciju?</string>
-    <string name="app_name">Slušalice &amp; efekti zvuka</string>
+    <string name="app_name">Slušalice</string>
     <string name="apply_sound">Primjeni</string>
     <string name="bottomsheet_action_expand_halfway">Proširi donju polovicu</string>
     <string name="can_you_here">Možete li čuti zvuk?</string>
     <string name="character_counter_content_description">Uneseno znakova: %1$d od %2$d</string>
-    <string name="character_counter_overflowed_content_description">Premašeno je ograničenje broja znakova: %1$d od %2$d</string>
+    <string name="character_counter_overflowed_content_description">Prekoračeno je ograničenje broja znakova %1$d od %2$d</string>
     <string name="chip_text">Chip tekst</string>
     <string name="choose_bluetooth_device">Odaberite uređaj</string>
     <string name="clear_text_end_icon_content_description">Brisanje teksta</string>
@@ -59,6 +59,10 @@
     <string name="effect_3dsurround">Okružujući zvuk</string>
     <string name="effect_3dsurround_summary">Povećajte dubinu reprodukcije zvuka za slušalice i zvučnike</string>
     <string name="effect_3dsurround_summary_headphone">Povećajte dubinu reprodukcije zvuka u slušalicama</string>
+    <string name="effect_dolby">Dolby</string>
+    <string name="effect_misound">Misound</string>
+    <string name="effect_none">Ništa</string>
+    <string name="effect_selection">Zvučni efekti</string>
     <string name="effect_virtual_surround">Virtualni okružujući zvuk</string>
     <string name="effect_virtual_surround_summary">"Obogatite dubinu zvuka za reprodukciju audia i videozapisa u slušalicama (Ova značajka neće raditi kada se reproducira %.1f zvuk)"</string>
     <string name="end_wireless_transmission">Stop</string>
@@ -166,7 +170,6 @@
     <string name="monday">Ponedjeljak</string>
     <string name="monday_short">Pon</string>
     <string name="monday_shortest">P</string>
-    <string name="month">Mjesec</string>
     <string name="month_april">Travanj</string>
     <string name="month_april_short">Tra</string>
     <string name="month_april_shortest">T</string>
@@ -194,9 +197,6 @@
     <string name="month_may">Svibanj</string>
     <string name="month_may_short">Svi</string>
     <string name="month_may_shortest">S</string>
-    <string name="month_medium_april">Tra</string>
-    <string name="month_medium_august">Kol</string>
-    <string name="month_medium_december">Pro</string>
     <string name="month_november">Studeni</string>
     <string name="month_november_short">Stu</string>
     <string name="month_november_shortest">S</string>
@@ -210,6 +210,7 @@
     <string name="mtrl_badge_numberless_content_description">Nova obavijest</string>
     <string name="mtrl_chip_close_icon_content_description">Ukloni %1$s</string>
     <string name="mtrl_exceed_max_badge_number_content_description">Više od %1$d novih obavijesti</string>
+    <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
     <string name="mtrl_picker_a11y_next_month">Prijelaz na sljedeći mjesec</string>
     <string name="mtrl_picker_a11y_prev_month">Pomicanje na prethodni mjesec</string>
     <string name="mtrl_picker_announce_current_selection">Trenutačan odabir: %1$s</string>
@@ -454,7 +455,9 @@
     <string name="sound_transmission_title">Bežični mikrofon</string>
     <string name="spatial_audio">Prožimajući zvuk</string>
     <string name="spatial_audio_summary">Iskusite uranjanje i osjećaj prostora kada se zvuk reproducira kroz slušalice</string>
-	  <string name="start_test_sound">Započni test</string>
+    <string name="spatial_audio_summary_spk">Iskusite uranjanje i osjećaj prostora kada se reproducira zvuk</string>
+    <string name="speaker_scenario_resume">Vrati izvorne efekte</string>
+    <string name="start_test_sound">Započni test</string>
     <string name="sunday">Nedjelja</string>
     <string name="sunday_short">Ned</string>
     <string name="sunday_shortest">N</string>

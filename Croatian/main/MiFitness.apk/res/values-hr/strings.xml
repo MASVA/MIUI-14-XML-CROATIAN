@@ -159,7 +159,7 @@ Ako se predomislite, prije korištenja naših usluga morate se složiti s našim
     <string name="access_thirdparty_alipay_bind_error">Pokušajte ponovo</string>
     <string name="access_thirdparty_alipay_bind_success_desc">Da biste zaustavili dijeljenje podataka s Mi Fitnessa na Alipay, dodirnite Prekini vezu i potvrdite u aplikaciji. Alternativno, promijenite postavke privatnosti u Alipayu.</string>
     <string name="access_thirdparty_alipay_bind_success_title">Sada možete vidjeti svoje korake u Alipay > Sport.</string>
-    <string name="access_thirdparty_alipay_confirm_bind_msg">Ovaj Alipay račun povezan je s drugim Mi računom u Mi Fitnessu. Želite li povezati svoj Alipay račun sa svojim trenutnim Mi Računom?</string>
+    <string name="access_thirdparty_alipay_confirm_bind_msg">Ovaj Alipay račun povezan je s drugim Xiaomi računom u Mi Fitnessu. Želite li povezati svoj Alipay račun sa svojim trenutnim Mi Računom?</string>
     <string name="access_thirdparty_alipay_confirm_bind_title">Poveži se na Alipay</string>
     <string name="access_thirdparty_alipay_sync_title">Poveži se na Alipay</string>
     <string name="access_thirdparty_alipay_unbind">Prekini vezu</string>
@@ -208,7 +208,7 @@ Ako se predomislite, prije korištenja naših usluga morate se složiti s našim
     <string name="account_user_details">Osobni podaci</string>
     <string name="account_user_email">E-adresa za oporavak</string>
     <string name="account_user_gender">Spol</string>
-    <string name="account_user_id">ID Mi računa</string>
+    <string name="account_user_id">ID Xiaomi računa</string>
     <string name="account_user_name">Nadimak</string>
     <string name="account_user_name_dialog_title">Unesite korisničko ime</string>
     <string name="account_user_other_info">Pojedinosti</string>
@@ -257,7 +257,7 @@ Ako se predomislite, prije korištenja naših usluga morate se složiti s našim
     <string name="bank_card_verify_failed">Podaci o kartici nisu točni</string>
     <string name="bank_error">Izdavanje kartice nije uspjelo, pokušajte ponovo ili kontaktirajte banku</string>
     <string name="bank_system_busying">Molimo pokušajte ponovo kasnije, bankovni sustav je zauzet.</string>
-    <string name="bind_sign_in_title">Dodaj Mi račun</string>
+    <string name="bind_sign_in_title">Dodaj Xiaomi račun</string>
     <string name="ble_ota_fw_upgrade_success_message">"Nemojte koristiti svoj uređaj dok se ažurira."</string>
     <string name="ble_ota_fw_upgrade_success_title">Uspješno sinkronizirano</string>
     <string name="ble_ota_push_error">"Ažuriranje nije uspjelo"</string>
@@ -271,7 +271,7 @@ Ako se predomislite, prije korištenja naših usluga morate se složiti s našim
     <string name="change_activate_email">Promjena adrese e-pošte</string>
     <string name="change_password">Promjena zaporke</string>
     <string name="character_counter_content_description">Uneseni znakovi %1$d od %2$d</string>
-    <string name="character_counter_overflowed_content_description">Unešeno znakova %1$d od %2$d</string>
+    <string name="character_counter_overflowed_content_description">Prekoračeno je ograničenje broja znakova %1$d od %2$d</string>
     <string name="character_counter_pattern">%1$d/%2$d</string>
     <string name="checkupdate_check_update">Ažuriraj</string>
 	 <string name="chip_text">Chip tekst</string>
@@ -2576,7 +2576,7 @@ Počnite ispočetka."</string>
     <string name="input_email_address_notice">"Ovu e-poštu koristit ćemo za potvrdu vašeg računa"</string>
     <string name="input_length_exceeds_limit">Tekst koji ste unijeli je predugačak</string>
     <string name="input_new_pwd">Unesite novu lozinku</string>
-    <string name="isornot_your_mi_account">Je li ovo vaš Mi račun?</string>
+    <string name="isornot_your_mi_account">Je li ovo vaš Xiaomi račun?</string>
     <string name="item_view_role_description">Kartica</string>
     <string name="just_a_second">Samo trenutak…</string>
     <string name="keep_alive_notification_channel">Veza uređaja</string>
@@ -3032,7 +3032,7 @@ Počnite ispočetka."</string>
     <string name="nfc_card_issue_hint_connect">Držite nosivi uređaj blizu telefona</string>
     <string name="nfc_card_issue_hint_mutl_device_dialog_title">Odaberi uređaj</string>
     <string name="nfc_card_issue_hint_no_device">Nijedan uređaj nije povezan s trenutnim računom.</string>
-    <string name="nfc_card_issue_hint_no_login">Prijavite se na svoj Mi račun</string>
+    <string name="nfc_card_issue_hint_no_login">Prijavite se na svoj Xiaomi račun</string>
     <string name="nfc_card_issue_hint_param_error">Nevažeći parametri</string>
     <string name="nfc_card_issue_hint_success_default">Uspješno dodano</string>
     <string name="nfc_card_issue_hint_success_milock">Dovršeno postavljanje kartice ključa u Mi Home</string>

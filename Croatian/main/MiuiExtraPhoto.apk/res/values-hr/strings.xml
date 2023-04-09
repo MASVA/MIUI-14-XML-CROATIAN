@@ -180,6 +180,9 @@
     <string name="motion_photo_toast_suggest">Preporučeno</string>
     <string name="ok">U redu</string>
 	 <string name="open">>Uključeno</string>
+	 <string name="operation_original">Usporedi</string>
+    <string name="operation_redo">Ponovi</string>
+    <string name="operation_undo">Poništi</string>
     <string name="refocus_discard_confirm_message">Spremiti promjene?</string>
     <string name="refocus_discard_negative_btn">Odbaci</string>
     <string name="refocus_discard_positive_btn">Spremi</string>
