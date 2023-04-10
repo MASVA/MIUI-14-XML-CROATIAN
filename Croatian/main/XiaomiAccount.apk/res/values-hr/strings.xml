@@ -959,13 +959,12 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="sunday">Nedjelja</string>
     <string name="sunday_short">Ned</string>
     <string name="sunday_shortest">N</string>
-    <string name="system_ad">Oglasi u sistemskim aplikacijama</string>
+    <string name="system_ad">Oglasi u aplikacijama sustava</string>
     <string name="system_ad_list">Pogledajte povezane aplikacije.</string>
-    <string name="system_ad_summary">"Uključite ovu značajku da biste omogućili prikazivanje malog broja oglasa u sistemskim aplikacijama. Ovi oglasi nam pomažu u razvoju i poboljšanju naših proizvoda i usluga. Možete bilo kad isključiti ovu značajku. Hvala na podršci! "</string>
-    <string name="system_ad_switch">Oglasi u sistemskim aplikacijama</string>
+    <string name="system_ad_summary">"Uključite ovu značajku da biste omogućili prikazivanje malog broja oglasa u aplikacijama sustava. Ovi oglasi nam pomažu u razvoju i poboljšanju naših proizvoda i usluga. Možete bilo kad isključiti ovu značajku. Hvala na podršci! "</string>
+    <string name="system_ad_switch">Oglasi u aplikacijama sustava</string>
     <string name="system_ad_switch_failed">"Ne mogu primjeniti postavke"</string>
     <string name="tab">Tab</string>
-    <string name="talkback_scan_barcode">Skenirajte QR kod</string>
     <string name="template_percent">%1$d posto.</string>
     <string name="talkback_scan_barcode">Skeniraj QR kod</string>
     <string name="temporary_not_available">"Ova značajka još nije dostupna."</string>
