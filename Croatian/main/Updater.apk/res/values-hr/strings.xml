@@ -41,7 +41,7 @@
    <string name="download_title_full_download">Dobivanje informacija…</string>
    <string name="downloading">Preuzimanje:</string>
    <string name="downloading_desc">U tijeku je preuzimanje, provjerite status u području obavijesti.</string>
-   <string name="fastboot desc">Uređaj će se sada ponovno pokrenuti u Fastboot način. Ako niste upoznati s Fastboot načinom otkažite buduće radnje. Nastaviti?</string>
+   <string name="fastboot_desc">Uređaj će se ponovno pokrenuti u Fastboot način. Ako niste upoznati s Fastboot načinom otkažite buduće radnje. Nastaviti?</string>
    <string name="fastboot_mode">Sada ste u Fastboot načinu, možete flashati samo ROM-ove s Terminal na računalu!</string>
    <string name="fastboot_update_warning">Ovo ažuriranje je samo za fastboot instalaciju!</string>
    <string name="fetch_notification_default_channel_name">Preuzimanja</string>
