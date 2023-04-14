@@ -485,7 +485,8 @@
 	 <string name="passport_error_length_limit">Tekst koji ste unijeli je predug</string>
     <string name="passport_error_network">"Ne mogu se povezati na mrežu"</string>
 	 <string name="passport_error_no_password_user">"Još niste postavili zaporku. Prijavite se SMS-om."</string>
-    <string name="passport_error_phone_error">Nevažeći broj telefona</string>
+    <string name="passport_error_phone">Nevažeći broj telefona</string>
+	 <string name="passport_error_phone_error">Nevažeći broj telefona</string>
 	 <string name="passport_error_server">Pogreška poslužitelja</string>
 	 <string name="passport_error_sms_limit">Previše kontrolnih kodova je poslano na ovaj broj. Pokušajte ponovno kasnije.</string>
 	 <string name="passport_error_ticket_invalid">Ovaj kod nije točan</string>

@@ -664,6 +664,10 @@ Dodirnite \"Izbriši i pretvori…\" za nastavak."</string>
   <string name="daltonizer_mode_protanomaly">Protanomalija (crveno – zeleno)</string>
   <string name="daltonizer_mode_tritanomaly">Tritanomalija (plavo – žuto)</string>
   <string name="daltonizer_type_overridden">Premošćeno postavkom %1$s</string>
+  <string name="dark_mode_power_save_alert_dialog_confirm">Razumijem</string>
+  <string name="dark_mode_power_save_alert_dialog_message">"Ako isključite MIUI optimizaciju i uključite Štednju baterije, tamni način rada automatski će se uključiti.
+Da biste isključili tamni način rada, isključite Štednju baterije ili uključite MIUI optimizaciju u Postavkama > Opcije za razvojne programere > MIUI optimizacija."</string>
+  <string name="dark_mode_power_save_alert_dialog_title">Tamni način</string>
   <string name="data_connection_3_5g">H</string>
   <string name="data_connection_3_5g_plus">H+</string>
   <string name="data_connection_3g">3G</string>

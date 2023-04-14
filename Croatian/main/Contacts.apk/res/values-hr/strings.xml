@@ -661,7 +661,6 @@ Razlog: \"%s\""</string>
     <string name="group_rename_dialog_title">"Preimenuj grupu"</string>
     <string name="group_rename_fail_toast">"Ne mogu preimenovati grupu"</string>
     <string name="group_rename_success_toast">Grupa je preimenovana</string>
-    <string name="group_sms_error_message">"SMS ne može imati više od %s primatelja."</string>
     <string name="group_sms_progress_msg">Grupiranje…</string>
     <string name="groupsLabel">"Grupe"</string>
     <string name="groups_list_empty">Nema grupa</string>

@@ -3099,6 +3099,10 @@ Ako ga prekinete, izgubiti ćete neke ili sve svoje podatke."</string>
   <string name="dark_mode_day_night_mode_summary">Prebacite se u tamni način rada pri zalasku sunca i isključite ga pri izlasku sunca</string>
   <string name="dark_mode_day_night_mode_title">Od zalaska do izlaska sunca</string>
   <string name="dark_mode_font_background_title">Automatski prilagodi tekst i pozadinu</string>
+  <string name="dark_mode_power_save_alert_dialog_confirm">Razumijem</string>
+  <string name="dark_mode_power_save_alert_dialog_message">"Ako isključite MIUI optimizaciju i uključite Štednju baterije, tamni način rada automatski će se uključiti.
+Da biste isključili tamni način rada, isključite Štednju baterije ili uključite MIUI optimizaciju u Postavkama > Opcije za razvojne programere > MIUI optimizacija."</string>
+  <string name="dark_mode_power_save_alert_dialog_title">Tamni način</string>
   <string name="dark_mode_time_settings">Raspored tamnog načina rada</string>
   <string name="dark_theme_main_switch_title">Koristi tamnu temu</string>
   <string name="dark_theme_slice_subtitle">Pomaže produljiti trajanje baterije</string>

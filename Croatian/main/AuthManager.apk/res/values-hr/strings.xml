@@ -206,7 +206,7 @@
     <string name="grant_dialog_storage_category_title">Ova aplikacija zahtijeva dopuštenja za pristup Galeriji i porukama u aplikacijama društvenih medija</string>
     <string name="grant_dialog_storage_gallery_title">Galerija</string>
     <string name="grant_dialog_storage_sociality_title">Poruke u aplikacijama društvenih medija</string>
-    <string name="keep_blur_location">Ne</string>
+    <string name="keep_blur_location">Zadrži</string>
     <string name="keep_notice_me">Nastavi obavještavati</string>
     <string name="location_settings">Postavke lokacije</string>
     <string name="location_warning">%1$s je davatelj usluga lociranja za ovaj uređaj. Pristup lokaciji može se mijenjati iz postavki lokacija.</string>
@@ -356,7 +356,7 @@
     <string name="size_peta_byte">PB</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
-    <string name="stop_blur_location">Da</string>
+    <string name="stop_blur_location">Isključi</string>
     <string name="storage_policy_notify_both_title">"%1$s nije dopušten pristup Galeriji i porukama u aplikacijama društvenih medija"</string>
     <string name="storage_policy_notify_content">Dodirnite da biste prilagodili dopuštenja</string>
     <string name="storage_policy_notify_gallery_title">"%1$s nije dopušten pristup Galeriji"</string>
