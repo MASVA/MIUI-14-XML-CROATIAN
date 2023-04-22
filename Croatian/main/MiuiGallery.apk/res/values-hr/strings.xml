@@ -267,6 +267,7 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
 	<string name="art_still_module_loading">Preuzimanje \"Umjetnost\" dodatka…</string>
 	<string name="assistant_page_community">Zajednica</string>
 	<string name="assistant_page_discovery">Otkrij</string>
+	<string name="assistant_page_image_printing">Ispis</string>
 	<string name="assistant_page_label">Uspomene</string>
 	<string name="assistant_page_server_error">Provjerite postavke mreže</string>
 	<string name="assistant_today_of_year_function_closed_tip">Uključi</string>
@@ -496,7 +497,7 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
 	<string name="cleaner_screen_shot_action">Očisti</string>
 	<string name="cleaner_screen_shot_description">Izbrišite snimke zaslona koje više ne trebate.</string>
 	<string name="cleaner_screen_shot_title">Izbriši snimke zaslona</string>
-	<string name="cleaner_similar_action">Izbriši sad</string>
+	<string name="cleaner_similar_action">Prikaži</string>
 	<string name="cleaner_similar_description">Izbriši dvostruke fotografije</string>
 	<string name="cleaner_similar_title">Dvostruke fotografije</string>
 	<string name="cleaner_size">Izbrišite nedavno obrisane stavke (%s)</string>
@@ -509,7 +510,7 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
 	<string name="cleaner_stop_scan">Zaustavi skeniranje</string>
 	<string name="cleaner_subtitle_slim_space_prefix">%1$s %2$s zauzeto</string>
 	<string name="cleaner_title">Čistač</string>
-	<string name="cleaner_video_action">Izbriši sad</string>
+	<string name="cleaner_video_action">Prikaži</string>
 	<string name="cleaner_video_description">Izbrišite videozapise koji zauzimaju prostor za pohranu</string>
 	<string name="cleaner_video_pick_delete_selected">Izbriši odabrane videozapise</string>
 	<string name="cleaner_video_title">Izbriši videozapise</string>
@@ -1315,7 +1316,7 @@ da radi normalno, dodirnite \"Postavi\" za ići u Dopuštenja."</string>
 	<string name="loading_video_fail_sync_without_network">Povežite se na mrežu da biste preuzeli metapodatke</string>
 	<string name="loading_video_fail_syncing">Pričekajte dok metapodaci nisu u potpunosti preuzeti i pokušajte ponovno</string>
 	<string name="loading_video_thumbnail">Preuzimanje naslovnice videozapisa…</string>
-	<string name="local_secret_tip">Sve privatne stavke sinkroniziraju se s cloudom kada je ova značajka uključena. Svoje postavke možete promijeniti u Postavke > Sinkroniziraj s Xiaomi Cloudom > Upravljanje sinkroniziranim albumima > Privatni album.</string>
+	<string name="local_secret_tip">Možete zadržati sve privatne stavke na ovom uređaju bez sinkronizacije s Xiaomi Cloud. Možete promijeniti svoje postavke u Postavke > Sinkronizacija s Xiaomi Cloud > Upravljanje sinkroniziranim albumima.</string>
 	<string name="login_and_enable_service">Prijavite se kako bi koristili Xiaomi Cloud</string>
 	<string name="login_by_local_phone_long_text">Prijavite se sada</string>
 	<string name="login_by_local_phone_short_text">Prijava</string>
@@ -1525,6 +1526,7 @@ da osobno prilagodite Galeriju"</string>
 	<string name="miuix_appcompat_delete_description">Izbriši</string>
 	<string name="miuix_appcompat_deselect_all">Poništi odabir</string>
 	<string name="miuix_appcompat_deselect_all_description">Poništi odabir</string>
+	<string name="miuix_appcompat_edit">Uredi</string>
 	<string name="miuix_appcompat_search_action_mode_cancel">Odustani</string>
 	<string name="miuix_appcompat_search_input_description">Traži</string>
 	<string name="miuix_appcompat_select_all">Odaberi sve</string>
@@ -1672,6 +1674,7 @@ da osobno prilagodite Galeriju"</string>
 	<string name="multi_view_tip_sub_title">Raširite dva prsta jedan od drugog ili ih pomaknite jedan prema drugom da biste prilagodili veličinu prikazanih predmeta.</string>
 	<string name="multi_view_tip_title">Povećavanje i smanjivanje</string>
 	<string name="must_pick_file">Odaberite fotografiju</string>
+	<string name="my_family">Moj dom</string>
 	<string name="name_split">, </string>
 	<string name="national_day">Dan državnosti</string>
 	<string name="nearby_share">Dijeljenje u blizini</string>
@@ -3068,6 +3071,7 @@ Do %1$s možete premjestiti svoje stavke na Google fotografije ili posjetiti i.m
 	<string name="user_alias_self">Osobno</string>
 	<string name="user_avatar_update_title">Promjena fotografije profila</string>
 	<string name="user_avatar_uploading">Samo trenutak…</string>
+	<string name="user_family">"Dom od %1$s"</string>
 	<string name="user_name_phone_number">Telefonski broj</string>
 	<string name="user_notice_identify_summary_format"><Data>"Korištenjem ove usluge prihvaćate Xiaomi &lt;a href=\"%1$s\">\"Uvjeti pružanja usluge\"&lt;/a> i &lt;a href=\"%2$s\">\"Pravila o privatnosti\"&lt;/a>."</Data></string>
 	<string name="user_notice_title">Uvjeti i Odredbe</string>

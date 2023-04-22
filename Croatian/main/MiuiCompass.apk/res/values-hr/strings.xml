@@ -87,6 +87,10 @@
     <string name="getting_location">Kalibriranje…</string>
     <string name="gradienter_title">Razina</string>
     <string name="guide_toast">"Da kalibrirate, pomičite uređaj kao što je prikazano ispod."</string>
+	 <string name="invisible_mode_dialog_message">"Sada ne možete koristiti kameru. Isključite anonimni način rada u Postavkama da biste mogli koristiti kameru."</string>
+    <string name="invisible_mode_dialog_negative">Odustani</string>
+    <string name="invisible_mode_dialog_positive">Postavke</string>
+    <string name="invisible_mode_dialog_title">"Vi ste anonimni"</string>
     <string name="keywords_search_compass">Kompas;Kalibriraj Kompas;Tlak;Visina;Širina;Dužina;Provjeri dužinu; Provjeri širinu;MIUI Kompas;Kompas aplikacija;MIUI Kompas aplikacija;Gdje je Kompas;Preuzmi Kompas;Atmosferski tlak; Provjerite nadm. visinu;Kolika je nadm. visina</string>
     <string name="latitude">ŠIR</string>
     <string name="location_east">I</string>
@@ -114,12 +118,13 @@
     <string name="miuix_appcompat_delete_description">Izbriši</string>
     <string name="miuix_appcompat_deselect_all">Poništi odabir</string>
     <string name="miuix_appcompat_deselect_all_description">Poništi odabir</string>
+	 <string name="miuix_appcompat_edit">Uredi</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Odustani</string>
     <string name="miuix_appcompat_search_input_description">Traži</string>
     <string name="miuix_appcompat_select_all">Odaberi sve</string>
     <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
     <string name="miuix_appcompat_select_item">Odaberi stavke</string>
-	 <string name="miuix_indexer_collect">Zbirke</string>
+	  <string name="miuix_indexer_collect">Zbirke</string>
     <string name="miuix_indexer_selected">Odabrano %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>

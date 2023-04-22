@@ -4,13 +4,13 @@
         <item quantity="other">prije 1 sat</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">prije 1 sat</item>
+        <item quantity="other">prije %d sat</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Prije pola sata</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Za 1 sat</item>
+        <item quantity="other">Za %d sat</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Za pola sata</item>
@@ -19,15 +19,15 @@
         <item quantity="other">Odmah</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">za %d min</item>
-        <item quantity="one">za 1 min</item>
+        <item quantity="other">Za %d min</item>
+        <item quantity="one">Za %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Upravo sada</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">prije %d min</item>
-        <item quantity="one">prije 1 min</item>
+        <item quantity="one">prije %d min</item>
     </plurals>
     <plurals name="add_game_notification_title">
         <item quantity="other">Dodano igara: %d</item>
@@ -348,6 +348,14 @@
 	<plurals name="gb_toolbox_guide_known">
         <item quantity="other">Razumijem (%ds)</item>
         <item quantity="one">Razumijem (%ds)</item>
+    </plurals>
+	 <plurals name="gb_vision_enhance_desc_detail">
+        <item quantity="other">"Napomena:
+·Poboljšani vizualni elementi neće biti dostupni kada je uključena Štednja baterije ili je vaš uređaj pregrijan.
+·Pametna brzina sličica u sekundi daje najbolje rezultate kada je vaša igra postavljena da prikazuje najmanje %d sličica u sekundi."</item>
+        <item quantity="one">"Napomena:
+·Poboljšani vizualni elementi neće biti dostupni kada je uključena Štednja baterije ili je vaš uređaj pregrijan.
+·Pametna brzina sličica u sekundi daje najbolje rezultate kada je vaša igra postavljena da prikazuje najmanje %d sličica u sekundid."</item>
     </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="other">"Isprobajte Voice Changeer odmah 
@@ -682,6 +690,10 @@ Sada možete dobiti %d-dnevno besplatno probno razdoblje!"</item>
         <item quantity="other">%d aplikacija</item>
         <item quantity="one">%d aplikacija</item>
     </plurals>
+	<plurals name="opt_antivirus_scan_multi_antivirus_notification_title">
+        <item quantity="other">%2$d aplikacija uključujući %1$s mogu biti zlonamjerne</item>
+        <item quantity="one">%2$d aplikacija uključujući %1$s može biti zlonamjerna</item>
+    </plurals>
     <plurals name="optimize_result_button_add_score">
         <item quantity="other">%d</item>
         <item quantity="one">%d</item>
@@ -798,13 +810,17 @@ Sada možete dobiti %d-dnevno besplatno probno razdoblje!"</item>
         <item quantity="other">"%d min "</item>
         <item quantity="one">"%d min "</item>
     </plurals>
+	 <plurals name="power_center_battery_optimization">
+        <item quantity="other">Optimizirajte potrošnju baterije u %d scenarija</item>
+        <item quantity="one">Optimizirajte potrošnju baterije u %d scenariju</item>
+    </plurals>
     <plurals name="power_center_battery_problem">
-        <item quantity="other">Popravljeno %d problema s korištenjem baterije</item>
-        <item quantity="one">Popravljen %d problem s korištenjem baterije</item>
+        <item quantity="other">Ispravljeno %d problema s korištenjem baterije</item>
+        <item quantity="one">Ispravljen %d problem s korištenjem baterije</item>
     </plurals>
     <plurals name="power_center_battery_problem_result">
-        <item quantity="other">Možete popraviti %d problema s korištenjem baterije</item>
-        <item quantity="one">Možete popraviti %d problem s korištenjem baterije</item>
+        <item quantity="other">Možete ispraviti %d problema s korištenjem baterije</item>
+        <item quantity="one">Možete ispraviti %d problem s korištenjem baterije</item>
     </plurals>
     <plurals name="power_center_battery_save_suggest">
         <item quantity="other">" %d stavki može biti optimizirano"</item>
@@ -1097,8 +1113,8 @@ Odmorite se!"</item>
         <item quantity="one">%1$d pregled</item>
     </plurals>
     <plurals name="virus_clean_num">
-        <item quantity="other">Popravljeno je %1$d problema. Sve izgleda uredno</item>
-        <item quantity="one">Popravljen je %1$d problem. Sve izgleda uredno</item>
+        <item quantity="other">Ispravljeno je %1$d problema. Sve izgleda uredno</item>
+        <item quantity="one">Ispravljen je %1$d problem. Sve izgleda uredno</item>
     </plurals>
     <plurals name="virus_clear_dialog_content">
         <item quantity="other">Izbrisati %d odabranih aplikacija?</item>

@@ -4,13 +4,13 @@
         <item quantity="other">prije 1 sat</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">prije 1 sat</item>
+        <item quantity="other">prije %d sat</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">prije pola sata</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Za 1 sat</item>
+        <item quantity="other">Za %d sat</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Za pola sata</item>
@@ -20,7 +20,7 @@
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">Za %d min.</item>
-        <item quantity="one">Za 1 min.</item>
+        <item quantity="one">Za %d min.</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Upravo sad</item>
@@ -38,11 +38,11 @@
         <item quantity="one">Dodana %d Cloud fotografija, isključi \"Prikaži samo lokalne albume\" za pregled.</item>
     </plurals>
     <plurals name="add_to_album_failed_with_reason_and_count">
-        <item quantity="other">"%2$d stavaka ne može biti dodano u album. %1$s."</item>
+        <item quantity="other">"%2$d stavki ne može biti dodano u album. %1$s."</item>
         <item quantity="one">"%2$d stavka ne može biti dodana u album. %1$s."</item>
     </plurals>
     <plurals name="add_to_secret_failed_with_reason_and_count">
-        <item quantity="other">"%2$d stavaka ne može biti dodano u privatni album. %1$s."</item>
+        <item quantity="other">"%2$d stavki ne može biti dodano u privatni album. %1$s."</item>
         <item quantity="one">"%2$d stavka ne može biti dodana u privatni album. %1$s."</item>
     </plurals>
     <plurals name="add_to_secret_successful">
@@ -425,7 +425,7 @@
         <item quantity="one">Ukupno %d fotografija</item>
     </plurals>
     <plurals name="remove_from_secret_failed_with_reason_and_count">
-        <item quantity="other">"%2$d stavaka ne može biti uklonjeno iz privatnog albuma. %1$s."</item>
+        <item quantity="other">"%2$d stavki ne može biti uklonjeno iz privatnog albuma. %1$s."</item>
         <item quantity="one">"%2$d stavka ne može biti uklonjena iz privatnog albuma. %1$s."</item>
     </plurals>
     <plurals name="search_feedback_done_mark_and_contribute_false_negative">

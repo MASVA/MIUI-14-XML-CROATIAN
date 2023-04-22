@@ -82,7 +82,7 @@
   <string name="abc_shareactionprovider_share_with">Dijeli s</string>
   <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
   <string name="abc_toolbar_collapse_description">Sažmi</string>
-  <string name="abnormal_consume_disable_autostart">Ograničite automatsko pokretanje</string>
+  <string name="abnormal_consume_disable_autostart">Ograničite autom. pokretanje</string>
   <string name="abnormal_consume_disable_autostart_toast">Uspješno ograničeno autom. pokretanje</string>
   <string name="abnormal_consume_set_hidemode">Upotrijebite Uštedu baterije s ovom aplikacijom</string>
   <string name="abnormal_consume_type_cpu">Visoka potrošnja procesora</string>
@@ -179,7 +179,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="adb_install_reject_notiy">"Nije odobreno instaliranje %s putem USB-a"</string>
   <string name="adb_install_reject_notiy_desc">Možete dopustiti instalaciju putem USB-a u Opcije Raz. programera</string>
   <string name="adb_login_xiaomi_account">Prijavite se prvo s Xiaomi Računom</string>
-  <string name="add_auto_task_desktop_icon">Dodaj prečac na Poč. zaslon</string>
+  <string name="add_auto_task_desktop_icon">Dodaj prečac na Početni zaslon</string>
   <string name="add_bill_reminder_alarm">Postavite upozorenje o stanju na telefonu</string>
   <string name="add_done">Uspješno dodano</string>
   <string name="add_game">Dodaj igru</string>
@@ -449,8 +449,8 @@ Bočne ploče
   <string name="app_behavior_sms_send_single">Ova je aplikacija poslala SMS poruke</string>
   <string name="app_behavior_start_from_app" formatted="false">%1s je pokrenut od strane %2s</string>
   <string name="app_behavior_start_from_app_single">Ova je aplikacija pokrenuta od strane %1s</string>
-  <string name="app_behavior_start_from_launcher">%1s je pokrenut s Poč. zaslona</string>
-  <string name="app_behavior_start_from_launcher_single">Ova je aplikacija pokrenuta s Poč. zaslona</string>
+  <string name="app_behavior_start_from_launcher">%1s je pokrenut s Početni zaslona</string>
+  <string name="app_behavior_start_from_launcher_single">Ova je aplikacija pokrenuta s Početni zaslona</string>
   <string name="app_behavior_start_from_notification">%1s je pokrenut na temelju obavijesti</string>
   <string name="app_behavior_start_from_notification_single">Ovu je aplikacija pokrenula obavijest</string>
   <string name="app_behavior_start_from_recent">%1s je pokrenut iz Nedavno</string>
@@ -506,7 +506,8 @@ Bočne ploče
   <string name="app_manager_apps_generatioin">Ažuriranja</string>
   <string name="app_manager_apps_generation_summary">Ažurirajte da koristite najnovije značajke</string>
   <string name="app_manager_appupdate_remind">Obavijesti o ažuriranjima</string>
-  <string name="app_manager_as_dlg_msg">Dopuštanje aplikacijama autom. pokretanja može zahtijevati dodatni RAM i resurse baterije. Dopustiti svejedno?</string>
+  <string name="app_manager_as_dlg_msg">Dopuštanje autom. pokretanja aplikacije može povećati količinu memorije i trajanje baterije. Dopustiti svejedno?</string>
+  <string name="app_manager_as_dlg_msg_new">"Dopuštanje autom. pokretanja aplikacije može povećati količinu memorije i trajanje baterije koju koristi. MIUI će optimizirati dopuštenja za autom. pokretanje aplikacija koje ne koristite često kako bi poboljšao performanse vašeg uređaja."</string >
   <string name="app_manager_as_dlg_title">Pažnja</string>
   <string name="app_manager_back">Natrag</string>
   <string name="app_manager_bipartition">Dvojne aplikacije</string>
@@ -696,9 +697,9 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="app_predict_black_list_empty">Ovdje još nema stavki</string>
   <string name="app_predict_black_list_setting_title">Popis blokiranih prijedloga aplikacija</string>
   <string name="app_predict_classification_search_empty">"Nismo mogli pronaći rezultate"</string>
-  <string name="app_predict_dialog_button">Dodaj na Poč. zaslon</string>
+  <string name="app_predict_dialog_button">Dodaj na Početni zaslon</string>
   <string name="app_predict_dialog_message">AI će predložiti aplikacije koje bi vam trenutno trebale</string>
-  <string name="app_predict_dialog_success">Uspješno dodano na Poč. zaslon</string>
+  <string name="app_predict_dialog_success">Uspješno dodano na Početni zaslon</string>
   <string name="app_predict_folder_name">Traži</string>
   <string name="app_predict_folder_tips">Prijedlozi temeljeni na vašim navikama korištenja</string>
   <string name="app_predict_go_shop_search_app">Pretražite u GetApps</string>
@@ -759,7 +760,7 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="applock_bind_account_dialog_title">Dodajte svoj Xiaomi Račun</string>
   <string name="applock_bind_account_title">Zaboravljena zaporka</string>
   <string name="applock_biometric_recognition">Biometrija</string>
-  <string name="applock_close_dialog_summary">Sve skrivene aplikacije bit će vidljive, njihovi prečaci Poč. zaslona bit će obnovljeni, a zaporka za Zaklj. aplikacija bit će izbrisana. Želite li isključiti Zaklj. aplikacija?</string>
+  <string name="applock_close_dialog_summary">Sve skrivene aplikacije bit će vidljive, njihovi prečaci Početni zaslona bit će obnovljeni, a zaporka za Zaklj. aplikacija bit će izbrisana. Želite li isključiti Zaklj. aplikacija?</string>
   <string name="applock_close_dialog_title">Isključiti Zaklj. aplikacija?</string>
   <string name="applock_exit_account_info">Račun će biti uklonjen automatski kada se odjavite</string>
   <string name="applock_face_unlock_summary">Otključajte aplikacije pomoću otključavanjem lica</string>
@@ -832,7 +833,7 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="apps_item_virus_summary_uninstalled">Aplik.</string>
   <string name="apps_list_header_title_sms">Provjera aplikacije za slanje poruka</string>
   <string name="apps_list_header_title_sms_access">Ograniči pristup na kodove za potvrdu</string>
-  <string name="ask_create_shortcut">Izraditi prečac Poč. zaslona?</string>
+  <string name="ask_create_shortcut">Izraditi prečac Početni zaslona?</string>
   <string name="audio_optimization_summary">Poboljšajte zvuk i smanjite okolnu buku u razgovorima</string>
   <string name="audio_optimization_title">Poboljšani zvuk</string>
   <string name="auto_atsk_condition_battery_level_text_down">Kada baterija dosegne %s</string>
@@ -846,6 +847,7 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="auto_import_games">Stavite sve vaše igre na jedno mjesto</string>
   <string name="auto_send_correcting_msg">Ostavite prazno za automatsku provjeru putem besplatnog SMS-a</string>
   <string name="auto_set_by_brand">Sinkronizirajte detalje podatkovnog plana sa svojim mobilnim operatorom</string>
+  <string name="auto_start_tips">"MIUI će optimizirati dopuštenja za autom. pokretanje aplikacija koje ne koristite često za poboljšanje performansi uređaja."</string>
   <string name="auto_task_allow_suggestion">Prijedlozi pametnih zadataka</string>
   <string name="auto_task_available_device">Dostupni uređaji</string>
   <string name="auto_task_condition_choose_battery_level_down">Kada baterija dosegne određenu razinu</string>
@@ -982,7 +984,7 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="auto_task_setting_before_exclude_notify">Obavijesti prije zadatka</string>
   <string name="auto_task_setting_exclude_notify">Obavijesti tijekom zadatka</string>
   <string name="auto_task_setting_need_reset">Vrati zadane vrijednosti nakon dovršetka zadatka</string>
-  <string name="auto_task_setting_show_task_shortcut_in_desktop">Prečac Poč. zaslona</string>
+  <string name="auto_task_setting_show_task_shortcut_in_desktop">Prečac Početni zaslona</string>
   <string name="auto_task_show_notification_before_exclude">Obavijesti prije izvršenja</string>
   <string name="auto_task_show_notification_before_exit">Obavijesti prije dovršetka</string>
   <string name="auto_task_temp_allow">U redu</string>
@@ -1248,7 +1250,7 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="button_text_cancel_optimize">Odustani</string>
   <string name="button_text_cleanup">Očisti</string>
   <string name="button_text_clear">Očisti</string>
-  <string name="button_text_create_shortcut">Napravi prečac na Poč. zaslonu</string>
+  <string name="button_text_create_shortcut">Napravi prečac na Početni zaslonu</string>
   <string name="button_text_delete">Izbriši</string>
   <string name="button_text_delete_from_virus_white_list">Ukloni</string>
   <string name="button_text_deny">Odbij</string>
@@ -1269,7 +1271,7 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="button_text_security">U redu</string>
   <string name="button_text_start_optimize">Skeniraj</string>
   <string name="button_text_trust">Vjeruj ovoj mreži</string>
-  <string name="button_text_uninstall_shortcut">Ukloni prečac s Poč. zaslona</string>
+  <string name="button_text_uninstall_shortcut">Ukloni prečac s Početni zaslona</string>
   <string name="button_text_update_now">Ažuriraj</string>
   <string name="button_text_view">Optimiziraj</string>
   <string name="button_text_view_power">Prikaži</string>
@@ -1384,10 +1386,10 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="clean_master_icon_recall_button_text">Dodaj</string>
   <string name="clean_master_icon_recall_dialog_button_negative">Ne hvala</string>
   <string name="clean_master_icon_recall_dialog_button_positive">Dodaj</string>
-  <string name="clean_master_icon_recall_dialog_summary">Dodajte prečac na Poč. zaslon da biste u svakom trenutku očistili smeće.</string>
+  <string name="clean_master_icon_recall_dialog_summary">Dodajte prečac na Početni zaslon da biste u svakom trenutku očistili smeće.</string>
   <string name="clean_master_icon_recall_dialog_title">Brže očistite smeće</string>
-  <string name="clean_master_icon_recall_hint">Dodaj prečac na Poč. zaslon</string>
-  <string name="clean_master_icon_recall_summary">Dodajte prečac na Poč. zaslon da biste u svakom trenutku očistili smeće.</string>
+  <string name="clean_master_icon_recall_hint">Dodaj prečac na Početni zaslon</string>
+  <string name="clean_master_icon_recall_summary">Dodajte prečac na Početni zaslon da biste u svakom trenutku očistili smeće.</string>
   <string name="clean_master_icon_recall_title">Brže očistite smeće</string>
   <string name="clean_master_icon_recall_toast_text">Prečac uspješno dodan</string>
   <string name="cleaned">Očišćeno</string>
@@ -1455,8 +1457,8 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="cpu_usage_process_run_time_little_time">Manje od 1 minute</string>
   <string name="cpu_usage_process_run_time_little_time_new">Manje od %d min.</string>
   <string name="cpu_usage_view_action_btn_text">Dodirni za prikaz</string>
-  <string name="create_gamebooster_destop">Prečac Poč. zaslona uspješno napravljen</string>
-  <string name="create_shortcut">Izradi prečac Poč. zaslona za Game Turbo</string>
+  <string name="create_gamebooster_destop">Prečac Početni zaslona uspješno napravljen</string>
+  <string name="create_shortcut">Izradi prečac Početni zaslona za Game Turbo</string>
   <string name="cs_color_sense">Temperatura boje</string>
   <string name="cs_func_toast_headset">Odspojite svoje slušalice da biste mogli koristiti ovu značajku</string>
   <string name="cs_func_toast_light">Prebacite se na prednju kameru da biste mogli koristiti ovu značajku</string>
@@ -1635,12 +1637,15 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="dialog_btn_delete_icon">Ukloni</string>
   <string name="dialog_btn_no_create_icon">Odustani</string>
   <string name="dialog_btn_yes_create_icon">Dodaj</string>
+  <string name="dialog_btn_yes_install_icon">Instaliraj</string>
   <string name="dialog_msg_create_icon_content">Želite li odmah dodati prečac na početni zaslon?</string>
   <string name="dialog_msg_create_icon_not_remain_anymore">"Ne prikazuj više"</string>
   <string name="dialog_msg_delete_icon_content_pad">Sigurnost vam omogućuje da očistite smeće na svom uređaju, pronađete i neutralizirate viruse, uštedite bateriju, upravljate dopuštenjima i više.</string>
   <string name="dialog_msg_delete_icon_content_phone">Sigurnost vam omogućuje da očistite smeće na svom uređaju, pronađete i neutralizirate viruse, uštedite bateriju, upravljate dopuštenjima i više.</string>
-  <string name="dialog_msg_delete_icon_title_pad">Ukloniti ovaj prečac s početnog zaslona?</string>
-  <string name="dialog_msg_delete_icon_title_phone">Ukloniti ovaj prečac s početnog zaslona?</string>
+  <string name="dialog_msg_delete_icon_title_pad">Ukloniti ovaj prečac s Početnog zaslona?</string>
+  <string name="dialog_msg_delete_icon_title_phone">Ukloniti ovaj prečac s Početnog zaslona?</string>
+  <string name="dialog_msg_install_manager_content">Ponovo instalirati aplikaciju Sigurnost?</string>
+  <string name="dialog_msg_install_manager_content_pad">Ponovo instalirati aplikaciju Sigurnost?</string>
 	<string name="dialog_change_package_type_summary">Promjena vrste plana podataka vratit će sve postavke uporabe podataka (npr. ograničenja podataka) na njihove zadane vrijednosti. Želite li sada promijeniti vrstu plana podataka?</string>
   <string name="dialog_change_package_type_title">Promjena vrste plana podataka</string>
   <string name="dialog_msg_auto_start_declare">Pojedine sigurnosne aplikacije mogu pogrešno upućivati na to da ih je MIUI spriječio od pokretanja. Provjerite dopuštenja koja su odobrena za pojedine aplikacije u Postavke &gt; Aplikacije.</string>
@@ -1785,7 +1790,7 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="eletric_group_title_two_identification_risk_mms">Primajte upozorenja kada se proslijeđuju kontrolni kodovi</string>
   <string name="eletric_group_title_two_identification_risk_mms_summary">"Primit ćete upozorenje kada kontrolni kodovi iz vaših poruka budu proslijeđeni društvenim medijima"</string>
   <string name="eletric_group_title_two_identification_risk_screen">Sakrij privatne aplikacije</string>
-  <string name="eletric_group_title_two_identification_risk_screen_summary">Emitiranje će se pauzirati ako se prebacite na Alipay, WeChat, Galeriju ili Messaging</string>
+  <string name="eletric_group_title_two_identification_risk_screen_summary">"Ako otvorite aplikacije koje sadrže osjetljive osobne podatke (WeChat, Alipay, Galerija, itd.) dok dijelite zaslon svog uređaja, ove informacije neće biti prikazane. Možete ponovno ručno pokrenuti dijeljenje."</string>
   <string name="eletric_group_two_identification_risk_app">Upozori na rizične financijske transakcije</string>
   <string name="eletric_group_two_identification_risk_mms">Zaštita kontrolnim kodom</string>
   <string name="eletric_identification_unfamiliar_numbers">Identificiraj nepoznate brojeve</string>
@@ -1971,7 +1976,7 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="first_aid_card_consume_power_button1">Ograniči</string>
   <string name="first_aid_card_consume_power_button2">Isključi</string>
   <string name="first_aid_card_consume_power_summary2">Isključite prijenosni hospot radi uštede baterije.</string>
-  <string name="first_aid_card_consume_power_summary_app">Dopušteno je automatsko pokretanje više od %d aplikacija. Ograničite radi uštede baterije.</string>
+  <string name="first_aid_card_consume_power_summary_app">Dopušteno je autom. pokretanje više od %d aplikacija. Ograničite radi uštede baterije.</string>
   <string name="first_aid_card_consume_power_title">Upotreba baterije</string>
   <string name="first_aid_card_float_window_button">Ograniči</string>
   <string name="first_aid_card_float_window_title">Omogućili ste plutajuće obavijesti</string>
@@ -2230,7 +2235,7 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="gb_collimator_size">Veličina</string>
   <string name="gb_collimator_style">Tip</string>
   <string name="gb_collimator_toast">Pogled čini ciljanje mnogo praktičnijim</string>
-  <string name="gb_create_icon_summary">Izradi prečac Poč. zaslona</string>
+  <string name="gb_create_icon_summary">Izradi prečac Početni zaslona</string>
   <string name="gb_description_image_button_answer">Odgovori</string>
   <string name="gb_description_image_button_reject">Odbij</string>
   <string name="gb_description_image_button_video_answer">Videopoziv</string>
@@ -2253,7 +2258,7 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="gb_first_guide_function_shiled_title">Isključi značajke sustava kada je Game Turbo uključen</string>
   <string name="gb_first_guide_gamebox_des">Tijekom igranja koristite prečace</string>
   <string name="gb_first_guide_handsfree_des">Odgovorite na pozive u pozadini</string>
-  <string name="gb_first_guide_shortcut_des">Stvoren je prečac na Poč. zaslonu za Game Turbo</string>
+  <string name="gb_first_guide_shortcut_des">Stvoren je prečac na Početni zaslonu za Game Turbo</string>
   <string name="gb_first_guide_title">Povećaj brzinu i performanse na razini sustava</string>
   <string name="gb_first_window_antimsg_summary_quick_answer">Koristi brze odgovore</string>
   <string name="gb_first_window_antimsg_summary_transparent_show">Pogledajte tekst na prozirnoj pozadini</string>
@@ -2340,7 +2345,7 @@ ali također povećava potrošnju energije i omogućuje pregrijavanje vašeg ure
   <string name="gb_predownload_noti_message">"%2$1.2f GB ažuriranog sadržaja već je na ovom uređaju. Moći ćete ga koristiti čim se objavi nova verzija."</string>
   <string name="gb_predownload_noti_title">%s uspješno ažuriran u pozadini</string>
   <string name="gb_predownload_title">Ažuriranja u pozadini</string>
-  <string name="gb_shortcut_pref_title">Prečac Poč. zaslona</string>
+  <string name="gb_shortcut_pref_title">Prečac Početni zaslona</string>
   <string name="gb_shoulder_guide_message1">Pomaknite [L] na bilo koji funkcionalni položaj da biste ga koristili putem Pop-up tipke.</string>
   <string name="gb_shoulder_guide_message2">Akcija [1] se aktivira pritiskom na gumb. Akcija [2] se aktivira otpuštanjem tipke.</string>
   <string name="gb_shoulder_guide_tips1">Otvorite okvir s alatima i konfigurirajte okidače skočnih prozora</string>
@@ -2387,10 +2392,10 @@ ali također povećava potrošnju energije i omogućuje pregrijavanje vašeg ure
   <string name="gb_signed_gift_loading_summary">Samo trenutak…</string>
   <string name="gb_sound_audition">Preslušaj</string>
   <string name="gb_storage_game_dialog_button_timer">%ds</string>
-  <string name="gb_storage_game_dialog_message">"Igre možete automatski pohraniti u Game Turbo. One se neće pojaviti na Poč. zaslonu ako uključite ovu značajku. Uključiti sada?"</string>
+  <string name="gb_storage_game_dialog_message">"Igre možete automatski pohraniti u Game Turbo. One se neće pojaviti na Početni zaslonu ako uključite ovu značajku. Uključiti sada?"</string>
   <string name="gb_storage_game_uninstall">Deinstaliraj igre</string>
-  <string name="gb_storage_summary">"Na Poč. zaslonu ne prikazuj igre koje su dodane u Game Turbo"</string>
-  <string name="gb_storage_title">Ukloni dodane igre s Poč. zaslona</string>
+  <string name="gb_storage_summary">"Na Početni zaslonu ne prikazuj igre koje su dodane u Game Turbo"</string>
+  <string name="gb_storage_title">Ukloni dodane igre s Početni zaslona</string>
   <string name="gb_turbo_collimator_subtitle">Koristite uređaj za ciljanje</string>
   <string name="gb_turbo_macro_subtitle">Izvršite akcije na visokoj razini</string>
   <string name="gb_turbo_new_flag">NOVO</string>
@@ -2398,6 +2403,12 @@ ali također povećava potrošnju energije i omogućuje pregrijavanje vašeg ure
   <string name="gb_turbo_time_subtitle">Odredite vrijeme za svoje sesije</string>
   <string name="gb_turbo_voice_subtitle">Začinite svoje razgovore</string>
   <string name="gb_turbo_wonder_subtitle">Snimite ključne trenutke</string>
+  <string name="gb_vision_enhance">Poboljšani vizualni elementi</string>
+  <string name="gb_vision_enhance_desc">Poboljšajte kvalitetu slike i performanse</string>
+  <string name="gb_vision_enhance_smart_frame_insertion">Pametni broj sličica u sekundi</string>
+  <string name="gb_vision_enhance_smart_frame_insertion_desc">Automatski prilagodi broj sličica u sekundi kako bi pokret bio glatkiji</string>
+  <string name="gb_vision_enhance_super_resolution">Super rezolucija</string>
+  <string name="gb_vision_enhance_super_resolution_desc">Pojačajte razlučivost za prikaz sitnijih detalja</string>
   <string name="gb_voice_change_audition_tip">Demo</string>
   <string name="gb_voice_change_settinged">Mjenjač glasa je uključen</string>
   <string name="gb_voice_changer_cartoon">Crtić</string>
@@ -2449,7 +2460,7 @@ vašeg igranja"</string>
   <string name="global_dock_guide_desc_with_split_screen">"· Dodirnite aplikaciju na bočnoj traci da je otvorite u plutajućem prozoru.
 · Povucite aplikaciju u središte zaslona kako biste je otvorili u plutajućem prozoru ili na stranu za korištenje podijeljenog zaslona.
 · Pritisnite i držite indikator za pomicanje prozora."</string>
-     <string name="global_dock_guide_desc_without_split_screen">"· Dodirnite aplikaciju na bočnoj traci da je otvorite u plutajućem prozoru.
+  <string name="global_dock_guide_desc_without_split_screen">"· Dodirnite aplikaciju na bočnoj traci da je otvorite u plutajućem prozoru.
 · Pritisnite i držite indikator za pomicanje prozora."</string>
   <string name="global_satisfaction_notification_button">Ocjena</string>
   <string name="global_satisfaction_notification_subhead">Recite nam svoje iskustvo</string>
@@ -2482,7 +2493,7 @@ vašeg igranja"</string>
   <string name="gs_autobooster_dialog_message">"Ako upotrebljavate Xunyou povećanje brzine, otvorite igre na određenoj stranici."</string>
   <string name="gs_call_handsfree">Odgovori na poziv sa slušalicama</string>
   <string name="gs_call_handsfree_mute">Bešumno</string>
-  <string name="gs_dialog_confirm_close_msg">Prečac će biti uklonjen s Poč. zaslona. Idite u Sigurnost &gt; Postavke da ga obnovite.</string>
+  <string name="gs_dialog_confirm_close_msg">Prečac će biti uklonjen s Početni zaslona. Idite u Sigurnost &gt; Postavke da ga obnovite.</string>
   <string name="gs_dialog_confirm_close_title">Isključi</string>
   <string name="gs_forbid_autosync">Ograniči sinkronizaciju u pozadini</string>
   <string name="gs_game_ai_record">Snimi koristeći AI</string>
@@ -2528,7 +2539,7 @@ vašeg igranja"</string>
   <string name="gtb_dialog_summary_smart_5g">Kad god Game Turbo otkrije 5G mrežu, vaš se uređaj može povezati s najboljom dostupnom mrežom kako bi se smanjilo kašnjenje u mreži. Želite li sada uključiti tu značajku?</string>
   <string name="gtb_dialog_title_smart_5g">5G optimizacija mreže</string>
   <string name="gtb_exit_game_to_gtb">Otvori gamebox</string>
-  <string name="gtb_exit_game_to_home">Natrag na Poč. zaslon</string>
+  <string name="gtb_exit_game_to_home">Natrag na Početni zaslon</string>
   <string name="gtb_guide_finish">Preskoči</string>
   <string name="gtb_guide_game_mode_tips">Odaberite željeni način igranja</string>
   <string name="gtb_guide_gtb_button_done">Gotovo</string>
@@ -2905,7 +2916,7 @@ podatkovnu vezu"</string>
   <string name="manage_hybrid_permissions">"Upravljanje dopuštenja aplikacija"</string>
   <string name="managed_user_title">Sve radne aplikacije</string>
   <string name="manual_handle_title">DOSTUPNE ZNAČAJKE</string>
-  <string name="manual_item_create_icon_title">Prečac Poč. zaslona</string>
+  <string name="manual_item_create_icon_title">Prečac Početni zaslona</string>
   <string name="manual_input_free_traffic">Postavi ograničenje uporabe podataka</string>
   <string name="manual_input_traffic">Postavite uporabu podataka</string>
   <string name="manual_item_white_list_summary">Spriječite odabrane stavke od optimiziranja</string>
@@ -3075,6 +3086,7 @@ Vaš je uređaj sad %s brži."</string>
   <string name="miuix_appcompat_delete_description">Izbriši</string>
   <string name="miuix_appcompat_deselect_all">Poništi sve</string>
   <string name="miuix_appcompat_deselect_all_description">Poništi sve</string>
+  <string name="miuix_appcompat_edit">Uredi</string>
   <string name="miuix_appcompat_search_action_mode_cancel">Odustani</string>
   <string name="miuix_appcompat_search_input_description">Traži</string>
   <string name="miuix_appcompat_select_all">Odaberi sve</string>
@@ -3502,7 +3514,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="om_settings_speed_up_auto">Autom. povećaj brzinu</string>
   <string name="om_settings_title">Postavke optimizacije</string>
   <string name="om_shortcut_added_toast_text">Uspješno dodano</string>
-  <string name="om_shortcut_dialog_summary">"RAM Jet omogućuje vam da očistite memoriju i povećate brzinu vašeg uređaja jednim dodirom. Dodati RAM Jet na Poč. zaslon?"</string>
+  <string name="om_shortcut_dialog_summary">"RAM Jet omogućuje vam da očistite memoriju i povećate brzinu vašeg uređaja jednim dodirom. Dodati RAM Jet na Početni zaslon?"</string>
   <string name="om_shortcut_dialog_title">RAM Jet</string>
   <string name="once_settings_camera_ttile">Podijeli bez metapodataka</string>
   <string name="once_settings_location_title">Podijeli bez podataka o lokaciji</string>
@@ -3533,6 +3545,8 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="operator_number_cmcc">10086</string>
   <string name="operator_number_telcom">10000</string>
   <string name="operator_number_unicom">10010</string>
+  <string name="opt_antivirus_scan_antivirus_notification_summary">Korištenje zlonamjernih aplikacija predstavlja sigurnosne rizike</string>
+  <string name="opt_antivirus_scan_single_antivirus_notification_title">%s bi mogla biti zlonamjerna aplikacija</string>
   <string name="optimize_manage_title">Povećaj brzinu</string>
   <string name="optimize_result_ads_close_text">Oglas</string>
   <string name="optimize_result_available_memory_info">Dostupna memorija</string>
@@ -3690,13 +3704,18 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pc_main_power_manager_hour_minute">%1$sh %2$sm do potpunog punjenja</string>
   <string name="pc_main_sub_battery_text_day_hour">%1$sd %2$sh preostalo</string>
   <string name="pc_main_sub_battery_text_hour_minute">%1$sh %2$sm preostalo</string>
+  <string name="pc_no_more_remind">"Ne podsjećaj"</string>
   <string name="pc_performance_mode_dialog_summary">Vaš će uređaj moći raditi %s u načinu rada Performanse. Imajte na umu da način rada povećava potrošnju energije i može dovesti do pregrijavanja.</string>
   <string name="pc_performance_mode_dialog_summary2">Performanse uređaja će se poboljšati. To bi moglo povećati potrošnju energije i dovesti do problema s pregrijavanjem. Uključiti svejedno?</string>
   <string name="pc_performance_mode_dialog_title">Način rada Performanse</string>
   <string name="pc_performance_mode_noti_summary">Način rada Performanse može povećati potrošnju energije i dovesti do problema s pregrijavanjem</string>
   <string name="pc_performance_mode_noti_title">Poboljšane performanse uređaja</string>
+  <string name="pc_remind_close_cover_to_charge_summary">Preklopite uređaj prije punjenja za brže i stabilnije iskustvo punjenja.</string>
+  <string name="pc_remind_close_cover_to_charge_title">Preklopite za punjenje</string>
   <string name="pc_temperature_too_high">Uređaj se pregrijao</string>
   <string name="pc_wait_device_cools_down">Pričekajte da se vaš uređaj ohladi da biste mogli koristiti ovu značajku.</string>
+  <string name="pc_wireless_charge_adjust_position_summary">Stavite ga na bežični punjač</string>
+  <string name="pc_wireless_charge_adjust_position_title">Napunite svoj uređaj brže</string>
   <string name="permission_instruction_shake">"Ovo dopuštenje omogućuje aplikacijama praćenje orijentacije i kretanja vašeg uređaja (npr. drmanje, naginjanje i rotacija)"</string>
   <string name="pc_search_keywords_battery">Baterija</string>
   <string name="pc_search_keywords_battery_save">Štednja baterije</string>
@@ -3760,7 +3779,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="permission_instruction_activity_recognition">Ovo dopuštenje omogućuje aplikacijama pristup informacijama koje prikupljaju ugrađeni senzori koji otkrivaju vašu tjelesnu aktivnost (npr. broj koraka i vježbanja). Zapamtite da su podaci o vašoj tjelesnoj aktivnosti osobni.</string>
   <string name="permission_instruction_add_voicemail">Ovo dopuštenje omogućuje aplikacijama dodavanje govorne pošte u sustav.</string>
   <string name="permission_instruction_answer_phone_call">Ovo dopuštenje omogućava aplikacijama da odgovaraju na pozive ili završavaju bez vašeg suglasnosti.</string>
-  <string name="permission_instruction_auto_start">Ovo dopuštenje omogućuje aplikacijama automatsko pokretanje bez vaše potvrde. Davanje ovog dopuštenja za više aplikacija može usporiti vaš uređaj. Zlonamjerne aplikacije koriste ovo dopuštenje za prikupljanje vaših osobnih podataka, a da vi to ne znate.
+  <string name="permission_instruction_auto_start">Ovo dopuštenje omogućuje aplikacijama autom. pokretanje bez vaše potvrde. Davanje ovog dopuštenja za više aplikacija može usporiti vaš uređaj. Zlonamjerne aplikacije koriste ovo dopuštenje za prikupljanje vaših osobnih podataka, a da vi to ne znate.
 </string>
   <string name="permission_instruction_background_start">Ovo dopuštenje omogućuje aplikacijama prikaz skočnih prozora bez vaše potvrde. Ovi skočni prozori mogu pokriti vaš zaslon u potpunosti utječući na uobičajeno korištenje.</string>
   <string name="permission_instruction_bluetooth_admin">Ovo dopuštenje omogućuje aplikacijama uključivanje i isključivanje Bluetootha bez vaše potvrde.</string>
@@ -3861,7 +3880,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pm_auto_start_by_other">Aktivirano pokretanje</string>
   <string name="pm_auto_start_by_other_app">Dopusti aplikaciji da bude pokrenuta od strane druge aplikacije</string>
   <string name="pm_auto_start_by_system">Pokreni aplikacije</string>
-  <string name="pm_auto_start_by_system_event">Dopusti aplikacijama automatsko pokretanje</string>
+  <string name="pm_auto_start_by_system_event">Dopusti aplikacijama autom. pokretanje</string>
   <string name="pm_auto_start_proc_is_running">Pokrenuto</string>
   <string name="pm_newfeature_sub_text">NOVO</string>
   <string name="pm_remember_choice">Zapamti moj odabir</string>
@@ -4137,7 +4156,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="power_optimize_disable_5g">Ograniči 5G povezivanje</string>
   <string name="power_optimize_disable_5g_summary">5G veza troši više energije</string>
   <string name="power_optimize_disable_aod">Isključite Always-on zaslon</string>
-  <string name="power_optimize_disable_app_autostart">Spriječi aplikacije od automatskog otvaranja</string>
+  <string name="power_optimize_disable_app_autostart">Spriječi aplikacije od autom.g otvaranja</string>
   <string name="power_optimize_disable_gps">Isključi GPS</string>
   <string name="power_optimize_disable_gps_high_accuracy">Isključi način rada lokacije visoke preciznosti</string>
   <string name="power_optimize_disable_start_other_app">Spriječi aplikacije od otvaranja drugih aplikacija</string>
@@ -4227,7 +4246,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="power_setting_features">Posebne značajke</string>
   <string name="power_setting_important_warning">Pažnja</string>
   <string name="power_setting_power_save_summary_text">Optimiziraj postavke sustava kako biste uštedjeli bateriju</string>
-  <string name="power_setting_scenario_policies_summary">Odredite scenarije za automatsko prebacivanje između načina štednje baterije</string>
+  <string name="power_setting_scenario_policies_summary">Odredite scenarije za autom. prebacivanje između načina štednje baterije</string>
   <string name="power_setting_super_save_summary_text">Ograniči većinu značajki sustava kako biste uštedjeli bateriju</string>
   <string name="power_setting_warm_configure">Kontrola temperature</string>
   <string name="power_setting_warm_performance_tip">Scenariji koji zahtijevaju veliku potrošnju energije podići će temperaturu vašeg uređaja iznad razine zadanog načina kontrole temperature.</string>
@@ -4287,7 +4306,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pp_grant_permission_only_during_app_use">"Dopustite aplikacijama upotrebu dopuštenja samo dok ih upotrebljavate"</string>
   <string name="pp_grant_permission_only_during_app_use_detail">"Da biste spriječili da aplikacija koristi dopuštenja u pozadini, možete dopustiti upotrebu dopuštenja povezanih s lokacijom, snimanjem zvuka i kontaktima samo dok koristite aplikaciju"</string>
   <string name="pp_hide_app">Sakrij aplikacije</string>
-  <string name="pp_hide_app_form_desktop">Uklonite ikone aplikacija s Poč. zaslona</string>
+  <string name="pp_hide_app_form_desktop">Uklonite ikone aplikacija s Početni zaslona</string>
   <string name="pp_icon_layout_status_bg_content_enable">Zaštićeno</string>
   <string name="pp_icon_layout_status_bg_content_unable">Isključeno</string>
   <string name="pp_identifier_protection">Zaštitite osobne identifikatore</string>
@@ -4500,7 +4519,7 @@ Isklj. maks.: %2$s</string>
   <string name="privacy_apps_category_title">Skrivene aplikacije</string>
   <string name="privacy_apps_checkbox_remind_choice">"Ne prikazuj ponovno"</string>
   <string name="privacy_apps_close">Zatvori</string>
-  <string name="privacy_apps_enable_summary">Premjesti aplikacije u skrivenu mapu i ukloni njihove prečace Poč. zaslona</string>
+  <string name="privacy_apps_enable_summary">Premjesti aplikacije u skrivenu mapu i ukloni njihove prečace Početni zaslona</string>
   <string name="privacy_apps_go_to_use">Start</string>
   <string name="privacy_apps_manage">Upravljaj Skrivenim aplikacijama</string>
   <string name="privacy_apps_manage_dialog_title">O Skrivenim aplikacijama</string>
@@ -5734,6 +5753,7 @@ Formatiranjem će se izbrisati postojeći sadržaj na ^2. Da biste izbjegli gubi
   <string name="superpower_settins_autoleave_title">Isključi automatski</string>
   <string name="superpower_settins_other">Dodatne postavke</string>
   <string name="superpower_settins_switch_summary">Ograničava značajke koje najviše troše energiju kako bi ostavile osnovne funkcije (npr. Pozive, SMS i odabrane aplikacije) dostupnima koliko god je moguće</string>
+  <string name="support_app_name_securitycenter">Sigurnosni alati</string>
   <string name="support_game_booster_tips">Ubzravanje brzine &amp; poboljšanje doživljaja igranja</string>
   <string name="sys_app_prot_cracked_confirm">Razumijem</string>
   <string name="sys_app_prot_cracked_login">Prijavite se s Xiaomi Računom</string>
@@ -5988,7 +6008,7 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="tips_dialog_title">"Ne znate svoje ograničenje"</string>
   <string name="tips_message">"Za prikaz detalja vašeg ograničenja, birajte %2$s (%1$s) (Samo Kina)"</string>
   <string name="tips_of_app_manage">Izbrišite rijetko korištene aplikacije da uštedite prostor za pohranu</string>
-  <string name="tips_of_auto_launch_manage">Spriječite rijetko korištene aplikacije od automatskog pokretanja</string>
+  <string name="tips_of_auto_launch_manage">Spriječite rijetko korištene aplikacije od autom.g pokretanja</string>
   <string name="tips_of_operators_set">Prilagodite statistiku uporabe podataka automatski</string>
   <string name="tips_of_package_set">Postavite svoj plan podataka i kontrolirajte količinu prometa koju koristite</string>
   <string name="tips_of_traffic_pack_threshold">"Kupite više podataka kada ste blizu svog mjesečnog ograničenja prometa"</string>
@@ -6386,8 +6406,8 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="vb_advanced_settings_before_open">Prije</string>
   <string name="vb_advanced_settings_pic_stronger_desc">Napravite jasnije pomeranje objekata poboljšavanjem animacija. Ova značajka zahtijeva veću potrošnju energije.</string>
   <string name="vb_fps_display_unit">Hz</string>
-  <string name="vb_fps_settings">Brzina automatskog osvježavanja</string>
-  <string name="vb_fps_settings_tips">Ova značajka prilagođava brzinu osvježavanja zaslona brzini kadra videozapisa, što štedi bateriju i reprodukciju čini glatkom. Uključivanjem plutajućih komentara isključit će se stopa automatskog osvježavanja.
+  <string name="vb_fps_settings">Brzina autom.g osvježavanja</string>
+  <string name="vb_fps_settings_tips">Ova značajka prilagođava brzinu osvježavanja zaslona brzini kadra videozapisa, što štedi bateriju i reprodukciju čini glatkom. Uključivanjem plutajućih komentara isključit će se stopa autom.g osvježavanja.
 </string>
   <string name="vb_quick_func_auto_bgm">Prepoznaj glazbu u pozadini</string>
   <string name="vb_quick_func_hangup_listening">Reproduciraj video zvuk s isključenim zaslonom</string>
@@ -6397,6 +6417,16 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="vb_settings">Postavke</string>
   <string name="vb_ve_settings_display_style_tips">*Ovi efekti primjenjuju se na cijeli zaslon</string>
   <string name="vb_ve_settings_display_style_tips_new">*Efekti će se primijeniti samo na područje reprodukcije videozapisa</string>
+  <string name="vb_ve_settings_display_style_tips_new_with_conflict_tips">"*Ovaj efekt primijenit će se samo na područje reprodukcije videozapisa.
+
+Ova značajka ne radi s poboljšanim videozapisima.
+
+Uključivanje jednog isključit će drugo."</string>
+     <string name="vb_ve_settings_display_style_tips_with_conflict_tips">"*Ovaj efekt primijenit će se na cijeli zaslon.
+
+Ova značajka ne radi s poboljšanim videozapisima.
+
+Uključivanje jednog isključit će drugo."</string>
   <string name="vb_ve_settings_pic_border_stronger">Poboljšane konture</string>
   <string name="vb_ve_settings_picture_stronger">Poboljšane animacije</string>
   <string name="vb_video_effects_3d">Surround zvuk</string>
@@ -6413,6 +6443,7 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="vb_video_effects_liquid_summary">Poboljšajte jasnoću dijaloga u videozapisima</string>
   <string name="vb_video_effects_immersion_sound">Imerzivni zvuk</string>
   <string name="vb_video_effects_immersion_sound_summary">Iskusite uranjanje i osjećaj prostora kada se podržani zvuk reproducira putem slušalica</string>
+  <string name="vb_video_effects_immersion_sound_summary_new">Iskusite uranjanje i osjećaj prostora kada se reproducira podržani zvuk</string>
   <string name="vb_video_effects_spatial_summary_new">Doživite poboljšani osjećaj prostora i smjera za podržani zvuk kada koristite slušalice</string>
   <string name="vb_video_effects_only_headphone">Radi samo sa slušalicama</string>
   <string name="vb_video_effects_setting_black_white">B&amp;W</string>
