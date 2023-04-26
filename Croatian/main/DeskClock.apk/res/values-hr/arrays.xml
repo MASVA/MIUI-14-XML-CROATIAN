@@ -11,6 +11,7 @@
         <item>Alarm će zvoniti za %1$s %2$s %3$s</item>
     </string-array>
 	<string-array name="alarm_in_furture_new_array">
+	      <item>Alarm će zvoniti za manje od %d minute</item>
         <item>Alarm će zvoniti za %1$s</item>
         <item>Alarm će zvoniti za %2$s</item>
         <item>Alarm će zvoniti za %1$s %2$s</item>
@@ -44,6 +45,7 @@
         <item>"Alarm je postavljen za %1$s %2$s i %3$s.</item>
     </string-array>
 	<string-array name="alarm_set_new_array">
+	      <item>Alarm je od ovog trenutka postavljen za manje od %d minute.</item>
         <item>"Alarm je od ovog trenutka postavljen za %1$s."</item>
         <item>"Alarm je od ovog trenutka postavljen za %2$s."</item>
         <item>"Alarm je od ovog trenutka postavljen za %1$s i %2$s."</item>
