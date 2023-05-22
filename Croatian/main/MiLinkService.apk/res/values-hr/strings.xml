@@ -588,6 +588,10 @@ Ako trebate ručno otvoriti funkciju Miracast, možete pritisnuti tipku [Menu] n
     <string name="notify_wifiap_dialog_msg">Da biste skenirali kod i konfigurirali mrežu, prvo isključite hotspot.</string>
     <string name="notify_wifiap_dialog_negative">Razumijem</string>
     <string name="notify_wifiap_dialog_title">Konfiguracija mreže</string>
+	 <string name="onehop_mirror_guide_message_button">Shvaćam</string>
+    <string name="onehop_mirror_guide_message_text_1">Emitirajte zaslon telefona na računalo jednim dodirom.</string>
+    <string name="onehop_mirror_guide_message_text_2">Odaberite fotografije, videozapise i druge datoteke iz Galerije ili Datoteka za prijenos na svoje računalo.</string>
+    <string name="onehop_mirror_guide_message_title">Mi Smart Hub</string>
     <string name="open_game_accelerate">Uključi Game Turbo</string>
     <string name="p2p_location_des">Za povezivanje mobilnog uređaja s vanjskim monitorima</string>
     <string name="paipai_connect_btn_text">Gotovo</string>

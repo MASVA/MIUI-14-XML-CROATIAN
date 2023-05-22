@@ -85,6 +85,10 @@
         <item quantity="other">"Ne mogu preuzeti %1$d stavki"</item>
         <item quantity="one">"Ne mogu preuzeti %1$d stavku"</item>
     </plurals>
+	 <plurals name="download_notification_wait_network">
+        <item quantity="other">Čekanje na preuzimanje. %1$s datoteka preostalo.</item>
+        <item quantity="one">Čekanje na preuzimanje. %1$s datoteka preostala.</item>
+    </plurals>
     <plurals name="downloading_info_for_sys_title">
         <item quantity="other">Preuzimanje… %1$d preostalo (%2$s%%)</item>
         <item quantity="one">Preuzimanje… %1$d preostalo (%2$s%%)</item>
@@ -98,12 +102,12 @@
         <item quantity="one">"Neke stavke nedostaju. Ne mogu premjestiti %1$d stavku."</item>
     </plurals>
     <plurals name="file_count">
-        <item quantity="other">Stavki: %d</item>
-        <item quantity="zero">Stavki: %d</item>
-        <item quantity="one">Stavki: %d</item>
-        <item quantity="two">Stavki: %d</item>
-        <item quantity="few">Stavki: %d</item>
-        <item quantity="many">Stavki: %d</item>
+        <item quantity="other">Stavke: %d</item>
+        <item quantity="zero">Stavke: %d</item>
+        <item quantity="one">Stavke: %d</item>
+        <item quantity="two">Stavke: %d</item>
+        <item quantity="few">Stavke: %d</item>
+        <item quantity="many">Stavke: %d</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Prije pola sata</item>
@@ -235,6 +239,10 @@
     <plurals name="upload_fail_info_for_sys_content">
         <item quantity="other">"Ne mogu učitati %1$d stavke"</item>
         <item quantity="one">"Ne mogu učitati %1$d stavku"</item>
+    </plurals>
+	 <plurals name="upload_notification_wait_network">
+        <item quantity="other">Čeka se učitavanje. %1$s datoteka preostalo.</item>
+        <item quantity="one">Čeka se učitavanje. %1$s datoteka preostala.</item>
     </plurals>
     <plurals name="uploading_info_for_sys_title">
         <item quantity="other">Učitavanje… %1$d preostalo (%2$s%%)</item>

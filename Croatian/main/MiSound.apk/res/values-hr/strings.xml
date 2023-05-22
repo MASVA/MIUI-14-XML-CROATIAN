@@ -64,7 +64,8 @@
     <string name="effect_none">Ništa</string>
     <string name="effect_selection">Zvučni efekti</string>
     <string name="effect_virtual_surround">Virtualni okružujući zvuk</string>
-    <string name="effect_virtual_surround_summary">"Obogatite dubinu zvuka za reprodukciju audia i videozapisa u slušalicama (Ova značajka neće raditi kada se reproducira %.1f zvuk)"</string>
+    <string name="effect_virtual_surround_summary">"Obogatite dubinu zvuka za audio i video reprodukciju u slušalicama (Ova značajka neće raditi kada se reproducira %.1f zvuk)"</string>
+	 <string name="effect_virtual_surround_summary_spk">Obogatite dubinu zvuka za audio i video reprodukciju</string>
     <string name="end_wireless_transmission">Stop</string>
     <string name="eq_auto">Vlastito</string>
     <string name="eq_blues">Blues</string>
@@ -152,6 +153,7 @@
     <string name="miuix_appcompat_delete_description">Izbriši</string>
     <string name="miuix_appcompat_deselect_all">Poništi odabir</string>
     <string name="miuix_appcompat_deselect_all_description">Poništi odabir</string>
+	 <string name="miuix_appcompat_edit">Uredi</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Odustani</string>
     <string name="miuix_appcompat_search_input_description">Traži</string>
     <string name="miuix_appcompat_select_all">Odaberi sve</string>

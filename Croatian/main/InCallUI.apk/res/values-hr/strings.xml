@@ -106,6 +106,7 @@
     <string name="close">Zatvori</string>
     <string name="close_camera_failed">"Ne mogu isključiti kameru…"</string>
     <string name="close_camera_requesting">Isključivanje kamere…</string>
+	 <string name="cloud_video_conference">Cloud Video konferencija</string>
     <string name="conference_call_description" formatted="false">%s,%s itd. ukupno %s</string>
     <string name="conference_call_recorder_title">Konferencijski poziv</string>
     <string name="conference_call_single_description" formatted="false">%s itd. ukupno %s</string>
@@ -169,9 +170,9 @@
     <string name="friday">Petak</string>
     <string name="friday_short">Pet</string>
     <string name="friday_shortest">P</string>
-	 <string name="high_temperature_toast">U zaštiti od visoke temperature, funkcija je privremeno nedostupna</string>
+	 <string name="high_temperature_toast">"Vaš uređaj je pregrijan. Sada ne možete koristiti ovu značajku."</string>
     <string name="inCallLabel">Telefon</string>
-    <string name="incall_bubble_hangup_click_hint">Dodirnite ponovo da se vratte na poziv</string>
+    <string name="incall_bubble_hangup_click_hint">Dodirnite ponovo za povratak na poziv</string>
     <string name="incall_call_type_label_sip">Internetski poziv</string>
     <string name="incall_error_supp_service_conference">"Ne mogu koristiti konferencijski poziv."</string>
     <string name="incall_error_supp_service_hangup">"Ne mogu prekinuti poziv."</string>
@@ -181,7 +182,7 @@
     <string name="incall_error_supp_service_switch">"Ne mogu promijeniti pozive."</string>
     <string name="incall_error_supp_service_transfer">"Ne mogu prebaciti poziv."</string>
     <string name="incall_error_supp_service_unknown">"Ova usluga nije podržana."</string>
-    <string name="incoming_call_forwarded_title">Proslijedeni poziv</string>
+    <string name="incoming_call_forwarded_title">Proslijeđeni poziv</string>
     <string name="incoming_circle_text_answer">Otpusti</string>
     <string name="incoming_circle_text_answer_p">Povuci prema gore</string>
     <string name="incoming_circle_text_reject">Otpusti</string>

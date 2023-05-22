@@ -551,7 +551,9 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
     <string name="operation_compress">Sažmi</string>
     <string name="operation_compressing">Sažimanje…</string>
     <string name="operation_copy">Kopiraj</string>
-    <string name="operation_create_folder">Izradi mapu</string>
+    <string name="operation_copy_clipboard">Kopiraj u međuspremnik</string>
+    <string name="operation_copy_local">Kopiraj u mapu</string>
+	 <string name="operation_create_folder">Izradi mapu</string>
     <string name="operation_create_folder_message">Unesite naziv mape</string>
     <string name="operation_create_folder_name_conflict">"Nije moguće izraditi mapu. Mapa s ovim nazivom već postoji."</string>
     <string name="operation_create_folder_name_illegal_char">"Nije moguće izraditi mapu. Naziv mape sadrži nepodržane znakove."</string>
@@ -813,6 +815,7 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
     <string name="title_select_volume">Odaberite mapu</string>
     <string name="to_open">Postavke</string>
     <string name="to_setting">Postavke</string>
+	 <string name="toast_copy_clipboard">Dodano u međuspremnik</string>
     <string name="toast_file_not_can_read">Nisu pronađene aplikacije za izvršenje ove radnje.</string>
     <string name="today">Danas</string>
     <string name="tomorrow">Sutra</string>

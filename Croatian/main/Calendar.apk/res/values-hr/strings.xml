@@ -81,6 +81,7 @@
     <string name="additional_cal_pref_title">Dodatni kalendari</string>
     <string name="additional_calendar_note">Neki dodatni kalendari možda neće biti dostupni ili se razlikuju ovisno o nestalnim čimbenicima</string>
     <string name="agenda_month_empty_hint">Nema događaja za danas</string>
+	 <string name="agenda_not_today_empty_hint">Ovdje još nema događaja. Dodirnite za izradu.</string>
     <string name="agenda_tomorrow">SUTRA, %1$s</string>
     <string name="agenda_view">Događaji</string>
     <string name="alarm_label">Odbaci</string>
@@ -600,8 +601,12 @@ Provjerite mrežne postavke i pokušajte ponovno."</string>
     <string name="notes_week_name_two">%1$s i %2$s</string>
     <string name="notes_weekly">Tjedno</string>
     <string name="notification_channel_name">Kalendarski podsjetnici</string>
+	  <string name="notification_open_setting_button_exit">Ne hvala</string>
+    <string name="notification_open_setting_button_ok">Dopusti</string>
+    <string name="notification_open_setting_message">"Nećete moći primati obavijesti o događajima osim ako ne dopustite Kalendaru da vam šalje obavijesti."</string>
+    <string name="notification_open_setting_title">Želite li dopustiti obavijesti Kalendara?</string>
     <string name="partner_compatibility">Kompatibilnost partnera</string>
-    <string name="password_toggle_content_description">Prikaži lozinku</string>
+    <string name="password_toggle_content_description">Prikaži zaporku</string>
     <string name="path_calendar_settings">Aplikacije sustava/Kalendar/Postavke</string>
 	 <string name="permission_denial">Odobrite dopuštenja za korištenje ove značajke</string>
     <string name="permission_description">Pojedinosti o dopuštenjima</string>
@@ -666,6 +671,8 @@ Provjerite mrežne postavke i pokušajte ponovno."</string>
     <string name="remind_title_menstruation_start">Podsjeti kada započne menstruacija</string>
     <string name="remind_title_record">Podsjeti zabilježiti</string>
     <string name="repeat_activity_label">Ponovi</string>
+	 <string name="repeat_alarm_close_title">Ovo je ponovljeni događaj. Isključiti podsjetnik za alarm?</string>
+    <string name="repeat_alarm_open_title">Ovo je ponovljeni događaj. Postaviti podsjetnik za alarm?</string>
     <string name="repeat_custom_activity_label">Prilagođeno</string>
     <string name="repeat_custom_prompt_daily">svaki %1$s</string>
     <string name="repeat_custom_prompt_sentence">Događaj će se ponoviti %1$s</string>

@@ -32,6 +32,8 @@
     <string name="accessible_irregular">Prilagođeni oblik</string>
     <string name="accessible_rect">Pravokutnik</string>
     <string name="actionbar_button_up_description">Natrag</string>
+	 <string name="annotation_open">Prikaži alate</string>
+    <string name="annotation_stow">Sakrij alate</string>
     <string name="app_name">Snimka zaslona</string>
     <string name="back">Natrag</string>
     <string name="base_btn_cancel">Odustani</string>
@@ -91,7 +93,7 @@
     <string name="long_screenshot_error">Došlo je do pogreške. Pokušajte ponovno.</string>
     <string name="long_screenshot_guide_text">"Dodirnite za izradu pomične
 snimke zaslona"</string>
-    <string name="long_screenshot_intercepted_error">"Ne mogu napraviti snimku zaslona. Pokušajte ponovno."</string>
+    <string name="long_screenshot_intercepted_error">"Došlo je do prekida. Snimka zaslona je spremljena u Galeriju."</string>
     <string name="long_screenshot_out_of_memory_error">Veličina slike je prevelika</string>
     <string name="long_screenshot_processing">Obrada…</string>
     <string name="long_screenshot_processing_description_accessibility">Obrada</string>
@@ -174,7 +176,7 @@ snimke zaslona"</string>
     <string name="notification_channel_alerts">Upozorenja</string>
     <string name="operation_send">Pošalji</string>
     <string name="partial_screenshot_edit">Uredi</string>
-    <string name="partial_screenshot_failed_to_capture_title">"Ova aplikacija ne dopušta snimanje zaslona"</string>
+    <string name="partial_screenshot_failed_to_capture_title">"Ne mogu napraviti snimke zaslona ove stranice"</string>
     <string name="partial_screenshot_failed_to_save_title">"Ne mogu spremiti. Nema dovoljno prostora za pohranu."</string>
     <string name="partial_screenshot_insert_failed">"Ne mogu spremiti"</string>
     <string name="partial_screenshot_repaint">Počni ispočetka</string>
@@ -201,6 +203,10 @@ snimke zaslona"</string>
     <string name="photo_font_download_failed_for_notwork">"Preuzimanje nije uspjelo. Povežite se s mrežom i pokušajte ponovo."</string>
     <string name="photo_save_to_msg">Spremljeno u %s</string>
     <string name="preference_copied">Sažetak \"%1$s\" je kopiran u međuspremnik.</string>
+	 <string name="privacy_mosaic_result_done">Privatni podaci su blokirani</string>
+    <string name="privacy_mosaic_result_fail">"Nisam mogao blokirati privatne podatke. Pokušajte ponovo."</string>
+    <string name="privacy_mosaic_result_none">Nisu pronađene privatne informacije</string>
+    <string name="privacy_mosaic_tip">Dodirnite za blokiranje privatnih informacija</string>
     <string name="remover_menu_processing">Obrada</string>
     <string name="saturday">Subota</string>
     <string name="saturday_short">Sub</string>
@@ -244,6 +250,9 @@ snimke zaslona"</string>
     <string name="screenshot_save">Spremi</string>
     <string name="screenshot_send">Pošalji</string>
     <string name="screenshot_thumbnail">Minijature snimki zaslona</string>
+	 <string name="scroll_annotation">Pomičite se i komentirajte</string>
+    <string name="scroll_annotation_btn_quit">Izlaz iz bilješki</string>
+    <string name="scroll_annotation_quit_dialog_picture_msg">Spremiti bilješke prije izlaska?</string>
     <string name="search_menu_title">Traži</string>
     <string name="send">Pošalji</string>
     <string name="send_files_by">Dijelite datoteke putem</string>

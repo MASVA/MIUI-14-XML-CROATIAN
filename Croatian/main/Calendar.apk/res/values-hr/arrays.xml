@@ -43,9 +43,9 @@
         <item>Svi događaji u nizu</item>
     </string-array>
     <string-array name="close_alarm_repeating_labels">
-        <item>Samo za ovo vrijeme</item>
-        <item>Isključi ponovljani podsjetnik</item>
-    </string-array>
+         <item>Isključi jednom</item>
+         <item>Uvijek isključeno</item>
+		 </string-array>
     <string-array name="date_calculate_spinner">
         <item>Naprijed</item>
         <item>Natrag</item>
@@ -120,9 +120,9 @@
         <item>2 tjedna</item>
     </string-array>
     <string-array name="open_alarm_repeating_labels">
-        <item>Samo za ovo vrijeme</item>
-        <item>Postavi ponovljani podsjetnik</item>
-    </string-array>
+         <item>Uključi jednom</item>
+         <item>Uvijek uključeno</item>
+		 </string-array>
     <string-array name="ordinal_labels">
         <item>1.</item>
         <item>2.</item>

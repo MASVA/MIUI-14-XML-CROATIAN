@@ -28,9 +28,9 @@
     <string name="abc_shareactionprovider_share_with">Dijeljenje sa</string>
     <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
     <string name="abc_toolbar_collapse_description">Sažmi</string>
-    <string name="about_pure_mode">O Sigurnom načinu rada</string>
-    <string name="about_safe_mode">Saznajte više o sigurnom načinu rada</string>
-    <string name="access_denied_info">Too many attempts. Wait a minute or two and try again.</string>
+    <string name="about_pure_mode">O Mi Protect</string>
+    <string name="about_safe_mode">Saznajte više o Mi Protect</string>
+    <string name="access_denied_info">Previše pokušaja. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
     <string name="actionbar_button_up_description">Natrag</string>
     <string name="ad_permissions">&lt;u>Dopuštenja&lt;u/></string>
     <string name="ad_privacy">&lt;u>Privatnost&lt;u/></string>
@@ -41,6 +41,7 @@
     <string name="ads_install_button_waiting">Na čekanju</string>
     <string name="after_install_to_delete">Izbriši instalacijske pakete nakon instalacije</string>
 	 <string name="allow_current_install">Dopusti jednom</string>
+	 <string name="allowed_this_time">Dopusti jednom</string>
     <string name="anonymous_source_continue">Nastavi</string>
     <string name="anonymous_source_warning">Vaš telefon i osobni podaci podložniji su napadima nepoznatih aplikacija. Instaliranjem te aplikacije prihvaćate odgovornost za oštećenje telefona ili gubitak podataka do kojih može doći uslijed njezine upotrebe.</string>
     <string name="app_crash_test_text">Program za instalaciju paketa prisilno zatvoren</string>
@@ -58,6 +59,7 @@
     <string name="app_info_version_replace">Version: %1$s -> %2$s</string>
     <string name="app_install_safe_check">Provjerite aplikacije prije instalacije</string>
     <string name="app_installing_not_allow">"Blokirali ste instalaciju %1$s %1$s. "</string>
+	 <string name="app_installing_not_allow_1">"Blokirali ste %1$s da instalira aplikaciju. "</string>
     <string name="app_name">Alat za inst. paketa</string>
     <string name="app_non_put_on_the_shelf">Nije dostupno</string>
     <string name="app_not_found_dlg_text">Aplikacija nije pronađena na popisu instaliranih aplikacija.</string>
@@ -76,11 +78,20 @@
     <string name="background_install_task_create_failed">"Nije moguće instalirati"</string>
     <string name="background_install_task_create_failed_already_new">"Nije moguće instalirati. Koristite najnoviju verziju."</string>
     <string name="bottomsheet_action_expand_halfway">Proširi donju polovicu</string>
+	 <string name="bundle_app_learn_how_to_install">Kako instalirati \"%1$s\"</string>
+	 <string name="bundle_app_market_install_background">Instalacija</string>
+    <string name="bundle_app_market_install_permissions">Dopuštenja</string>
+    <string name="bundle_app_market_install_privacy">Privatnost</string>
+    <string name="bundle_app_market_install_title">Instalirati \"%1$s\"?</string>
     <string name="bundle_app_on_self_desc_text">Aplikacija koju ste odabrali već je preuzeta. Ako također želite preuzeti \"%1$s\", dodirnite ovdje.</string>
     <string name="bundle_app_on_self_desc_text_click">Dodirnite ovdje.</string>
     <string name="bundle_app_on_self_tips">Ova je aplikacija navedena u GetApps. Možete je preuzeti s povjerenjem.</string>
     <string name="bundle_app_on_self_tips_no_store">"Upravo ćete preuzeti \"%1$s\""</string>
     <string name="bundle_app_on_self_title_text">\"%1$s\" dio je skupnog preuzimanja</string>
+	 <string name="bundle_app_sure_name">Potvrdite aplikaciju koju želite instalirati</string>
+    <string name="bundle_app_sure_no_market_description">"Aplikacija koju namjeravate instalirati možda nije ona koju tražite. Ova aplikacija može biti rizična ili lažna. Budite oprezni."</string>
+    <string name="bundle_app_sure_no_market_tip">Dodirnite ovdje za nastavak instaliranja \"%1$s\"</string>
+    <string name="bundle_app_sure_title">Ova aplikacija možda nije \"%1$s\"</string>
     <string name="bundle_no_store_app_on_self_desc_text">\"%1$s\" dio je skupnog preuzimanja. Ako i dalje želite preuzeti \"%2$s\", dodirnite ovdje.</string>
     <string name="button_text_back">Natrag</string>
     <string name="cancel_install">Odustani</string>
@@ -422,7 +433,7 @@
     <string name="open_app_install_safe_des">Provjerite moguće rizike i sigurnosne probleme u aplikacijama prije instalacije</string>
     <string name="open_now">Uključi</string>
 	 <string name="open_pure_mode_continue_install">Nastavi</string>
-    <string name="open_pure_mode_sucess_toast">Sigurni način rada je uključen. Promjene će se primijeniti tijekom sljedeće instalacije.</string>
+    <string name="open_pure_mode_sucess_toast">Mi Protect je uključen. Promjene će se primijeniti tijekom sljedeće instalacije.</string>
     <string name="open_to_pure_mode">Uključi</string>
     <string name="passed_security_test">Prošao Xiaomi sigurnosne testove</string>
 	 <string name="passport_access_denied">Pristup odbijen</string>
@@ -655,6 +666,7 @@
     <string name="permission_name_write_calendar">Dodavati i uređivati događaje u kalendaru</string>
     <string name="permission_name_write_external_storage">Spremanje stavki u pohranu uređaja</string>
     <string name="permission_num">%1$s</string>
+	 <string name="please_input_install_app_name">Unesite naziv aplikacije</string>
     <string name="please_input_phone_password">Unesite Zaklj. zaslona</string>
     <string name="pref_ads">Preporuke</string>
     <string name="pref_key_about_privacy_title">Pravila o privatnosti</string>
@@ -679,10 +691,10 @@
     <string name="pure_introduction_title3">Sigurnost plaćanja</string>
     <string name="pure_introduction_title4">Zaštita privatnosti</string>
     <string name="pure_introduction_title5">Zaštita od prijevare</string>
-    <string name="pure_mode_des">Sigurni način rada osigurava da svaka aplikacija instalirana na vašem uređaju prođe Xiaomi sigurnosne testove.</string>
+    <string name="pure_mode_des">Mi Protect osigurava da svaka aplikacija instalirana na vašem uređaju prođe Xiaomi sigurnosne testove.</string>
     <string name="pure_mode_elderly_recommend_title">"Uključi Mi Protect zaštitu starije osobe"</string>
     <string name="pure_mode_give_up_protect">Ne, hvala</string>
-    <string name="pure_mode_open_toast">Sigurni način rada je uključen</string>
+    <string name="pure_mode_open_toast">Mi Protect je uključen</string>
 	 <string name="pure_mode_tip_dialog_des">Dopustiti dovršetak instalacije?</string>
     <string name="pure_mode_tip_dialog_elderly_des">Kako bi zaštitio vašu privatnost i sigurnost, Mi Protect blokira instalaciju aplikacija iz nepoznatih ili rizičnih izvora.</string>
     <string name="pure_mode_tip_dialog_elderly_set">Ako svejedno želite instalirati ovu aplikaciju, to možete učiniti ovdje.</string>
@@ -691,6 +703,8 @@
     <string name="pure_mode_title">Neutralizirajte rizike tijekom instalacije</string>
     <string name="pure_tip_virus">Ova aplikacija sadrži viruse: %1$s</string>
 	 <string name="report_text">Prijavi</string>
+	 <string name="request_network_failed">Došlo je do mrežne pogreške. Dodirnite za ponovni pokušaj.</string>
+    <string name="request_network_please_wait">Samo trenutak…</string>
     <string name="resolve_suggestion_title">Prijedlozi</string>
     <string name="risk_app">Predstavlja rizik</string>
 	 <string name="risk_app_go_to_browser_download">Ovu aplikaciju možete preuzeti u pregledniku</string>
@@ -731,20 +745,20 @@
     <string name="safe_guarding_close_click">Dodirnite ovdje</string>
     <string name="safe_guarding_des">"Snažno preporučamo da ne preuzimate aplikacije koje nisu navedene, viruse i druge vrste rizičnih aplikacija koje Xiaomi nije provjerio. Te aplikacije mogu narušiti vašu privatnost i oštetiti vaš uređaj."</string>
     <string name="safe_guarding_title_2">"Provjeravamo sigurnost aplikacija trećih strana"</string>
-    <string name="safe_install_mode_settings_old">Sigurni način rada</string>
-    <string name="safe_mode">Sigurni način rada</string>
+    <string name="safe_install_mode_settings_old">Mi Protect</string>
+    <string name="safe_mode">Mi Protect</string>
     <string name="safe_mode_already_authorize">Dopušteno</string>
     <string name="safe_mode_authorize_name">Nedavno instalirano: %1$s</string>
     <string name="safe_mode_authorize_once_install">Dopusti jednom</string>
-    <string name="safe_mode_close_tip">Isključivanje sigurnog načina</string>
-    <string name="safe_mode_close_tip_des">"Nećete moći saznati jesu li aplikacije koje ste instalirali prošle naše sigurnosne testove nakon što isključite Sigurni način rada. Svejedno isključiti?"</string>
+    <string name="safe_mode_close_tip">Isključivanje Mi Protecta</string>
+    <string name="safe_mode_close_tip_des">"Nećete moći saznati jesu li aplikacije koje ste instalirali prošle naše sigurnosne testove nakon što isključite Mi Protect. Svejedno isključiti?"</string>
     <string name="safe_mode_close_tip_des_once">"Ako isključite ovu značajku, aplikacije koje nisu prošle Xiaomi sigurnosne testove moći će se instalirati na vaš uređaj. Da biste izbjegli sigurnosne rizike, možete dopustiti instalaciju ove aplikacije jednom ako vjerujete it. Održavanje sigurnog načina rada uključenim pomoći će vam da izbjegnete sigurnosne rizike u budućnosti."</string>
-    <string name="safe_mode_in_service">Sigurni način rada u usluzi</string>
+    <string name="safe_mode_in_service">Mi Protect u usluzi</string>
 	 <string name="safe_mode_introduce_close_tip">Pažnja</string>
     <string name="safe_mode_introduce_close_tip_des">Za vašu privatnost i sigurnost preporučujemo da Mi Protect ostane uključen.</string>
-    <string name="safe_mode_tip_title_off_msg">Sigurni način rada je isključen</string>
-    <string name="safe_mode_tip_title_on_msg">Sigurni način rada</string>
-    <string name="safe_mode_title_text">Sigurni način rada</string>
+    <string name="safe_mode_tip_title_off_msg">Mi Protect je isključen</string>
+    <string name="safe_mode_tip_title_on_msg">Mi Protect</string>
+    <string name="safe_mode_title_text">Mi Protect</string>
     <string name="safe_version_install">Sigurna verzija</string>
     <string name="saturday">Subota</string>
     <string name="saturday_short">Sub</string>
@@ -753,18 +767,24 @@
     <string name="second_recomment_ad_title">Osobe koji instaliraju &lt;font color=#0BAE73>%1$s&lt;/font> također im se sviđa</string>
 	 <string name="secure_mode_app_install_verify">Autoriziraj neprovjerene aplikacije</string>
     <string name="secure_mode_authority_verification_type">Metoda potvrde</string>
+	 <string name="secure_mode_new_function">Nove značajke</string>
+    <string name="secure_mode_new_function_1">Skrivanje ID-a uređaja i sprječavanje praćenja</string>
+    <string name="secure_mode_new_function_2">"Pohrani podatke svake aplikacije zasebno"</string>
+    <string name="secure_mode_new_function_3">Spriječite lažnu i prisilnu instalaciju aplikacije</string>
+    <string name="secure_mode_new_function_4">Spriječi slučajno pokretanje aplikacija</string>
+    <string name="secure_mode_new_title">Sveobuhvatna zaštita od nepregledanih aplikacija</string>
     <string name="secure_mode_open_app_verify_des">"Autoriziraj instalaciju za aplikacije koje GetApps nije potvrdio"</string>
     <string name="secure_mode_security_verify">Sigurnosna autorizacija</string>
     <string name="secure_verify_close_tip_des">"Ako isključite ovu značajku, vaš uređaj neće vršiti sigurnosne provjere aplikacija i sve se aplikacije mogu preuzeti bez autorizacije. Potvrdite svoj identitet da biste mogli isključiti ovu značajku."</string>
     <string name="secure_verify_close_title">Isključivanje sigurnosne provjere</string>
     <string name="security_auth">Potvrdite svoj identitet</string>
     <string name="security_auth_msg">Potvrdite svoj identitet</string>
-    <string name="security_mode_close_feedback">Hvala vam što koristite Sigurni način rada</string>
+    <string name="security_mode_close_feedback">Hvala vam što koristite Mi Protect</string>
 	 <string name="security_mode_close_tips_service_list_title">Mi Protect vam pomaže:</string>
     <string name="security_mode_feedback_commit">Pošalji</string>
     <string name="security_mode_feedback_input_count">%1$s/50</string>
     <string name="security_mode_feedback_multiple_choice">" (Odaberite sve primjenjivo)"</string>
-    <string name="security_mode_feedback_reason">Zašto isključujete Sigurni način rada?</string>
+    <string name="security_mode_feedback_reason">Zašto isključujete Mi Protect?</string>
     <string name="security_mode_feedback_reason_annoying">"To je iritantno"</string>
     <string name="security_mode_feedback_reason_input_hint">Recite nam što mislite</string>
     <string name="security_mode_feedback_reason_install">"Ne mogu instalirati aplikacije kada je uključena"</string>
@@ -775,8 +795,8 @@
 	 <string name="security_mode_guide_about_security_mode">Saznajte više</string>
     <string name="security_mode_guide_about_security_mode_2">Što je Mi Protect?</string>
     <string name="security_mode_guide_do_not_show_again">"Ne prikazuj više"</string>
-    <string name="security_mode_introduce">Značajke sigurnog načina</string>
-    <string name="security_mode_introduce_setting">Postavke sigurnog načina</string>
+    <string name="security_mode_introduce">Značajke Mi Protecta</string>
+    <string name="security_mode_introduce_setting">Postavke Mi Protecta</string>
     <string name="security_mode_off_suggestion_msg">Preporučeno</string>
     <string name="security_mode_on_suggestion_msg">Uključeno</string>
 	 <string name="security_mode_open_guide_elder_action_button">Uključi</string>
@@ -785,27 +805,47 @@
     <string name="security_mode_open_notification_action_button">Detalji</string>
     <string name="security_mode_open_notification_msg">Vaš uređaj je zaštićen</string>
     <string name="security_mode_open_notification_title">Mi Protect je uključen</string>
-    <string name="security_mode_renamed">Sigurni način rada je preimenovan</string>
+    <string name="security_mode_renamed">Mi Protect je preimenovan</string>
     <string name="security_mode_renamed_ok">Razumijem</string>
     <string name="send">Pošalji</string>
     <string name="server_error_msg">"Nije moguće povezati se na mrežu radi sigurnosne provjere"</string>
 	 <string name="service_mode">Vrsta usluge</string>
-    <string name="service_mode_advantage_app_error_install_subtitle">Primi obavijest kada aplikacije pokušaju instalirati druge aplikacije</string>
-    <string name="service_mode_advantage_app_error_install_title">Zaštita od slučajne instalacije</string>
-    <string name="service_mode_advantage_app_security_detection_subtitle">Prepoznaje i sprječava instaliranje visokorizičnih ili zlonamjernih aplikacija i virusa</string>
-    <string name="service_mode_advantage_app_security_detection_title">Provjera sigurnosti aplikacije</string>
-    <string name="service_mode_advantage_icon_title">Prednosti Mi Protect-a</string>
-    <string name="service_mode_advantage_pay_protection_subtitle">Procjenjuje sigurnost okruženja plaćanja i identificira rizike</string>
-    <string name="service_mode_advantage_pay_protection_title">Zaštita plaćanja</string>
-    <string name="service_mode_advantage_risk_app_download_subtitle">Prepoznaje i upozorava na rizične aplikacije prilikom preuzimanja iz preglednika</string>
-    <string name="service_mode_advantage_risk_app_download_title">Spriječite rizična preuzimanja</string>
-    <string name="service_mode_advantage_risk_app_remind_subtitle">Primite upozorenje kada se pokrene rizična aplikacija</string>
-    <string name="service_mode_advantage_risk_app_remind_title">Upozorenja o riziku</string>
+	 <string name="service_mode_advantage_app_error_install_subtitle">"Bit ćete obaviješteni kada aplikacija bude htjela instalirati druge aplikacije na vaš uređaj. Instalacija se neće dogoditi bez vašeg pristanka."</string>
+    <string name="service_mode_advantage_app_error_install_tip">"Dajte dopuštenje
+za instaliranje drugih aplikacija"</string>
+    <string name="service_mode_advantage_app_error_install_title">Spriječite neželjene instalacije</string>
+    <string name="service_mode_advantage_app_security_detection_subtitle">Mi Protect skenira aplikacije u potrazi za virusima i sigurnosnim problemima tijekom instalacije.</string>
+    <string name="service_mode_advantage_app_security_detection_tip">"Znajte kada su aplikacije
+ sigurne"</string>
+    <string name="service_mode_advantage_app_security_detection_title">Naši sigurnosni testovi</string>
+    <string name="service_mode_advantage_bottom_tip">Mi Protect</string>
+    <string name="service_mode_advantage_icon_dark_desc">"Preuzete aplikacije nisu uvijek sigurne.&lt;br>Mogu otkriti vaše privatne podatke.&lt;br>Mnoge se aplikacije koriste za prijevare.&lt;br>&lt;font color=#569a77>Mi Protect&lt;/font> je tu da riješi ove probleme."</string>
+    <string name="service_mode_advantage_icon_desc">"Preuzete aplikacije nisu uvijek sigurne.&lt;br>Mogu otkriti vaše privatne podatke.&lt;br>Mnoge se aplikacije koriste za prijevare.&lt;br>&lt;font color=#52E0A6>Mi Protect&lt;/font> je tu da riješi ove probleme."</string>
+    <string name="service_mode_advantage_pay_protection_subtitle">Mi Protect provjerava okruženje plaćanja na moguće rizike kako bi vaše transakcije bile sigurne.</string>
+    <string name="service_mode_advantage_pay_protection_tip">Zaštitite svoje financije</string>
+    <string name="service_mode_advantage_pay_protection_title">Zaštita okruženja plaćanja</string>
+    <string name="service_mode_advantage_risk_app_download_subtitle">"Rizične aplikacije bit će otkrivene dok ih preuzimate u Mi pregledniku."</string>
+    <string name="service_mode_advantage_risk_app_download_tip">"\u0009Otkriti rizike
+tijekom preuzimanja aplikacija"</string>
+    <string name="service_mode_advantage_risk_app_download_title">Mi Protect omogućuje sigurna preuzimanja</string>
+    <string name="service_mode_advantage_risk_app_forbidden_subtitle">"Mi Protect prema zadanim postavkama ne dopušta rizičnim aplikacijama da instaliraju bilo što drugo na vaš uređaj."</string>
+    <string name="service_mode_advantage_risk_app_forbidden_tip">"Izbjegavajte
+mogući rizici"</string>
+    <string name="service_mode_advantage_risk_app_forbidden_title">"Nemoj dopustiti da rizične aplikacije instaliraju bilo što drugo"</string>
+    <string name="service_mode_advantage_risk_app_remind_subtitle">"Dobit ćete obavijest o svakoj sumnjivoj aktivnosti tijekom otvaranja ili korištenja rizičnih aplikacija."</string>
+    <string name="service_mode_advantage_risk_app_remind_tip">"Saznajte o
+sumnjiva aktivnost"</string>
+    <string name="service_mode_advantage_risk_app_remind_title">Očuvajte svoj uređaj sigurnim dok koristite aplikacije</string>
+    <string name="service_mode_advantage_risk_app_safe_subtitle">Mi Protect će vas obavijestiti o aplikacijama koje dolaze iz nepouzdanih izvora.</string>
+    <string name="service_mode_advantage_risk_app_safe_tip">"Znajte odakle aplikacije
+dolaze"</string>
+    <string name="service_mode_advantage_risk_app_safe_title">Upozorenja o izvoru aplikacije</string>
     <string name="service_mode_advantage_start">Uključite Mi Protect</string>
-    <string name="service_mode_advantage_subtitle">Uz Mi Protect možete preuzeti i koristiti svoje omiljene aplikacije s povjerenjem. Vaša sigurnost i privatnost naš su glavni prioritet.</string>
-    <string name="service_mode_advantage_telecom_fraud_protection_subtitle">Prepoznaje i presreće lažne pozive i poruke te sprječava lažne prijenose sredstava</string>
-    <string name="service_mode_advantage_telecom_fraud_protection_title">Zaštita od poziva prijevare</string>
-    <string name="service_mode_advantage_title">"Pokrivamo vas"</string>
+    <string name="service_mode_advantage_subtitle">Kako radi &lt;font color=#52E0A6>Mi Protect&lt;/font>&lt;br>?</string>
+    <string name="service_mode_advantage_telecom_fraud_protection_subtitle">Mi Protect otkriva, označava i blokira moguću prijevaru.</string>
+    <string name="service_mode_advantage_telecom_fraud_protection_tip">Klonite se prijevara</string>
+    <string name="service_mode_advantage_telecom_fraud_protection_title">Mehanizmi protiv prijevare</string>
+    <string name="service_mode_advantage_title">Korištenje Mi Protecta</string>
     <string name="service_mode_app_error_install">Zaštita od slučajne instalacije</string>
     <string name="service_mode_app_error_install_summary">Primite obavijest kada instalirate aplikacije iz neprovjerenih izvora</string>
     <string name="service_mode_app_security_detection">Provjera sigurnosti aplikacije</string>
@@ -824,7 +864,8 @@
     <string name="settings">Postavke</string>
     <string name="settings_security_mode_recent_install_app">Nedavno instalirano: %1$s</string>
     <string name="settings_security_mode_service_list_title_off_msg">Uključite Mi Protect kako biste uživali u sljedećim značajkama:</string>
-    <string name="settings_security_mode_service_list_title_on_msg">Sigurni način rada pruža sljedeće značajke</string>
+    <string name="settings_security_mode_service_list_title_on_msg">Mi Protect pruža sljedeće značajke</string>
+	 <string name="settings_security_mode_service_msg_0">Nove mjere protiv prijevara i zaštite privatnosti</string>
     <string name="settings_security_mode_service_msg_1">Provjerite aplikacije iz nepoznatih izvora prije instalacije</string>
     <string name="settings_security_mode_service_msg_2">Kontrolirajte i ograničite štetnu aktivnost aplikacije</string>
     <string name="settings_security_mode_service_msg_3">Kontrola dozvola povezanih s privatnošću</string>
@@ -834,13 +875,14 @@
     <string name="settings_security_mode_service_opening_msg_3">Sigurnost plaćanja</string>
     <string name="settings_security_mode_service_opening_msg_4">Zaštita privatnosti</string>
     <string name="settings_security_mode_service_opening_msg_5">Zaštita od prijevare</string>
+	 <string name="settings_security_mode_service_title_0">Instalirajte sigurne aplikacije</string>
     <string name="settings_security_mode_service_title_1">Zaštita od rizičnih aplikacija</string>
     <string name="settings_security_mode_service_title_2">Praćenje ponašanja aplikacije</string>
     <string name="settings_security_mode_service_title_3">Zaštita privatnosti</string>
     <string name="settings_security_mode_service_title_4">Sigurnost plaćanja</string>
     <string name="settings_security_mode_status_off_msg">Isključeno</string>
-    <string name="settings_security_mode_status_on_msg">Sigurni način rada je uključen</string>
-    <string name="settings_security_mode_title_off_msg">Sigurni način rada</string>
+    <string name="settings_security_mode_status_on_msg">Mi Protect je uključen</string>
+    <string name="settings_security_mode_title_off_msg">Mi Protect</string>
     <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>
     <string name="size_kilo_byte">KB</string>
@@ -911,7 +953,7 @@
     <string name="verify_to_sure_close">Isključi</string>
     <string name="virus_install_confirm_cancel">Odustani</string>
     <string name="virus_install_confirm_install">Instaliraj</string>
-    <string name="virus_safe_install_mode_security_tips">Ako vjerujete ovoj aplikaciji, možete autorizirati njezinu instalaciju u Postavke &gt; Aplikacije &gt; Sigurni način rada.</string>
+    <string name="virus_safe_install_mode_security_tips">Ako vjerujete ovoj aplikaciji, možete autorizirati njezinu instalaciju u Postavke &gt; Aplikacije &gt; Mi Protect.</string>
     <string name="virus_safe_install_mode_security_tips_pi">Ako vjerujete ovoj aplikaciji, dodirnite ikonu Postavke i odaberite \"Sigurni način\" da biste autorizirali njezinu instalaciju.</string>
     <string name="virus_scanning">Provjera…</string>
     <string name="virus_warning_title">Otkriveni virusi</string>
@@ -922,8 +964,8 @@
     <string name="wednesday">Srijeda</string>
     <string name="wednesday_short">Sri</string>
     <string name="wednesday_shortest">S</string>
-    <string name="welcome_to_security_mody">Dobro došli u Sigurni način rada</string>
-    <string name="what_is_security_mode">Što je Sigurni način rada?</string>
+    <string name="welcome_to_security_mody">Dobro došli u Mi Protect</string>
+    <string name="what_is_security_mode">Što je Mi Protect?</string>
     <string name="xiaomi_account_risk">Zaporka Mi Računa</string>
     <string name="xiaomi_account_verify">Prijavite se na svoj Mi Račun kako biste mogli nastaviti instalaciju.</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Ne sada</string>
