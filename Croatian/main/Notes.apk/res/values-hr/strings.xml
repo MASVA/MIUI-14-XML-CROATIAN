@@ -43,7 +43,7 @@
     <string name="actionbar_close_description">Zatvori</string>
     <string name="actionbar_home_description">Natrag</string>
     <string name="add_account_desc">Sinkronizirati vaše bilješke s vašim Xiaomi Računom?</string>
-    <string name="afternoon">PM</string>
+	 <string name="added_to_clipboard">Uspješno kopirano</string>
     <string name="alarm_bar_title">Podsjetnik</string>
     <string name="alert_action_edit_anyway">Nastavi uređivati</string>
     <string name="alert_edit_action_delete">Ukloni</string>
@@ -141,6 +141,7 @@
     <string name="chip_text">Chip tekst</string>
     <string name="clear_text_end_icon_content_description">Izbriši tekst</string>
     <string name="clearable_edittext_clear_description">Izbriši</string>
+	 <string name="clip_resource_deleted">Ova stavka više nije dostupna</string>
     <string name="close">Zatvori</string>
     <string name="cloud_trash_bin_title">Izbriši bilješke u Xiaomi Cloudu</string>
     <string name="confirm_cancel">"Ne slažem se"</string>

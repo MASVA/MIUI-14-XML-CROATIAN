@@ -104,6 +104,7 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
     <string name="apply_not_support_aod">"Always-on zaslon nije podržan na ovom uređaju"</string>
     <string name="apply_not_support_in_second_space">"Ne mogu primijeniti ovu stavku u Drugom prostoru"</string>
     <string name="apply_not_support_maml_aod">"Ne mogu kombinirati Always-on zaslon s temama na ovom uređaju"</string>
+	 <string name="apply_not_support_video_wallpaper_warning">"4K, 8K i Dolby videozapisi ne mogu se postaviti kao video pozadine."</string>
     <string name="apply_sensor_video_wallpaper_dialog_message">Ova pozadina će se primijeniti na unutarnji i vanjski Zaklj. zaslon i Poč. zaslon.</string>
     <string name="apply_succeed">Uspješno postavljeno</string>
     <string name="apply_success_not_enable_aod">Prvo uključite Always-on zaslon u postavkama</string>

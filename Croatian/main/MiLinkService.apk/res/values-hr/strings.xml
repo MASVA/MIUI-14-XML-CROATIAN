@@ -151,25 +151,36 @@ za zrcaljenje zaslona ovog tableta"</string>
     <string name="circulate_device_type_name_tv">TV</string>
     <string name="circulate_device_type_name_wifi_speaker">Zvučnik</string>
     <string name="circulate_device_type_name_wifi_speaker_with_screen">Zvučnik s dodirnim zaslonom</string>
-    <string name="circulate_headset_back_to_box_desc">"1. Stavite obje slušalice u kutiju za punjenje.
-2. Pritisnite i držite gumb na kućištu.
+    <string name="circulate_headset_back_to_box_desc">"1. Stavite obje slušalice u kućište.
+2. Pritisnite i držite tipku na kućištu.
 3. Završite uparivanje na ciljnom uređaju."</string>
 	 <string name="circulate_headset_back_to_box_desc_err_308">Da biste mogli prenositi reprodukciju između uređaja, najprije uparite svoje slušalice s TV-om.</string>
-	 <string name="circulate_headset_back_to_box_desc_pad">"1. Stavite obje slušalice u torbicu.
-2. Pritisnite i držite gumb na kućištu.
+	 <string name="circulate_headset_back_to_box_desc_err_310">"1. Pritisnite tipku za uključivanje/isključivanje na daljinskom upravljaču televizora da odspojite zvučnike.
+2. Pokušajte ponovo spojiti slušalice kada zaslon zasvijetli."</string>
+	 <string name="circulate_headset_back_to_box_desc_pad">"1. Stavite obje slušalice u kućište.
+2. Pritisnite i držite tipku na kućištu.
 3. Dovršite uparivanje u Bluetooth postavkama ili pomoću skočnog dijaloškog okvira na ovom uređaju."</string>
-	 <string name="circulate_headset_back_to_box_desc_phone">"1. Stavite obje slušalice u torbicu.
-2. Pritisnite i držite gumb na kućištu.
+	 <string name="circulate_headset_back_to_box_desc_phone">"1. Stavite obje slušalice u kućište.
+2. Pritisnite i držite tipku na kućištu.
 3. Dovršite uparivanje u Bluetooth postavkama ili pomoću skočnog dijaloškog okvira na ovom uređaju."</string>
-	 <string name="circulate_headset_back_to_box_desc_tv">"1. Stavite obje slušalice u kutiju za punjenje.
-2. Pritisnite i držite gumb na kućištu.
+	 <string name="circulate_headset_back_to_box_desc_tv">"1. Stavite obje slušalice u kućište.
+2. Pritisnite i držite tipku na kućištu.
 3. Otvorite popis dostupnih Bluetooth uređaja na TV-u i potvrdite uparivanje."</string>
 	 <string name="circulate_headset_back_to_box_subtitle">"Ne mogu automatski upariti ove slušalice. Umjesto toga ih uparite ručno na ciljnom uređaju."</string>
 	 <string name="circulate_headset_back_to_box_title">Prvo uparite slušalice</string>
 	 <string name="circulate_headset_back_to_box_title_err_308">Uparite svoje slušalice</string>
+	 <string name="circulate_headset_back_to_box_title_err_310">Prvo odspojite zvučnike TV-a</string>
 	 <string name="circulate_headset_back_to_box_title_pad">Uparite slušalice s ovim uređajem</string>
 	 <string name="circulate_headset_back_to_box_title_phone">Uparite slušalice s ovim uređajem</string>
 	 <string name="circulate_headset_back_to_box_title_tv">Uparite svoje slušalice</string>
+	 <string name="circulate_headset_control_anc_clear">Transparentnost</string>
+	 <string name="circulate_headset_control_anc_disable_hint">Vaše su slušalice spojene na dva uređaja. Glasnoću možete podešavati samo s ovog uređaja.</string>
+	 <string name="circulate_headset_control_anc_noise_cancel">Poništavanje buke</string>
+	 <string name="circulate_headset_control_anc_off">Isključeno</string>
+	 <string name="circulate_headset_control_battery_case">Kućište</string>
+	 <string name="circulate_headset_control_battery_left">L</string>
+	 <string name="circulate_headset_control_battery_right">R</string>
+	 <string name="circulate_headset_control_more_settings">Dodatne postavke</string>
 	 <string name="circulate_headset_duplicate_cancel">Odustani</string>
 	 <string name="circulate_headset_duplicate_dialog_message">Izgleda da je drugi set slušalica spojen na vaš %1$s. Želite li ih zamijeniti trenutnim skupom?</string>
 	 <string name="circulate_headset_duplicate_dialog_title">Zamijenite slušalice spojene na %1$s</string>
@@ -179,6 +190,8 @@ za zrcaljenje zaslona ovog tableta"</string>
 	 <string name="circulate_headset_error_default">Veza je istekla</string>
 	 <string name="circulate_headset_error_device_not_support">"Ne mogu spojiti slušalice na ovaj uređaj"</string>
 	 <string name="circulate_headset_error_headset_not_support">"Ne mogu povezati vaše slušalice s ovim računalom"</string>
+	 <string name="circulate_headset_error_headset_not_worn">Stavite obje slušalice i pokušajte ponovno</string>
+    <string name="circulate_headset_error_headset_not_worn_both">Stavite obje slušalice i pokušajte ponovno</string>
     <string name="circulate_headset_error_remote_host_bluetooth_unenable">"Uključite Bluetooth na svom TV-u
 i prijavite se na svoj Xiaomi račun"</string>
 	 <string name="circulate_headset_error_self_upgrade">"Nije moguće dovršiti ovu radnju. Prvo ažurirajte Mi Smart Hub."</string>
