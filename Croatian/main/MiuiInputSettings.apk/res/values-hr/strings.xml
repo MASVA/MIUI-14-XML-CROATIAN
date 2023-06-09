@@ -47,6 +47,12 @@
    <string name="back_tap">Dodirni stražnju stranu</string>
    <string name="back_triple_tap">Trostruki dodir unatrag</string>
    <string name="bottomsheet_action_expand_halfway">Proširi donju polovicu</string>
+   <string name="bt_enable_pair_connect_cancel">Odustani</string>
+   <string name="bt_enable_pair_connect_fail">"Nije moguće povezati se. Pokušajte ponovno."</string>
+   <string name="bt_enable_pair_connect_line">Xiaomi Pad tipkovnica</string>
+   <string name="bt_enable_pair_connect_ok">Poveži se</string>
+   <string name="bt_enable_pair_connect_succceed">Uspješno povezano</string>
+   <string name="bt_enable_pair_connecting">Povezivanje…</string>
    <string name="builtin_keyboard_settings_title">Fizička tipkovnica</string>
    <string name="camera_key_action_app_title">Otvori aplikaciju</string>
    <string name="camera_key_action_category_title">"Ne mogu koristiti kameru"</string>
@@ -112,6 +118,12 @@ Generirane zapisnike možete vidjeti u aplikaciji Datoteke."</string>
    <string name="intelligence_suppression_summary">Dinamički prilagodite veličinu područja u blizini rubova gdje će se slučajni dodir zanemariti na temelju vašeg stiska</string>
    <string name="intelligence_suppression_title">Automatski (preporučeno)</string>
    <string name="item_view_role_description">Kartica</string>
+   <string name="kddi_long_press_power_guide_assistant_message">Pritisnite i držite tipku Power za %ss da probudite Google pomoćnika</string>
+	 <string name="kddi_long_press_power_guide_assistant_title">Probudite Google pomoćnika</string>
+	 <string name="kddi_long_press_power_guide_know">Shvaćam</string>
+	 <string name="kddi_long_press_power_guide_settings">Postavke</string>
+	 <string name="kddi_long_press_power_guide_shutdown_message">Istovremeno pritisnite tipke za Power i glasnoću za ponovno pokretanje ili isključivanje uređaja</string>
+	 <string name="kddi_long_press_power_guide_shutdown_title">Ponovo pokrenite ili isključite uređaj</string>
    <string name="key_combination_power_back">Power i Natrag</string>
    <string name="key_combination_power_home">Power i Početna</string>
    <string name="key_combination_power_menu">Power i Izbornik</string>
@@ -137,6 +149,10 @@ Generirane zapisnike možete vidjeti u aplikaciji Datoteke."</string>
    <string name="keyboard_back_light">Pozadinsko osvjetljenje tipkovnice</string>
    <string name="keyboard_back_light_automatic_adjustment">Automatsko podešavanje pozadinskog osvjetljenja</string>
    <string name="keyboard_back_light_brightness">Svjetlina pozadinskog osvjetljenja</string>
+   <string name="keyboard_connect_fail_text">"Nije moguće povezati tipkovnicu"</string>
+   <string name="keyboard_connect_lose_text">Izgubljena veza tipkovnice</string>
+   <string name="keyboard_connect_low_electricity_text">Baterija tipkovnice je slaba. Priključite punjač.</string>
+   <string name="keyboard_connect_success_text">Tipkovnica je uspješno povezana</string>
    <string name="keyboard_cursor_style_title">Stil kursora</string>
    <string name="keyboard_cursor_title">Pokazivač</string>
    <string name="keyboard_function_summary_first_line">·Pritisnite i držite za prikaz prečaca.</string>
@@ -174,7 +190,7 @@ Generirane zapisnike možete vidjeti u aplikaciji Datoteke."</string>
    <string name="ks_dialog_conflict">Ovaj prečac se već koristi za \"%s\"</string>
    <string name="ks_dialog_modify_text">Unesite kombinaciju tipki za uređivanje ovog prečaca.</string>
    <string name="ks_dialog_reset_btn">Vrati</string>
-       <string name="ks_dialog_reset_conflict_text">"Nije moguće poništiti. Ova je kombinacija već zauzeta."</string>
+	   <string name="ks_dialog_reset_conflict_text">"Nije moguće poništiti. Ova je kombinacija već zauzeta."</string>
    <string name="ks_dialog_reset_text_app">Zadane postavke prečaca za otvaranje aplikacija bit će vraćene. Vaši prilagođeni prečaci bit će izbrisani. Svejedno vratiti?</string>
    <string name="ks_dialog_reset_text_system">Želite li sada vratiti zadane postavke prečaca sustava?</string>
    <string name="ks_dialog_title">Otvori %s</string>
@@ -437,6 +453,8 @@ Dodirnite dvaput za otvaranje Nedavno."</string>
    <string name="stylus_ota_updating">Ažuriranje</string>
    <string name="stylus_pen_mask_text">Dodirnite zaslon za početak pisanja</string>
    <string name="stylus_primary_key">Prva tipka</string>
+   <string name="stylus_quick_note_summary">Kada je zaslon isključen, dodirnite ga pisaljkom da počnete pisati. Ova značajka povećava potrošnju energije.</string>
+   <string name="stylus_quick_note_title">Pišite s isključenim zaslonom</string>
    <string name="stylus_quick_write">Pišite</string>
    <string name="stylus_quick_write_summary">Pritisnite i držite tipku za pisanje kako biste pisali ili crtali.</string>
    <string name="stylus_schematic_diagram">Demo</string>

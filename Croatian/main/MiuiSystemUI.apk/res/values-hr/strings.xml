@@ -1906,11 +1906,17 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="quick_settings_hotspot_secondary_label_data_saver_enabled">Štednja pod. prom. uklj.</string>
   <string name="quick_settings_hotspot_secondary_label_transient">Uključivanje…</string>
   <string name="quick_settings_internet_label">Internet</string>
+  <string name="quick_settings_intelligent_dual_sim_accelerate_summary">Koristite mobilne podatke sekundarne SIM kartice za povećanje brzine veze</string>
+  <string name="quick_settings_intelligent_dual_sim_accelerate_title">Smart dual SIM</string>
   <string name="quick_settings_inversion_label">Zamjena boja</string>
   <string name="quick_settings_location_label">Lokacija</string>
   <string name="quick_settings_low_battery_toast_text">"Ne mogu koristiti svjetiljku. Slaba baterija."</string>
   <string name="quick_settings_media_device_label">Medijski uređaj</string>
   <string name="quick_settings_mic_label">Pristup mikrofonu</string>
+  <string name="quick_settings_miui_wifi_detail_empty_text">Nema dostupnih Wi-Fi mreža</string>
+  <string name="quick_settings_miui_wifi_label">Wi-Fi</string>
+  <string name="quick_settings_miui_wlan_detail_empty_text">Nema dostupnih Wi-Fi mreža</string>
+  <string name="quick_settings_miui_wlan_label">Wi-Fi</string>
   <string name="quick_settings_more_settings">Više postavki</string>
   <string name="quick_settings_more_user_settings">Korisničke postavke</string>
   <string name="quick_settings_mute_label">Utišaj</string>
@@ -1943,6 +1949,9 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="quick_settings_screenshot_label">Snimka zaslona</string>
   <string name="quick_settings_secondary_label_until">Do %s</string>
   <string name="quick_settings_sim_disabled">" (Onemogućeno)"</string>
+  <string name="quick_settings_state_saved">Spremljeno</string>
+  <string name="quick_settings_state_wifi_select_nearby_ap">Odaberite Wi-Fi mreže u blizini</string>
+  <string name="quick_settings_state_wlan_select_nearby_ap">Odaberite Wi-Fi mreže u blizini</string>
   <string name="quick_settings_sync_label">Sinkr.</string>
   <string name="quick_settings_tiles_old_mode">cell,wifi,bt,flashlight,batterysaver,screenshot,edit</string>
   <string name="quick_settings_tiles_super_save">cell,wifi,bt,gps,vibrate</string>
@@ -1962,6 +1971,8 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="quick_settings_wifi_detail_empty_text">Nije dostupna nijedna Wi-Fi mreža</string>
   <string name="quick_settings_wifi_label">Wi-Fi</string>
   <string name="quick_settings_wifi_secondary_label_transient">Uključivanje…</string>
+  <string name="quick_settings_wifi_is_off">Wi-Fi je isključen</string>
+  <string name="quick_settings_wlan_is_off">Wi-Fi je isključen</string>
   <string name="quick_settings_work_mode_label">Poslovne aplikacije</string>
   <string name="quick_step_accessibility_toggle_overview">Uključivanje/isključivanje pregleda</string>
   <string name="rapid_charge_mode_tip">Brzo punjenje</string>

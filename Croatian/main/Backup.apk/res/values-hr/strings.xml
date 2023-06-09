@@ -85,6 +85,7 @@
     <string name="backup_new">Novo:</string>
 	 <string name="backup_notice_content">"Vaše sigurnosne kopije neće biti kriptirane, što znači da im mogu pristupiti ili ublažiti aplikacije trećih strana. Mogu se pojaviti i drugi sigurnosni rizici. Svakako pohranite sigurnosno kopirane stavke na dobro zaštićeno mjesto."</string>
     <string name="backup_notification_title">\"Sig. kopija\" se izvodi…</string>
+	 <string name="backup_notice_title">Pažnja</string>
     <string name="backup_progress">Izrada Sig. kopije…</string>
     <string name="backup_report">Prikaži detalje</string>
     <string name="backup_security_tips_message">Neke aplikacije možda neće moći biti sigurnosno kopirane ili vraćene.</string>

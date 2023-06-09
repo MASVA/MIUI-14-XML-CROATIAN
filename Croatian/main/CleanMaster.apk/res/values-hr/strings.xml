@@ -541,6 +541,7 @@
     <string name="miuix_appcompat_delete_description">Izbriši</string>
     <string name="miuix_appcompat_deselect_all">Poništi odabir</string>
     <string name="miuix_appcompat_deselect_all_description">Poništi odabir</string>
+	 <string name="miuix_appcompat_edit">Uredi</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Odustani</string>
     <string name="miuix_appcompat_search_input_description">Traži</string>
     <string name="miuix_appcompat_select_all">Odaberi sve</string>
@@ -832,7 +833,7 @@
     <string name="time_picker_label_minute">M</string>
     <string name="tips_low_storage_dialog_cancel">Odustani</string>
     <string name="tips_low_storage_dialog_msg_qq">Veličina QQ memorije dosegla je 3 GB. To može usporiti vaš uređaj. Želite li sada očistiti QQ predmemoriju?</string>
-    <string name="tips_low_storage_dialog_msg_qq_new">Veličina QQ memorije dosegla je %dGB. To može usporiti vaš uređaj. Želite li sada očistiti QQ predmemoriju?</string>
+    <string name="tips_low_storage_dialog_msg_qq_new">Veličina QQ memorije dosegla je %d GB. To može usporiti vaš uređaj. Želite li sada očistiti QQ predmemoriju?</string>
     <string name="tips_low_storage_dialog_msg_storage">"Koristite 90% prostora za pohranu. Deinstalirajte aplikacije koje ne upotrebljavate."</string>
     <string name="tips_low_storage_dialog_msg_storage_new">"Koristite %s prostora za pohranu. Deinstalirajte aplikacije koje ne upotrebljavate."</string>
     <string name="tips_low_storage_dialog_msg_wechat">Veličina WeChat memorije dosegla je 3 GB. To može usporiti vaš uređaj. Želite li sada očistiti WeChat predmemoriju?</string>
@@ -841,7 +842,7 @@
     <string name="tips_low_storage_dialog_title">Prostor za pohranu je nizak</string>
     <string name="tips_of_app_manage">Izbrišite rijetko korištene aplikacije za uštedite prostor za pohranu</string>
     <string name="tips_of_auto_launch_manage">Spriječite rijetko korištene aplikacije od automatskog pokretanja</string>
-    <string name="tips_of_cloud_service">Prijavite se sa svojim Xiaomi Računom da koristite više Mi Usluga</string>
+    <string name="tips_of_cloud_service">Prijavite se sa svojim Xiaomi Računom da koristite više Xiaomi Usluga</string>
     <string name="tips_of_connect">Povežite se na Internet da koristite cijeli set značajki sigurnosti</string>
     <string name="tips_of_garbage_cloud_scan">Pronađite skriveno smeće s cloud skeniranjem</string>
     <string name="tips_of_garbage_data_set">Ažurirajte bazu podataka Čistača da pronađete više smeća na vašem uređaju</string>

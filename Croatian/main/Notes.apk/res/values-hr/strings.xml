@@ -619,6 +619,7 @@ Dodirnite + da napravite mapu"</string>
     <string name="pad_note_list_not_text_stub">Bez teksta</string>
     <string name="pad_todo_create_hint">Dodajte zadatak task</string>
     <string name="password_toggle_content_description">Prikaži zaporku</string>
+	 <string name="paste_unsupported_data">"Ne mogu zalijepiti ovaj sadržaj"</string>
     <string name="pc_action_create_new_folder">Mapa</string>
     <string name="pc_action_create_new_mind_note">Mapa uma</string>
     <string name="pc_action_create_new_normal_note">Bilješka</string>

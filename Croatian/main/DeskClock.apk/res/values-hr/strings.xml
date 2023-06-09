@@ -429,6 +429,7 @@ mm"</string>
     <string name="privacy_policy">Pravila o privatnosti</string>
     <string name="privacy_policy_title">Pravila o privatnosti</string>
     <string name="privacy_settings">Privatnost</string>
+	 <string name="privacy_settings_title">Privatnost</string>
     <string name="query_privacy_policy">Pogledajte Pravila o privatnosti</string>
     <string name="reach_upper_limit">"Ne mogu dodati više timera"</string>
     <string name="read_external_storage_permission_desc">Za postavljanje prilagođenih melodija zvona</string>

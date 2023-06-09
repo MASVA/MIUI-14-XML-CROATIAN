@@ -327,7 +327,8 @@ To može generirati dodatne naknade."</string>
     <string name="login_app_cancel">Odustani</string>
     <string name="login_app_confirm">Prijava</string>
     <string name="login_xiaomi_account_summary">"Pročitao sam i prihvaćam Xiaomi Račun &lt;font color ='#0D84FF'&gt;&lt;a href='%1$s'&gt;Korisnički ugovor&lt;/font&gt;&lt;/a&gt; i &lt;font color ='#0D84FF'&gt;&lt;a href='%2$s'&gt;Pravila o privatnosti&lt;/font&gt;&lt;/a&gt;."</string>
-    <string name="logout_account">Odjava</string>
+    <string name="logout">Odjava</string>
+	 <string name="logout_account">Odjava</string>
     <string name="logout_cancel">Odustani</string>
     <string name="logout_confirm">U redu</string>
     <string name="logout_summary">"Nakon što se odjavite, nećete moći sinkronizirati svoje pretplate i prilagođene postavke na svim uređajima. Odjaviti se svejedno?"</string>
@@ -555,7 +556,8 @@ mm"</string>
     <string name="passport_error_auth_fail">Sesija je istekla. Prijavite se ponovno.</string>
     <string name="passport_error_device_id">"Ne mogu dobiti ID uređaja"</string>
     <string name="passport_error_dup_bound_email">Ova adresa e-pošte već je povezana s drugim Xiaomi računom.</string>
-    <string name="passport_error_empty_password">Unesite svoju zaporku</string>
+    <string name="passport_error_dup_binded_email">Ova adresa e-pošte već je povezana s drugim Xiaomi računom.</string>
+	 <string name="passport_error_empty_password">Unesite svoju zaporku</string>
     <string name="passport_error_empty_pwd">"Zaporka ne može biti prazna"</string>
     <string name="passport_error_empty_user_id">Unesite svoje korisničko ime</string>
     <string name="passport_error_invalid_bind_address">Adresa e-pošte koju ste unijeli je nevažeća.</string>
@@ -575,7 +577,8 @@ mm"</string>
     <string name="passport_error_user_name">Korisničko ime koje ste unijeli nije valjano</string>
     <string name="passport_error_user_password">"Zaporke se ne podudaraju"</string>
     <string name="passport_exceed_bound_phone_times_notice">Ovaj broj telefona već je povezan s drugim Xiaomi računom.</string>
-    <string name="passport_facebook_login_btn_content_description">Prijavite se s Facebookom</string>
+    <string name="passport_exceed_binded_phone_times_notice">Ovaj broj telefona već je povezan s drugim Xiaomi računom.</string>
+	 <string name="passport_facebook_login_btn_content_description">Prijavite se s Facebookom</string>
     <string name="passport_frequency_try_later">Previše pokušaja. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
     <string name="passport_get_login_type_next">Dalje</string>
     <string name="passport_get_phone_verifycode_exceed_limit">Previše kontrolnih kodova poslano je na ovaj broj. Pričekajte 24 sata i pokušajte ponovno.</string>
@@ -605,6 +608,7 @@ mm"</string>
     <string name="passport_no_account">Nisam prijavljen</string>
     <string name="passport_oauth_actionbar_title">Xiaomi Račun</string>
     <string name="passport_oauth_success_tip">Uspješno autorizirano</string>
+	 <string name="passport_oauth_sucess_tip">Uspješno autorizirano</string>
     <string name="passport_open_settings">Postavke</string>
     <string name="passport_page_load_failed">"Ne mogu otvoriti stranicu"</string>
     <string name="passport_password_login_btn">Prijavite se</string>

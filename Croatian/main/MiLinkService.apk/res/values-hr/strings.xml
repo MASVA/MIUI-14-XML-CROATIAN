@@ -213,6 +213,7 @@ Vaši uređaji?"</string>
     <string name="circulate_ringfind_error_hint_start">"Nije moguće reproducirati zvuk. Pokušajte ponovno."</string>
     <string name="circulate_ringfind_error_hint_stop">"Nije moguće zaustaviti reprodukciju zvuka. Pokušajte ponovno."</string>
     <string name="circulate_ringfind_title">Reproduciraj zvuk</string>
+	 <string name="circulate_ringfind_title_stop">Zaustavi reprodukciju zvuka</string>
     <string name="circulate_title">Mi Smart Hub</string>
     <string name="circulate_tv_power_alter_text">"Postavili ste TV da se isključi ili isključi zaslon. Daljinski upravljači i TV će nestati odavde nakon što se TV isključi."</string>
     <string name="circulate_tv_power_alter_title">Pažnja</string>

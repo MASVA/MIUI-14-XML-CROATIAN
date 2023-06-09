@@ -96,7 +96,7 @@
    <string name="controls_edit_added_subtitle">Povucite stavke da biste promijenili raspored</string>
    <string name="controls_edit_added_title">Dodano</string>
    <string name="controls_edit_done_button">Gotovo</string>
-   <string name="controls_edit_go_to_app_guide">Otvori</string>
+   <string name="controls_edit_go_to_app_guide">Otvori %s</string>
    <string name="controls_edit_not_added_title">Dostupno</string>
    <string name="controls_edit_panel_not_added_title">Dostupni uređaji</string>
    <string name="controls_edit_panel_save_button">Gotovo</string>
@@ -429,6 +429,7 @@ Duže izlaganje glasnim zvukovima može uzrokovati probleme sa sluhom."</string>
    <string name="sunday_shortest">N</string>
    <string name="switch_bar_off">Isključeno</string>
    <string name="switch_bar_on">Uključeno</string>
+   <string name="system_update">Ažuriranje sustava</string>
    <string name="thursday">Četvrtak</string>
    <string name="thursday_short">Čet</string>
    <string name="thursday_shortest">Č</string>
