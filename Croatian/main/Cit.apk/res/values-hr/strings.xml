@@ -29,6 +29,7 @@
 	 <string name="auto_frontflash_title">Test bljeskalice prednje kamere</string>
 	 <string name="auto_rearflash_description">Sva svjetla bljeskalice stražnje kamere su uključena, dodirnite za prolaz, inače test nije uspio</string>
 	 <string name="auto_rearflash_title">Test bljeskalice stražnje kamere</string>
+	 <string name="aux_mic_check_record_tip">Snimanje, recite nešto u AUX MIC na dnu uređaja</string>
 	 <string name="back_mic_check_record_tip">Snimanje, recite nešto u mikrofon na stražnjoj strani uređaja</string>
 	 <string name="battery_authentic">Autentična baterija</string>
 	 <string name="battery_dual_connector">BatteryDualConnector</string>
@@ -132,10 +133,18 @@ Prije kalibracije uređaja, stavite ga na ravnu površinu."</string>
 	 <string name="cit_audio_hw_check_summary">Test provjere audio hardvera</string>
 	 <string name="cit_audio_hw_check_tips">Probno izvođenje</string>
 	 <string name="cit_audio_hw_check_title">Test provjere audio hardvera</string>
-	 <string name="cit_audio_lb_mainmic_to_earpiece_title">Test povratnih informacija zvučnika glavnog mikrofona</string>
-	 <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Test povratnih informacija od glavnog mikrofona do prijemnika.
+	 <string name="cit_audio_lb_backmic_to_earpiece_title">Test povratne informacije zvučnika stražnjeg mikrofona</string>
+	 <string name="cit_audio_lb_mainmic_to_earpiece_title">Test povratne informacije zvučnika glavnog mikrofona</string>
+	 <string name="cit_audio_lb_summary_backmic_to_earpiece">"Test povratne informacije od stražnjeg mikrofona do prijemnika.
+
+Držite uređaj kao da upućujete poziv, govorite u glavni mikrofon, trebali biste čuti glas iz slušalice"</string>
+	 <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Test povratne informacije od glavnog mikrofona do prijemnika.
 
 Držite uređaj kao da upućujete poziv, govorite u glavni mikrofon, trebali biste čuti glas iz prijemnika"</string>
+   <string name="cit_audio_lb_summary_topmic_to_earpiece">"Test povratne informacije od gornjeg mikrofona do prijemnika.
+
+Držite uređaj kao da upućujete poziv, govorite u glavni mikrofon, trebali biste čuti glas iz slušalice"</string>
+    <string name="cit_audio_lb_topmic_to_earpiece_title">Test povratnih informacija o gornjem zvučniku mikrofona</string>
 	 <string name="cit_audio_spk_cal_valueF0">F0:</string>
 	 <string name="cit_audio_spk_cal_valueRe">Re:</string>
 	 <string name="cit_audio_spk_cal_valueT">Temp:</string>
@@ -221,6 +230,16 @@ i okrenite utikač punjača"</string>
 Molimo dodirnite odgovarajući tipku prema broju koji čujete"</string>
 	 <string name="cit_emergencycall_check_summary">Pritisnite Biraj 112 za biranje broja 112 kako biste provjerili može li se isti birati.</string>
 	 <string name="cit_emergencycall_check_title">Hitan poziv</string>
+	 <string name="cit_esim_check_summary">Sljedeće prikazuje status eSIM-a, a točan prikaz statusa eSIM-a označava da je test prošao</string>
+	 <string name="cit_esim_check_title">eSIM kartica</string>
+	 <string name="cit_esim_eid_error">Neusklađenost s eID-om</string>
+	 <string name="cit_esim_eid_number">eID:</string>
+	 <string name="cit_esim_mode_general_summary">Podržava eSIM/SIM2 prebacivanje</string>
+	 <string name="cit_esim_mode_number">eSIM način rada:</string>
+	 <string name="cit_esim_mode_single_summary">Nema podrške za prebacivanje eSIM/SIM2</string>
+	 <string name="cit_esim_serial_number">eSIM kartica:</string>
+	 <string name="cit_esim_state_absent">eSIM nije aktiviran</string>
+	 <string name="cit_esim_state_ready">eSIM omogućen</string>
 	 <string name="cit_exit_test_summary">Kada izađete, svi povezani tekstualni podaci će biti izbrisani.</string>
 	 <string name="cit_exit_test_title">Zaustavi testiranje</string>
 	 <string name="cit_external_keyboard_test_summary">Unesite znakove nasumično nakon povezivanja tipkovnice i promatrajte rezultate testa</string>
@@ -294,6 +313,7 @@ Prije testiranja morate umetnuti slušalice"</string>
 	 <string name="cit_main_board_bottom_speaker_test_title">Test donjeg zvučnika na glavnoj ploči</string>
 	 <string name="cit_main_board_top_speaker_test_title">Test najboljih zvučnika na glavnoj ploči</string>
 	 <string name="cit_main_camera_check_title">Stražnja kamera</string>
+	 <string name="cit_modem_hardware_title">Test hardvera modema</string>
 	 <string name="cit_nfc_check_enable_tip">Pokreni NFC testno okruženje</string>
 	 <string name="cit_nfc_check_summary">"Kliknite tipku da biste pokrenuli NFC, a zatim stavite karticu na gornji dio stražnje strane uređaja.
 Nemojte isključivati ​​zaslon tijekom testa"</string>
@@ -798,17 +818,19 @@ Test nije uspio!"</string>
     <string name="mtrl_picker_toggle_to_day_selection">Dodirnite za prijelaz na odabir dana</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Prijelaz na način unosa teksta</string>
     <string name="mtrl_picker_toggle_to_year_selection">Dodirnite za prijelaz na odabir godine</string>
-	 <string name="mic1_spk_loop">Mic speak Loop</string>
+	 <string name="main_mic_check_record_tip">Snimanje, recite nešto u mikrofon na dnu uređaja</string>
+	 <string name="mic1_spk_loop">Mikrofon speak Loop</string>
 	 <string name="mic_check_rm_headset_tip">Najprije uklonite slušalice i snimite zvuk.</string>
-	 <string name="mic_tip">Molimo da napravite buku na MIC-u. Nakon što priključite slušalice, slušajte slušalice za zvuk</string>
-	 <string name="mic_volume_height_tip">Prošao test glasnoće MIC-a</string>
-	 <string name="mic_volume_low_tip">MIC test glasnoće nije prošao. Molimo da napravite veći zvuk prilikom snimanja</string>
+	 <string name="mic_tip">Molimo da napravite buku mikrofona. Nakon što priključite slušalice, slušajte slušalice za zvuk</string>
+	 <string name="mic_volume_height_tip">Prošao test glasnoće mikrofona</string>
+	 <string name="mic_volume_low_tip">Test glasnoće mikrofona nije prošao. Molimo da napravite veći zvuk prilikom snimanja</string>
 	 <string name="motor_calibration">Kalibracija motora</string>
 	 <string name="mtb_tool_modem_cdma_manager">CDMA Cap Manager</string>
 	 <string name="nfc_disable_tip">Uključite NFC funkciju</string>
 	 <string name="nfc_not_available">NFC nije dostupan</string>
 	 <string name="no_vibrator">Bez vibratora</string>
 	 <string name="open_third_color_led">Otvorite tri boje LED dioda</string>
+	 <string name="password_enroll_error">Vaš telefon ima zaporku, ne može unijeti podatke o otisku prsta</string>
 	 <string name="plugout_and_reverse_plugin">"
 Isključite punjač i uključite ga obrnuto."</string>
 	 <string name="pop_camera">Skočna kamera</string>
@@ -855,6 +877,7 @@ Kliknite tipku Push kamere kako biste provjerili da se kamera uključila"</strin
 	 <string name="receiver_off">Prijamnik isključen</string>
 	 <string name="receiver_on">Prijamnik uključen</string>
 	 <string name="receiver_on_off_tips">Prekidač za uključivanje/isključivanje prijemnika</string>
+	 <string name="remove_finger">Test uklanjanja otiska prsta</string>
 	 <string name="sar_algo_data_check_description">Sar Algo Prikupljanje podataka</string>
 	 <string name="sar_authentation_test_title">Sar test provjere autentičnosti</string>
 	 <string name="sar_mtk_test_title">Sar Mtk test provjere autentičnosti</string>

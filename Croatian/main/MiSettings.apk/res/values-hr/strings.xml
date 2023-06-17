@@ -254,6 +254,8 @@ nije generirana u Drugom prostoru"</string>
     <string name="focus_time_exception_tip">Izgleda da se promijenilo vrijeme sustava. Isključite način fokusiranja.</string>
 	 <string name="follow_apps_settings">Na temelju postavki aplikacije</string>
     <string name="follow_sim1">Primijeni postavke SIM 1</string>
+	 <string name="footer_max_fps" formatted="false">"
+%d. Brzina osvježavanja može se prilagoditi do %s Hz za podržane aplikacije i igre."</string>
 	 <string name="force_rest">Koristite prekide sesije</string>
     <string name="force_rest_summary">Napravite obavezne pauze kada sesije dosegnu postavljeno ograničenje</string>
     <string name="force_rest_time">Trajanje stanke</string>
@@ -348,7 +350,7 @@ nije generirana u Drugom prostoru"</string>
     <string name="low_light_preview">Pregled slabog osvjetljenja</string>
     <string name="marabou_stork">Marabou roda</string>
     <string name="marabou_stork_info">Marabu roda je masivna ptica, često skupljač otpadaka.</string>
-    <string name="midnight">AM</string>
+	 <string name="max_fps_string">Do %s Hz</string>
     <string name="miuix_access_state_desc">Odabrano</string>
     <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
@@ -368,6 +370,7 @@ nije generirana u Drugom prostoru"</string>
     <string name="miuix_appcompat_select_all">Odaberi sve</string>
     <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
     <string name="miuix_appcompat_select_item">Odaberi stavke</string>
+	 <string name="miuix_appcompat_edit">Uredi</string>
     <string name="miuix_indexer_collect">Zbirke</string>
     <string name="miuix_indexer_selected">Odabrano %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
@@ -568,6 +571,7 @@ nije generirana u Drugom prostoru"</string>
     <string name="stop_app_timer_success">Vrijeme zaslona uspješno je isključeno</string>
     <string name="stop_app_timer_tip">Nakon isključivanja ove značajke, svi podaci i dopuštenja zaslona, uključujući pojedinačne postavke, kao i stavke pohranjene lokalno i sinkronizirane s cloudom će se izbrisati.</string>
     <string name="stop_summary">Kad isključite ovu značajku, izbrisat će se sva statistika i podaci vremena zaslona</string>
+	 <string name="summary_max_fps_for_intelligent">Dinamički prilagodite brzinu osvježavanja do %s Hz na temelju scenarija kako biste uravnotežili performanse i potrošnju energije</string>
     <string name="suggestion">Povratne inf.</string>
     <string name="sunday">Nedjelja</string>
     <string name="sunday_short">Ned</string>

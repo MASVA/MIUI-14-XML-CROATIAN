@@ -172,7 +172,7 @@
     <string name="gallery_data_transfer_ddl">Rok: %s</string>
     <string name="gallery_data_transfer_summary">"Stavke iz galerije više se ne mogu sinkronizirati s Xiaomi Cloudom. Preporučujemo da fotografije i videozapise koje ste sinkronizirali s oblakom prenesete na Google fotografije i koristite njihove usluge za sigurnosno kopiranje svojih stavki."</string>
     <string name="gallery_data_transfer_title">Prijenos sinkroniziranih fotografija i videozapisa u Google fotografije</string>
-    <string name="gallery_service_termination_announcement">Obavijest: stavke galerije više se ne mogu sinkronizirati s Xiaomi Cloudom</string>
+    <string name="gallery_service_termination_announcement">Obavijest o prekidu sinkronizacije Xiaomi Cloud za stavke Galerije i prijenosu na Google fotografije</string>
     <string name="gallery_service_termination_announcement_title">"Stavke iz galerije više se ne mogu sinkronizirati s Xiaomi Cloudom. Preporučujemo prijenos fotografija i videozapisa koje ste sinkronizirali s oblakom u Google fotografije ili posjetite i.mi.com za preuzimanje sinkroniziranih fotografija i videozapise na vaš uređaj. Usluge prijenosa i preuzimanja bit će dostupne do %s, a tada će sve stavke Galerije sinkronizirane s vašim Xiaomi Cloud računom biti trajno izbrisane."</string>
     <string name="gallery_service_termination_btn_continue">Nastavi</string>
     <string name="gallery_service_termination_more_info">Za više detalja pogledajte \"%s\"</string>
@@ -280,7 +280,7 @@
     <string name="micloud_confusion_toast_confirm">Uređaj potvrđen</string>
     <string name="micloud_confusion_toast_deny">Prijavite se u vaš Xiaomi Račun</string>
     <string name="micloud_confusion_yes">Da</string>
-    <string name="micloud_dspt_provision">Koristite Xiaomi Cloud za sinkronizaciju podataka, lociranje vašeg uređaja i dijeljenje stavki s prijateljima.</string>
+    <string name="micloud_dspt_provision">Možete koristiti Xiaomi Cloud za sinkronizaciju fotografija, kontakata, poruka, povijesti poziva, bilješki i drugih podataka, lociranje vašeg uređaja i dijeljenje stavki s prijateljima. Ova aplikacija mora se povezati s internetom kako bi normalno radila. Sinkronizacija stavki može zahtijevati mobilnu podatkovnu vezu i uključivanje Wi-Fi-ja.</string>
     <string name="micloud_dspt_provision_china">Koristite Xiaomi Cloud za sinkronizaciju podataka, lociranje vašeg uređaja i dijeljenje stavki s prijateljima.</string>
 	 <string name="micloud_dspt_provision_china_no_call">Možete koristiti Xiaomi Cloud za sinkronizaciju fotografija, kontakata, poruka, bilješki, snimaka i drugih podataka, lociranje vašeg uređaja i dijeljenje stavki s prijateljima. Ova aplikacija mora se povezati s internetom kako bi normalno radila. Sinkronizacija stavki može zahtijevati mobilnu podatkovnu vezu i uključivanje Wi-Fi-ja.</string>
     <string name="micloud_dspt_provision_china_no_sms">Možete koristiti Xiaomi Cloud za sinkronizaciju fotografija, kontakata, povijesti poziva, bilješki i drugih podataka, lociranje vašeg uređaja i dijeljenje stavki s prijateljima. Ova aplikacija mora se povezati s internetom kako bi normalno radila. Sinkronizacija stavki može zahtijevati mobilnu podatkovnu vezu i uključivanje Wi-Fi-ja.</string>
@@ -424,7 +424,8 @@
     <string name="micloud_space_applist_detail">Upravljajte aplikacijama vašeg Poč. zaslona</string>
     <string name="micloud_space_duokan_detail">Upravljajte vašim Duokan sadržajem pomoću Duokan aplikacije.</string>
     <string name="micloud_space_duokan_title">Duokan</string>
-    <string name="micloud_space_soundrecorder_detail">Upravljajte snimkama pohranjenim na vašem uređaju</string>
+    <string name="micloud_space_soundrecorder_detail">"Otvorite aplikaciju Snimač na svom Xiaomi uređaju i odaberite mapu sa stavkama pohranjenima u cloudu.
+Provjerite koristite li povezani Xiaomi račun kao svoj MIUI račun."</string>
     <string name="micloud_space_soundrecorder_title">Snimke</string>
     <string name="micloud_storage_detail">Detalji</string>
     <string name="micloud_storage_family_quota">Obiteljsko dijeljenje</string>
@@ -769,16 +770,16 @@ Podaci o lokaciji možda se neće prijaviti kada je mrežna veza loša."</string
     <string name="sync_detail_summary_master_sync_off">Sinkr. je isključena</string>
     <string name="sync_detail_summary_off">Sinkr. je isključena</string>
     <string name="sync_dspt">Sinkr.</string>
-    <string name="sync_dspt_entrance_provision">"Sinkronizirajte svoje fotografije, kontakte, povijest poziva i poruke na svim uređajima. Pristupite stvarima koje sinkronizirate s bilo kojeg preglednika na %s. "</string>
+    <string name="sync_dspt_entrance_provision">"Sinkronizirajte svoje fotografije, kontakte, povijest poziva i poruke na svim uređajima. Pristupite stavkama koje sinkronizirate s bilo kojeg preglednika na %s. "</string>
     <string name="sync_dspt_entrance_provision_confirm_close">"Ne koristi"</string>
-    <string name="sync_dspt_entrance_provision_confirm_content">"Aplikacijama MIUI sustava potreban je Xiaomi Cloud za izradu Sig. kopije fotografija, kontakata, bilješki i još mnogo toga. Xiaomi Cloud je besplatan i spreman za korištenje odmah."</string>
+    <string name="sync_dspt_entrance_provision_confirm_content">"Aplikacije sustava MIUI trebaju Xiaomi Cloud kako bi mogle sigurnosno kopirati vaše fotografije, poruke, bilješke i još mnogo toga. Xiaomi Cloud je besplatan i spreman za korištenje."</string>
     <string name="sync_dspt_entrance_provision_confirm_content_pad">Možete koristiti Xiaomi Cloud za sigurnosno kopiranje fotografija, poruka, bilješki i još mnogo toga. Xiaomi Cloud je besplatan i spreman za upotrebu.</string>
-    <string name="sync_dspt_entrance_provision_confirm_content_v2">"Aplikacijama MIUI sustava potreban je Xiaomi Cloud za izradu Sig. kopije fotografija, kontakata, bilješki i još mnogo toga. Xiaomi Cloud je besplatan i spreman za korištenje odmah."</string>
+    <string name="sync_dspt_entrance_provision_confirm_content_v2">"Aplikacije sustava MIUI trebaju Xiaomi Cloud kako bi mogle sigurnosno kopirati vaše fotografije, poruke, bilješke i još mnogo toga. Xiaomi Cloud je besplatan i spreman za korištenje."</string>
     <string name="sync_dspt_entrance_provision_confirm_open">Koristi Xiaomi Cloud</string>
     <string name="sync_dspt_entrance_provision_confirm_title">"Ne možete koristiti Xiaomi Cloud?"</string>
     <string name="sync_dspt_entrance_provision_network">Ova se aplikacija mora povezati s internetom da radi normalno. Sinkronizacija podataka može zahtijevati mobilnu podatkovnu vezu i uključivanje Wi-Fi-ja.</string>
     <string name="sync_dspt_entrance_provision_network_china">Ova se aplikacija mora povezati s internetom da radi normalno. Sinkronizacija podataka može zahtijevati mobilnu podatkovnu vezu i uključivanje Wi-Fi-ja.</string>
-    <string name="sync_dspt_entrance_provision_v2">Sinkronizirajte svoje fotografije, bilješke i druge stavke na svim svojim uređajima. Pristupite stvarima koje sinkronizirate iz bilo kojeg preglednika na %s.</string>
+    <string name="sync_dspt_entrance_provision_v2">Sinkronizirajte svoje fotografije, bilješke i druge stavke na svim svojim uređajima. Pristupite stavkama koje sinkronizirate iz bilo kojeg preglednika na %s.</string>
     <string name="sync_item_autofill_summary">Šifrirajte svoje zaporke i automatski ih sinkronizirajte s cloudom</string>
     <string name="sync_item_autofill_title">Sinkroniziraj automatski</string>
     <string name="sync_item_calllog_summary">Sinkroniziraj zapise obavljenih/primljenih poziva na oavj telefon</string>
@@ -823,6 +824,7 @@ Podaci o lokaciji možda se neće prijaviti kada je mrežna veza loša."</string
     <string name="update_dialog_no_update_toast_text">Trenutna verzija je ažurirana</string>
     <string name="update_dialog_title">Dostupno je ažuriranje</string>
     <string name="update_dialog_update_button_text">Ažuriraj</string>
+	 <string name="upgrade_member_storage">Članstvo u Xiaomi Cloudu</string>
     <string name="user_agreement_content">"Korištenjem ove usluge, prihvaćate %s."</string>
     <string name="user_agreement_link">"Xiaomi Cloud Uvjeti pružanja usluge"</string>
     <string name="user_agreement_p5">"

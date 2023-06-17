@@ -373,6 +373,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="miuix_appcompat_delete_description">Izbriši</string>
     <string name="miuix_appcompat_deselect_all">Poništi odabir</string>
     <string name="miuix_appcompat_deselect_all_description">Poništi odabir</string>
+	 <string name="miuix_appcompat_edit">Uredi</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Odustani</string>
     <string name="miuix_appcompat_search_input_description">Traži</string>
     <string name="miuix_appcompat_select_all">Odaberi sve</string>
@@ -643,6 +644,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="passport_imei_permission_denied_message">"Tražimo dopuštenje za dobivanje IMEI vašeg uređaja. Xiaomi Račun koristi IMEI za identitifikaciju uređaja na kojeg ste se prijavili/prijavljujete, kako bi održali svoj Xiaomi Račun sigurnim."</string>
     <string name="passport_imei_permission_denied_title">Zahtjev za IMEI Dopuštenje</string>
     <string name="passport_input_captcha_hint">Unesite kod</string>
+	 <string name="passport_input_email_vcode_hint">Unesite kod</string>
     <string name="passport_input_password_for_login">Ovaj je broj povezan s postojećim računom, unesite svoju zaporku</string>
     <string name="passport_input_password_hint">Unesite zaporku</string>
     <string name="passport_input_phone_hint">Unesite broj telefona</string>
@@ -837,6 +839,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="passport_user_password_hint">Zaporka</string>
     <string name="passport_user_reg_region">Zemlja/Regija</string>
     <string name="passport_user_reg_region_warning">"Nećete moći promijeniti svoju zemlju/regiju nakon stvaranja računa"</string>
+	 <string name="passport_vcode_email_send_prompt"><Data>Vaš kontrolni kod je poslan na &lt;a href=>&lt;xliff:g id=email_address>%s&lt;/xliff:g>&lt;/a></Data></string>
     <string name="passport_vcode_notification_title">Vaš potvrda prijave je nepotpuna</string>
     <string name="passport_vcode_prompt_long">Unesite kôd za provjeru</string>
     <string name="passport_vcode_sms_send_prompt">Pošalji kôd za provjeru na %s</string>
@@ -961,7 +964,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="sunday_shortest">N</string>
     <string name="system_ad">Oglasi u aplikacijama sustava</string>
     <string name="system_ad_list">Pogledajte povezane aplikacije.</string>
-    <string name="system_ad_summary">"Uključite ovu značajku da biste omogućili prikazivanje malog broja oglasa u aplikacijama sustava. Ovi oglasi nam pomažu u razvoju i poboljšanju naših proizvoda i usluga. Možete bilo kad isključiti ovu značajku. Hvala na podršci! "</string>
+    <string name="system_ad_summary">"Uključite ovu značajku da biste omogućili prikazivanje malog broja oglasa u aplikacijama sustava. Ovi oglasi nam pomažu u razvoju i poboljšanju naših proizvoda i usluga. Možete bilo kad isključiti ovu značajku."</string>
     <string name="system_ad_switch">Oglasi u aplikacijama sustava</string>
     <string name="system_ad_switch_failed">"Ne mogu primjeniti postavke"</string>
     <string name="tab">Tab</string>

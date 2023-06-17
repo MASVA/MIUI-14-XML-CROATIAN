@@ -496,6 +496,7 @@ Bočne ploče
     <string name="more">Više</string>
     <string name="mtrl_chip_close_icon_content_description">Ukloni %1$s</string>
     <string name="net_diag_cancel">Odustani</string>
+	 <string name="net_daig_network_repair">Popravak mreže</string>
     <string name="net_diag_continue">Nastavi</string>
     <string name="net_diag_dialog_msg">Testiranje vaše mreže pomoći će vam da otkrijete probleme i poboljšate svoju vezu.</string>
     <string name="net_diag_dialog_no">Ne</string>
@@ -512,6 +513,12 @@ Bočne ploče
     <string name="net_diag_header_internet">Internet</string>
     <string name="net_diag_header_router">Usmjerivač</string>
     <string name="net_diag_header_this_device">Ovaj uređaj</string>
+	 <string name="net_diag_repair_msg">Tijekom ovog procesa, Wi-Fi će se prekinuti i zatim ponovno spojiti. Popraviti sada?</string>
+    <string name="net_diag_repair_msg_china">Tijekom ovog procesa, Wi-Fi će se prekinuti i zatim ponovno spojiti. Popraviti sada?</string>
+    <string name="net_diag_repair_static_ip_msg">Mrežne konfiguracije mogu se resetirati tijekom ovog procesa. Popraviti sada?</string>
+    <string name="net_diag_repair_title">Popraviti mrežu?</string>
+	  <string name="net_diag_fix_guide_window_msg">Došlo je do mrežne pogreške. Dodirnite za rješavanje problema.</string>
+    <string name="net_diag_fixing">Popravak mreže. Ovo bi moglo potrajati minutu.</string>
     <string name="net_diag_title">Testiraj mrežu</string>
     <string name="net_diag_toast_cellular_data">Za testiranje mreže prvo isključite mobilne podatke.</string>
     <string name="net_diag_toast_other_networks">Da biste testirali mrežu, prvo se povežite na Wi-Fi i prekinite vezu s drugim mrežama.</string>

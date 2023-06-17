@@ -38,8 +38,8 @@
         <item quantity="one">Dodana %d Cloud fotografija, isključi \"Prikaži samo lokalne albume\" za pregled.</item>
     </plurals>
     <plurals name="add_to_album_failed_with_reason_and_count">
-        <item quantity="other">"%2$d stavki ne može biti dodano u album. %1$s."</item>
-        <item quantity="one">"%2$d stavka ne može biti dodana u album. %1$s."</item>
+        <item quantity="other">" %2$d stavki ne može biti dodano u album. %1$s."</item>
+        <item quantity="one">" %2$d stavka ne može biti dodana u album. %1$s."</item>
     </plurals>
     <plurals name="add_to_secret_failed_with_reason_and_count">
         <item quantity="other">"%2$d stavki ne može biti dodano u privatni album. %1$s."</item>

@@ -1881,7 +1881,6 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
     <string name="pref_camera_video_tag">Dopusti označavanje videozapisa</string>
     <string name="pref_camera_video_tag_description">Dodirnite \"Označi\" tijekom snimanja videozapisa kako biste se mogli vratiti u označene trenutke tijekom reprodukcije</string>
     <string name="pref_camera_video_fps_title_abbr">Brzina sličica u sekundi</string>
-    <string name="pref_camera_video_fps_title_abbr">Brzina sličica u sekundi</string>
     <string name="pref_camera_video_quality_title_abbr">Rezolucija</string>
 	  <string name="pref_camera_volumekey_function_entry_shutter">Okidač</string>
     <string name="pref_camera_volumekey_function_entry_timer">Odbrojavanje okidača</string>

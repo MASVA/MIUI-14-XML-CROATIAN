@@ -269,6 +269,11 @@
 Kako dati dopuštenje
 Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
     <string name="new_saf_permission_dialog_grant_permission_immediately">Dalje</string>
+	  <string name="new_search_alll_records_hint">Pretraži sve snimke</string>
+    <string name="new_search_app_records_hint">Traži snimke aplikacije</string>
+    <string name="new_search_call_records_hint">Pretraživanje snimaka poziva</string>
+    <string name="new_search_fm_records_hint">Traži radijske snimke</string>
+    <string name="new_search_recorder_records_hint">Traži u Snimaču</string>
     <string name="no_content">Ovdje još nema stavki</string>
     <string name="no_file">Prazno</string>
     <string name="no_network">"Ne mogu se povezati na mrežu"</string>

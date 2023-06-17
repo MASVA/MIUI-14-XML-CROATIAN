@@ -192,6 +192,9 @@
     <string name="gb_pannel_control_mode_high_quality">Visoka kvaliteta</string>
     <string name="gb_pannel_control_mode_normal">Zadano</string>
     <string name="gb_pannel_control_mode_power_saving">Ušteda energije</string>
+	 <string name="gb_web_panel_failure_retry">"Nije moguće učitati stavke. Pokušajte ponovno."</string>
+    <string name="gb_web_panel_game_loading">Samo trenutak…</string>
+    <string name="gb_web_panel_network_exception">"Trenutačno ne mogu preporučiti igre zbog mrežne pogreške. Provjerite mrežne postavke i pokušajte ponovno."</string>
     <string name="gb_webwindow_schemedialog_accept">Otvori</string>
     <string name="gb_webwindow_schemedialog_cancel">Odustani</string>
     <string name="gb_webwindow_schemedialog_title">Otvoriti igre sada?</string>
@@ -245,6 +248,7 @@
     <string name="miuix_appcompat_delete_description">Izbriši</string>
     <string name="miuix_appcompat_deselect_all">Poništi odabir</string>
     <string name="miuix_appcompat_deselect_all_description">Poništi odabir</string>
+	 <string name="miuix_appcompat_edit">Uredi</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Odustani</string>
     <string name="miuix_appcompat_search_input_description">Traži</string>
     <string name="miuix_appcompat_select_all">Odaberi sve</string>
@@ -373,6 +377,7 @@
     <string name="pc_activity_title">Optimiziraj bateriju</string>
     <string name="pc_entered_extreme_mode">Način hibernacije je uključen</string>
     <string name="pc_entered_extreme_mode_summary">"Vaš uređaj je prazan i ušao je u stanje hibernacije. Aplikacije će raditi u pozadini i neće slati obavijesti."</string>
+	 <string name="pc_entered_extreme_mode_summary2">"Vaš uređaj je skoro prazan. U stanju hibernacije nećete primati obavijesti od aplikacija koje rade u pozadini."</string>
     <string name="pc_extreme_exit_and_power_off">Izlaz</string>
     <string name="pc_extreme_mode_bg_toast">"U načinu hibernacije, aplikacije će raditi u pozadini i neće slati obavijesti"</string>
     <string name="pc_extreme_mode_exit_risk_title">Pažnja</string>

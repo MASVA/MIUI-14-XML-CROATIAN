@@ -258,6 +258,8 @@ Vaši uređaji?"</string>
     <string name="dialog_miplay_permission_message">Dopustite Castingu da snima zvuk, pristup datotekama u unutarnjoj pohrani i vašoj lokaciji kako bi mogli normalno koristiti ovu značajku. Dodirnite \"Postavke\" i odaberite \"Dopuštenja aplikacije\" za nastavak.</string>
     <string name="dialog_miplay_permission_positive">Postavke</string>
     <string name="dialog_miplay_permission_title">Potrebno je dopuštenje</string>
+	 <string name="dialog_nearbydevice_permission_message">Dopustite ovom uređaju pristup uređajima u blizini kako bi mogao koristiti značajke emitiranja.</string>
+    <string name="dialog_nearbydevice_permission_title">Potrebna su dopuštenja</string>
     <string name="dialog_nfc_cast_wifi_off">Uključite Wi-Fi kako biste mogli emitirati putem NFC-a. Uključiti sada?</string>
     <string name="dialog_no_device_message"><Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Povežite svoj mobilni uređaj i TV na istu Wi-Fi mrežu.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. Na nekim modelima televizora ova je značajka dostupna samo kada je uključeno zrcaljenje zaslona. Pogledajte &lt;a href=milink://com.milink.service/specification>\"Pomoć\"&lt;/a> kako bi saznali više.</Data></string>
     <string name="dialog_no_device_message_china"><Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Povežite svoj mobilni uređaj i TV na istu Wi-Fi mrežu.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. Na nekim modelima televizora ova je značajka dostupna samo kada je uključeno zrcaljenje zaslona. Pogledajte &lt;a href=milink://com.milink.service/specification>\"Pomoć\"&lt;/a> kako bi saznali više.</Data></string>

@@ -31,7 +31,7 @@
     <string name="app_info">Snimanje, dodirnite za zaustavljanje</string>
     <string name="app_name">Snimač zaslona</string>
     <string name="app_notification_channel_record_complete">Obavijesti o završenim snimkama</string>
-    <string name="app_notification_info">Snimač zaslona radi u pozadini</string>
+    <string name="app_notification_info">Trenutno se snima zaslon…</string>
     <string name="app_notification_record_saved">"Snimka je uspješno spremljena
 Dodirnite za prikaz"</string>
     <string name="app_notification_title">Snimač zaslona</string>

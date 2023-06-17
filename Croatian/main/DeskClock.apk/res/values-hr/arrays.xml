@@ -69,6 +69,15 @@
         <item>Svaki dan</item>
         <item>Radnim danima</item>
     </string-array>
+	 <string-array name="bedtime_guide_repeat_type_international">
+        <item>Pon - Pet</item>
+        <item>Svaki dan</item>
+    </string-array>
+    <string-array name="bedtime_repeat_entires_international">
+        <item>Pon - Pet</item>
+        <item>Svaki dan</item>
+        <item>Prilagođeno</item>
+    </string-array>
     <string-array name="bedtime_repeat_entries">
         <item>Svaki dan</item>
         <item>Pon - Pet</item>

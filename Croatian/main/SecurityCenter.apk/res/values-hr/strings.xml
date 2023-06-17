@@ -171,6 +171,12 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="ad_btn_default_text">Saznajte više</string>
   <string name="ad_floating_window_title">Zatvorite plutajući prozor za otključavanje</string>
   <string name="ad_split_screen_title">Za otključavanje zaslona izađite iz cijelog zaslona</string>
+  <string name="ad_text_adx">Oglas</string>
+	<string name="ad_text_btn_download">Instaliraj</string>
+	<string name="ad_text_develop">Programer: %1$s</string>
+	<string name="ad_text_permission">Dozvole</string>
+	<string name="ad_text_privacy">Dopuštenja</string>
+	<string name="ad_text_version">Verzija: %1$s</string>
   <string name="ad_update_time">Zadnje ažuriranje %s</string>
   <string name="ad_update_time_unKnown">Zadnje ažuriranje nepoznato</string>
   <string name="adb_install_no_network">Povežite se s mrežom i pokušajte ponovno</string>
@@ -214,6 +220,7 @@ Možete primiti obavijesti od Xiaomi ugrađenih aplikacija i aplikacija drugih p
   <string name="alert_back_milink_hangup_tips_content_vb">"Emitiranje se neće prekinuti ako je zaslon isključen i aplikacija radi u pozadini. Možete pritisnuti tipku Power da opet uključite zaslon."</string>
   <string name="all_address_choose_hint">Svi brojevi u ovoj pokrajini</string>
   <string name="allow_all">Dopusti sve</string>
+  <string name="allow_onetime">Dopusti jednom</string>
   <string name="already_close_gamebooster">Game Turbo je isključen</string>
   <string name="anim_gamebooster_text">Samo trenutak…</string>
   <string name="anti_disturb_msg_detail">Isključi sve obavijesti, osim za dolazne pozive</string>
@@ -489,6 +496,15 @@ Bočne ploče
   <string name="app_install_intercept">Blokiraj instalaciju</string>
   <string name="app_install_tips_go_to">Otvori</string>
   <string name="app_install_tips_install_success">%1$s uspješno instaliran</string>
+  <string name="app_management_for_chain_start">Blokiraj otvaranje drugih aplikacija</string>
+  <string name="app_management_for_chain_start_desc">Spriječi ovu aplikaciju da se poveže ili otvori druge aplikacije</string>
+	<string name="app_management_for_device_id">Sakrij identifikatore i spriječi praćenje</string>
+	<string name="app_management_for_device_id_desc">Spriječite ovoj aplikaciji pristup vašem telefonskom broju i osobnim podacima</string>
+	<string name="app_management_for_independent_storage">Izoliraj podatke iz predmemorije</string>
+	<string name="app_management_for_independent_storage_desc">Dopusti aplikaciji samo pristup vlastitim datotekama i podacima</string>
+	<string name="app_management_for_install">Blokiraj preuzimanja aplikacija</string>
+	<string name="app_management_for_install_desc">Spriječi ovoj aplikaciji preuzimanje ili instaliranje drugih aplikacija</string>
+	<string name="app_management_measures">Upravljanje aplikacijom</string>
   <string name="app_maanger_app_uninstalled_toast">Ta je aplikacija deinstalirana</string>
   <string name="app_manager_advanced_setting">Napredne postavke</string>
   <string name="app_manager_allow">Da</string>
@@ -642,6 +658,7 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="app_manager_tab_manager">Upravljaj</string>
   <string name="app_manager_thumbnail_blur_summary">Zamutite preglede aplikacije u Nedavno</string>
   <string name="app_manager_thumbnail_blur_title">Zamućeni pregledi aplikacija</string>
+  <string name="app_manager_thumbnail_shield_summary">Maskirajte preglede aplikacija u Nedavno</string>
   <string name="app_manager_title">Aplikacije</string>
   <string name="app_manager_to_appstore">Otkrijte više aplikacija</string>
   <string name="app_manager_total_size">Ukupno</string>
@@ -671,6 +688,7 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="app_name_pad">Sigurnost</string>
   <string name="app_name_phone">Sigurnost</string>
   <string name="app_name_securitycenter">Sigurnost</string>
+  <string name="app_name_securitycenter_new">Sigurnost</string>
   <string name="app_not_installed_toast">"Aplikacija nije instalirana na vašem uređaju."</string>
   <string name="app_perm_manager_service">Dopuštenja</string>
   <string name="app_permission_use_group_calendar">Kalendar</string>
@@ -821,8 +839,8 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="apps_item_sign_install_button_text">Zamijeni</string>
   <string name="apps_item_sms_default_set_success">Uspješno postavljeno!</string>
   <string name="apps_item_sms_reset_button_text">Vrati zadane postavke</string>
-  <string name="apps_item_sms_title">Zadane postavke poruka</string>
-  <string name="apps_item_summary_sms">%s ima pristup vašim porukama, to može izazvati sigurnosne probleme</string>
+  <string name="apps_item_sms_title">Zadana aplikacija za slanje poruka je zamijenjena</string>
+  <string name="apps_item_summary_sms">"%s sada upravlja vašim SMS-om. Za stabilnije i sigurnije iskustvo umjesto toga upotrijebite aplikaciju sustava MIUI."</string>
   <string name="apps_item_summary_system_rooted">ROOT pristup je dopušten. Vratite na zadane postavke kako bi izbjegli sigurnosne rizike.</string>
   <string name="apps_item_summary_system_update">Neke greške su ispravljene u novoj verziji tako da plaćanja budu još više sigurnija.</string>
   <string name="apps_item_title_system">Ažuriranje sustava</string>
@@ -993,6 +1011,7 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="auto_task_voice_dialog_alarm_title">Alarmi</string>
   <string name="auto_task_voice_dialog_call_title">Pozivi, obavijesti, podsjetnici</string>
   <string name="auto_task_voice_dialog_media_title">Glazba, igre, mediji</string>
+  <string name="autostart_now_tip">"Blokirano \"%1$s\" da otvori \"%2$s\" "</string>
   <string name="back">Natrag</string>
   <string name="back_app_name">Vrati se na Zaklj. aplikacija</string>
   <string name="back_description_securitycenter">Natrag</string>
@@ -1184,7 +1203,8 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="bl_no_block_sms">Nema blokiranih poruka.</string>
   <string name="blacklist_prefix_add_hint">Blokiraj sve brojeve koji počinju s ovim predbrojem</string>
   <string name="block_message_number">SMS-a: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
-  <string name="block_phone_number">Poziva: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
+  <string name="block_phone_number">Pozivi: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
+  <string name="blur_location_title">Približna lokacija</string>
   <string name="boost_done">Uspješno ubrzano</string>
   <string name="boost_stop">Isključi povećanje brzine</string>
   <string name="booster_immediately">Ubrzaj</string>
@@ -1360,6 +1380,7 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="cetus_invisible_mode_warn_location">"Anonimni ste. Dopuštenja za lokaciju su obustavljena."</string>
   <string name="cetus_invisible_mode_warn_open">Anonimni način rada suspendira dopuštenja za mikrofon, kameru i lokaciju za sve aplikacije. Uključiti sada?</string>
   <string name="cetus_invisible_mode_warn_record_audio">"Anonimni ste. Dopuštenja za mikrofon su obustavljena."</string>
+  <string name="chainstart_desc_for_exemption">Nepregledana aplikacija \"%1$s\" otvara \"%2$s\". Budite oprezni prilikom plaćanja.</string>
   <string name="character_counter_content_description">Unešeno znakova %1$d od %2$d</string>
   <string name="character_counter_overflowed_content_description">Prekoračeno je ograničenje broja znakova %1$d od %2$d</string>
   <string name="charge_high_temp_warning_dialog_ok">Razumijem</string>
@@ -1463,6 +1484,8 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="cs_func_toast_headset">Odspojite svoje slušalice da biste mogli koristiti ovu značajku</string>
   <string name="cs_func_toast_light">Prebacite se na prednju kameru da biste mogli koristiti ovu značajku</string>
   <string name="cs_func_toast_pickup">Prebacite se na videopoziv da biste mogli koristiti ovu značajku</string>
+  <string name="cs_pickup_denoise_desc">Smanjite šum dolaznog zvuka dok koristite zvučnike ili slušalice</string>
+  <string name="cs_pickup_denoise_title">Smanjenje buke</string>
   <string name="cs_pickup_multi_desc">%d stupanj hvatanja zvuka</string>
   <string name="cs_pickup_multi_title">Više sudionika</string>
   <string name="cs_pickup_single_desc">Uhvati zvuk samo ispred ekrana</string>
@@ -1485,6 +1508,7 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="cta_dialog_positive">Slažem se</string>
   <string name="cta_dialog_title">Uvjeti i odredbe</string>
   <string name="cta_main_purpose">"Dobro došli u Sigurnost! Aplikaciju i njene module možete koristiti (uključujući MIUI sigurnosne komponente i usluge sustava) da oslobodite prostor za pohranu, skenirate svoj uređaj na viruse, kontrolirate potrošnju baterije, optimizirate svoj uređaj za igranje igara , upravljate aplikacijama, primate rana upozorenja o potresima i još mnogo toga. MIUI Sigurnosne komponente povezivat će se s internetom i obavljati sigurnosna skeniranja dok instalirate aplikacije i vršite plaćanja."</string>
+  <string name="cta_main_purpose_new">"Dobro došli u Sigurnost! Aplikaciju i njene module možete koristiti (uključujući MIUI sigurnosne komponente i usluge sustava) da oslobodite prostor za pohranu, skenirate svoj uređaj na viruse, kontrolirate potrošnju baterije, optimizirate svoj uređaj za igranje igara , upravljate aplikacijama, primate rana upozorenja o potresima i još mnogo toga. MIUI Sigurnosne komponente povezivat će se s internetom i obavljati sigurnosna skeniranja dok instalirate aplikacije i vršite plaćanja."</string>
   <string name="cta_settings">Dopusti povezivanje s internetom i pristup lokaciji</string>
   <string name="current_network_state_not_need_diagnose">Povezivanje s internetom je u redu</string>
   <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Za korištenje popisa blokiranih i upućivanje poziva kontaktima za hitne slučajeve kada se izdaju upozorenja o potresu</string>
@@ -1754,6 +1778,8 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="doze_optimization_title">Optimizirano upravljanje dodirom</string>
   <string name="dual_setting_simcard1">SIM 1</string>
   <string name="dual_setting_simcard2">SIM 2</string>
+  <string name="dynamic_performance_optimization_summary">Dinamički prilagodi razlučivost tijekom sesija igranja</string>
+  <string name="dynamic_performance_optimization_title">Dinamičke performanse</string>
   <string name="edit_new_task_name">Unesite naziv zadatka</string>
   <string name="edit_phone_num">Uređivanje telefonskog broja SIM kartice</string>
   <string name="eew_privacy_revoke_title">Povucite suglasnost na Politiku privatnosti upozorenja o potresu</string>
@@ -2405,6 +2431,8 @@ ali također povećava potrošnju energije i omogućuje pregrijavanje vašeg ure
   <string name="gb_turbo_wonder_subtitle">Snimite ključne trenutke</string>
   <string name="gb_vision_enhance">Poboljšani vizualni elementi</string>
   <string name="gb_vision_enhance_desc">Poboljšajte kvalitetu slike i performanse</string>
+  <string name="gb_vision_enhance_frme_insertion_tips">"Pametna brzina kadrova u sekundi
+%dFPS"</string>
   <string name="gb_vision_enhance_smart_frame_insertion">Pametni broj sličica u sekundi</string>
   <string name="gb_vision_enhance_smart_frame_insertion_desc">Automatski prilagodi broj sličica u sekundi kako bi pokret bio glatkiji</string>
   <string name="gb_vision_enhance_super_resolution">Super rezolucija</string>
@@ -2718,6 +2746,7 @@ da se pridružite našem lovu na jaja!"</string>
   <string name="input_aviable_traffic">Postavi ograničenje uporabe podataka</string>
   <string name="input_celluar_data_quota_hint">Unesite ograničenje podataka</string>
   <string name="input_cellular_data_warn_hint">Unesite upozorenje ograničenja uporabe podataka</string>
+  <string name="input_hint_search_app">Pretraživanje aplikacija</string>
   <string name="input_password_hint_text">Unesite zaporku</string>
   <string name="input_phone_num_hint">Uredite broj telefona SIM kartice</string>
   <string name="input_title">Dodirnite za unos</string>
@@ -3257,7 +3286,7 @@ Opciju \"Autom. prilagođavanje statistike uporabe podataka\" možete isključit
  3. Signal mreže mobilnog operatera može biti slab na vašoj trenutnoj lokaciji."</string>
   <string name="network_not_available">"Ne mogu se povezati na mrežu"</string>
   <string name="network_operator_exception_summary">"Ne mogu aktivirati SIM karticu. Provjerite je li SIM kartica ispravno umetnuta i da je vaša tarifa aktivirana."</string>
-  <string name="network_permission_exception_tips">"Ne mogu koristiti mobilne podatke za povezivanje na mrežu"</string>
+  <string name="network_permission_exception_tips">"Ova značajka mora koristiti mobilne podatke kako bi mogla normalno raditi."</string>
   <string name="network_roaming_exception_tips">"Ne mogu koristiti mobilne podatke u roamingu za povezivanje na mrežu."</string>
   <string name="network_route_exception_detail">"Možda postoji problem s usmjerivačem na koji ste povezani:
 
@@ -3571,7 +3600,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="optimize_result_summary_sucurity_risk">Neke sigurnosne značajke su isključene. Uključite ove značajke kako bi vaš uređaj bio sigurniji:</string>
   <string name="optimize_result_summary_system_default_settings">"Korištenje zadanih MIUI aplikacija povećava razinu stabilnosti i sigurnosti sustava."</string>
   <string name="optimize_result_title_sucurity_risk">Pronađen sigurnosni rizik</string>
-  <string name="optimize_result_title_system_default_settings">Zadane postavke su promijenjene</string>
+  <string name="optimize_result_title_system_default_settings">Zadane postavke sustava su promijenjene</string>
   <string name="optimize_result_title_uninstall_apps">Deinstaliraj aplikacije</string>
   <string name="optimize_result_toast_system_default_settings">Vrati na zadane postavke</string>
   <string name="optimize_result_toast_system_no_item_selected">Nema odabranih stavki</string>
@@ -3592,6 +3621,14 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="other_milink_connect">"Ne mogu emitirati. Sada se emitira druga značajka."</string>
   <string name="other_operator_name_virtual_operator">Ostali virtualni operateri</string>
   <string name="over_package_reminder_type">Kada se podatkovni plan potroši</string>
+  <string name="overlay_permission_dialog_comment">Dopusti Sigurnosti da prikazuje stavke preko drugih aplikacija.</string>
+  <string name="overlay_permission_dialog_comment_pad">Dopusti Sigurnosti da prikazuje stavke preko drugih aplikacija.</string>
+  <string name="overlay_permission_dialog_comment_security_service">Dopusti \"Sigurnosnim alatima\" da prikazuju stavke preko drugih aplikacija. Ovo dopuštenje možete dati u postavkama.</string>
+  <string name="overlay_permission_dialog_message">Sigurnost treba dopuštenja da bi mogla normalno raditi.</string>
+  <string name="overlay_permission_dialog_message_pad">Sigurnost treba dopuštenja da bi mogla normalno raditi.</string>
+  <string name="overlay_permission_dialog_message_security_service">Sigurnost treba određena dopuštenja za normalan rad.</string>
+  <string name="overlay_permission_dialog_open">Postavke</string>
+  <string name="overlay_permission_dialog_title">Potrebna su dopuštenja</string>
   <string name="package_change_notification_summary">Dodirnite da saznate više.</string>
   <string name="package_change_notification_title">Postavite ograničenje podataka automatski</string>
   <string name="package_setted_error_notification_summary">Dodirnite za prikaz detalja o uporabi podataka.</string>
@@ -4367,6 +4404,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pp_virtual_identity_manager">Virtualni ID</string>
   <string name="pp_virtual_identity_summary">Virtualni ID (OAID) može se pružiti aplikacijama umjesto vašeg stvarnog identifikatora. Štiti vašu privatnost i omogućuje vam upravljanje načinom na koji aplikacije prate vaše ponašanje.</string>
   <string name="pref_about">O aplikaciji</string>
+  <string name="precise_location_title">Točna lokacija</string>
   <string name="pref_about_traffic_title">Postavke uporabe podataka</string>
   <string name="pref_add_traffic_pkg">Dodatno kupljeni podaci</string>
   <string name="pref_adjust_data_usage">Predložak poruke mobilnog operatera</string>
@@ -4761,9 +4799,11 @@ Povući suglasnost sada?"</string>
   <string name="privacy_thumbnail_blur_search_empty">"Ne mogu pronaći rezultate"</string>
   <string name="privacy_thumbnail_blur_title">Zamuti preglede</string>
   <string name="privacy_thumbnail_blur_top_tip">Odaberite aplikacije za koje će pregledi biti zamućeni u Nedavno</string>
+  <string name="privacy_thumbnail_shield_title">Pregled maskiranja</string>
+  <string name="privacy_thumbnail_shield_top_tip">Pregledi maski za aplikacije prikazane u Nedavno</string>
   <string name="privacy_type_open">Uključeno</string>
   <string name="privacy_update_dialog_content_1">%s pravila o privatnosti su ažurirana:</string>
-  <string name="privacy_update_dialog_content_2">&lt;Data&gt;Pro&amp;#269;itajte i prihvatite novu verziju &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; prije nego &amp;#353;to nastavite.&lt;/Data&gt;</string>
+  <string name="privacy_update_dialog_content_2">&lt;Data&gt;Pročitajte i prihvatite novu verziju &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; prije nego što nastavite.&lt;/Data&gt;</string>
   <string name="privacy_update_dialog_title">Ažurirana Pravila o privatnosti</string>
   <string name="privacy_using_camera">Korištenje kamere</string>
   <string name="privacy_using_location">Pristup lokaciji</string>
@@ -5183,6 +5223,7 @@ Povući suglasnost sada?"</string>
   <string name="sim_lock_start_summary">Ova vas značajka štiti od mogućih rizika u slučaju gubitka SIM kartice.</string>
   <string name="sim_lock_start_title">Sigurnost SIM kartice</string>
   <string name="sim_lock_toast_no_sim">Prvo umetnite SIM karticu</string>
+  <string name="sim_lock_verify_time_out">Provjera je istekla. Pokušajte ponovno.</string>
   <string name="sim_not_ready">"SIM kartica nije spremna"</string>
   <string name="sim_not_ready_toast">"SIM kartica nije spremna"</string>
   <string name="sim_state_exception_summary">Stanje SIM kartice pokazuje da nešto nije u redu s vašom SIM karticom.</string>
@@ -5457,6 +5498,7 @@ Povući suglasnost sada?"</string>
   <string name="st_other_setting_group">Ostale postavke</string>
   <string name="st_settings_name">Postavke popisa zabranjenih</string>
   <string name="st_share_settings">Koristi postavke SIM kartice %d</string>
+  <string name="st_sms_intercept_oversea">Međunarodni SMS</string>
   <string name="st_show_block_notification">Obavijesti o blokiranim stavkama</string>
   <string name="st_show_num_keyword">" ključne riječi"</string>
   <string name="st_show_num_number">" brojeva"</string>
@@ -5652,7 +5694,7 @@ Formatiranjem će se izbrisati postojeći sadržaj na ^2. Da biste izbjegli gubi
   <string name="summary_block_calls_from_cantacts">"Pozivi od kontakata su blokirani."</string>
   <string name="summary_block_calls_from_strangers">Pozivi od stranaca su blokirani</string>
   <string name="summary_cleaner_cloudscan">Učitaj i usporedi nazive mapa s online definicijama</string>
-  <string name="summary_cloud_account">Dobijte najviše od Vašeg Mi Uređaja.</string>
+  <string name="summary_cloud_account">Koristite sve usluge koje nudi Xiaomi</string>
   <string name="summary_cloud_service">Sinkronizirajte vaše fotografije, kontakte, i više na svim vašim uređajima</string>
   <string name="summary_cloud_space_almost_full">Nabavite više prostora</string>
   <string name="summary_cloud_space_full">Dobijte više prostora za pohranu i pristup do više značajki</string>
@@ -6422,7 +6464,7 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
 Ova značajka ne radi s poboljšanim videozapisima.
 
 Uključivanje jednog isključit će drugo."</string>
-     <string name="vb_ve_settings_display_style_tips_with_conflict_tips">"*Ovaj efekt primijenit će se na cijeli zaslon.
+	<string name="vb_ve_settings_display_style_tips_with_conflict_tips">"*Ovaj efekt primijenit će se na cijeli zaslon.
 
 Ova značajka ne radi s poboljšanim videozapisima.
 

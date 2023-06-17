@@ -41,6 +41,7 @@
     <string name="add_timer_dialog_title">Dodaj timer</string>
     <string name="add_timezone_title">Dodaj vremensku zonu</string>
     <string name="agree">Prihvaćam</string>
+	 <string name="alarm_alert">Alarm zvoni</string>
     <string name="alarm_alert_alert_silenced">Alarm utišan nakon %1$s min.</string>
 	 <string name="alarm_alert_close_entrance">Isključi</string>
     <string name="alarm_alert_disabled">Isključeno</string>
@@ -159,10 +160,10 @@
     <string name="default_label">Alarm</string>
     <string name="delete">Izbriši</string>
     <string name="delete_alarm">Izbriši alarm</string>
-    <string name="delete_selected_timer_item">Izbrisati odabrane zadatke Kronometra?</string>
+    <string name="delete_selected_timer_item">Izbrisati odabrane zadatke Timera?</string>
     <string name="delete_timer_item_title">Izbriši odabrani zadatak</string>
     <string name="delete_timezone_title">Izbriši vremensku zonu</string>
-    <string name="deskclock_sleep_no_disturbance">Sat - Upravljaj vremenom za spavanje -DND način</string>
+    <string name="deskclock_sleep_no_disturbance">Sat > Upravljaj vremenom za spavanje > DND način</string>
 	 <string name="device_sounds">Zvukovi uređaja</string>
     <string name="dialog_confirm_abort">Odbaciti promjene?</string>
     <string name="dialog_legal_off_day">Čini se da koristite praznične alarme. Ova se značajka treba povezati na internet da radi normalno. Prije korištenja ove značajke morate prihvatiti naše &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;. Prihvaćate?"</string>
@@ -490,7 +491,7 @@ mm"</string>
     <string name="skip_alarm_once_hint">Isključi jednom na %s</string>
     <string name="sleep_analysis">Statistika</string>
     <string name="sleep_analysis_chart_date_format">dd.MM.</string>
-    <string name="sleep_date_provider_text">Podatke o spavanju pruža Mi Health</string>
+    <string name="sleep_date_provider_text">Podatke o spavanju pruža Xiaomi Health</string>
     <string name="sleep_date_provider_text_new">Podatke o spavanju pruža Mi Fitness</string>
     <string name="sleep_duration">"Trajanje spavanja: "</string>
     <string name="sleep_duration_avg_text_diff">Prosječno trajanje spavanja (%1$s-%2$s)</string>
@@ -507,16 +508,17 @@ mm"</string>
     <string name="sleep_notification_title">Vrijeme je za odlazak u krevet</string>
     <string name="sleep_record">Pratite san</string>
     <string name="sleep_record_desc">Uključite za početak snimanja podataka o stanju spavanja</string>
-    <string name="sleep_record_desc_detailed">Funkciju praćenja spavanja pruža Mi Health. Jednom uključen, Mi Health automatski bilježi vaše spavanje na temelju korištenja telefona, statistike aktivnosti, kao i vremena koje ste postavili (kad ste zaspali/probudili se), pokazujući vam statistiku u obliku ljestvica. Za preciznije praćenje sna, dopustite Mi Health-u automatski pokrene. Svi povezani podaci bit će pohranjeni lokalno na vašem uređaju, što vam omogućuje jednostavno upravljanje.
+    <string name="sleep_record_desc_detailed">Funkcionalnost praćenja spavanja pruža Xiaomi Health. Nakon uključivanja, Xiaomi Health automatski bilježi vaše spavanje na temelju vaše upotrebe telefona, statistike aktivnosti i vremena spavanja i buđenja koje ste postavili, prikazujući vam statistiku u obliku grafikona. Kako biste točnije pratili spavanje, dopustite Xiaomi Healthu da se automatski pokrene. Svi povezani podaci bit će pohranjeni lokalno na vašem uređaju radi lakšeg upravljanja.
 </string>
     <string name="sleep_record_desc_detailed_new">Praćenje spavanja osigurava značajka Mi Fitness Sleep. Ako uključite ovu značajku, Mi Fitness će automatski prikupljati i prikazati podatke o vašem spavanju na temelju korištenja vašeg telefona, aktivnosti i vremena spavanja i buđenja koje ste postavili. Za preciznije praćenje sna, dopustite Mi Fitness-u da se automatski pokrene.</string>
     <string name="sleep_record_no_data">Vaša će se statistika prikazati ovdje 
-nakon što Mi Health analizira dovoljno podataka</string>
+nakon što Xiaomi Health analizira dovoljno podataka</string>
     <string name="sleep_remind">Podsjetnik za ići na spavanje</string>
     <string name="sleep_time">Vrijeme spavanja</string>
     <string name="sleep_wake_time">%1$s-%2$s</string>
     <string name="slider_text">Povucite gore za isklj. alarma</string>
     <string name="slider_text_new">Povucite gore za isklj. alarma</string>
+	 <string name="snooze_alarm_alert">Odgođeno do %s</string>
     <string name="snooze_confirm_cancel">Odbaci alarm</string>
     <string name="snooze_duration">Odgodi</string>
     <string name="snooze_duration_text">%1$s | %2$s</string>
@@ -555,6 +557,8 @@ nakon što Mi Health analizira dovoljno podataka</string>
     <string name="timer_alert_mute_on">"Alarm se neće oglasiti kada se timer isključi"</string>
     <string name="timer_alert_mute_remind">Dodirni za isključivanje alarma</string>
     <string name="timer_alert_mute_switch">Prebaci se na isključenje timera</string>
+    <string name="timer_alert_pause">Timer je pauziran</string>
+    <string name="timer_alert_running">Timer je pokrenut</string>
     <string name="timer_alert_type_beach">Plaža</string>
     <string name="timer_alert_type_forest">Šuma</string>
     <string name="timer_alert_type_mute">Zadano</string>
@@ -610,8 +614,8 @@ nakon što Mi Health analizira dovoljno podataka</string>
     <string name="unselect_all">Poništi odabir</string>
     <string name="upcoming_alarm">Nadolazeći alarm: %s</string>
     <string name="upcoming_alarm_hint">Možete isključiti ovaj alarm sada</string>
-    <string name="update_health_app">Ažurirajte Mi Health</string>
-    <string name="update_health_app_desc">Funkciju praćenja spavanja pruža Mi Health. Ažurirajte Mi Health na najnoviju verziju da biste pristupili povezanim značajkama.</string>
+    <string name="update_health_app">Ažurirajte Xiaomi Health</string>
+    <string name="update_health_app_desc">Funkciju praćenja spavanja pruža Xiaomi Health. Ažurirajte Xiaomi Health na najnoviju verziju da biste pristupili povezanim značajkama.</string>
     <string name="update_health_app_desc_new">Značajku praćenja spavanja pruža Mi Fitness. Ažurirajte Mi Fitness na najnoviju verziju da biste pristupili povezanim značajkama.</string>
     <string name="update_health_app_new">Ažuriraj Mi Fitness</string>
     <string name="update_it">Ažuriraj</string>
