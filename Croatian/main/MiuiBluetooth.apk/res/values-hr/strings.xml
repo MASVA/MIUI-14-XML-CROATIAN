@@ -481,6 +481,7 @@ Brži protokol veze."</string>
     <string name="inactive_app_active_summary">Aktivno. Dodirnite da biste to promijenili.</string>
     <string name="inactive_app_inactive_summary">Nije aktivno. Dodirnite da biste to promijenili.</string>
     <string name="inactive_apps_title">Aplikacije u stanju mirovanja</string>
+	  <string name="information_go_to_fitness">Možete pronaći povezane postavke u Mi Fitnessu</string>
     <string name="install_all_deferred">Instalirajte odgođeno</string>
     <string name="install_all_features_now">Odmah instaliraj sve značajke</string>
     <string name="install_other_apps">Instalacija nepoznatih apl.</string>

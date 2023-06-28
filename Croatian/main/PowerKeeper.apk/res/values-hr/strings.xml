@@ -39,6 +39,7 @@
     <string name="character_counter_pattern">%1$d/%2$d</string>
     <string name="checking_intranet">Provjera intranet veze…</string>
     <string name="chip_text">Chip tekst</string>
+	 <string name="cloud_allow_change_addr">Promjena statusa automatske sinkronizacije u cloudu</string>
     <string name="clear_temperature">Krajnja temp.</string>
     <string name="clear_text_end_icon_content_description">Izbriši tekst</string>
     <string name="clearable_edittext_clear_description">Izbriši</string>
@@ -66,9 +67,12 @@
     <string name="connect_intranet_hint">Povežite se s intranetom</string>
     <string name="copy">Kopiraj</string>
     <string name="current_cloud_addr_is">Adresa Cloud kontrolnog poslužitelja:</string>
+	 <string name="current_allow_sync_is">Automatsko ažuriranje clouda:</string>
     <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
     <string name="delete_data_confirm">Izbrisati ovu stavku?</string>
+	 <string name="disable">onemogućeno</string>
     <string name="empty_title_apps_container_list">Nema aplikacija</string>
+	  <string name="enable">omogućeno</string>
     <string name="enable_sleep_mode">Uključite stanje mirovanja kako biste optimizirali potrošnju baterije noću</string>
     <string name="error_icon_content_description">Pogreška</string>
     <string name="expand_button_title">Napredno</string>

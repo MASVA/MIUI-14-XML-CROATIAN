@@ -1162,10 +1162,10 @@ da radi normalno, dodirnite \"Postavi\" za ići u Dopuštenja."</string>
 	<string name="hdr_show_hint">Prilagodite zaslon za prikaz više detalja u sjenama i istaknutim dijelovima na stavkama s visokim dinamičkim rasponom</string>
 	<string name="hdr_show_title">Prikaži HDR</string>
 	<string name="hdr_switch_show_hint">Koristite HDR za prikaz više detalja u svijetlim i sjenama</string>
-   <string name="hdr_switch_show_title">Prikaz visokog dinamičkog raspona</string>
+   <string name="hdr_switch_show_title">Pro HDR zaslon</string>
 	<string name="header_help">Pomoć</string>
 	<string name="help">"Ne možete pronaći uređaje?"</string>
-	<string name="help_content">"Ako ne možete pronaći uređaj koji vam je potreban, zamolite drugu osobu da ga uključi Mi Share."</string>
+	<string name="help_content">"Ako ne možete pronaći uređaj koji vam je potreban, zamolite drugu osobu da uključi Mi Share."</string>
 	<string name="hidden_album_display_name">Skriveni album</string>
 	<string name="hide_nearby_photos">Sakrij fotografije i videozapise u blizini</string>
 	<string name="holiday_travel_title_one">%1$s odmor</string>
@@ -1314,7 +1314,7 @@ da radi normalno, dodirnite \"Postavi\" za ići u Dopuštenja."</string>
 	<string name="loading_image_thumbnail">Preuzimanje sličica…</string>
 	<string name="loading_members">Učitavanje članova…</string>
 	<string name="loading_suspend">Preuzimanje pauzirano. Nastaviti će se kada Wi-Fi bude dostupan</string>
-	<string name="loading_text_format" formatted="false">Uklanjanje privatnih podataka s fotografija (%d/%d)…</string>
+	<string name="loading_text_format">Uklanjanje privatnih informacija…</string>
 	<string name="loading_video">Preuzimanje videozapisa…</string>
 	<string name="loading_video_compress_lib">Preuzimanje dodatka za sažimanje videozapisa…</string>
 	<string name="loading_video_fail_sync_without_network">Povežite se na mrežu da biste preuzeli metapodatke</string>
@@ -2428,6 +2428,7 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
 	<string name="search_syncing">Sinkronizacija podataka, vratite se malo kasnije</string>
 	<string name="search_title_album">Album</string>
 	<string name="search_title_app_screenshot">Snimke zaslona aplikacije</string>
+	<string name="search_title_daily">Vrijeme</string>
 	<string name="search_title_history">Pretraži povijest</string>
 	<string name="search_title_location">Lokacije</string>
 	<string name="search_title_more">Više</string>
@@ -2482,7 +2483,6 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
 	<string name="send_public_url">Pošalji poveznicu albuma</string>
 	<string name="send_secret_file_failed">"Ne mogu podijeliti"</string>
 	<string name="send_secret_file_space_low">Nema dovoljno prostora za pohranu</string>
-	<string name="send_too_many_files_error">"Mogu poslati najviše %d stavki odjednom"</string>
 	<string name="service_error">Pogreška poslužitelja</string>
 	<string name="service_is_provided_by_miui_cloud_service">Ovu uslugu pruža Xiaomi Cloud</string>
 	<string name="set_as_baby_lock_wallpaper">Postavi za pozadinu Zaklj. zaslona</string>

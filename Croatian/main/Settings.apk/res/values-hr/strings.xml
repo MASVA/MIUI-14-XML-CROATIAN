@@ -1898,6 +1898,8 @@ Dosad se niste povezivali s uređajem %2$s."</string>
   <string name="bluetooth_hid_profile_summary_connected">Povezano s ulaznim uređajem</string>
   <string name="bluetooth_hid_profile_summary_use_for">Upotrijebi za ulaz</string>
   <string name="bluetooth_incoming_pairing_msg">Od:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Upariti se s ovim uređajem?</string>
+  <string name="bluetooth_inband_ringing">Dopusti unutarpojasne melodije zvona</string>
+  <string name="bluetooth_inband_ringing_summary">Dopusti reprodukciju melodija zvona telefona putem Bluetooth slušalica. Ova se značajka može koristiti samo kada je povezan jedan uređaj i možda neće biti kompatibilna s nekim uređajima.</string>
   <string name="bluetooth_inform_messgae">"Nije moguće povezivanje s %1$s.
 Evo što može biti pogrešno:
 1. Bluetooth je na ovom uređaju isključen ili mu je izvan dosega.
@@ -13520,6 +13522,7 @@ Dodirnite "<b>Natrag</b> za povezivanje s drugom Wi-Fi mrežom."</string>
   <string name="wifi_tether_enabled_summary">%1$s</string>
   <string name="wifi_tether_failed_subtext">Pogreška prijenosnog hotspota</string>
   <string name="wifi_tether_first_use_message">Postavi Prijenosni hotspot kod prve uporabe</string>
+  <string name="wifi_tether_high_temperature_toast">U zaštiti od visoke temperature funkcija je privremeno nedostupna</string>
   <string name="wifi_tether_setting_title">Postavke</string>
   <string name="wifi_tether_settings_title">Prijenosni hotspot</string>
   <string name="wifi_tether_starting">Uključivanje hotspota…</string>

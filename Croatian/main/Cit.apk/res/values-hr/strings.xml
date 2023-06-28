@@ -751,7 +751,6 @@ Test nije uspio!"</string>
 	 <string name="keyboard_vibrator_test">Test tipkovnice</string>
 	 <string name="label">Oznaka</string>
 	 <string name="lcminfo">Informacije o LCM-u</string>
-	 <string name="main_mic_check_record_tip">Snimanje, recite nešto MIC-u na glavnom dijelu uređaja</string>
 	 <string name="material_clock_toggle_content_description">Odaberite prijepodne ili poslijepodne</string>
     <string name="material_hour_selection">Odaberite sat</string>
     <string name="material_hour_suffix">%1$s h</string>
