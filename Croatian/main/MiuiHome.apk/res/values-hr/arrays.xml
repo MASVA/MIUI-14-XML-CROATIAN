@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string-array name="monochrome_color_entries">
+         <item>Zadano</item>
+         <item>Plava</item>
+         <item>Zelena</item>
+         <item>Ljubičasta</item>
+         <item>Smeđa</item>
+      </string-array>
     <string-array name="animation_rate_entries">
          <item>Opušteno</item>
          <item>Uravnoteženo</item>

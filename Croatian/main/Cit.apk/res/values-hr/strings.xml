@@ -133,17 +133,21 @@ Prije kalibracije uređaja, stavite ga na ravnu površinu."</string>
 	 <string name="cit_audio_hw_check_summary">Test provjere audio hardvera</string>
 	 <string name="cit_audio_hw_check_tips">Probno izvođenje</string>
 	 <string name="cit_audio_hw_check_title">Test provjere audio hardvera</string>
+	 <string name="cit_audio_lb_auxmic_to_earpiece_title">Test povratne informacije zvučnika pomoćnog mikrofona</string>
 	 <string name="cit_audio_lb_backmic_to_earpiece_title">Test povratne informacije zvučnika stražnjeg mikrofona</string>
 	 <string name="cit_audio_lb_mainmic_to_earpiece_title">Test povratne informacije zvučnika glavnog mikrofona</string>
+	 <string name="cit_audio_lb_summary_auxmic_to_earpiece">"Test povratne informacije pomoćnog mikrofona i prijemnika.
+
+Držite uređaj kao da upućujete poziv, govorite u pomoćni mikrofon, trebali biste čuti glas iz slušalice"</string>
 	 <string name="cit_audio_lb_summary_backmic_to_earpiece">"Test povratne informacije od stražnjeg mikrofona do prijemnika.
 
-Držite uređaj kao da upućujete poziv, govorite u glavni mikrofon, trebali biste čuti glas iz slušalice"</string>
+Držite uređaj kao da upućujete poziv, govorite u stražnji mikrofon, trebali biste čuti glas iz slušalice"</string>
 	 <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Test povratne informacije od glavnog mikrofona do prijemnika.
 
 Držite uređaj kao da upućujete poziv, govorite u glavni mikrofon, trebali biste čuti glas iz prijemnika"</string>
    <string name="cit_audio_lb_summary_topmic_to_earpiece">"Test povratne informacije od gornjeg mikrofona do prijemnika.
 
-Držite uređaj kao da upućujete poziv, govorite u glavni mikrofon, trebali biste čuti glas iz slušalice"</string>
+Držite uređaj kao da upućujete poziv, govorite u gornji mikrofon, trebali biste čuti glas iz slušalice"</string>
     <string name="cit_audio_lb_topmic_to_earpiece_title">Test povratnih informacija o gornjem zvučniku mikrofona</string>
 	 <string name="cit_audio_spk_cal_valueF0">F0:</string>
 	 <string name="cit_audio_spk_cal_valueRe">Re:</string>
@@ -618,6 +622,7 @@ Drugi redak prikazuje naziv i broj verzije Default MBN i Carrier MBN koji su tre
 	 <string name="cit_tool_wlan_rxn_test">Rx: n</string>
 	 <string name="cit_tool_wlan_rxn_test_bw">bandwidth:</string>
 	 <string name="cit_tool_wlan_rxn_test_channel">kanal:</string>
+	 <string name="cit_tool_wlan_sar_test_title">Wifi-SAR alat</string>
 	 <string name="cit_tool_wlan_sniffer">Wi-Fi Sniffer alat</string>
 	 <string name="cit_tool_wlan_sniffer_settings">Sniffer postavke</string>
 	 <string name="cit_tool_wlan_sniffer_test_title">Wi-Fi sniffer test alat</string>

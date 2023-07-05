@@ -110,7 +110,7 @@
     </plurals>
     <plurals name="pref_live_duration_prompt">
         <item quantity="other">Snimi %d sek.</item>
-        <item quantity="one">Snimi %d skundu</item>
+        <item quantity="one">Snimi %d sekundu</item>
     </plurals>
     <plurals name="timefreeze_guide_tip1">
         <item quantity="other">Možete snimati videozapise s vremenskim zamrzavanjem s do %d subjekata.</item>
@@ -124,4 +124,20 @@
         <item quantity="other">Brzo uzastopno snimanje gotovo, snimljeno fotografija: %1$s</item>
         <item quantity="one">Brzo uzastopno snimanje gotovo, snimljena %1$s fotografija</item>
     </plurals>
+	     <plurals name="cinemaster_toast_camera_overflow">
+        <item quantity="other">Na istu mrežu možete povezati do %d kamera</item>
+        <item quantity="one">Na istu mrežu možete povezati %d kameru</item>
+     </plurals>
+     <plurals name="cinemaster_toast_monitor_overflow">
+        <item quantity="other">Na istu mrežu možete povezati do %d monitora</item>
+        <item quantity="one">Na istu mrežu možete povezati %d monitor</item>
+     </plurals>
+     <plurals name="friend_mode_display_first_dialog">
+        <item quantity="other">xxxx%1$d xxxx.</item>
+        <item quantity="one">xxxx%1$d xxxx.</item>
+     </plurals>
+     <plurals name="number_unit_seconds_split">
+        <item quantity="other">%ds</item>
+        <item quantity="one">%ds</item>
+     </plurals>
 </resources>

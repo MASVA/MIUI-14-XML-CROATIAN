@@ -181,8 +181,13 @@
 	<string name="freeform_guide_tip_notification">Da biste otvorili plutajući prozor, pritisnite i držite akcijsku traku, a zatim je povucite prema dolje</string>
 	<string name="freeform_guide_tip_pin">Da biste smanjili prozor, pritisnite i držite akcijsku traku, a zatim brzo povucite prozor do ruba zaslona</string>
 	<string name="freeform_guide_tip_pin_up">Povucite minimizirani prozor da biste ga vratili</string>
-	<string name="freeform_guide_tip_sidebar">Prevucite prstom prema van za otvaranje bočne trake</string>
+	<string name="freeform_guide_tip_sidebar">Povucite prstom prema van za otvaranje bočne trake</string>
 	<string name="freeform_guide_tip_top">Za pomicanje prozora, pritisnite i držite akcijsku traku, a zatim povucite prozor</string>
+	<string name="freeform_guide_tip_dock_browser">Pritisnite i držite ikonu za otvaranje novog prozora</string>
+  <string name="freeform_guide_tip_dock_email">Pritisnite i držite ikonu za otvaranje novog prozora</string>
+  <string name="freeform_guide_tip_dock_note">Pritisnite i držite ikonu za otvaranje novog prozora</string>
+  <string name="freeform_guide_tip_dock_wps">Pritisnite i držite ikonu za otvaranje novog prozora</string>
+  <string name="freeform_guide_tip_split">Povucite aplikaciju u stranu za prebacivanje na podijeljeni zaslon</string>
 	<string name="frenchchic">Šik</string>
 	<string name="frequent_email">Česta adresa e-pošte</string>
 	<string name="frequent_phrases">Česti izrazi</string>
@@ -217,6 +222,7 @@
 	<string name="hawaii">Havaji</string>
 	<string name="help">"Ne možete pronaći uređaje?"</string>
 	<string name="help_content">"Ako ne možete pronaći uređaj koji vam je potreban, zamolite drugu osobu da uključi Mi Share."</string>
+	<string name="high_temperature_brightness_toast">Veća svjetlina zaslona će zagrijati uređaj i trošiti više energije</string>
 	<string name="hs_guide_dialog_button_confirm">Razumijem</string>
 	<string name="hs_guide_dialog_message">"Ova aplikacija još nije optimizirana za novi pejzažni način rada. Umjesto toga prebačena je na drugi kompatibilni izgled."</string>
 	<string name="hs_guide_dialog_title">Pažnja</string>
@@ -267,6 +273,10 @@
 	<string name="knock_slide_shape">Nacrtajte krug zglobom</string>
 	<string name="ks_back_home">Početni zaslon</string>
 	<string name="ks_close_window">Zatvori trenutni prozor</string>
+	<string name="ks_launch_app_full_window">Cijeli zaslon</string>
+  <string name="ks_launch_app_small_window">Plutajući prozor</string>
+  <string name="ks_launch_split_screen_to_left">Podijeli zaslon/Povucite razdjelnik ulijevo</string>
+  <string name="ks_launch_split_screen_to_right">Podijeli zaslon/Povucite razdjelnik udesno</string>
 	<string name="ks_launch_control_center">Centar za kontrolu</string>
 	<string name="ks_launch_notification_center">Panel obavijesti</string>
 	<string name="ks_launch_recents_tasks">Otvori Nedavno</string>
@@ -315,6 +325,7 @@
 	<string name="meizu_phone">Meizu</string>
 	<string name="memory_clear_nothing_result">Upotreba memorije je već optimizirana.</string>
 	<string name="memory_clear_result">"%1$sB očišćeno"</string>
+	<string name="memory_freeze_loading">Samo trenutak…</string>
 	<string name="messagesent">Poruka je poslana</string>
 	<string name="mi_9t">Mi 9T</string>
 	<string name="mi_9t_pro">Mi 9T Pro</string>
@@ -352,6 +363,8 @@
 	<string name="nps_ContentText">Dodirnite za provjeru pojedinosti</string>
 	<string name="nps_ContentTitle">Traženje GPS-a</string>
 	<string name="nps_app_name">GpsNps</string>
+	<string name="nps_close_mock_location">Onemogući lažnu lokaciju</string>
+  <string name="nps_location_service_unavailable">Usluga lokacije nije dostupna</string>
 	<string name="nps_description">Obavijest o statusu GPS-a</string>
 	<string name="nps_mock_description">Koristeći virtualnu lokaciju, potrebno je ponovno pokretanje za vraćanje</string>
 	<string name="nps_monitor_name">GPS lokacija</string>
@@ -402,6 +415,7 @@
 	<string name="presentation_payphone">Govornica</string>
 	<string name="presentation_private">Privatni broj</string>
 	<string name="presentation_unknown">Nepoznat broj</string>
+	<string name="propotional_freeform_tip">"Izgleda da ova aplikacija u potpunosti ne podržava plutajuće prozore"</string>
 	<string name="radar">Radar</string>
 	<string name="raindrops">Kapi kiše</string>
 	<string name="reboot_confirm_title">Sada ponovno pokrenuti uređaj?</string>
@@ -489,6 +503,13 @@
 	<string name="sim_added_reboot_title">SIM kartica će biti aktivirana nakon ponovnog pokretanja uređaja.</string>
 	<string name="sim_lock_non_ais_msg">"Vaša SIM kartica nije potpuno funkcionalna s ovim telefonom jer nije u skladu s odredbama i uvjetima vaše pretplate. Ako imate bilo kakvih pitanja ili trebate više informacija o ovom pitanju, kontaktirajte Xiaomi servisne centre ili trgovinu koja vam je prodavala proizvode."</string>
 	<string name="sim_lock_now_ais_title">SIM %1$d</string>
+	<string name="sla_btn_concel">"Ne podsjećaj"</string>
+  <string name="sla_btn_confirm">Uključi</string>
+  <string name="sla_btn_keep">Zanemari</string>
+  <string name="sla_btn_stop">Zaustavi</string>
+  <string name="sla_remind_text">Mobilne podatke možete koristiti za povećanje brzine. To može stvoriti dodatne naknade operatera.</string>
+  <string name="sla_title">Pojačajte brzinu</string>
+  <string name="sla_traffic_text">"Danas ste već iskoristili %d MB mobilnih podataka. Možete prestati povećavati brzinu kako biste uštedjeli mobilne podatke."</string>
 	<string name="slatoast">Korištenje mobilnih podataka za povećanje brzine može generirati dodatne troškove mob. operatera</string>
 	<string name="slavewifi">Dvopojasni Wi-Fi</string>
 	<string name="slavewifi_disconnect">Prekini vezu</string>

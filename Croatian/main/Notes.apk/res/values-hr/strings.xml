@@ -159,8 +159,9 @@
     <string name="cta_reminder">Aplikacija Bilješke treba dopuštenja za povezivanje s internetom, snimanje zvuka i pristup vašim kontaktima da radi normalno. Dopustiti?</string>
     <string name="cta_v2_agree_desc">Dopustite ovoj aplikaciji da se poveže s internetom i dodijelite gore navedena obvezna dopuštenja.</string>
     <string name="cta_v2_app_purpose">Izrada, pregled i upravljanje bilješkama</string>
-    <string name="cta_v2_app_purpose_v12">Dobrodošli u Bilješke! Ovu aplikaciju možete koristiti za izradu zadataka i bilješki koje sadrže tekst, slike i zvuk.</string>
-    <string name="data_empty_folder">Nema drugih mapa za prikaz</string>
+    <string name="cta_v2_app_purpose_v12">Dobro došli u Bilješke! Ovu aplikaciju možete koristiti za izradu zadataka i bilješki koje sadrže tekst, slike i zvuk.</string>
+    <string name="cta_v2_app_purpose_v12_lite">Dobro došli u Bilješke! Ovu aplikaciju možete koristiti za izradu bilješki i zadataka.</string>
+	 <string name="data_empty_folder">Nema drugih mapa za prikaz</string>
     <string name="data_empty_note">Nema bilješki</string>
     <string name="data_empty_todo">Nema zadataka</string>
     <string name="date_calculate_today">0 dana</string>
@@ -337,6 +338,7 @@ Dodirnite + da napravite mapu"</string>
     <string name="image_annotation_edit_hint">Opis slike</string>
     <string name="image_annotation_edit_length_warning">Opis slike može sadržavati do %d znakova</string>
     <string name="info_note_enter_desktop">Dodano na Početni zaslon</string>
+	  <string name="insert_image_size_limit_tip">"Ova je slika veća od %d MB. Automatski je komprimirana."</string>
     <string name="item_view_role_description">Kartica</string>
     <string name="last_excerpt_unfinish_hint">Najnoviji isječak je nepotpun</string>
     <string name="loading_text">Samo trenutak…</string>
@@ -1000,6 +1002,7 @@ Dopustite aplikaciji Bilješke snimanje zvuka."</string>
     <string name="warn_cannot_add_new_style">"Nije moguće dodati novi format jer je bilješka predugačka"</string>
     <string name="warn_disable_edit_in_browse_mode">"Ne možete uređivati bilješke u načinu samo za čitanje"</string>
     <string name="warn_enter_browse_mode">"U načinu ste samo za čitanje"</string>
+	 <string name="warn_enter_browse_mode_forbid_create">"Ne mogu stvarati ili uređivati bilješke u načinu rada samo za čitanje"</string>
     <string name="web_sso_login_fail">Morate se ponovo prijaviti</string>
     <string name="web_sso_login_message">Prijava…</string>
     <string name="webview_reload">Pokušajte ponovo</string>

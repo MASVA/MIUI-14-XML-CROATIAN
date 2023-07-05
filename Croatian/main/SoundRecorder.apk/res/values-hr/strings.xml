@@ -170,6 +170,7 @@
     <string name="miuix_appcompat_select_all">Odaberi sve</string>
     <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
     <string name="miuix_appcompat_select_item">Odaberi stavke</string>
+	 <string name="miuix_appcompat_edit">Uredi</string>
     <string name="miuix_indexer_collect">Zbirke</string>
     <string name="miuix_indexer_selected">Odabrano %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
@@ -290,6 +291,8 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
     <string name="notification_save_as_complete">Uspješno spremljeno</string>
     <string name="notification_stopped">Snimanje zaustavljeno</string>
     <string name="notification_title_all_paused">Preuzimanje pauzirano</string>
+	  <string name="offline_recognize_transfer_format">Transkripcija…</string>
+    <string name="online_recognize_progress">Transkripcija %s…</string>
     <string name="other_settings_pref_title">Dodatne postavke</string>
     <string name="password_toggle_content_description">Prikaži zaporku</string>
     <string name="path_soundrecorder_setting">Aplikacije sustava/Snimač</string>
@@ -334,6 +337,7 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
     <string name="recognition_button_start">Prijepis</string>
     <string name="recognition_confirm_dialog_body">"Prepisivanje bi moglo potrajati neko vrijeme. Primit ćete obavijest kada ovaj zadatak je završen. Prepisati sada?"</string>
     <string name="recognition_error_cancel">Otkazano</string>
+	 <string name="recognition_error_code">Kôd pogreške: %d</string>
     <string name="recognition_error_download_cancel">Kasnije</string>
     <string name="recognition_error_download_data_msg">Preuzmite alat za prepoznavanje kako bi ova usluga bila dostupna, što će potrošiti oko %d MB u trenutnoj mobilnoj podatkovnoj vezi.</string>
     <string name="recognition_error_download_fail">"Ne mogu preuzeti. Provjerite mrežne postavke i pokušajte ponovo."</string>
@@ -352,6 +356,7 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
     <string name="recognition_notification_complete_success">Prepisivanje \"%s\" je uspjelo. Dodirni za prikaz.</string>
     <string name="recognition_notification_error">"Ne mogu prepisati \"%s\""</string>
     <string name="recognition_notification_running">Prepisivanje \"%s\"…</string>
+	  <string name="recognition_process_dialog_title">Zadaci koji su u tijeku</string>
     <string name="recognition_status_downloading">Preuzimanje…</string>
     <string name="recognition_status_init">"Pripremanje "</string>
     <string name="recognition_stop_current">Zaustavi tekući zadatak</string>
@@ -383,7 +388,7 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
     <string name="record_permission_dialog_title">Potrebna su dopuštenja za mikrofon</string>
     <string name="record_quliaty_preference_title">Kvaliteta snimanja</string>
     <string name="record_resotre">Obnovi snimke</string>
-     <string name="record_scenes_summaries_HD">Tehnologija visokog dinamičkog raspona omogućuje mikrofonu snimanje detaljnijeg zvuka</string>
+	 <string name="record_scenes_summaries_HD">Tehnologija visokog dinamičkog raspona omogućuje mikrofonu snimanje detaljnijeg zvuka</string>
     <string name="record_scenes_summaries_interview">Postavite telefon između %d osoba kako biste jasno snimili njihov razgovor</string>
     <string name="record_scenes_summaries_music">Snimajte glazbu bolje kvalitete</string>
     <string name="record_scenes_summaries_stereo_HD">Tehnologija visokog dinamičkog raspona omogućuje mikrofonu snimanje detaljnijeg zvuka</string>
@@ -474,6 +479,7 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
     <string name="text_btn_pause">Pauza</string>
     <string name="text_btn_play">Reproduciraj</string>
     <string name="text_btn_recognize">Prepoznaj</string>
+	 <string name="text_btn_recognize_pending">"Na čekanju "</string>
     <string name="text_btn_recording">Snimi</string>
     <string name="text_btn_wave">Val</string>
     <string name="text_finish">Potvrdi</string>

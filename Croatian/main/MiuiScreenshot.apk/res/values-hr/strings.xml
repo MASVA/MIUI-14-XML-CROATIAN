@@ -207,6 +207,8 @@ snimke zaslona"</string>
     <string name="privacy_mosaic_result_fail">"Nisam mogao blokirati privatne podatke. Pokušajte ponovo."</string>
     <string name="privacy_mosaic_result_none">Nisu pronađene privatne informacije</string>
     <string name="privacy_mosaic_tip">Dodirnite za blokiranje privatnih informacija</string>
+	 <string name="privacy_mosaic_tip_long">"Snimke zaslona koje se pomiču nisu podržane"</string>
+    <string name="privacy_mosaic_tip_partial">"Djelomične snimke zaslona nisu podržane"</string>
     <string name="remover_menu_processing">Obrada</string>
     <string name="saturday">Subota</string>
     <string name="saturday_short">Sub</string>

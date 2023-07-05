@@ -50,6 +50,8 @@
 	<string name="HIPS_Perm_NEARBY_DEVICES_Desc_T_china">Otkriti i povezati se s uređajima u blizini putem Bluetootha i Wi-Fi-ja</string>
 	<string name="HIPS_Perm_operator_shake">Pristup podacima brzinomjera</string>
 	<string name="HIPS_Perm_operator_shake_Desc">Podaci brzinomjera koriste se za praćenje orijentacije i kretanja (npr. podrhtavanje, naginjanje i rotacija)</string>
+	<string name="HIPS_Perm_operator_wall_paper">Usluge dinamičnih slika pozadina</string>
+      <string name="HIPS_Perm_operator_wall_paper_Desc">Uređivanje usluga dinamičnih slika pozadina sustava</string>
 	<string name="HIPS_Perm_PhoneID">Dobivanje informacija o uređaju</string>
 	<string name="HIPS_Perm_PhoneID_Desc">pristupiti broju telefona, IMEI i IMSI-ju</string>
 	<string name="HIPS_Perm_PhoneID_Desc_Q">Pristup broju telefona i statusu uređaja</string>
@@ -183,6 +185,7 @@
 	<string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
 	<string name="default_permission_description">izvesti nepoznate radnje</string>
 	<string name="deny_fine_keep_blur_location">Približna lokacija</string>
+	<string name="deny_fine_keep_blur_location_dont_ask_again">Uvijek dopusti približnu lokaciju</string>
 	<string name="expand_button_title">Napredno</string>
 	<string name="forbid_notice_me">Prestani obavještavati</string>
 	<string name="friday">Petak</string>
@@ -202,7 +205,7 @@
 	<string name="grant_dialog_button_deny_and_dont_ask_again">"Odbij i ne pitaj ponovo"</string>
 	<string name="grant_dialog_button_deny_background">Samo tijekom korištenja aplikacije</string>
 	<string name="grant_dialog_button_deny_background_and_dont_ask_again">Uvijek, ali samo tijekom korištenja aplikacije</string>
-	 <string name="grant_dialog_button_only_allow_foreground_locate">Ograniči za sad</string>
+	<string name="grant_dialog_button_only_allow_foreground_locate">Ograniči za sad</string>
 	<string name="grant_dialog_button_only_allow_foreground_locate_and_dont_ask_again">Uvijek ograniči</string>
 	<string name="grant_dialog_storage_category_title">Ova aplikacija zahtijeva dopuštenja za pristup Galeriji i porukama u aplikacijama društvenih medija</string>
 	<string name="grant_dialog_storage_gallery_title">Galerija</string>
@@ -222,6 +225,7 @@
 	<string name="miuix_appcompat_delete_description">Izbriši</string>
 	<string name="miuix_appcompat_deselect_all">Poništi odabir</string>
 	<string name="miuix_appcompat_deselect_all_description">Poništi odabir</string>
+	<string name="miuix_appcompat_edit">Uredi</string>
 	<string name="miuix_appcompat_search_action_mode_cancel">Odustani</string>
 	<string name="miuix_appcompat_search_input_description">Traži</string>
 	<string name="miuix_appcompat_select_all">Odaberi sve</string>
@@ -293,6 +297,7 @@
 	<string name="permdesc_call_phone">Želite li dopustiti %1$s upućivanje poziva?</string>
 	<string name="permdesc_camera">Želite li dopustiti %1$s snimanje fotografija i videozapisa?</string>
 	<string name="permdesc_get_account">Želite li dopustiti %1$s pristup svim računima pohranjenim na ovom uređaju?</string>
+	<string name="permdesc_get_installed_apps">Želite li dopustiti \"%1$s\" pristup podacima o instaliranim aplikacijama?</string>
 	<string name="permdesc_location">Želite li dopustiti %1$s pristup informacijama o lokaciji?</string>
 	<string name="permdesc_location_background">Želite li dopustiti %1$s pristup informacijama o lokaciji u pozadini?</string>
 	<string name="permdesc_isolate_storage">Želite li dopustiti %1$s pristup fotografijama, videozapisima i zvuku pohranjenim na ovom uređaju?</string>

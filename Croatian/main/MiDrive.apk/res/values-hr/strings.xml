@@ -620,8 +620,10 @@ Pobrinite se da koristite trenutnu Xiaomi Račun kao račun MIUI sustava."</stri
     <string name="permission_phone_desc">Pristup telefonskom broju i statusu uređaja</string>
     <string name="permission_phone_title">Informacije o uređaju</string>
     <string name="permission_storage_desc">Pristup i spremanje fotografija i datoteka na ovaj uređaj</string>
-    <string name="permission_storage_title">Pohrana</string>
-    <string name="petabyteShort">PB</string>
+    <string name="permission_storage_desc_pad">Pristup fotografijama i datotekama na uređaju</string>
+	 <string name="permission_storage_title">Pohrana</string>
+    <string name="permission_storage_title_pad">Pristup pohrani</string>
+	 <string name="petabyteShort">PB</string>
     <string name="phone_bind_too_many">Ovaj je broj telefona povezan s nekoliko Xiaomi Računa u kratkom vremenskom razdoblju. Pokušajte upotrijebiti drugi broj telefona.</string>
     <string name="phone_hint">Broj telefona</string>
     <string name="phone_num_use_for">Broj telefona se koristi za:</string>

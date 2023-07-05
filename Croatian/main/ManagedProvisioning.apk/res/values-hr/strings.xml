@@ -219,6 +219,7 @@
     <string name="mtrl_picker_toggle_to_day_selection">Dodirnite za prijelaz na odabir dana</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Prijelaz na način unosa teksta</string>
     <string name="mtrl_picker_toggle_to_year_selection">Dodirnite za prijelaz na odabir godine</string>
+	 <string name="mtrl_timepicker_confirm">U redu</string>
     <string name="navigation_button_description">Idi gore</string>
     <string name="next">Dalje</string>
     <string name="not_set">Nije postavljeno</string>

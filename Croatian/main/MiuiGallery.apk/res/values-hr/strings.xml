@@ -157,7 +157,7 @@
 	<string name="album_favorites_name">Favoriti</string>
 	<string name="album_from_format">Od %s</string>
 	<string name="album_hidden_item_button_title">Prikaži</string>
-	<string name="album_hidden_page_title">Sakrij</string>
+	<string name="album_hidden_page_title">Skriveni albumi</string>
 	<string name="album_homepage_show_all_photos">Prikaži sve fotografije</string>
 	<string name="album_jump_failed">Pričekajte dok se albumi sinkroniziraju s Xiaomi Cloudom i pokušajte ponovno</string>
 	<string name="album_lockscreen_wallpapers">Pozadine Zaklj. zaslona</string>

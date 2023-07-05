@@ -84,10 +84,11 @@
   <string name="abc_toolbar_collapse_description">Sažmi</string>
   <string name="abnormal_consume_disable_autostart">Ograničite autom. pokretanje</string>
   <string name="abnormal_consume_disable_autostart_toast">Uspješno ograničeno autom. pokretanje</string>
-  <string name="abnormal_consume_set_hidemode">Upotrijebite Uštedu baterije s ovom aplikacijom</string>
+  <string name="abnormal_consume_set_hidemode">Koristite Štednju baterije s ovom aplikacijom</string>
   <string name="abnormal_consume_type_cpu">Visoka potrošnja procesora</string>
   <string name="abnormal_consume_type_wakelock">"Sustav ne može u stanje mirovanja"</string>
   <string name="about_autostart">O autom. pokretanju</string>
+  <string name="about_autostart_gloabl">O autom. pokretanju u pozadini</string>
   <string name="ac_enable_title">Uključite Zaklj. aplikacija</string>
   <string name="ac_enter_applock">Uđi u Zaklj. aplikacija</string>
   <string name="ac_firstUseApplock_subTitle">Koristite bolje sigurnosne alate na razini sustava</string>
@@ -139,6 +140,7 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="activity_title_antivirus_kddi">Sigurnosno skeniranje</string>
   <string name="activity_title_apps_manager">Aplik.</string>
   <string name="activity_title_auto_start_manager">Autom. pokretanja</string>
+  <string name="activity_title_auto_start_manager_global">Autom pokretanje u pozadini</string>
   <string name="activity_title_create_shortcut">Prečac</string>
   <string name="activity_title_deep_clean">Dubinsko čišćenje</string>
   <string name="activity_title_default_apps_manager">Zadane aplik.</string>
@@ -172,11 +174,11 @@ ili unesite Zaporku zaštite privatnosti"</string>
   <string name="ad_floating_window_title">Zatvorite plutajući prozor za otključavanje</string>
   <string name="ad_split_screen_title">Za otključavanje zaslona izađite iz cijelog zaslona</string>
   <string name="ad_text_adx">Oglas</string>
-	<string name="ad_text_btn_download">Instaliraj</string>
-	<string name="ad_text_develop">Programer: %1$s</string>
-	<string name="ad_text_permission">Dozvole</string>
-	<string name="ad_text_privacy">Dopuštenja</string>
-	<string name="ad_text_version">Verzija: %1$s</string>
+  <string name="ad_text_btn_download">Instaliraj</string>
+  <string name="ad_text_develop">Programer: %1$s</string>
+  <string name="ad_text_permission">Dozvole</string>
+  <string name="ad_text_privacy">Dopuštenja</string>
+  <string name="ad_text_version">Verzija: %1$s</string>
   <string name="ad_update_time">Zadnje ažuriranje %s</string>
   <string name="ad_update_time_unKnown">Zadnje ažuriranje nepoznato</string>
   <string name="adb_install_no_network">Povežite se s mrežom i pokušajte ponovno</string>
@@ -496,15 +498,16 @@ Bočne ploče
   <string name="app_install_intercept">Blokiraj instalaciju</string>
   <string name="app_install_tips_go_to">Otvori</string>
   <string name="app_install_tips_install_success">%1$s uspješno instaliran</string>
+  <string name="app_manager_as_dlg_title">Pažnja</string>
   <string name="app_management_for_chain_start">Blokiraj otvaranje drugih aplikacija</string>
   <string name="app_management_for_chain_start_desc">Spriječi ovu aplikaciju da se poveže ili otvori druge aplikacije</string>
-	<string name="app_management_for_device_id">Sakrij identifikatore i spriječi praćenje</string>
-	<string name="app_management_for_device_id_desc">Spriječite ovoj aplikaciji pristup vašem telefonskom broju i osobnim podacima</string>
-	<string name="app_management_for_independent_storage">Izoliraj podatke iz predmemorije</string>
-	<string name="app_management_for_independent_storage_desc">Dopusti aplikaciji samo pristup vlastitim datotekama i podacima</string>
-	<string name="app_management_for_install">Blokiraj preuzimanja aplikacija</string>
-	<string name="app_management_for_install_desc">Spriječi ovoj aplikaciji preuzimanje ili instaliranje drugih aplikacija</string>
-	<string name="app_management_measures">Upravljanje aplikacijom</string>
+  <string name="app_management_for_device_id">Sakrij identifikatore i spriječi praćenje</string>
+  <string name="app_management_for_device_id_desc">Spriječite ovoj aplikaciji pristup vašem telefonskom broju i osobnim podacima</string>
+  <string name="app_management_for_independent_storage">Izoliraj podatke iz predmemorije</string>
+  <string name="app_management_for_independent_storage_desc">Dopusti aplikaciji samo pristup vlastitim datotekama i podacima</string>
+  <string name="app_management_for_install">Blokiraj preuzimanja aplikacija</string>
+  <string name="app_management_for_install_desc">Spriječi ovoj aplikaciji preuzimanje ili instaliranje drugih aplikacija</string>
+  <string name="app_management_measures">Upravljanje aplikacijom</string>
   <string name="app_maanger_app_uninstalled_toast">Ta je aplikacija deinstalirana</string>
   <string name="app_manager_advanced_setting">Napredne postavke</string>
   <string name="app_manager_allow">Da</string>
@@ -1147,7 +1150,7 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="bh_order_details_title_content">Pojedinosti o narudžbi</string>
   <string name="bh_pay_status_confirm_text">Dobivanje informacija…</string>
   <string name="bh_pay_status_failed_text">"Nije moguće izvršiti plaćanje"</string>
-	<string name="bh_pay_status_success_text">Plaćanje je uspješno izvršeno</string>
+  <string name="bh_pay_status_success_text">Plaćanje je uspješno izvršeno</string>
   <string name="bh_pay_status_success_tips_text">Kupnje se mogu isporučiti s kašnjenjem</string>
   <string name="bh_product_input_normal_phone">Unesite važeći broj telefona</string>
   <string name="bh_product_list_all">Svi podatkovni paketi</string>
@@ -1253,7 +1256,7 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="bubble_notification">Oblačići razgovora</string>
   <string name="bubble_notification_switch">Prikaži oblačiće razgovora</string>
   <string name="bubble_notification_switch_desc">Kada je aplikacija za messenger u plutajućem prozoru skrivena na rubu zaslona, prikaži dolazne poruke u oblačićima</string>
-	<string name="btn_text_virus_scan">Skeniraj</string>
+  <string name="btn_text_virus_scan">Skeniraj</string>
   <string name="button_background_connection">Dopusti</string>
   <string name="button_block_calls_from_cantacts">Odblokiraj</string>
   <string name="button_block_calls_from_strangers">Odblokiraj</string>
@@ -1670,9 +1673,10 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="dialog_msg_delete_icon_title_phone">Ukloniti ovaj prečac s Početnog zaslona?</string>
   <string name="dialog_msg_install_manager_content">Ponovo instalirati aplikaciju Sigurnost?</string>
   <string name="dialog_msg_install_manager_content_pad">Ponovo instalirati aplikaciju Sigurnost?</string>
-	<string name="dialog_change_package_type_summary">Promjena vrste plana podataka vratit će sve postavke uporabe podataka (npr. ograničenja podataka) na njihove zadane vrijednosti. Želite li sada promijeniti vrstu plana podataka?</string>
+  <string name="dialog_change_package_type_summary">Promjena vrste plana podataka vratit će sve postavke uporabe podataka (npr. ograničenja podataka) na njihove zadane vrijednosti. Želite li sada promijeniti vrstu plana podataka?</string>
   <string name="dialog_change_package_type_title">Promjena vrste plana podataka</string>
   <string name="dialog_msg_auto_start_declare">Pojedine sigurnosne aplikacije mogu pogrešno upućivati na to da ih je MIUI spriječio od pokretanja. Provjerite dopuštenja koja su odobrena za pojedine aplikacije u Postavke &gt; Aplikacije.</string>
+  <string name="dialog_msg_auto_start_declare_global">Neke aplikacije mogu netočno naznačiti da ih je MIUI spriječio u pokretanju. Provjerite dopuštenja koja su dodijeljena pojedinačnim aplikacijama u Postavkama.</string>
   <string name="dialog_msg_stop_paysafety_scan">Zaustaviti sigurnosnu provjeru plaćanja?</string>
   <string name="dialog_msg_stop_virus_scan">Želite li zaustaviti sigurnosno skeniranje?</string>
   <string name="dialog_no_longer_alert">"Ne prikazuj ponovno”</string>
@@ -1698,6 +1702,7 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="dialog_skt_roaming_warning_title">Ugovor o roamingu podataka</string>
   <string name="dialog_title_attention">Pažnja</string>
   <string name="dialog_title_auto_start_declare">O autom. pokretanju</string>
+  <string name="dialog_title_auto_start_declare_global">O autom. pokretanju u pozadini</string>
   <string name="dialog_title_stop_paysafety_scan">Zaustavi</string>
   <string name="dialog_title_stop_virus_scan">Zaustavi sigurnosno skeniranje</string>
   <string name="disable_air_mode">Isključite najprije Zrakoplovni način</string>
@@ -3232,7 +3237,7 @@ Vaš je uređaj sad %s brži."</string>
   <string name="mtrl_picker_toggle_to_day_selection">Dodirnite za prelazak na odabir dana</string>
   <string name="mtrl_picker_toggle_to_text_input_mode">Prebacite se na način unosa teksta</string>
   <string name="mtrl_picker_toggle_to_year_selection">Dodirnite za prelazak na odabir godine</string>
-	<string name="mtrl_timepicker_confirm">U redu</string>
+  <string name="mtrl_timepicker_confirm">U redu</string>
   <string name="na_main_card_ad_subtitle">Puno podataka, besplatni pozivi, niske cijene</string>
   <string name="na_main_card_ad_text">Pronađite plan koji vam odgovara</string>
   <string name="na_main_card_ad_title">Promocija Mi Fan kartice</string>
@@ -3691,6 +3696,10 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pc_battery_history_total_consumption_title">Ukupna potrošnja energije</string>
   <string name="pc_battery_history_usetime_title">Aktivan</string>
   <string name="pc_close_notifi_action">Isključi</string>
+  <string name="pc_continuity_has_open_save_mode_notifi_sumary">Štednja baterije bit će isključena kada je %1$s %2$s ili potpuno napunjen</string>
+  <string name="pc_continuity_has_open_save_mode_notifi_title">Uključena štednja baterije na %s</string>
+  <string name="pc_continuity_open_save_mode_notifi_sumary">%1$s baterija je niža od %2$s. Uključite štednju baterije da biste dodali %3$s %4$s.</string>
+  <string name="pc_continuity_open_save_mode_notifi_title">%s baterija je slaba</string>
   <string name="pc_endurance_calculation">Izračun…</string>
   <string name="pc_entered_extreme_mode">Način hibernacije je uključen</string>
   <string name="pc_entered_extreme_mode_summary">"Vaš uređaj je prazan i ušao je u stanje hibernacije. Aplikacije će raditi u pozadini i neće slati obavijesti."</string>
@@ -4914,7 +4923,7 @@ Povući suglasnost sada?"</string>
   <string name="resource_securitycenter">Sigurnost</string>
   <string name="resource_securitycenter_settings">Sigurnost</string>
   <string name="resource_usb_install">Instaliraj putem USB-a</string>
-  <string name="restrictbackground_conflict_saving_msg">"Ne mogu koristiti Uštedu podataka kada su podaci u pozadini ograničeni. Isključiti Uštedu podataka i ograničiti podatke u pozadini?"</string>
+  <string name="restrictbackground_conflict_saving_msg">"Ne mogu koristiti Štednju podataka kada su podaci u pozadini ograničeni. Isključiti Štednju podataka i ograničiti podatke u pozadini?"</string>
   <string name="result_autoscan_header">Nadziranje plaćanja</string>
   <string name="result_autoscan_info">Automatski nadziraj okruženje sustava kada su aplikacije za plaćanje pokrenute</string>
   <string name="result_sign_header">Pronađeno %d neslužbenih aplikacija</string>
@@ -4991,7 +5000,7 @@ Povući suglasnost sada?"</string>
   <string name="saving_conflict_dialog_cancel">Odustani</string>
   <string name="saving_conflict_dialog_ok">U redu</string>
   <string name="saving_conflict_dialog_title">Pažnja</string>
-  <string name="saving_conflict_restrictbackground_msg">""Ne mogu koristiti Uštedu podataka kada su podaci u pozadini ograničeni. Dopustiti podatke u pozadini i uključiti Uštedu podataka?"</string>
+  <string name="saving_conflict_restrictbackground_msg">""Ne mogu koristiti Štednju podataka kada su podaci u pozadini ograničeni. Dopustiti podatke u pozadini i uključiti Štednju podataka?"</string>
   <string name="sc_allow_network_dialog_message">Ograničili ste mrežnu vezu i pristup svojoj lokaciji za aplikaciju Sigurnost. Dajte aplikaciji potrebna dopuštenja za upotrebu ove značajke.</string>
   <string name="sc_allow_network_dialog_tiltle">"Ne mogu koristiti ovu značajku"</string>
   <string name="sc_system_risk_fix_info_xspace">To se ne može riješiti u Drugom prostoru. Pokušajte ponovo u Prvom prostoru.</string>
@@ -5233,7 +5242,7 @@ Povući suglasnost sada?"</string>
   <string name="size_compat2">%1$d:%2$d</string>
   <string name="size_embedded">Paralelni prozori</string>
   <string name="size_full">Cijeli zaslon</string>
-	<string name="size_giga_byte">GB</string>
+  <string name="size_giga_byte">GB</string>
   <string name="size_kilo_byte">KB</string>
   <string name="size_mega_byte">MB</string>
   <string name="size_peta_byte">PB</string>
@@ -6305,7 +6314,7 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="traffic_saving_ratio_low">"Ne mogu značajno smanjiti uporabu podataka"</string>
   <string name="traffic_saving_recommanded_close">Isključi</string>
   <string name="traffic_saving_recommanded_open">Uključi</string>
-  <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Automatski aktiviraj Uštedu podataka radi smanjenja mobilnog podatkovnog prometa aplikacija.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;Ako imate mjesečno ograničenje podataka, ne zaboravite isključiti Uštedu podataka za pojedine aplikacije da izbjegnete dodatne troškove vašeg mobilnog operatera.&lt;/font&gt;"</string>
+  <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Automatski aktiviraj Štednju podataka radi smanjenja mobilnog podatkovnog prometa aplikacija.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;Ako imate mjesečno ograničenje podataka, ne zaboravite isključiti Štednju podataka za pojedine aplikacije da izbjegnete dodatne troškove vašeg mobilnog operatera.&lt;/font&gt;"</string>
   <string name="traffic_saving_start_tip_title">Aktiviraj</string>
   <string name="traffic_saving_tecsupport">Powered by Opera</string>
   <string name="traffic_saving_tecsupport_international">Powered by Opera Max</string>
@@ -6464,7 +6473,7 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
 Ova značajka ne radi s poboljšanim videozapisima.
 
 Uključivanje jednog isključit će drugo."</string>
-	<string name="vb_ve_settings_display_style_tips_with_conflict_tips">"*Ovaj efekt primijenit će se na cijeli zaslon.
+  <string name="vb_ve_settings_display_style_tips_with_conflict_tips">"*Ovaj efekt primijenit će se na cijeli zaslon.
 
 Ova značajka ne radi s poboljšanim videozapisima.
 

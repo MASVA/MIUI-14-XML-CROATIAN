@@ -1110,6 +1110,7 @@ Ovo dopuštenje možete dati u Postavke &gt; Privatnost."</string>
     <string name="resource_list_title">Nedavno odabrano</string>
     <string name="resource_local_picker">Odaberi melodiju zvona</string>
     <string name="resource_menu_refresh">Osvježi</string>
+	 <string name="resource_mi_ai_picker">Odaberite Mi AI melodiju zvona</string>
     <string name="resource_mute">Ništa</string>
     <string name="resource_my">Izvanmrežno</string>
     <string name="resource_network_diagnostics">&lt;u&gt;Test mreže&lt;/u&gt;</string>

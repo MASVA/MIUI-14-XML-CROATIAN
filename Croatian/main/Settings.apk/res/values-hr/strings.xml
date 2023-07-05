@@ -847,6 +847,8 @@ Uređaje samo postavite jedan uz drugi (prislonite im poleđine) pa dodirnite za
   <string name="aod_to_close">Isključi</string>
   <string name="ap_connect_failed">Povezivanje nije uspjelo</string>
   <string name="ap_connected_battery_level">" | baterija %1$s"</string>
+  <string name="ap_p2p_dialog_message">"Trenutna dijeljena Wi-Fi veza već se koristi. Provjerite ne koristite li Wi-Fi Direct, Mi Share, emitiranje ili druge usluge bežičnog prijenosa prije nego što uključite svoju osobni hotspot. "</string>
+  <string name="ap_p2p_dialog_yes">Prekini vezu</string>
   <string name="apn_apn">APN</string>
   <string name="apn_auth_type">Vrsta autentifikacije</string>
   <string name="apn_auth_type_chap">CHAP</string>
@@ -4030,6 +4032,13 @@ Možete vidjeti generirane zapise u aplikaciji Datoteke."</string>
   <string name="enable_quick_start">Uključi brzo pokretanje</string>
   <string name="enable_quickboot_summary">Stavite uređaj u QuickBoot način, umjesto normalnog isključivanja</string>
   <string name="enable_quickboot_title">Omogući QuickBoot način</string>
+  <string name="enable_preferred_network_type_summary">Pogledajte i postavite svoju vrstu mreže u Postavkama > SIM kartice &amp; mobilne mreže > SIM kartica</string>
+	<string name="enable_preferred_network_type_title">Prikaži izbornik željene vrste mreže</string>
+	<string name="ex_func_find_device">Sigurnost - Pronađite uređaj</string>
+	<string name="extension_function">Dodatne značajke aplikacije</string>
+	<string name="extension_function_hint">Prečaci značajki više se neće pojavljivati u postavkama nakon što isključite prekidače</string>
+	<string name="eye_gaze_dialog_message">"Kada uključite Prepoznaj pogled, uređaj se neće zaključati kada otkrije da gledate u zaslon. Karakteristike vašeg lica neće biti analizirane, a podaci o vašem licu neće pohraniti na vaš uređaj ili prenijeti u oblak. Uključiti sada?"</string>
+	<string name="eye_gaze_dialog_title">Sigurnosna obavijest</string>
   <string name="enable_receiving_mms_notification_title">Dolazna MMS poruka</string>
   <string name="enable_screen_projection_summary">Sadržaj zaslona prebacite na vanjski monitor</string>
   <string name="enable_sending_mms_notification_title">Nije moguće poslati MMS poruku</string>
@@ -4704,6 +4713,17 @@ Na ulicama je bilo mnogo ljudi, muškaraca, žena i djece, i svi su bili odjeven
   <string name="found_new_version">Pronađena je nova verzija</string>
   <string name="fourhours">2 sata</string>
   <string name="fp_nav_center_back_to_home_title">Dodirnite tipku Početna za povratak na Poč. zaslon</string>
+  <string name="freeform_guide_free_drag_summary">Povucite tekst, slike ili datoteke između različitih prozora podržanih aplikacija.</string>
+  <string name="freeform_guide_free_drag_title">Povucite stavke preko prozora</string>
+  <string name="freeform_guide_multiple_window_summary">"Pritisnite i držite ikonu aplikacije na docku za otvaranje novog prozora.
+*Ova značajka radi s bilješkama, poštom, preglednikom i WPS-om."</string>
+  <string name="freeform_guide_multiple_window_title">Otvaranje više prozora</string>
+  <string name="handle_ota_connect_first">Povežite stisak</string>
+  <string name="handle_ota_finish_fw">Uspješno ažurirano</string>
+  <string name="handle_ota_update_failed">"Nije moguće ažurirati"</string>
+  <string name="handle_ota_update_title">Ažuriranja firmvera</string>
+  <string name="handle_ota_updating_firmware">Samo trenutak…</string>
+  <string name="handle_ota_updating_tip">Ažuriranje u pozadini…</string>
   <string name="free_memory">Dostupno</string>
   <string name="free_wifi_agreement_remind_never">"Ne prikazuj ponovno"</string>
   <string name="free_wifi_confirm">U redu</string>
@@ -5117,6 +5137,7 @@ Područje u kojem možete potvrditi zaključavanje zaslona pomaknut će se udesn
 To možete promijeniti kasnije u odjeljku Postavke > Aplikacije."</string>
   <string name="high_power_prompt_title">Želite li dopustiti da aplikacija uvijek radi u pozadini?</string>
   <string name="high_power_system">Optimizacija baterije nije dostupna</string>
+  <string name="high_temperature_toast">"Vaš uređaj je pregrijan. Sada ne možete koristiti ovu značajku."</string>
   <string name="hint_unadjustable_text">"Ne mogu ručno prilagoditi. Temperatura boje se sada automatski podešava."</string>
   <string name="history_details_title">Detalji povijesti</string>
   <string name="history_toggled_on_summary">Ovdje će se prikazati vaše nedavne i odgođene obavijesti</string>
@@ -6600,6 +6621,24 @@ Ne možete poništiti ovu radnju!"</string>
   <string name="micloud_service_title">Xiaomi Cloud</string>
   <string name="middle_function_key">Središnje područje</string>
   <string name="midnight">Night</string>
+  <string name="miheadset_disconnect_ble">Prekini vezu s Bluetoothom</string>
+  <string name="miheadset_double_tap_temple_when_calling">Dvaput dodirnite tijekom poziva</string>
+  <string name="miheadset_double_tap_temple_when_idle">Dodirnite dvaput dok niste u pozivu</string>
+  <string name="miheadset_dual_connect_mode_summary_with_hint">Uključite za povezivanje s dva Bluetooth uređaja istovremeno. Skinite naočale na %d sekundi nakon uključivanja ili isključivanja ove značajke i ponovno ih uparite.</string>
+  <string name="miheadset_key_config_next_and_previous_music">Promjena pjesama</string>
+  <string name="miheadset_key_config_none">Ništa</string>
+  <string name="miheadset_key_config_volume_up_down">Prilagodi glasnoću</string>
+  <string name="miheadset_longpress_left_temple">Pritisnite i držite lijevu sljepoočnicu</string>
+  <string name="miheadset_longpress_right_temple_when_calling">Pritisnite i držite desnu sljepoočnicu tijekom poziva</string>
+  <string name="miheadset_longpress_right_temple_when_idle">Pritisnite i držite desnu sljepoočnicu dok nemate poziv</string>
+  <string name="miheadset_longpress_temple_when_calling">Pritisnite i držite tijekom poziva</string>
+  <string name="miheadset_longpress_temple_when_idle">Pritisnite i držite dok niste u pozivu</string>
+  <string name="miheadset_offhook">Odbij poziv</string>
+  <string name="miheadset_phone_connected_hangup">Odgovaranje na poziv ili prekid poziva</string>
+  <string name="miheadset_phone_play_pause">Reproduciraj ili pauziraj</string>
+  <string name="miheadset_slide_left_temple_back_forward">Povucite prstom po lijevoj sljepoočnici</string>
+  <string name="miheadset_slide_right_temple_back_forward">Povucite prstom po desnoj sljepoočnici</string>
+  <string name="miui_device_control_description">Prikaži aplikacije koje podržavaju kontrole uređaja kako bi mogle kontrolirati kompatibilne pametne kućne uređaje</string>
   <string name="miheadet_up_music">Prethodna pjesma</string>
   <string name="miheadset_Box">Box</string>
   <string name="miheadset_Intelligentpickfree_summary">Kada je uključeno uklanjanje buke, vaše će se slušalice automatski prebaciti na transparentnost na kratko vrijeme kada otkriju glasove</string>
@@ -7884,6 +7923,9 @@ Aplikacija će također moći uključiti ili isključiti značajku DND i promije
   <string name="nr_advanced_calling_title">Vo5G</string>
   <string name="nrca_need_reset">Ponovo pokrenite uređaj da biste primijenili promjene</string>
   <string name="nrca_switch_title">Koristi agregaciju 5G operatera</string>
+  <string name="nrca_registered">Registriran</string>
+  <string name="nrca_type_title">Status agregacije operatera</string>
+  <string name="nrca_unregistered">Neregistriran</string>
   <string name="nsd_quick_toggle_summary">Dopusti aplikacijama na drugim uređajima otkrivanje aplikacija na ovom uređaju</string>
   <string name="nsd_quick_toggle_title">Otkrivanje mrežne usluge</string>
   <string name="number_of_device_admins_none">Nema aktivnih aplikacija</string>
@@ -7987,6 +8029,7 @@ Aplikacija će također moći uključiti ili isključiti značajku DND i promije
   <string name="otg_closed">Isključeno</string>
   <string name="otg_opened">Uključeno</string>
   <string name="otg_settings">OTG</string>
+  <string name="otg_new_tip">Uključite OTG da biste mogli izravno povezati svoj uređaj s drugim uređajima putem USB-a. Ova će se značajka automatski isključiti nakon %d minuta neaktivnosti.</string>
   <string name="otg_tip">"USB On-The-Go omogućuje USB pogonima i prijenosnim tipkovnicama povezivanje s vašim mobilnim uređajem i razmjenu podataka.
 
  OTG automatski se isključuje nakon 10 minuta neaktivnosti."</string>
@@ -9337,6 +9380,10 @@ Podaci koji nisu uvezeni moraju se ponovno uvesti."</string>
   <string name="screen_dark_mode_smart_dark_title">Globalni tamni način</string>
   <string name="screen_dark_mode_time_title">Raspored tamnog načina</string>
   <string name="screen_effect">Kontrast &amp; boje</string>
+  <string name="screen_effect_adapt_color_summary">Prilagodite boje na temelju trenutnog osvjetljenja</string>
+  <string name="screen_effect_adapt_color_title">Živopisno</string>
+  <string name="screen_effect_origin_color_summary">Reprodukcija realističnih boja kroz kalibraciju boja</string>
+  <string name="screen_effect_origin_color_title">Originalna boja PRO</string>
   <string name="screen_enhance_engine_ai_note">"Kako biste bili sigurni da je vaše iskustvo gledanja prirodno, ova značajka neće raditi ako se slika sastoji od primarnih boja ili ako sadrži napredne prilagodbe."</string>
   <string name="screen_enhance_engine_ai_note_2">%d. Mogu se poboljšati samo slike iz aplikacije Galerija.</string>
   <string name="screen_enhance_engine_ai_note_3">"%d. Ova značajka neće raditi ako ste odabrali prikaz izvornih boja ili primijenili napredne prilagodbe."</string>
@@ -10191,6 +10238,8 @@ Napomena: ovaj uređaj ne možete otključati otiskom prsta. Više informacija m
   <string name="send_diagnosis_log">Pošalji zapis dijagnoze</string>
   <string name="sending">Slanje…</string>
   <string name="sensor_toggle_description">Za sve aplikacije i usluge</string>
+  <string name="sensors_hal_log_summary">Koristite zapisnike za sloj apstrakcije hardvera senzora</string>
+  <string name="sensors_hal_log_title">HAL zapisnici senzora</string>
   <string name="sensors_off_quick_settings_title">Senzori su isključeni</string>
   <string name="separate_keyboard">Ergonomska tipkovnica</string>
   <string name="separate_keyboard_summary_fold">Odvojite tipkovnicu pregradom u sredini da biste udobnije tipkali dok držite uređaj s obje ruke</string>
@@ -13550,6 +13599,7 @@ Dodirnite "<b>Natrag</b> za povezivanje s drugom Wi-Fi mrežom."</string>
   <string name="wifi_unspecified">Odaberite</string>
   <string name="wifi_update">Osvježi statistike</string>
   <string name="wifi_use_system_certs">Upotrijebi certifikate sustava</string>
+  <string name="wifi_validation">Provjera mreže…</string>
   <string name="wifi_venue_website_button_text">Otvori web-lokaciju</string>
   <string name="wifi_verbose_logging">Omogući opširnu prijavu na Wi-Fi</string>
   <string name="wifi_verbose_logging_summary">Povećana razina prijave na Wi‑Fi, prikaz po SSID RSSI-ju u odabiru Wi‑Fi-ja</string>

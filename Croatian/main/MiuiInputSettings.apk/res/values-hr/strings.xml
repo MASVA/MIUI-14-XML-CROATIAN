@@ -398,6 +398,7 @@ Ako držite tipku %s sekundi, umjesto toga otvorit ćete izbornik za isključiva
    <string name="screen_key_press_action">Funkcija okidača</string>
    <string name="screen_shot">Napravite snimku zaslona</string>
    <string name="search_menu_title">Traži</string>
+   <string name="search_screen_shot">Snimke zaslona</string>
    <string name="seek_bar_info">Prilagodi veličinu</string>
    <string name="send">Pošalji</string>
    <string name="settings_keyboard_title">Tipkovnica</string>

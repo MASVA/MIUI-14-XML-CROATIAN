@@ -181,10 +181,10 @@
   <string name="pa_accessibility_picker_back">Natrag</string>
   <string name="pa_accessibility_picker_bigBanner_widget_collection">Zbirke widgeta</string>
   <string name="pa_accessibility_picker_home_appList_entrance">Pogledajte popis podržanih widgeta</string>
-  <string name="pa_accessibility_picker_home_bigBanner_slected">Odabrano %1$s, red %2$d, broj %3$d. Dodirnite dvaput za početak.</string>
+  <string name="pa_accessibility_picker_home_bigBanner_slected">%1$s. Dodirnite dvaput za početak.</string>
   <string name="pa_accessibility_picker_home_maml_slected">Odabrano: %1$s. Veličina: %2$s. Dodirnite dvaput za pregled stranice s detaljima. Dodirnite dvaput i držite za povlačenje.</string>
   <string name="pa_accessibility_picker_home_search">Traži widgete</string>
-  <string name="pa_accessibility_picker_home_smallBanner_slected">Odabrano %1$s, red %2$d, broj %3$d. Dodirnite dvaput za početak.</string>
+  <string name="pa_accessibility_picker_home_smallBanner_slected"> %1$s. Dodirnite dvaput za početak.</string>
   <string name="pa_accessibility_picker_home_title">Dodaj widget</string>
   <string name="pa_accessibility_picker_home_widget_replace">Odabrano %s. Promjena widgeta.</string>
   <string name="pa_accessibility_picker_home_widget_replace_card_content_desc">Widget: %s. Dvaput dodirnite tipku ispod njega da biste ga zamijenili drugim widgetom.</string>

@@ -162,14 +162,15 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
     <string name="copy_to">Kopiraj u…</string>
     <string name="create_folder">Izradi</string>
     <string name="create_shortcut_success">Prečac uspješno dodan</string>
-    <string name="cta_function_account_operation">Za brzu prijavu na vaš Mi Račun</string>
+    <string name="cta_function_account_operation">Za brzu prijavu na vaš Xiaomi Račun</string>
+	 <string name="cta_use_sync_midrive_file">Za sinkronizaciju datoteka na Mi Drive</string>
     <string name="data_consume_dialog_message">"Trenutno koristite mobilne podatke. Ako nastavite, ovo će koristiti %s podataka."</string>
-    <string name="data_consume_dialog_title">KoristitI mobilne podatke?</string>
+    <string name="data_consume_dialog_title">Koristiti mobilne podatke?</string>
     <string name="data_consume_dialog_upload_title">Prijenos pomoću mobilnih podataka</string>
     <string name="data_consumption_cancel">"Ne prihvaćam"</string>
     <string name="data_consumption_checkbox_hint">"Ne prikazuj ponovno"</string>
     <string name="data_consumption_confirm">U redu</string>
-    <string name="data_consumption_message">"Aplikacija Datoteke mora se povezati s mrežom dok ga koristite. Slažete li se?"</string>
+    <string name="data_consumption_message">"Aplikacija Datoteke mora se povezati s mrežom dok je koristite. Slažete li se?"</string>
     <string name="data_consumption_title">Internetska veza</string>
     <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
     <string name="decompress_cancel">Odustani</string>
@@ -744,6 +745,7 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
     <string name="select_dest_folder">Odaberi mapu</string>
     <string name="select_image">Slike</string>
     <string name="select_music">Glazba</string>
+	 <string name="select_pdf">Odaberite PDF</string>
     <string name="select_video">Videozapisi</string>
     <string name="select_volume">Odaberite mjesto za pohranu</string>
     <string name="send">Pošalji</string>

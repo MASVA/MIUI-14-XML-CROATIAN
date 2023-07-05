@@ -410,6 +410,14 @@ Sada možete dobiti %d-dnevno besplatno probno razdoblje!"</item>
         <item quantity="other">%d aplikacija se ne može autom. pokrenuti</item>
         <item quantity="one">%d aplikacija se ne može autom. pokrenuti</item>
     </plurals>
+	 <plurals name="hints_auto_start_disable_title_global">
+        <item quantity="other">"%d aplikacija nije dopušteno pokrenuti se u pozadini"</item>
+        <item quantity="one">"%d aplikaciji nije dopušteno pokrenuti se u pozadini"</item>
+    </plurals>
+	<plurals name="hints_auto_start_enable_title_global">
+        <item quantity="other">%d aplikacija je dopušteno pokrenuti se u pozadini</item>
+        <item quantity="one">%d aplikaciji je dopušteno pokrenuti se u pozadini</item>
+    </plurals>
     <plurals name="hints_auto_start_enable_title">
         <item quantity="other">%d aplikacija se može autom. pokrenuti</item>
         <item quantity="one">%d aplikacija se može autom. pokrenuti</item>

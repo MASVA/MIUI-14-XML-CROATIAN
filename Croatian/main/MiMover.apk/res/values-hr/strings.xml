@@ -228,7 +228,7 @@ Otvorite WeChat i idite na Ja > Postavke > Općenito > Sigurnosno kopiranje &amp
     <string name="err_user_abort">Prekinuo korisnik.</string>
     <string name="err_version_too_old">Sig. kopija datoteke je prestara.</string>
     <string name="err_version_unsupported">Verzija Sig. kopije nije podržana.</string>
-    <string name="error_forbidden">Sinkronizacija je isključena zbog problema s vašim Mi Računom.</string>
+    <string name="error_forbidden">Sinkronizacija je isključena zbog problema s vašim Xiaomi računom.</string>
     <string name="error_not_acceptable">Sinkronizacija je isključena</string>
     <string name="error_permissions">Ova aplikacija nema potrebno dopuštenje za pristup Kalendaru. Idite na Postavke i provjerite dopuštenja za nastavak.</string>
     <string name="error_title">"Ne mogu sinkronizirati"</string>
@@ -519,7 +519,7 @@ Otvorite WeChat i idite na Ja > Postavke > Općenito > Sigurnosno kopiranje &amp
     <string name="not_support_data_content3">3. Podaci Drugog prostora</string>
     <string name="not_support_data_content4">4. Dvojne aplikacije</string>
     <string name="not_support_data_link">"Stavke koje se ne mogu prenijeti"</string>
-    <string name="not_support_data_summary1">"Teme, pozadine, transportne kartice, ključne kartice ne mogu se prenijeti pomoću Mi Mover-a."</string>
+    <string name="not_support_data_summary1">"Transportne i pristupne kartice ne mogu se prenijeti; teme i pozadine se mogu prenijeti na nekim modelima"</string>
     <string name="not_support_data_summary2">Neke aplikacije postavljaju stroge sigurnosne mjere kako bi spriječile prijenos podataka aplikacija. Takve aplikacije mogu obuhvaćati bankarske aplikacije ili financijske usluge.</string>
     <string name="not_support_data_summary3">"Zbog sistemskih ograničenja, stavke iz Drugog prostora ne mogu se prenijeti pomoću Mi Mover-a."</string>
     <string name="not_support_data_summary4">"Dvojne aplikacije i njihovi podaci također se ne mogu prenijeti. Ipak možete prenijeti odgovarajuće glavne aplikacije."</string>
@@ -657,7 +657,7 @@ Otvorite WeChat i idite na Ja > Postavke > Općenito > Sigurnosno kopiranje &amp
     <string name="request_all_permission_title">Potrebna su dopuštenja</string>
     <string name="request_permission">Dopusti</string>
     <string name="restore_data_to_device_content">"Vaše su stavke sinkronizirane s Xiaomi Cloudom.
-Prijavite se na svoj Mi Račun kako biste ih vratili."</string>
+Prijavite se na svoj Xiaomi račun kako biste ih vratili."</string>
     <string name="restore_data_to_device_title">Vratite stavke na ovaj uređaj</string>
     <string name="restore_right_now">Vrati</string>
     <string name="retry">Pokušajte ponovno</string>
@@ -724,9 +724,10 @@ Oslobodite barem %s."</string>
     <string name="sender_finish_title">Uspješno preneseno</string>
     <string name="sender_scanning_code">Postavite sliku u okvir</string>
     <string name="sender_scanning_connecting">Povezivanje s novim uređajem…</string>
-    <string name="set_new_device_account">Sinkronizacija s Mi računom</string>
+	 <string name="set_app_suspend">Sada se sigurnosno kopira ova aplikacija. Pričekajte da se sigurnosna kopija završi i pokušajte ponovo.</string>
+    <string name="set_new_device_account">Sinkronizacija s Xiaomi računom</string>
     <string name="set_new_device_lock">Postavi zaključavanje zaslona</string>
-    <string name="set_new_device_more">Više postavki sustava...</string>
+    <string name="set_new_device_more">Više postavki sustava…</string>
     <string name="set_new_device_navigationbar">Postavi navigaciju sustava</string>
     <string name="set_new_device_title">Postavljanje novog uređaja…</string>
     <string name="set_new_device_wlan">Postavite Wi-Fi</string>
