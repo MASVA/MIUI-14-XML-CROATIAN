@@ -527,7 +527,6 @@ Bočne ploče
   <string name="app_manager_appupdate_remind">Obavijesti o ažuriranjima</string>
   <string name="app_manager_as_dlg_msg">Dopuštanje autom. pokretanja aplikacije može povećati količinu memorije i trajanje baterije. Dopustiti svejedno?</string>
   <string name="app_manager_as_dlg_msg_new">"Dopuštanje autom. pokretanja aplikacije može povećati količinu memorije i trajanje baterije koju koristi. MIUI će optimizirati dopuštenja za autom. pokretanje aplikacija koje ne koristite često kako bi poboljšao performanse vašeg uređaja."</string >
-  <string name="app_manager_as_dlg_title">Pažnja</string>
   <string name="app_manager_back">Natrag</string>
   <string name="app_manager_bipartition">Dvojne aplikacije</string>
   <string name="app_manager_cache_size">Predmemorija</string>
