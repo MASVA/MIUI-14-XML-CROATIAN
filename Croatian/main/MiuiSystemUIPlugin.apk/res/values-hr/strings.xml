@@ -427,6 +427,8 @@ Duže izlaganje glasnim zvukovima može uzrokovati probleme sa sluhom."</string>
    <string name="sunday">Nedjelja</string>
    <string name="sunday_short">Ned</string>
    <string name="sunday_shortest">N</string>
+   <string name="super_volume_text">200%</string>
+   <string name="super_volume_toast">Pojačavanje glasnoće je uključeno</string>
    <string name="switch_bar_off">Isključeno</string>
    <string name="switch_bar_on">Uključeno</string>
    <string name="system_update">Ažuriranje sustava</string>

@@ -142,7 +142,7 @@
     <string name="cw_all_folder">Nedavne slike</string>
     <string name="cw_batch_all_added_tip">"Nije moguće dodati stavke koje su dodane prije."</string>
     <string name="cw_batch_part_tip_fail">Dodane su neke stavke</string>
-    <string name="cw_batch_part_tip_success">Uspješno dodano. Neki stavke su bile dodane prije.</string>
+    <string name="cw_batch_part_tip_success">Uspješno dodano. Neke stavke su bile dodane prije.</string>
     <string name="cw_batch_tip_success">Uspješno dodano</string>
     <string name="cw_del_tip_fail">"Ne mogu izbrisati"</string>
     <string name="cw_del_tip_success">Uspješno izbrisano</string>
@@ -163,6 +163,8 @@
     <string name="declaration_title">Uvjeti i odredbe</string>
     <string name="delete_pic">Izbriši sliku</string>
     <string name="deny_des">Wallpaper Carousel treba pristup Galeriji da radi normalno.</string>
+	  <string name="detail_ad_download_btn">Preuzmi</string>
+    <string name="detail_ad_open_btn">Otvori</string>
     <string name="detail_ad_type_ad">OGLAS</string>
     <string name="detail_ad_type_video">Popularni videozapisi</string>
     <string name="detail_add_cw">Dodaj sliku pozadine</string>
@@ -370,6 +372,7 @@ mm"</string>
     <string name="miuix_appcompat_delete_description">Izbriši</string>
     <string name="miuix_appcompat_deselect_all">Poništi odabir</string>
     <string name="miuix_appcompat_deselect_all_description">Poništi odabir</string>
+	 <string name="miuix_appcompat_edit">Uredi</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Odustani</string>
     <string name="miuix_appcompat_search_input_description">Traži</string>
     <string name="miuix_appcompat_select_all">Odaberi sve</string>
@@ -530,7 +533,7 @@ mm"</string>
     <string name="passport_account_user_name_dialog_title">Unesite ime</string>
     <string name="passport_account_user_phone">Telefon za oporavak</string>
     <string name="passport_activity_not_found_notice">"Ne mogu pronaći aplikaciju"</string>
-    <string name="passport_agree">Slažem se</string>
+    <string name="passport_agree">Prihvaćam</string>
     <string name="passport_area_code_title">Pozivni broj</string>
     <string name="passport_attention">Pažnja</string>
     <string name="passport_auth_fail_warning">Sesija je istekla. Prijavite se ponovno.</string>

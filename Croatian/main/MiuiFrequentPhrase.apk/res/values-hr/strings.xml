@@ -160,6 +160,10 @@
     <string name="sunday">Nedjelja</string>
     <string name="sunday_short">Ned</string>
     <string name="sunday_shortest">N</string>
+	  <string name="super_clipboard_alert_dialog_cancel_button">Odustani</string>
+    <string name="super_clipboard_alert_dialog_sure_button">U redu</string>
+    <string name="super_clipboard_send_file">Zalijepiti datoteku iz međuspremnika?</string>
+    <string name="super_clipboard_send_image">Zalijepiti sliku iz međuspremnika?</string>
     <string name="sync_phrase_label">Česte fraze</string>
     <string name="thursday">Četvrtak</string>
     <string name="thursday_short">Čet</string>

@@ -296,6 +296,7 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
     <string name="other_settings_pref_title">Dodatne postavke</string>
     <string name="password_toggle_content_description">Prikaži zaporku</string>
     <string name="path_soundrecorder_setting">Aplikacije sustava/Snimač</string>
+	 <string name="pause_status_focus_notification">Pauzirano</string>
     <string name="pause">Pauza</string>
     <string name="permission_desc">Pojedinosti o dopuštenjima</string>
     <string name="permission_dialog_cancel">Odustani</string>
@@ -402,6 +403,7 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
     <string name="recording_quality_high">Visoka</string>
     <string name="recording_quality_low">Niska</string>
     <string name="recording_quality_standard">Standardna</string>
+	 <string name="recording_status_focus_notification">Snimanje</string>
     <string name="recording_stopped">Zaustavljeno</string>
     <string name="recording_timer_format_four_sections" formatted="false">%02d:%02d:%02d.%02d</string>
     <string name="recording_timer_format_three_sections" formatted="false">%02d:%02d.%02d</string>
@@ -459,6 +461,7 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
     <string name="status_bar_back">Dodirnite za povratak na Snimač</string>
     <string name="status_bar_recording">Snimanje…</string>
     <string name="status_bar_recording_pause">"Snimanje je zaustavljeno."</string>
+	 <string name="stop_status_focus_notification">Završeno</string>
     <string name="storage_permission_dialog_title">Potrebna su dopuštenja za pohranu</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Nedjelja</string>
