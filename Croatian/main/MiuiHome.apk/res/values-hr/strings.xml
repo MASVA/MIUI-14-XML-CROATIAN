@@ -227,7 +227,7 @@
     <string name="cate_order_reset">Poništi</string>
     <string name="category_already_exists">Ova kategorija već postoji</string>
     <string name="category_cannot_empty">Prvo unesite kategoriju</string>
-    <string name="category_choose_no_app_select_tip">Svaka kategorija mora sadržavati najmanje 1 aplikaciju.</string>
+    <string name="category_choose_no_app_select_tip">Svaka kategorija mora sadržavati najmanje %d aplikaciju.</string>
     <string name="category_drawer_name_hint">Unesite naziv kategorije</string>
     <string name="category_edit_back_confirm_dialog_content">Spremiti promjene?</string>
     <string name="category_edit_back_confirm_dialog_negative_button">"Ne spremaj"</string>
@@ -844,7 +844,7 @@ Poboljšana sigurnost."</string>
     <string name="request_permission_title">Potrebna su dopuštenja</string>
     <string name="reset_cate_tip_content">Ako nastavite, zadane grupe aplikacija će biti vraćene. Nastaviti svejedno?</string>
     <string name="reset_cate_tip_title">Vrati zadane grupe</string>
-    <string name="reset_description_first_time">Možete vratiti raspored iz %1$s unutar 2 sata</string>
+    <string name="reset_description_first_time">Možete vratiti raspored iz %2$s unutar %1$d sata</string>
     <string name="reset_description_others">Možete vratiti raspored iz %1$s</string>
     <string name="reset_fail">"Ne mogu vratiti"</string>
     <string name="reset_scene_prompt">Zaslon će se vratiti na zadani raspored.</string>

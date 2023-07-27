@@ -292,7 +292,7 @@ Bočne ploče
   <string name="antivirus_third_privacy_title">Pravila o privatnosti trećih strana</string>
   <string name="antivirus_toast_already_update">Sve je ažurno</string>
   <string name="antivirus_toast_network_unavailable">Ne mogu se povezati na mrežu</string>
-  <string name="antivirus_toast_update_failed">Ne mogu ažurirati</string>
+  <string name="antivirus_toast_update_failed">Pričekajte minutu ili dvije i pokušajte ponovno</string>
   <string name="antivirus_toast_update_success">Uspješno ažurirano</string>
   <string name="antivirus_toast_updating">Ažuriranje…</string>
   <string name="antivirus_update_btn_contiue">Nastavi</string>
@@ -497,7 +497,8 @@ Bočne ploče
   <string name="app_error_tip_for_store">"Hardverske komponente vašeg uređaja ili verzija sustava Android mogu uzrokovati probleme s kompatibilnošću, što može rezultirati neuspjehom instalacije nekih aplikacija. Ako naiđete na takve probleme ili neke se aplikacije ponašaju neispravno, zamrzavaju se ili se prisilno zaustave, pričekajte dok programeri aplikacije ne poprave pogreške i pokušajte ponovo instalirati aplikaciju."</string>
   <string name="app_install_intercept">Blokiraj instalaciju</string>
   <string name="app_install_tips_go_to">Otvori</string>
-  <string name="app_install_tips_install_success">%1$s uspješno instaliran</string>
+  <string name="app_install_tips_install_success">Aplikacija %1$s uspješno instalirana</string>
+  <string name="app_management_empty_desc">"Ova aplikacija ne podržava ovu značajku"</string>
   <string name="app_manager_as_dlg_title">Pažnja</string>
   <string name="app_management_for_chain_start">Blokiraj otvaranje drugih aplikacija</string>
   <string name="app_management_for_chain_start_desc">Spriječi ovu aplikaciju da se poveže ili otvori druge aplikacije</string>
@@ -1021,7 +1022,8 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="back_sound_data">Uključite mobilne podatke i pokušajte ponovo.</string>
   <string name="back_sound_fail">"Nije moguće postaviti. Promijenjene su postavke operatera. Postavite trenutnu SIM karticu kao podatkovnu karticu, povežite se s mrežom i pokušajte ponovo."</string>
   <string name="back_sound_success">Uspješno postavljeno</string>
-  <string name="back_sound_support">"Mreža vašeg operatera ne podržava ovu postavku"</string>
+  <string name="back_sound_support">Prvo isključite Wi-Fi</string>
+  <string name="back_sound_support_china">Prvo isključite Wi-Fi</string>
   <string name="background_restrict_app_dialog_message">Ograničavanje pristupa mreži u pozadini ovoj aplikaciji može onemogućiti da funkcionira normalno, prima poruke, preuzima sadržaj itd. Ograničiti svejedno?</string>
   <string name="background_traffic">Pozadina %s</string>
   <string name="backsound_set_hint">Postaviti svoju poruku \"Odsutan sam\" za %s?</string>
@@ -1320,6 +1322,8 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="cancel">Odustani</string>
   <string name="cancel_button">Odustani</string>
   <string name="cancle">Odustani</string>
+  <string name="card_main_apkclean_title">Brisanje aplikacija</string>
+  <string name="card_main_appdataclean_title">Brisanje podataka aplikacije</string>
   <string name="card_main_applock_action">Uključi</string>
   <string name="card_main_applock_summary">Zaštitite odabrane aplikacije zaporkom.</string>
   <string name="card_main_applock_title">Zaklj. aplikacija</string>
@@ -1327,15 +1331,15 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="card_main_datasave_summary">Sažmi podatke da spremite do 20%</string>
   <string name="card_main_datasave_title">Štednja podataka</string>
   <string name="card_main_deepclean_action">Očisti</string>
-  <string name="card_main_deepclean_facebook_title">Facebook čistač</string>
   <string name="card_main_deepclean_qq_title">QQ čistač</string>
   <string name="card_main_deepclean_summary">Izbriši nepotrebne datoteke</string>
   <string name="card_main_deepclean_title">Full čišćenje</string>
   <string name="card_main_deepclean_wechat_action">Izbriši</string>
   <string name="card_main_deepclean_wechat_summary">Izbriši WeChat predmemoriju kako bi oslobodili prostor za pohranu</string>
   <string name="card_main_deepclean_wechat_title">WeChat predmemorija</string>
-  <string name="card_main_deepclean_whatsapp_title">WhatsApp čistač</string>
-  <string name="card_main_gamebooster_summary">Povećajte stabilnost veze za igre</string>
+  <string name="card_main_facebookclean_title">Facebook čistač</string>
+  <string name="card_main_galleryclean_title">Brisanje fotografija</string>
+	<string name="card_main_gamebooster_summary">Povećajte stabilnost veze za igre</string>
   <string name="card_main_gamebooster_title">Game Turbo</string>
   <string name="card_main_hbassistant_summary">Ubrzajte i poboljšajte reakciju igara</string>
   <string name="card_main_hbassistant_title">Ubrzaj igre</string>
@@ -1357,6 +1361,7 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="card_main_private_space_summary">Korištenje Drugog prostora je kao da imate 2 uređaja</string>
   <string name="card_main_private_space_title">Drugi prostor</string>
   <string name="card_main_sectool_title">Alati</string>
+  <string name="card_main_whatsappclean_title">WhatsApp čistač</string>
   <string name="card_main_speeddetail_title">Brzina veze</string>
   <string name="card_main_speeddetailt_summary">Prikaži brzinu veze za pojedine aplikacije</string>
   <string name="card_main_xspace_action">Izradi</string>
@@ -1419,6 +1424,8 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="clear_bigfiles">Izbriši velike datoteke, duplikate fotografija i druge beskorisne stvari</string>
   <string name="clear_garbage">Izbrišite Smeće da oslobodite prostor</string>
   <string name="clear_immediately">Očisti sada</string>
+  <string name="clear_instant_app_confirmation">Želite li ukloniti ovu instant aplikaciju?</string>
+  <string name="clear_instant_app_data">Izbriši aplikaciju</string>
   <string name="clear_text_end_icon_content_description">Izbriši tekst</string>
   <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="click_to_charge_bill">Nadoplata</string>
@@ -1494,6 +1501,7 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="cs_pickup_single_title">Jedan sudionik</string>
   <string name="cs_pickup_surround_desc">Koristi AI za smanjenje buke za oštar, čist zvuk</string>
   <string name="cs_pickup_surround_title">Smanjenje buke mikrofona</string>
+  <string name="cs_screen_translation_title">Prijevod zaslona</string>
   <string name="cs_title_pickup">Smanjenje buke</string>
   <string name="cs_title_smart_subtitle">Transkripcija podnaslova</string>
   <string name="cs_title_ultraclear">Ultra HD način</string>
@@ -2582,6 +2590,7 @@ vašeg igranja"</string>
   <string name="gtb_guide_gtb_game_effected">Primijenjeno</string>
   <string name="gtb_guide_gtb_game_new">Novo</string>
   <string name="gtb_guide_gtb_line_new">Isprobajte način rada Performance u Game Turbo!</string>
+  <string name="gtb_guide_gtb_line_new_global">Povucite da biste otvorili Game Turbo</string>
   <string name="gtb_guide_gtb_line_xspace">Pojačajte svoju igru uz potpuno novi Game Turbo!</string>
   <string name="gtb_guide_small_window_app_desc">"Koristite druge aplikacije tijekom igre"</string>
   <string name="gtb_guide_small_window_app_title">Plutajući prozori</string>
@@ -2605,6 +2614,8 @@ vašeg igranja"</string>
   <string name="gtb_dnd">DND</string>
   <string name="gtb_garbage_clean">Oslobodite prostor za pohranu</string>
   <string name="gtb_garbage_cleaned_tip">Oslobodite %1$s za poboljšanje performansi</string>
+  <string name="gtb_guide_accelerate">Dodirnite \"Pojačaj\" da optimizirate svoje igranje</string>
+  <string name="gtb_guide_accelerated_tips">Game Turbo sada optimizira vaše iskustvo igranja</string>
   <string name="gtb_intelligent_garbage_clean">Oslobodite prostor za pohranu</string>
   <string name="gtb_memory_clean">Očisti memoriju</string>
   <string name="gtb_mode_normal">Redovito</string>
@@ -2758,8 +2769,10 @@ da se pridružite našem lovu na jaja!"</string>
   <string name="input_used_hint">Unesite uporabu podataka</string>
   <string name="input_used_max_hint">Unesite uporabu podataka (manje od %s)</string>
   <string name="install">Instaliraj</string>
-  <string name="install_sucess">%s uspješno instaliran</string>
-  <string name="install_title">Instaliranje putem USB-a</string>
+  <string name="install_sucess">Aplikacija %s uspješno instalirana</string>
+  <string name="install_text">Instaliraj</string>
+  <string name="install_title">Instaliraj putem USB-a</string>
+  <string name="install_type_instant">Instant aplikacija</string>
   <string name="installed">Instalirano</string>
   <string name="installing">Instaliranje…</string>
   <string name="international_Ad">Oglas</string>
@@ -2812,6 +2825,7 @@ da se pridružite našem lovu na jaja!"</string>
   <string name="label_callwait">Obavijest poziva na čekanju</string>
   <string name="label_mi_stats">Mi analitika</string>
   <string name="last_check_canceled">Prethodno skeniranje je otkazano</string>
+  <string name="launch_instant_app">Otvori</string>
   <string name="last_check_date_today">"Skenirano danas "</string>
   <string name="last_check_date_yesterday">"Skenirano jučer "</string>
   <string name="last_check_never_checked">Skeniraj sada</string>
@@ -3028,8 +3042,9 @@ Vaš je uređaj sad %s brži."</string>
   <string name="menu_clear_current_call">Izbriši sve SMS poruke s tog broja</string>
   <string name="menu_clear_current_sms">Izbriši sve blokirane SMS poslane s ovog broja</string>
   <string name="menu_edit">Uredi</string>
+  <string name="menu_hide_work_profile_text">Sakrij aplikacije radnog prostora</string>
   <string name="menu_item_about_content">Verzija %s</string>
-  <string name="menu_item_about_privacy_title">Pravila o Privatnosti</string>
+  <string name="menu_item_about_privacy_title">Pravila o privatnosti</string>
   <string name="menu_item_about_summary">Verzija %s</string>
   <string name="menu_item_about_title">O aplikaciji</string>
   <string name="menu_item_app_details">Detalji</string>
@@ -3058,6 +3073,7 @@ Vaš je uređaj sad %s brži."</string>
   <string name="menu_report">Prijavi pogrešku</string>
   <string name="menu_restore">Vrati u inbox</string>
   <string name="menu_setting_traffic">Postavi ručno</string>
+  <string name="menu_show_work_profile_text">Prikaži aplikacije radnog prostora</string>
   <string name="menu_sms">Pošalji SMS</string>
   <string name="menu_summary_antispam">Blokiraj pozive i poruke</string>
   <string name="menu_summary_antivirus">Traženje virusa na uređaju</string>
@@ -3275,7 +3291,7 @@ Opciju \"Autom. prilagođavanje statistike uporabe podataka\" možete isključit
   <string name="network_changed_noti_summary">Upotreba mobilnih podataka</string>
   <string name="network_changed_noti_title">Prekinuta je veza s Wi-Fi-jem</string>
   <string name="network_connected_exception_title">Testiranje mreže</string>
-  <string name="network_control">Prikaz postavki aplikacije</string>
+  <string name="network_control">Upravljanje mrežnom vezom</string>
   <string name="network_diagnostics">Testiranje mreže</string>
   <string name="network_disable_dialog_btn_text">Razumijem</string>
   <string name="network_disable_dialog_content">Vaš se uređaj mora povezati s mrežom da biste mogli povući suglasnost. Provjerite mrežne postavke i pokušajte ponovo.</string>
@@ -3285,9 +3301,9 @@ Opciju \"Autom. prilagođavanje statistike uporabe podataka\" možete isključit
 
  1. Uvjerite se da niste premašili svoe mjesečno ograničenje uporabe podataka.
  
- 2. Ako ste upravo obnovili svoj račun, ponovno pokrenite svoj uređaj i pokušajte ponovno.
+ 2. Ako ste upravo obnovili svoj račun, ponovno pokrenite svoj uređaj i pokušajte ponovno.
 
- 3. Signal mreže mobilnog operatera može biti slab na vašoj trenutnoj lokaciji."</string>
+ 3. Signal mreže mobilnog operatera može biti slab na vašoj trenutnoj lokaciji."</string>
   <string name="network_not_available">"Ne mogu se povezati na mrežu"</string>
   <string name="network_operator_exception_summary">"Ne mogu aktivirati SIM karticu. Provjerite je li SIM kartica ispravno umetnuta i da je vaša tarifa aktivirana."</string>
   <string name="network_permission_exception_tips">"Ova značajka mora koristiti mobilne podatke kako bi mogla normalno raditi."</string>
@@ -3545,7 +3561,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="om_settings_memory_occupy_notify_never">Nikad</string>
   <string name="om_settings_notify_manage">Obavijesti</string>
   <string name="om_settings_speed_up_auto">Autom. povećaj brzinu</string>
-  <string name="om_settings_title">Postavke optimizacije</string>
+  <string name="om_settings_title">Postavke povećanja brzine</string>
   <string name="om_shortcut_added_toast_text">Uspješno dodano</string>
   <string name="om_shortcut_dialog_summary">"RAM Jet omogućuje vam da očistite memoriju i povećate brzinu vašeg uređaja jednim dodirom. Dodati RAM Jet na Početni zaslon?"</string>
   <string name="om_shortcut_dialog_title">RAM Jet</string>
@@ -3739,6 +3755,9 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pc_high_temp_protection_noti_summary2">"Sada se ne mogu koristiti hotspotovi"</string>
   <string name="pc_high_temp_protection_noti_tile">Vaš uređaj je pregrijan</string>
   <string name="pc_install_manager">Instaliraj putem USB-a</string>
+  <string name="pc_low_batterty_got_it">Shvaćam</string>
+  <string name="pc_low_battery_fast_charge">Ubrzajte punjenje</string>
+  <string name="pc_low_battery_fast_charge_summary">Priključite isporučeni punjač kako biste ubrzali punjenje kada je zaslon isključen i baterija je prazna. Ova značajka može uzrokovati zagrijavanje vašeg uređaja.</string>
   <string name="pc_main_activity_back">Natrag</string>
   <string name="pc_main_battery_text_day">Dodano %1$sm, preostalo oko %2$sd</string>
   <string name="pc_main_battery_text_day_hour">Dodano %1$sm, preostalo oko %2$sd %3$sh</string>
@@ -3763,6 +3782,11 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pc_wireless_charge_adjust_position_title">Napunite svoj uređaj brže</string>
   <string name="permission_instruction_shake">"Ovo dopuštenje omogućuje aplikacijama praćenje orijentacije i kretanja vašeg uređaja (npr. drmanje, naginjanje i rotacija)"</string>
   <string name="pc_search_keywords_battery">Baterija</string>
+  <string name="pc_smart_discharge_checkbox_summary">"Kada koristite navigacijske aplikacije, punjenje će se automatski zaustaviti kada baterija dosegne odabranu razinu. Ova značajka neće raditi kada su uključene Štednja baterije ili Ultra štednja baterije."</string>
+  <string name="pc_smart_discharge_checkbox_title">Automatsko isključivanje punjenja</string>
+  <string name="pc_smart_discharge_drop_down_title">Postavke automatskog prekida veze</string>
+  <string name="pc_smart_discharge_protect_notifi_summary">Za zaštitu baterije, punjenje će se automatski zaustaviti na odabranoj razini kada koristite navigacijske aplikacije</string>
+  <string name="pc_smart_discharge_protect_notifi_title">Automatsko isključivanje punjenja je uključeno</string>
   <string name="pc_search_keywords_battery_save">Štednja baterije</string>
   <string name="pc_search_keywords_battery_use">Korištenje baterije</string>
   <string name="pc_search_keywords_capacity">Kapacitet baterije</string>
@@ -3910,6 +3934,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="phone_manage_clean_title">Čistač</string>
   <string name="phone_manage_electric_summary">Optimizirajte svoj uređaj da biste uštedjeli bateriju</string>
   <string name="phone_manage_electric_title">Baterija</string>
+  <string name="phone_manage_privacy_title">Zaštita privatnosti</string>
   <string name="phone_manage_recent_use">Nedavno korišteno</string>
   <string name="phone_manage_special_summary">Istražite našu dodatnu funkcionalnost</string>
   <string name="phone_manage_special_title">Posebne značajke</string>
@@ -3931,6 +3956,12 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pm_remember_choice">Zapamti moj odabir</string>
   <string name="pm_root_success_notification_infomation">Uvjerite se da razumijete rizike vezane uz ROOT pristup</string>
   <string name="pm_root_success_notification_title">ROOT pristup dopušten</string>
+  <string name="popular_action_anti_spam_title_global">Blokiraj pozive i poruke</string>
+  <string name="popular_action_app_lock_title_global">Zaštitite aplikacije zaključavanjem aplikacije</string>
+  <string name="popular_action_card_title">Popularne značajke</string>
+  <string name="popular_action_first_aid_title_global">Za nove korisnike</string>
+  <string name="popular_action_net_assistant_title_global">Praćenje brzine mrežne veze</string>
+  <string name="popular_action_video_clean_title_global">Očisti video predmemoriju da oslobodiš prostor</string>
   <string name="power_5g_popups_content">5G mreže pružaju veliku brzinu veze i nižu latenciju.</string>
   <string name="power_5g_popups_title">Koristite 5G mreže</string>
   <string name="power_ambient_display">Uvijek uključeno zaslon</string>
@@ -5577,6 +5608,8 @@ Povući suglasnost sada?"</string>
   <string name="stop_collecting_data_detail">"Tipkovnica neće prikupljati podatke za poboljšanje prediktivnog tipkanja i predlaganje čestih fraza na temelju vaših navika."</string>
   <string name="stop_milink_connect">Emitiranje je zaustavljeno</string>
   <string name="storage_activity_title">Prostor za pohranu</string>
+  <string name="storage_activity_title_personage">Osobno</string>
+  <string name="storage_activity_title_work">Posao</string>
   <string name="storage_app_detail_activity_title">Zauzeti prostor</string>
   <string name="storage_app_detail_cache">Predmemorija</string>
   <string name="storage_app_detail_clear_all_data">Izbriši sve podatke</string>
