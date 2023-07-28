@@ -245,6 +245,8 @@ snimke zaslona"</string>
   <string name="screen_talkback_shape">Oblik</string>
   <string name="screen_talkback_small">Izuzetno mali</string>
   <string name="screen_talkback_text">Tekst</string>
+  <string name="screenshot_detected_multiple_template">Više aplikacija, uključujući %1$s, otkrilo je ovu snimku zaslona</string>
+  <string name="screenshot_detected_template">%1$s je otkrio ovu snimku zaslona</string>
   <string name="screenshot_edit">Uredi</string>
   <string name="screenshot_failed_in_landscape_mode">"Ne mogu izraditi pomičnu snimku zaslona u pejzažnom načinu"</string>
   <string name="screenshot_feedback_txt">Povratne inf.</string>

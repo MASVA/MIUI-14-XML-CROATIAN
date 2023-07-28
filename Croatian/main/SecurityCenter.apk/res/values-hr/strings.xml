@@ -2503,6 +2503,7 @@ vašeg igranja"</string>
   <string name="global_dock_guide_desc_without_split_screen">"· Dodirnite aplikaciju na bočnoj traci da je otvorite u plutajućem prozoru.
 · Pritisnite i držite indikator za pomicanje prozora."</string>
   <string name="global_satisfaction_notification_button">Ocjena</string>
+  <string name="global_satisfaction_notification_channel">Anketa o zadovoljstvu korisnika</string>
   <string name="global_satisfaction_notification_subhead">Recite nam svoje iskustvo</string>
   <string name="global_satisfaction_notification_title">Ocijenite ovaj uređaj</string>
   <string name="global_wa_setting_alert_dialog_content">Možete osloboditi %s</string>
@@ -2933,7 +2934,7 @@ podatkovnu vezu"</string>
   <string name="main_primary_message_leisure_overlimit">Prekoračeno ograničenje uporabe podataka</string>
   <string name="main_primary_message_leisure_remain">Ograničenje podataka</string>
   <string name="main_primary_message_traffic_overlimit">Prekoračeno ograničenje uporabe podataka</string>
-  <string name="main_primary_message_traffic_remain">Mobilni podaci</string>
+  <string name="main_primary_message_traffic_remain">Preostali podaci</string>
   <string name="main_primary_message_traffic_warning">Upozorenje uporabe podataka</string>
   <string name="main_purchase_tips">Promocija</string>
   <string name="main_tc_over">Uspješno kalibrirano</string>
@@ -3862,6 +3863,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="permission_instruction_external_storage">Ovo dopuštenje omogućuje aplikacijama pristup fotografijama, medijima i datotekama na vašem uređaju. Budite oprezni s ovim dopuštenjem kako biste izbjegli nepotrebno otkrivanje privatnih podataka.</string>
   <string name="permission_instruction_gallery">Ako aplikacijama dopustite pristup datotekama u vlastitim mapama, MIUI vam omogućuje da odlučite želite li i tim aplikacijama pristupiti stavkama u vašoj Galeriji kako bi zaštitili vašu privatnost. Kako aplikacije s Android API razinom 29 ili novijom već podržavaju particije za pohranu, ova promjena neće biti dostupna za njih.</string>
   <string name="permission_instruction_get_accounts">Ovo dopuštenje omogućuje aplikacijama pristup popisu računa pohranjenih na vašem uređaju. Ovaj popis može sadržavati sve vaše osobne račune koje su stvorile instalirane aplikacije, kao i račune s platformi društvenih medija i alata za komunikaciju.</string>
+  <string name="permission_instruction_get_identifier">Pristup identifikatoru uređaja</string>
   <string name="permission_instruction_install_shortcuts">Ovo dopuštenje omogućuje aplikacijama stvaranje prečaca na početnom zaslonu.</string>
   <string name="permission_instruction_install_unknown_source">Ovo dopuštenje omogućuje aplikacijama instaliranje drugih aplikacija na vaš uređaj. Zlonamjerne aplikacije koriste ovo dopuštenje za instaliranje aplikacija bez vaše potvrde.</string>
   <string name="permission_instruction_location">Kada date ovo dopuštenje, aplikacije će koristiti mreže ili satelitsko pozicioniranje za pristup vašoj lokaciji. Aplikacijama koje podržavaju tu značajku možete dopustiti pristup samo vašoj približnoj lokaciji.</string>
@@ -3883,6 +3885,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
 </string>
   <string name="permission_instruction_read_contacts">Ovo dopuštenje omogućuje aplikacijama pristup podacima za kontakt pohranjenim na vašem uređaju. Te informacije mogu sadržavati učestalost vaše komunikacije s određenim kontaktima putem poziva, e-pošte i drugih metoda. Ovo dopuštenje također omogućuje aplikacijama spremanje kontakata. Zlonamjerne aplikacije mogu koristiti ovo dopuštenje za dijeljenje kontakata bez vašeg suglasnosti
 .</string>
+ <string name="permission_instruction_read_history">Pristup povijesti pregledavanja</string>
  <string name="permission_instruction_read_media_pic">Ovo dopuštenje omogućuje aplikacijama pristup fotografijama i videozapisima pohranjenim na ovom uređaju. Ove stavke mogu sadržavati osobne podatke.</string>
   <string name="permission_instruction_read_notify_sms">Ovo dopuštenje omogućuje aplikacijama čitanje tekstnih poruka obavijesti pohranjenih na vašem uređaju ili SIM kartici.</string>
   <string name="permission_instruction_read_phone_state">"Ovo dopuštenje omogućuje aplikacijama pristup vašem telefonskom broju, IMEI, IMSI i drugim identifikatorima uređaja. Aplikacije obično koriste ovo dopuštenje da odrede prosljeđuju li se vaši pozivi. Ako koristite virtualni ID uređaja, aplikacije neće moći pristupiti vašim stvarnim identifikatorima uređaja
@@ -3891,8 +3894,10 @@ Ova aktivnost skraćuje trajanje baterije."</string>
 </string>
   <string name="permission_instruction_read_write_calendar">Ovo dopuštenje omogućuje aplikacijama pristup vašem kalendaru, kao i čitanje, dodavanje, uklanjanje, uređivanje, dijeljenje i spremanje kalendarskih događaja. Zlonamjerne aplikacije mogu koristiti ovo dopuštenje za slanje poruka od vašeg imena ili uređivanje događaja u kalendaru bez vašeg suglasnosti.</string>
   <string name="permission_instruction_receive_mms">Ovo dopuštenje omogućuje aplikacijama čitanje svih multimedijskih poruka pohranjenih na vašem uređaju ili SIM kartici. Takve poruke mogu sadržavati zaporke, podatke o bankovnom računu i druge osobne podatke.</string>
+  <string name="permission_instruction_receive_sms">Primanje SMS-a i MMS-a</string>
   <string name="permission_instruction_record_audio">"Ovo dopuštenje omogućuje aplikacijama korištenje mikrofona za snimanje zvuka. Imajte na umu da ovo dopuštenje aplikacijama omogućuje snimanje bilo čega, uključujući vaše razgovore s drugima. Najbolje je dozvoliti aplikacijama da koriste ovo dopuštenje samo dok ih koristite.
 "</string>
+  <string name="permission_instruction_record_screen">Pristup sadržaju zaslona</string>
   <string name="permission_instruction_running_background">Ovo dopuštenje omogućuje aplikacijama rad u pozadini. Radeći to, aplikacije mogu prikupljati podatke i pružati usluge. Imajte na umu da takve aktivnosti povećavaju potrošnju energije.</string>
   <string name="permission_instruction_running_exceed_data">Ovo dopuštenje omogućuje aplikacijama da ignoriraju ograničenja upotrebe mobilnih podataka.</string>
   <string name="permission_instruction_scoped">Novi mehanizam zaštite pohrane omogućuje vam da bolje kontrolirate kako kompatibilne aplikacije koriste dopuštenja za pohranu</string>
@@ -3904,6 +3909,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="permission_instruction_sociality">Ako aplikacijama dopuštate pristup datotekama u vlastitim mapama, MIUI vam omogućuje da odlučite želite li i tim aplikacijama pristupiti datotekama generiranim u aplikacijama društvenih mreža kako bi zaštitili vašu privatnost. Kako aplikacije s Android API razinom 29 ili novijom već podržavaju particije za pohranu, ova promjena neće biti dostupna za njih.</string>
   <string name="permission_instruction_storage">Ako aplikacijama dopustite pristup datotekama u vlastitim mapama, MIUI vam omogućuje da odlučite želite li i tim aplikacijama pristupiti stavkama u vašoj Galeriji i datotekama generiranim u aplikacijama društvenih medija kako bi zaštitili vašu privatnost. Kako aplikacije s Android API razinom 29 ili novijom već podržavaju particije za pohranu, promjena neće biti dostupna za njih.</string>
   <string name="permission_instruction_touch_pay">Ovo dopuštenje omogućuje aplikacijama beskontaktno plaćanje.</string>
+  <string name="permission_instruction_transfer_data_to_other_devices">Prijenos podataka na druge uređaje</string>
   <string name="permission_instruction_use_sip">Ovo dopuštenje omogućuje aplikacijama upotrebu SIP video usluga.</string>
   <string name="permission_instruction_vr_assistant">Ovo dopuštenje omogućuje aplikacijama upotrebu usluga pomoćnika VR-a.</string>
   <string name="permission_instruction_wall_paper">Odobrite ovo dopuštenje kako biste aplikacijama omogućili promjenu zadanih usluga dinamičke pozadine i nastavak rada u pozadini.</string>
