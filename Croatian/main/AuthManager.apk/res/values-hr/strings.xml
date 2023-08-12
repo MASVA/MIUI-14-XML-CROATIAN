@@ -101,6 +101,8 @@
 	<string name="HIPS_Perm_operator_get_phonenumbner_Desc">Dobiti broj telefona od mobilnog operatera za prijavu</string>
 	<string name="HIPS_Perm_operator_get_phonenumbner_Hint">"Ako se sada niste mogli prijaviti jednim dodirom, vratite se na stranicu za prijavu i pokušajte ponovo."</string>
 	<string name="HIPS_Perm_operator_get_phonenumbner_Message">Ova aplikacija želi dobiti vaš broj telefona od mobilnog operatera za prijavu. Dopustiti?</string>
+	<string name="HIPS_Perm_operator_shake">Pristup kretanju i orijentaciji uređaja</string>
+   <string name="HIPS_Perm_operator_shake_Desc">"Za otkrivanje položaja uređaja u prostoru, prepoznavanje podrhtavanja i pružanje interaktivnih senzorskih značajki"</string>
 	<string name="HIPS_Perm_process_nfc">NFC</string>
 	<string name="HIPS_Perm_process_nfc_Desc">pristupiti Near Field Communication (NFC) hardveru</string>
 	<string name="HIPS_Perm_process_outgoing_calls">Pristup aplikaciji Telefon</string>
@@ -316,6 +318,7 @@
 	<string name="permdesc_recognition">Želite li dopustiti %1$s pristup podacima o vašim aktivnostima?</string>
 	<string name="permdesc_send_sms">Želite li dopustiti %1$s slanje tekstualnih poruka?</string>
 	<string name="permdesc_sensors">Želite li dopustiti %1$s čitanje podataka koje generiraju tjelesni senzori?</string>
+	<string name="permdesc_shake">Dopustite\"%1$s\" koristiti senzore uređaja za prepoznavanje podrhtavanja i pružanje interaktivnih osjetilnih značajki</string>
 	<string name="permdesc_shake">Želite li dopustiti %1$s da pristupi podacima brzinomjera?</string>
 	<string name="permdesc_use_sip">Želite li dopustiti %1$s da koristi protokol pokretanja sesije za strujanje videozapisa?</string>
 	<string name="permdesc_write_calendar">Želite li dopustiti %1$s stvaranje i spremanje kalendarskih događaja?</string>

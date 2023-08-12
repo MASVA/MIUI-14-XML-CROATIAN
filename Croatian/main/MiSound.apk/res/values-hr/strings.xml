@@ -61,8 +61,9 @@
     <string name="effect_3dsurround_summary_headphone">Povećajte dubinu reprodukcije zvuka u slušalicama</string>
     <string name="effect_dolby">Dolby</string>
     <string name="effect_misound">Misound</string>
-    <string name="effect_none">Ništa</string>
+    <string name="effect_none">Original</string>
     <string name="effect_selection">Zvučni efekti</string>
+	 <string name="effect_selection_headset">Efekti slušalica</string>
     <string name="effect_virtual_surround">Virtualni okružujući zvuk</string>
     <string name="effect_virtual_surround_summary">"Obogatite dubinu zvuka za audio i video reprodukciju u slušalicama (Ova značajka neće raditi kada se reproducira %.1f zvuk)"</string>
 	 <string name="effect_virtual_surround_summary_spk">Obogatite dubinu zvuka za audio i video reprodukciju</string>

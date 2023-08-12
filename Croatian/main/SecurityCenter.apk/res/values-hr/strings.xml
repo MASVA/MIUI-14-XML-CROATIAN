@@ -1785,6 +1785,7 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="dont_bore_text">Utišaj obavijesti i isključi tipke za uklanjanje smetnji</string>
   <string name="dont_bore_title">DND način</string>
   <string name="download">Preuzmi</string>
+  <string name="download_tvm_title">Dodatak za ključnu komponentu telefona</string>
   <string name="downloading">Preuzimanje…</string>
   <string name="doze_optimization_summary">Povećajte osjetljivost na dodir i osjetljivost</string>
   <string name="doze_optimization_title">Optimizirano upravljanje dodirom</string>
@@ -2773,6 +2774,8 @@ da se pridružite našem lovu na jaja!"</string>
   <string name="install_sucess">Aplikacija %s uspješno instalirana</string>
   <string name="install_text">Instaliraj</string>
   <string name="install_title">Instaliraj putem USB-a</string>
+  <string name="install_tvm_component_desc">Kako biste osigurali sigurnost svojih transakcija, instalirajte dodatak Ključna komponenta telefona.</string>
+  <string name="install_tvm_component_title">Instalirajte dodatak Ključna komponenta telefona</string>
   <string name="install_type_instant">Instant aplikacija</string>
   <string name="installed">Instalirano</string>
   <string name="installing">Instaliranje…</string>
@@ -6420,6 +6423,9 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="tuesday_short">Uto</string>
   <string name="tuesday_shortest">U</string>
   <string name="turn_off_auto_correction">Isključivanje automatske sinkronizacije</string>
+  <string name="tvm_install_failed">"Nije moguće instalirati dodatak"</string>
+  <string name="tvm_install_successed">Dodatak je uspješno instaliran</string>
+  <string name="tvm_version_too_low">Prvo ažurirajte dodatak Ključna komponenta telefona</string>
   <string name="two_address_choose_hint">%1$s i %2$s</string>
   <string name="type_face_condition_summary">Prilagodite veličinu teksta i debljinu fonta</string>
   <string name="unable_connect_internet">"Ne mogu se povezati na mrežu"</string>
@@ -6450,6 +6456,8 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="untrust_app_perm_title">Aplikacija iz nepoznatog izvora</string>
   <string name="untrust_app_perm_warn">Ova aplikacija dolazi iz nepoznatog izvora i može predstavljati sigurnosni rizik. Može koristiti dolje navedena dopuštenja da ugrozi vašu privatnost. Dodijelite ta dopuštenja nakon pažljivog razmatranja.</string>
   <string name="updating_diagnostic_botton">Analiza podataka…</string>
+  <string name="upgrade_tvm_component_desc">Kako biste osigurali sigurnost svojih transakcija, ažurirajte dodatak Ključna komponenta telefona.</string>
+  <string name="upgrade_tvm_component_title">Ažuriraj dodatak Ključna komponenta telefona</string>
   <string name="usage_sorted_activity_lable">Uporaba podataka</string>
   <string name="usage_sorted_empty_text">Prazno</string>
   <string name="usage_sorted_loading_text">Samo trenutak…</string>

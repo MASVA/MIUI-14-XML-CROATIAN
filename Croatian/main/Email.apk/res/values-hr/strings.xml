@@ -232,6 +232,7 @@ IMAP putanje"</string>
     <string name="attendee_needed">Dodajte barem jednog pozivatelja.</string>
     <string name="auto_login_fail">"Nije moguće prijaviti se automatski"</string>
     <string name="auto_login_fail_to_retry">Automatska prijava nije uspjela, pokušajte ponovno.</string>
+	 <string name="auto_start_open_prompt">Dopustite aplikaciji da se automatski pokrene kako bi mogla sinkronizirati vašu e-poštu. Ovo dopuštenje možete dati u postavkama.</string>
     <string name="bContact_list_search_hint">Potraži blokirane kontakte</string>
     <string name="b_contacts">Popis blokiranih</string>
     <string name="b_contacts_remove">Ukloni sa liste blokiranih</string>
@@ -256,6 +257,7 @@ IMAP putanje"</string>
     <string name="calendar_remind_gridview_pick_date">Odaberi datum</string>
     <string name="cancel">Odustani</string>
     <string name="cancel_action">Odustani</string>
+	 <string name="cancel_edit">Zaustavi uređivanje</string>
     <string name="cc">Cc</string>
     <string name="cc_bcc">Cc/Bcc</string>
     <string name="cc_heading">"Kopija: "</string>
@@ -403,7 +405,8 @@ IMAP putanje"</string>
     <string name="drive_card_button_tips">Kopiraj pristupni kod</string>
     <string name="drive_card_code">"Pristupni kod: "</string>
     <string name="drive_card_tips">%s dijeli s vama stavku pohranjenu u Cloudu.</string>
-    <string name="drive_card_title">URL za Cloud pohranu</string>
+    <string name="drive_card_title">Poveznica Cloud pohrane</string>
+	 <string name="drop_sign_operation">Zaustaviti uređivanje i odbaciti sve promjene?</string>
     <string name="dtend">Završava</string>
     <string name="dtstart">Počinje</string>
     <string name="editor_max_length_limit_hint">Poruka koju ste unijeli je predugačka</string>
@@ -866,7 +869,8 @@ Ovaj problem može biti uzrokovan dvofaktorskom autentifikacijom računa. Pokuš
     <string name="open_notification_kingagent">Uključite obavijesti o grobnim točkama</string>
     <string name="open_pdf_error">Nije moguće otvoriti PDF. Instalirajte čitač PDF-a i pokušajte ponovo.</string>
     <string name="operation_settging">Radnje</string>
-    <string name="optimization_suggestion">Prijedlozi za optimizaciju</string>
+    <string name="optimization_suggestion">Prijedlozi optimizacije</string>
+	 <string name="other_pdf_open">Otvori s…</string>
     <string name="others_mail">Ostalo</string>
     <string name="outbox_alert_button_no_resend">"Nemoj poslati"</string>
     <string name="outbox_alert_button_resend">Pošalji ponovo</string>
@@ -903,6 +907,7 @@ Ovaj problem može biti uzrokovan dvofaktorskom autentifikacijom računa. Pokuš
     <string name="pdf_has_signature_prompt_confirm">Potpisana kopija</string>
     <string name="pdf_has_signature_prompt_message">Čini se da ovaj privitak ima potpisanu kopiju. Otvoriti umjesto toga?</string>
     <string name="pdf_save_error">"Nije moguće pretvoriti u PDF. Ova je poruka preduga."</string>
+	 <string name="pdf_save_local">"Uspješno spremljeno na uređaj: "</string>
     <string name="pdf_save_no_body">Pričekajte da se poruka u potpunosti učita prije pretvaranja u PDF</string>
     <string name="pdf_save_to">"Spremljeno u "</string>
     <string name="pdf_signature_add">Dodajte novi potpis</string>
@@ -942,6 +947,7 @@ Ovaj problem može biti uzrokovan dvofaktorskom autentifikacijom računa. Pokuš
     <string name="personal_data_collection_summary">Kada je uključeno, slažete se da možemo prikupljati vaše osobne podatke. Možete isključiti, opozvati autorizaciju i izbrisati svoje podatke s naših poslužitelja u bilo kojem trenutku.</string>
     <string name="personal_data_collection_title">Dopustite prikupljanje osobnih podataka</string>
     <string name="pl_select_age">Odaberite dob</string>
+	 <string name="please_save_sign_first">Prvo spremite potpis</string>
     <string name="pop3_name">POP3</string>
     <string name="preference_copied">Sažetak \"%1$s\" kopiran je u međuspremnik.</string>
     <string name="preferences_signature_dialog_title">Potpis</string>
@@ -1021,6 +1027,7 @@ Pričekajte dok se ne sinkronizira u potpunosti ili pogledate poruku na računal
     <string name="saturday_short">Sub</string>
     <string name="saturday_shortest">S</string>
     <string name="save_draft_failed">"Ne mogu spremiti skicu"</string>
+	 <string name="save_sign_pdf">Spremi na uređaj</string>
     <string name="search_bar_text">Traženje poruka i kontakata</string>
     <string name="search_menu_title">Traži</string>
     <string name="search_remote_again">Mreža nije dostupna, pokušaj ponovno</string>
@@ -1157,6 +1164,7 @@ Pričekajte dok se ne sinkronizira u potpunosti ili pogledate poruku na računal
     <string name="train_card_title_change">Rezervacija je uspješno promijenjena</string>
     <string name="train_card_title_change_arrival">Uspješno promijenjeno odredište</string>
     <string name="train_card_title_refund">Ulaznica je uspješno otkazana</string>
+	 <string name="translated_text_too_long">Odaberite manje teksta za kopiranje i pokušajte ponovno</string>
     <string name="translation_loading">Samo trenutak…</string>
     <string name="translation_no_result">Nema rezultata</string>
     <string name="translation_pronunciation_am">AmE</string>

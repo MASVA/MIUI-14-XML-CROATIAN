@@ -342,6 +342,11 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
     <string name="select_voice_call_sim">Odaberi SIM karticu</string>
     <string name="send">Pošalji</string>
     <string name="separate_from_conference">Odvoji poziv</string>
+	  <string name="sim1_description">SIM %d</string>
+    <string name="sim1_heduohao_card">Sub %d</string>
+    <string name="sim2_description">SIM %d</string>
+    <string name="sim2_heduohao_card">Sub %d</string>
+    <string name="sim3_heduohao_card">Sub %d</string>
     <string name="sip_call_not_support_record">"Ne mogu snimiti SIP pozive"</string>
     <string name="speakerphone_tip">Preklopite uređaj da biste koristili slušalicu ili zvučnik</string>
     <string name="sunday">Nedjelja</string>

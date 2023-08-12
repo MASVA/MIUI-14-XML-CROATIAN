@@ -260,6 +260,7 @@
     <string name="common_home_search_delete_content">"Nakon brisanja nećete moći pretraživati stavke pomoću trake za pretraživanje Početnog zaslona. Svejedno izbrisati?"</string>
     <string name="configure_wallpaper">Postavke</string>
     <string name="confirm_btn_label">U redu</string>
+	 <string name="content_center">Centar za sadržaj</string>
     <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Dvojne aplikacije će biti deinstalirati zajedno s ovima.</string>
     <string name="confirm_uninstall_dialog_has_xspace_app_msg">Dvojna aplikacija će biti deinstalirana zajedno s ovom.</string>
     <string name="confirm_uninstall_dialog_title">Dvojne aplikacije će biti deinstalirane.</string>
@@ -441,6 +442,11 @@
     <string name="in_app_result_by">Rezultati unutar aplikacije prema</string>
     <string name="install">Instaliraj</string>
     <string name="intelligent_exposed_button_summary_text">Koristite pametne prijedloge na temelju vaše upotrebe aplikacije za isticanje aplikacija u povećanim mapama</string>
+	 <string name="international_home_pull_down_content">Prevucite prema dolje na početnom zaslonu za pretraživanje na ovom uređaju i internetu.</string>
+    <string name="international_home_pull_down_sub_content">Ovu gestu možete prebaciti na otvaranje Centra za kontrolu u Postavkama > Početni zaslon > Povuci dolje na Početnom zaslonu.</string>
+    <string name="international_home_pull_down_up_btn_get">Razumijem</string>
+    <string name="international_home_pull_up_content">Povucite gore na početnom zaslonu da biste otvorili Centar za sadržaj.</string>
+    <string name="international_home_pull_up_sub_content">Da biste otvorili pretraživanje, povucite dolje od sredine početnog zaslona.</string>
     <string name="invalid_contact_shortcut">Nevažeći kontakt</string>
     <string name="is_setting_wallpaper_message">Postavljanje slike pozadine…</string>
     <string name="is_system_wallpaper_message">"Ne mogu izbrisati resurse sustava"</string>

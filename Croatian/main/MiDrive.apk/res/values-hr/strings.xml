@@ -262,9 +262,10 @@ Pošaljite ovaj kôd nadzorniku."</string>
     <string name="exception_param_error">Dogodila se pogreška. Pričekajte minutu ili dvije i pokušajte ponovo.</string>
     <string name="exception_rename_conflict">"Ne mogu preimenovati. Stavka s ovim nazivom već postoji."</string>
     <string name="exception_rename_illegal_char">"Nazivi datoteka ne mogu sadržavati posebne znakove"</string>
+	 <string name="exception_share_file">"Nije moguće prenijeti. Pričekajte minutu ili dvije i pokušajte ponovno."</string>
     <string name="expand_button_title">Napredno</string>
     <string name="fab_menu_sort">Poredaj</string>
-    <string name="failed_dup_secure_phone_number">Ovaj broj telefona je već povezan s drugim Xiaomi Računom.</string>
+    <string name="failed_dup_secure_phone_number">Ovaj broj telefona je već povezan s drugim Xiaomi računom.</string>
     <string name="file_already_downlaoded">Datoteka spremljena u \"%1$s\"</string>
     <string name="file_change_btn_download">Preuzmi datoteku</string>
     <string name="file_change_btn_upload">Učitaj datoteku</string>
@@ -368,6 +369,7 @@ Pobrinite se da koristite trenutnu Xiaomi Račun kao račun MIUI sustava."</stri
     <string name="miuix_appcompat_delete_description">Izbriši</string>
     <string name="miuix_appcompat_deselect_all">Poništi odabir</string>
     <string name="miuix_appcompat_deselect_all_description">Poništi odabir</string>
+	 <string name="miuix_appcompat_edit">Uredi</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Odustani</string>
     <string name="miuix_appcompat_search_input_description">Traži</string>
     <string name="miuix_appcompat_select_all">Odaberi sve</string>
