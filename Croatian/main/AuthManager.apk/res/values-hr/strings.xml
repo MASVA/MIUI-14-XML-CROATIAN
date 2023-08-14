@@ -48,10 +48,8 @@
 	<string name="HIPS_Perm_NEARBY_DEVICES">Povezivanje s uređajima u blizini</string>
 	<string name="HIPS_Perm_NEARBY_DEVICES_Desc">Otkriti i povezati se s uređajima u blizini</string>
 	<string name="HIPS_Perm_NEARBY_DEVICES_Desc_T_china">Otkriti i povezati se s uređajima u blizini putem Bluetootha i Wi-Fi-ja</string>
-	<string name="HIPS_Perm_operator_shake">Pristup podacima brzinomjera</string>
-	<string name="HIPS_Perm_operator_shake_Desc">Podaci brzinomjera koriste se za praćenje orijentacije i kretanja (npr. podrhtavanje, naginjanje i rotacija)</string>
 	<string name="HIPS_Perm_operator_wall_paper">Usluge dinamičnih slika pozadina</string>
-      <string name="HIPS_Perm_operator_wall_paper_Desc">Uređivanje usluga dinamičnih slika pozadina sustava</string>
+  <string name="HIPS_Perm_operator_wall_paper_Desc">Uređivanje usluga dinamičnih slika pozadina sustava</string>
 	<string name="HIPS_Perm_PhoneID">Dobivanje informacija o uređaju</string>
 	<string name="HIPS_Perm_PhoneID_Desc">pristupiti broju telefona, IMEI i IMSI-ju</string>
 	<string name="HIPS_Perm_PhoneID_Desc_Q">Pristup broju telefona i statusu uređaja</string>
@@ -318,7 +316,6 @@
 	<string name="permdesc_recognition">Želite li dopustiti %1$s pristup podacima o vašim aktivnostima?</string>
 	<string name="permdesc_send_sms">Želite li dopustiti %1$s slanje tekstualnih poruka?</string>
 	<string name="permdesc_sensors">Želite li dopustiti %1$s čitanje podataka koje generiraju tjelesni senzori?</string>
-	<string name="permdesc_shake">Dopustite\"%1$s\" koristiti senzore uređaja za prepoznavanje podrhtavanja i pružanje interaktivnih osjetilnih značajki</string>
 	<string name="permdesc_shake">Želite li dopustiti %1$s da pristupi podacima brzinomjera?</string>
 	<string name="permdesc_use_sip">Želite li dopustiti %1$s da koristi protokol pokretanja sesije za strujanje videozapisa?</string>
 	<string name="permdesc_write_calendar">Želite li dopustiti %1$s stvaranje i spremanje kalendarskih događaja?</string>
