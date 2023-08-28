@@ -1608,7 +1608,11 @@ Idite u Teme > Moj račun > Lab. Tema za više opcija."</string>
     <string name="wallpaper_share_alert">Dogodila se pogreška. Pričekajte minutu ili dvije i pokušajte ponovo.</string>
     <string name="wallpaper_static">Statična</string>
     <string name="wallpaper_subject_version">MI</string>
-    <string name="warning_subscribe_wallpaper_group_content">"You've turned on Home screen slideshow. %1$s will be applied to your Home screen."</string>
+	 <string name="warning_miui_optimization_closed_dialog_agree">Postavke</string>
+    <string name="warning_miui_optimization_closed_dialog_disagree">Primijeni</string>
+    <string name="warning_miui_optimization_closed_dialog_message">"Čini se da niste uključili MIUI optimizaciju. Bez nje ova tema neće ispravno raditi kada se primijeni. Svejedno je možete primijeniti ili uključiti MIUI optimizaciju u Postavkama."</string>
+    <string name="warning_miui_optimization_closed_dialog_title">Pažnja</string>
+    <string name="warning_subscribe_wallpaper_group_content">"Uključili ste dijaprojekciju početnog zaslona. %1$s bit će primijenjen na vaš početni zaslon."</string>
     <string name="wechat_not_found">Prvo instalirajte WeChat</string>
     <string name="wednesday">Srijeda</string>
     <string name="wednesday_short">Sri</string>

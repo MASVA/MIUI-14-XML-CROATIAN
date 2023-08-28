@@ -36,6 +36,7 @@
    <string name="auto_disable_screenbuttons_ask">Traži onemogućavanje</string>
    <string name="auto_disable_screenbuttons_auto">Uvijek onemogući</string>
    <string name="auto_disable_screenbuttons_cancel">Odustani</string>
+   <string name="auto_disable_screenbuttons_dialog_title">Onemogućiti tipke zaslona na %s?</string>
    <string name="auto_disable_screenbuttons_no">Nikad ne onemogući</string>
    <string name="auto_disable_screenbuttons_rotation_summary">Kada je vaš uređaj u pejzažnom načinu rada, navigacijske tipke bit će blokirane</string>
    <string name="auto_disable_screenbuttons_rotation_title">Blokiraj navigacijske tipke u pejzažu</string>
