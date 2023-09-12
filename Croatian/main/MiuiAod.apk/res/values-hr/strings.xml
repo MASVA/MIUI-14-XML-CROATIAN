@@ -308,12 +308,14 @@ dd.MM."</string>
     <string name="signature">Potpis</string>
     <string name="signature_default_content">"Samo za vas;
   by MASVA"</string>
+    <string name="smart_style">Pametno</string>
+    <string name="smart_style_summary">"Uvijek prikaži stavke, osim kada je uređaj u džepu, kada je ambijentalno osvjetljenje slabo dulje vrijeme ili kada ne gledate u svoj uređaj"</string>
     <string name="standard_clock_panel">Standardno</string>
     <string name="standard_style">Standardno</string>
     <string name="step_component_info_active_tip">Broj koraka pruža Xiaomi Health. Pristanite na Xiaomi Health uvjete i odredbe za nastavak.</string>
     <string name="step_component_info_desc">Kada se postigne vaš cilj, broj koraka pretvorit će se u trofej. Broj koraka pruža Xiaomi Health.</string>
     <string name="step_component_info_tip">Broj koraka pruža Xiaomi Health. Instalirajte ili ažurirajte Xiaomi Health i pristanite na njegove uvjete i odredbe za nastavak.</string>
-    <string name="step_to_image_community">Pronađi više na Mi Community</string>
+    <string name="step_to_image_community">Pronađite više na Mi Community</string>
     <string name="summary">"Da smanjite potrošnju energije, stavke neće biti prikazane u sljedećim situacijama:
 1. Kada vaš uređaj dugo stoji u mraku.
 2. Kada je uključen DND način rada."</string>

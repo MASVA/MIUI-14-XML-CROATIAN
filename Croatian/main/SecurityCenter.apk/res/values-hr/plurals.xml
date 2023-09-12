@@ -165,6 +165,10 @@
         <item quantity="other">Deinstaliraj aplikacije: %d</item>
         <item quantity="one">Deinstaliraj %d aplikaciju</item>
     </plurals>
+	 <plurals name="app_manager_updater_title">
+        <item quantity="other">Ažuriraj %d aplikacija</item>
+        <item quantity="one">Ažuriraj %d aplikaciju</item>
+    </plurals>
     <plurals name="app_usage_day">
         <item quantity="other">"Korišteno prije %d dan"</item>
         <item quantity="one">"Korišteno prije %d dana"</item>

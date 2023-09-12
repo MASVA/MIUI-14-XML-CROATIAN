@@ -495,6 +495,7 @@ Bočne ploče
   <string name="app_detail">Detalji</string>
   <string name="app_error_tip_for_launcher">"Hardverske komponente vašeg uređaja ili verzija sustava Android mogu uzrokovati probleme s kompatibilnošću što može rezultirati da se neke aplikacije ponašaju neispravno, zamrzavaju se ili se prisilno zaustave. Ako naiđete na takve probleme, podijelite svoje povratne informacije s programerima aplikacije."</string>
   <string name="app_error_tip_for_store">"Hardverske komponente vašeg uređaja ili verzija sustava Android mogu uzrokovati probleme s kompatibilnošću, što može rezultirati neuspjehom instalacije nekih aplikacija. Ako naiđete na takve probleme ili neke se aplikacije ponašaju neispravno, zamrzavaju se ili se prisilno zaustave, pričekajte dok programeri aplikacije ne poprave pogreške i pokušajte ponovo instalirati aplikaciju."</string>
+  <string name="app_info_all_services_label">Sve usluge</string>
   <string name="app_install_intercept">Blokiraj instalaciju</string>
   <string name="app_install_tips_go_to">Otvori</string>
   <string name="app_install_tips_install_success">Aplikacija %1$s uspješno instalirana</string>
@@ -590,7 +591,7 @@ Bočne ploče
   <string name="app_manager_mobile_slot2">Mobilni podaci (SIM 2)</string>
   <string name="app_manager_more_times">Pristupano 100000+ puta</string>
   <string name="app_manager_my_app">Moje apliakcije</string>
-  <string name="app_manager_net_control_title">Ograniči uporabu podataka</string>
+  <string name="app_manager_net_control_title">Način povezivanja</string>
   <string name="app_manager_net_mobile">Mobilni podaci</string>
   <string name="app_manager_net_wifi">Wi-Fi</string>
   <string name="app_manager_not_allow">Ne</string>
@@ -643,9 +644,17 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="app_manager_reset_app_preferences_title">Poništiti postavke aplikacije?</string>
   <string name="app_manager_restricted_settings_title">Dopusti ograničene postavke</string>
   <string name="app_manager_search_prompt">"Nije moguće pronaći rezultate? Pokušajte prikazati rezultate svih aplikacija."</string>
+  <string name="app_manager_shortcut_manager">Upravljanje prečacima na početnom zaslonu</string>
   <string name="app_manager_show_all_apps">Prikaži sve aplikacije</string>
   <string name="app_manager_show_all_apps_opened">Prikaz rezultata svih aplikacija…</string>
   <string name="app_manager_show_detail_infos">Prikaži sve</string>
+  <string name="app_usage_half_year">Posljednjih %d mjeseci</string>
+  <string name="app_usage_more_year">Prije više od %d godine</string>
+	<string name="app_usage_never_1">Nikad korišteno</string>
+	<string name="app_usage_year">Unutar %d godine</string>
+  <string name="app_usage_one_day">Danas</string>
+  <string name="app_usage_one_month">Posljednjih %d dana</string>
+  <string name="app_usage_one_week">Posljednjih %d dana</string>
   <string name="app_manager_sort">Poredaj po</string>
   <string name="app_manager_start_by">Pokrenuto od %s</string>
   <string name="app_manager_start_count_over">100000 puta</string>
@@ -1336,7 +1345,7 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="card_main_deepclean_title">Full čišćenje</string>
   <string name="card_main_deepclean_wechat_action">Izbriši</string>
   <string name="card_main_deepclean_wechat_summary">Izbriši WeChat predmemoriju kako bi oslobodili prostor za pohranu</string>
-  <string name="card_main_deepclean_wechat_title">WeChat predmemorija</string>
+  <string name="card_main_deepclean_wechat_title">WeChat čistač</string>
   <string name="card_main_facebookclean_title">Facebook čistač</string>
   <string name="card_main_galleryclean_title">Brisanje fotografija</string>
 	<string name="card_main_gamebooster_summary">Povećajte stabilnost veze za igre</string>
@@ -1361,6 +1370,7 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="card_main_private_space_summary">Korištenje Drugog prostora je kao da imate 2 uređaja</string>
   <string name="card_main_private_space_title">Drugi prostor</string>
   <string name="card_main_sectool_title">Alati</string>
+  <string name="card_main_video_manage_title">Upravljanje videozapisima</string>
   <string name="card_main_whatsappclean_title">WhatsApp čistač</string>
   <string name="card_main_speeddetail_title">Brzina veze</string>
   <string name="card_main_speeddetailt_summary">Prikaži brzinu veze za pojedine aplikacije</string>
@@ -1522,12 +1532,16 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="cta_settings">Dopusti povezivanje s internetom i pristup lokaciji</string>
   <string name="current_network_state_not_need_diagnose">Povezivanje s internetom je u redu</string>
   <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Za korištenje popisa blokiranih i upućivanje poziva kontaktima za hitne slučajeve kada se izdaju upozorenja o potresu</string>
+  <string name="custom_define_permission_desc_android.permission.GET_ACCOUNTS">Za upravljanje autorizacijom prilikom izvođenja provjere identiteta na više uređaja, otklanjanja pogrešaka putem USB-a i vraćanja zaporke za zaštitu privatnosti i zaključavanja aplikacije</string>
   <string name="custom_define_permission_desc_android.permission.READ_CALL_LOG">Za prikaz blokiranih poziva u vašoj povijesti poziva</string>
   <string name="custom_define_permission_desc_android.permission.READ_CONTACTS">Za korištenje popisa blokiranih</string>
+  <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">Za prepoznavanje statusa poziva u situacijama visoke temperature ili slabe baterije</string>
   <string name="custom_define_permission_desc_android.permission.READ_SMS">Za korištenje popisa blokiranih i prepoznavanje poruka vašeg mobilnog operatera</string>
   <string name="custom_define_permission_desc_android.permission.SEND_SMS">Za korištenje popisa blokiranih i slanje kalibracijskih poruka vašem mobilnom operateru</string>
   <string name="custom_define_permission_desc_android.permission.WRITE_CALL_LOG">Za brisanje poruka s popisa blokiranih</string>
+  <string name="custom_define_permission_desc_android.permission.group.SENSORS">Za otkrivanje seizmičkih valova za praćenje potresa</string>
   <string name="custom_define_permission_desc_android.permission_group.LOCATION">Za pružanje značajki relevantnih za vašu lokaciju u MIUI centru za upozorenje, hitnom SOS-u, štednji baterije aplikacije, sigurnosnom skeneru plaćanja i približnoj usluzi lokacije</string>
+  <string name="custom_define_permission_desc_android.permission_group.MICROPHONE">Za snimanje zvuka tijekom korištenja Game Turbo</string>
   <string name="custom_define_permission_desc_android.permission_group.STORAGE">Za čišćenje smeća i obavljanje antivirusnih skeniranja</string>
   <string name="customize_limit_pkg">%s (prilagođeno)</string>
   <string name="customizer_mode_user_define_name">Moja pravila</string>
@@ -2001,10 +2015,10 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="firewall_rule_group_title_roaming">Međunarodni roaming</string>
   <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
   <string name="firewall_service_network_blocked">%1$s je ograničen od korištenja %2$s mreža</string>
-  <string name="firewall_system_title">Uporaba podataka za aplikacije sustava</string>
-  <string name="firewall_temp_rule_reason">%2$s je ograničio internetsku vezu za %1$s​</string>
+  <string name="firewall_system_title">Povezivanja aplikacija sustava</string>
+  <string name="firewall_temp_rule_reason">%2$s je ograničio internetsku vezu za %1$s</string>
   <string name="firewall_wifi">Wi-Fi</string>
-  <string name="firewall_wifi_dialog_message">"Instalirana aplikacija neće se moći povezati s internetom pomoću Wi-Fi-ja kada je ova stavka isključena.​"</string>
+  <string name="firewall_wifi_dialog_message">"Instalirana aplikacija neće se moći povezati s internetom pomoću Wi-Fi-ja kada je ova stavka isključena."</string>
   <string name="first_aid_activity_title">Ispravi probleme</string>
   <string name="first_aid_card_airplane_button">Isključi</string>
   <string name="first_aid_card_airplane_summary">Isključite Zrakoplovni način kako biste mogli upućivati pozive i povezati se s mrežom</string>
@@ -2259,6 +2273,7 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="gb_application_not_find">Ovdje nema ništa</string>
   <string name="gb_audition_instruction">Pritisnite i držite za snimanje (%1$s-%2$s sek)</string>
   <string name="gb_audition_play_instruction">Za najbolji učinak koristite slušalice</string>
+  <string name="gb_barrage_app_manger">Upravljanje aplikacijama</string>
   <string name="gb_barrage_chat_desc">Uvijek vjerujte da će se dogoditi nešto prekrasno</string>
   <string name="gb_barrage_chat_pre_desc">Pregled</string>
   <string name="gb_barrage_chat_text_color">Boja</string>
@@ -2270,6 +2285,10 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="gb_barrage_chat_text_speed_moderate">Srednje</string>
   <string name="gb_barrage_chat_text_speed_slow">Sporo</string>
   <string name="gb_barrage_dnd_conflict_toast">Za korištenje komentara na zaslonu, prvo isključite DND</string>
+  <string name="gb_barrage_guide_text">Dodirnite komentar da biste odgovorili ili otvorili plutajući prozor</string>
+  <string name="gb_beauty_cold_light">Hladno</string>
+  <string name="gb_beauty_face">Uljepšajte</string>
+  <string name="gb_beauty_light">Ispuna svjetlom</string>
   <string name="gb_collimator_color">Boja</string>
   <string name="gb_collimator_size">Veličina</string>
   <string name="gb_collimator_style">Tip</string>
@@ -2506,7 +2525,8 @@ vašeg igranja"</string>
   <string name="global_satisfaction_notification_button">Ocjena</string>
   <string name="global_satisfaction_notification_channel">Anketa o zadovoljstvu korisnika</string>
   <string name="global_satisfaction_notification_subhead">Recite nam svoje iskustvo</string>
-  <string name="global_satisfaction_notification_title">Ocijenite ovaj uređaj</string>
+  <string name="global_satisfaction_notification_summary">Recite nam što mislite o ovom uređaju</string>
+  <string name="global_satisfaction_notification_title">Ocijenite svoje iskustvo</string>
   <string name="global_wa_setting_alert_dialog_content">Možete osloboditi %s</string>
   <string name="global_wa_setting_alert_dialog_title">WhatsApp Čistač</string>
   <string name="gmscore_support_remind">Uključite tu značajku ako imate problema s korištenjem usluge Gmail, Google Karte i ostalih Googleovih aplikacija. To će malo smanjiti vijek trajanja baterije.</string>
@@ -2774,8 +2794,8 @@ da se pridružite našem lovu na jaja!"</string>
   <string name="install_sucess">Aplikacija %s uspješno instalirana</string>
   <string name="install_text">Instaliraj</string>
   <string name="install_title">Instaliraj putem USB-a</string>
-  <string name="install_tvm_component_desc">Kako biste osigurali sigurnost svojih transakcija, instalirajte dodatak Ključna komponenta telefona.</string>
-  <string name="install_tvm_component_title">Instalirajte dodatak Ključna komponenta telefona</string>
+  <string name="install_tvm_component_desc">Kako biste osigurali sigurnost svojih transakcija, instalirajte dodatak Phone Key Component putem aplikacije Sigurnost.</string>
+  <string name="install_tvm_component_title">Instalirajte dodatak Phone Key Component</string>
   <string name="install_type_instant">Instant aplikacija</string>
   <string name="installed">Instalirano</string>
   <string name="installing">Instaliranje…</string>
@@ -2946,7 +2966,7 @@ podatkovnu vezu"</string>
   <string name="main_tobe_added_desc">Mobilni podaci od ¥0.03/MB</string>
   <string name="main_today_used">Iskorišteno danas</string>
   <string name="main_toolbar_custom_service">Služba za korisnike</string>
-  <string name="main_toolbar_firewall">Ograniči uporabu podataka</string>
+  <string name="main_toolbar_firewall">Upravljanje mrežnom vezom</string>
   <string name="main_toolbar_internet_by_mobiledata">Mobilni podaci</string>
   <string name="main_toolbar_recharge_record">Zapis nadoplate</string>
   <string name="main_toolbar_internet_by_pc_brige">Internet putem USB-a</string>
@@ -3081,7 +3101,7 @@ Vaš je uređaj sad %s brži."</string>
   <string name="menu_sms">Pošalji SMS</string>
   <string name="menu_summary_antispam">Blokiraj pozive i poruke</string>
   <string name="menu_summary_antivirus">Traženje virusa na uređaju</string>
-  <string name="menu_summary_app_manager">Ažuriraj i deinstaliraj aplikacije</string>
+  <string name="menu_summary_app_manager">Upravljanje postavkama aplikacije</string>
   <string name="menu_summary_garbage_cleanup">Nema pronađenog smeća</string>
   <string name="menu_summary_garbage_cleanup_ex">Oslobodite %s</string>
   <string name="menu_summary_garbage_cleanup_new">%d%% prostora za pohranu</string>
@@ -3713,7 +3733,8 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pc_battery_history_rank_percent_menu_item">Postotak</string>
   <string name="pc_battery_history_show_imei">IMEI:</string>
   <string name="pc_battery_history_total_consumption_title">Ukupna potrošnja energije</string>
-  <string name="pc_battery_history_usetime_title">Aktivan</string>
+  <string name="pc_battery_history_usetime_title">Aktivno</string>
+  <string name="pc_category_charge_settings">Postavke punjenja</string>
   <string name="pc_close_notifi_action">Isključi</string>
   <string name="pc_continuity_has_open_save_mode_notifi_sumary">Štednja baterije bit će isključena kada je %1$s %2$s ili potpuno napunjen</string>
   <string name="pc_continuity_has_open_save_mode_notifi_title">Uključena štednja baterije na %s</string>
@@ -3758,8 +3779,11 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pc_high_temp_protection_noti_summary">"Sada se ne mogu koristiti hotspot, mobilni podaci i usluge lokacije"</string>
   <string name="pc_high_temp_protection_noti_summary2">"Sada se ne mogu koristiti hotspotovi"</string>
   <string name="pc_high_temp_protection_noti_tile">Vaš uređaj je pregrijan</string>
+  <string name="pc_hight_refresh_rate_reminder_content">Vaš uređaj koristi višu stopu osvježavanja za bolje iskustvo gledanja. To može povećati potrošnju energije i temperaturu uređaja.</string>
+  <string name="pc_hight_refresh_rate_reminder_summary">Korištenje veće stope osvježavanja. To može povećati potrošnju energije i temperaturu uređaja.</string>
+  <string name="pc_hight_refresh_rate_reminder_title">Gledanje videozapisa s velikom brzinom sličica u sekundi</string>
   <string name="pc_install_manager">Instaliraj putem USB-a</string>
-  <string name="pc_low_batterty_got_it">Shvaćam</string>
+  <string name="pc_low_batterty_got_it">Razumijem</string>
   <string name="pc_low_battery_fast_charge">Ubrzajte punjenje</string>
   <string name="pc_low_battery_fast_charge_summary">Priključite isporučeni punjač kako biste ubrzali punjenje kada je zaslon isključen i baterija je prazna. Ova značajka može uzrokovati zagrijavanje vašeg uređaja.</string>
   <string name="pc_main_activity_back">Natrag</string>
@@ -3790,6 +3814,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pc_smart_discharge_checkbox_title">Automatsko isključivanje punjenja</string>
   <string name="pc_smart_discharge_drop_down_title">Postavke automatskog prekida veze</string>
   <string name="pc_smart_discharge_protect_notifi_summary">Za zaštitu baterije, punjenje će se automatski zaustaviti na odabranoj razini kada koristite navigacijske aplikacije</string>
+  <string name="pc_smart_discharge_protect_notifi_summary2">Za zaštitu baterije, punjenje će se automatski zaustaviti na odabranoj razini kada koristite navigacijske aplikacije</string>
   <string name="pc_smart_discharge_protect_notifi_title">Automatsko isključivanje punjenja je uključeno</string>
   <string name="pc_search_keywords_battery_save">Štednja baterije</string>
   <string name="pc_search_keywords_battery_use">Korištenje baterije</string>
@@ -5092,7 +5117,7 @@ Povući suglasnost sada?"</string>
   <string name="security_scan_optimizing">Optimiziranje…</string>
   <string name="securityadd_install_fail">"Nije moguće ažurirati dodatak. Pokušajte ponovno."</string>
   <string name="securityadd_update_tips_cancle">Ne sada</string>
-  <string name="securityadd_update_tips_message">Ažurirajte dodatak usluge Sigurnost za pristup najnovijim značajkama za igre. %1$dMB će biti preuzeto.</string>
+  <string name="securityadd_update_tips_message">Ažurirajte dodatak aplikacije Sigurnost za pristup najnovijim značajkama za igre. %1$d MB će biti preuzeto.</string>
   <string name="securityadd_update_tips_now">Ažuriraj</string>
   <string name="securityadd_update_tips_title">Ažuriraj</string>
   <string name="securitycenter_tab_title">Sigurnost</string>
@@ -5421,6 +5446,8 @@ Povući suglasnost sada?"</string>
   <string name="special_perm_intercept_analyze_title">Analizirajte svoje sklonosti i ponašanje</string>
   <string name="special_perm_intercept_app_msg">Uključujući obavijesti s društvenih medija i bankarskih aplikacija</string>
   <string name="special_perm_intercept_app_title">Čitanje svih obavijesti</string>
+  <string name="special_perm_intercept_autostart_msg">Dopusti aplikaciji pokretanje u pozadini bilo kada bez ograničenja</string>
+  <string name="special_perm_intercept_autostart_title">Neograničeno automatsko pokretanje</string>
   <string name="special_perm_intercept_barrier_free">Pristupačnost</string>
   <string name="special_perm_intercept_camera_msg">Ograničite bilo koju aktivnost kamere</string>
   <string name="special_perm_intercept_camera_title">Ograničiti upotrebu kamere</string>
@@ -6456,8 +6483,8 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="untrust_app_perm_title">Aplikacija iz nepoznatog izvora</string>
   <string name="untrust_app_perm_warn">Ova aplikacija dolazi iz nepoznatog izvora i može predstavljati sigurnosni rizik. Može koristiti dolje navedena dopuštenja da ugrozi vašu privatnost. Dodijelite ta dopuštenja nakon pažljivog razmatranja.</string>
   <string name="updating_diagnostic_botton">Analiza podataka…</string>
-  <string name="upgrade_tvm_component_desc">Kako biste osigurali sigurnost svojih transakcija, ažurirajte dodatak Ključna komponenta telefona.</string>
-  <string name="upgrade_tvm_component_title">Ažuriraj dodatak Ključna komponenta telefona</string>
+  <string name="upgrade_tvm_component_desc">Kako biste osigurali sigurnost svojih transakcija, ažurirajte dodatak Phone Key Component putem aplikacije Sigurnosti</string>
+  <string name="upgrade_tvm_component_title">Ažuriraj dodatak Phone Key Component</string>
   <string name="usage_sorted_activity_lable">Uporaba podataka</string>
   <string name="usage_sorted_empty_text">Prazno</string>
   <string name="usage_sorted_loading_text">Samo trenutak…</string>
@@ -6506,12 +6533,15 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="vb_fps_settings">Brzina autom.g osvježavanja</string>
   <string name="vb_fps_settings_tips">Ova značajka prilagođava brzinu osvježavanja zaslona brzini kadra videozapisa, što štedi bateriju i reprodukciju čini glatkom. Uključivanjem plutajućih komentara isključit će se stopa autom.g osvježavanja.
 </string>
+  <string name="vb_power_performance_mode_conflict_toast">"Ne mogu koristiti ovu značajku kada je uključen način rada Performanse"</string>
+  <string name="vb_power_save_mode_conflict_toast">"Ne mogu koristiti ovu značajku kada je uključena Štednja baterije"</string>
   <string name="vb_quick_func_auto_bgm">Prepoznaj glazbu u pozadini</string>
   <string name="vb_quick_func_hangup_listening">Reproduciraj video zvuk s isključenim zaslonom</string>
   <string name="vb_quick_func_screen_capture">Snimka zaslona</string>
   <string name="vb_quick_func_screen_record">Snimi</string>
   <string name="vb_quick_func_screening">Emitiraj</string>
   <string name="vb_settings">Postavke</string>
+  <string name="vb_super_power_save_mode_conflict_toast">"Ne mogu koristiti ovu značajku kada je uključena Ultra štednja baterije"</string>
   <string name="vb_ve_settings_display_style_tips">*Ovi efekti primjenjuju se na cijeli zaslon</string>
   <string name="vb_ve_settings_display_style_tips_new">*Efekti će se primijeniti samo na područje reprodukcije videozapisa</string>
   <string name="vb_ve_settings_display_style_tips_new_with_conflict_tips">"*Ovaj efekt primijenit će se samo na područje reprodukcije videozapisa.

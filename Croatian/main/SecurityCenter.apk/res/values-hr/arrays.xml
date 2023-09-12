@@ -205,13 +205,13 @@
     </string-array>
     <string-array name="sort_title_new">
         <item>Poredaj po nazivu aplikacije</item>
-        <item>Poredaj po učestalosti korištenja</item>
-        <item>Poredaj po iskor. pros. za pohranu</item>
+        <item>Poredaj po nedavno korišteno</item>
+        <item>Poredaj po iskor. prost. za pohranu</item>
         <item>Poredaj po vremenu instalacije</item>
     </string-array>
     <string-array name="sort_type_new">
         <item>Naziv aplikacije</item>
-        <item>Učestalost korištenja</item>
+        <item>Nedavno korišteno</item>
         <item>Iskorišteni prostor za pohranu</item>
         <item>Vrijeme instalacije</item>
     </string-array>

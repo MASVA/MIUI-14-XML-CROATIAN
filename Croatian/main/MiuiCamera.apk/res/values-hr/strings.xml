@@ -1391,6 +1391,8 @@ izgledaju veće na fotografijama"</string>
   <string name="network_connection_prerequisites_china">Uključite Bluetooth i Wi-Fi u Centru za kontrolu da biste mogli upotrebljavati snimanje s dva uređaja.</string>
   <string name="network_connection_rejected">Odbijeno</string>
   <string name="network_connection_timed_out">Povezivanje je isteklo</string>
+  <string name="new_bie_dialog_cancel">Zatvori opis značajke</string>
+  <string name="new_bie_dialog_desc">Opis značajke</string>
   <string name="newbie_privacy_watermark_msg">Koristite zaštitni potpis kako biste zaštitili svoje dokumente od neovlaštenog kopiranja</string>
   <string name="newbie_privacy_watermark_title">Zaštitite svoje dokumente</string>
   <string name="no_save">"Ne spremaj"</string>
