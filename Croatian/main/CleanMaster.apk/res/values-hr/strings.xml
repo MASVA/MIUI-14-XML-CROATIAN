@@ -122,6 +122,7 @@
     <string name="auto_clean_time_every_day">Svaki dan</string>
     <string name="auto_cleaner_open">Uključeno</string>
     <string name="back">Natrag</string>
+	 <string name="be_figuring">Izračunavanje…</string>
     <string name="browser_scan_history_desc">Povijest preglednika</string>
     <string name="browser_search_history_desc">Stavke pretraživanja</string>
     <string name="btn_text_done">Gotovo</string>
@@ -257,6 +258,7 @@
     <string name="dc_item_title_wechat_chat">Očistite WeChat povijest</string>
     <string name="dc_storage_cleaned">Oslobođeno %s</string>
     <string name="dc_storage_info">Dostupno %1$s | Ukupno %2$s</string>
+	 <string name="dc_storage_info_new">%1$s dostupno</string>
     <string name="deep_clean_completed_tips">Uspješno očišćeno</string>
     <string name="deep_clean_data_path_clean_title">Očisti predmemoriju</string>
     <string name="deep_clean_uninstall_completed_tips">Uspješno deinstalirano</string>

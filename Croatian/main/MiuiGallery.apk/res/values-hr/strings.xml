@@ -329,6 +329,7 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
 	<string name="backup_automatically_summary">Sinkronizirajte fotografije i videozapise sa svih uređaja na Xiaomi Cloud. Možete sigurno pregledavati, sortirati, uređivati i dijeliti fotografije i videozapise na svim vašim uređajima.</string>
 	<string name="backup_automatically_title">Sinkroniziraj automatski</string>
 	<string name="backup_battery_low_desc">Još uvijek možete izabrati nastavak izrade Sig. kopije stavki</string>
+	<string name="backup_category_title">SIG. KOPIRANJE</string>
 	<string name="backup_battery_low_title">Izrada Sig. kopije pauzirana zbog slabe baterije</string>
 	<string name="backup_close">Zatvori Sig. kopiju</string>
 	<string name="backup_cloud_space_low_btn_text">Dobijte više</string>
@@ -345,9 +346,12 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
 	<string name="backup_dirty_num">Ukupno: %s</string>
 	<string name="backup_dirty_tip">Nisu pohranjene fotografije i videozapisi</string>
 	<string name="backup_disable_message">Galerija mora izbrisati predmemoriju aplikacije jer ste isključili sinkronizaciju s cloudom.</string>
+	<string name="backup_display">Podsjetnici za pohranu</string>
 	<string name="backup_file_over_size_desc">"Fotografije veće od %1$s i videozapisi veći od %2$s ne mogu biti pohranjeni."</string>
+	<string name="backup_google_description">Čuvajte svoje fotografije sigurnim kopiranjem na svoj Google račun</string>
+  <string name="backup_google_name">Google fotografije</string>
 	<string name="backup_immediately">Pohrani</string>
-	<string name="backup_need_sync_desc">Dodirni tipku za nastavak izrade</string>
+	<string name="backup_need_sync_desc">Dodirnite tipku za nastavak</string>
 	<string name="backup_need_sync_title">Izrada Sig. kopije zaustavljena</string>
 	<string name="backup_no_network_btn_text">Postavke mreže</string>
 	<string name="backup_no_network_desc">Povežite se na mrežu da nastavite izradu Sig. kopije</string>
@@ -355,6 +359,10 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
 	<string name="backup_no_wifi_btn_text">Koristi podatke</string>
 	<string name="backup_no_wifi_desc">Možete izraditi Sig. kopiju stavki korištenjem mob. podataka</string>
 	<string name="backup_no_wifi_title">Dodirni za povezivanje na Wi-Fi</string>
+	<string name="backup_off_des">Uključite sinkronizaciju s cloudom za automatsko sigurnosno kopiranje fotografija i videozapisa</string>
+  <string name="backup_onedrive_description">Zaštitite svoje fotografije u cloudu i pristupite im na bilo kojem uređaju</string>
+  <string name="backup_onedrive_name">Microsoft OneDrive</string>
+  <string name="backup_onedrive_single_name">OneDrive</string>
 	<string name="backup_only_in_wifi">Koristi samo Wi-Fi za sinkronizaciju fotografija i videozapisa</string>
 	<string name="backup_only_in_wifi_summary">Nikad ne koristi mob. podatke za sinkronizaciju fotografija i videozapisa</string>
 	<string name="backup_only_wifi_dialog_message">Koristiti mob. podatke za sinkronizaciju fotografija i videozapisa?</string>
@@ -1134,6 +1142,8 @@ za fotografije"</string>
 	<string name="getverifycode_seconde">s</string>
 	<string name="gif_tip">GIF</string>
 	<string name="gigabyteShort">GB</string>
+	<string name="global_cloud_action_upgrade_onedrive">Nadogradite OneDrive</string>
+  <string name="global_cloud_full_space_tip_message">Nadogradite svoj plan pohrane da biste mogli sigurnosno kopirati sve svoje fotografije i videozapise u cloud.</string>
 	<string name="global_pad">Moj tablet</string>
 	<string name="global_pc">Moj laptop</string>
 	<string name="global_phone">Moj telefon</string>
@@ -1435,6 +1445,7 @@ da radi normalno, dodirnite \"Postavi\" za ići u Dopuštenja."</string>
 	<string name="main_save_compress">Stisni i spremi</string>
 	<string name="main_save_error_msg">Ne mogu spremiti promjene zbog pogreške</string>
 	<string name="main_save_origin">Spremi originalnu datoteku</string>
+	<string name="manager_backup">Upravljaj</string>
 	<string name="manual_hide_manage">Dodaj \".nomedia\" datoteke</string>
 	<string name="manual_hide_state">Datoteke \".nomedia\" uspješno dodane</string>
 	<string name="map_album">Karta</string>
@@ -1756,6 +1767,7 @@ da osobno prilagodite Galeriju"</string>
 	<string name="online_video_vip_transcoding">"Uskoro počinje VIP streaming…
 Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi put."</string>
 	<string name="open">Uključi</string>
+	<string name="open_backup">Uključi</string>
 	<string name="open_public_message">Generiraj poveznicu i pošalji je prijateljima</string>
 	<string name="open_public_title">Podijeli</string>
 	<string name="open_settings">Postavke</string>
@@ -2466,6 +2478,7 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
 	<string name="see_ignore_faces">"Prikaži ignorirane osobe"</string>
 	<string name="see_more_settings">Dodatne postavke</string>
 	<string name="select_all">Odaberi sve</string>
+	<string name="select_backup">Odaberite sigurnosnu kopiju</string>
 	<string name="select_image_operation">Dodavanje fotografija</string>
 	<string name="select_item_face">"Na fotog. je %s ?"</string>
 	<string name="select_origin_tip">Izvorna datoteka (%s)</string>
