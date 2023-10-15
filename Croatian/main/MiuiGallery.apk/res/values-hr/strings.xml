@@ -659,6 +659,7 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
 	<string name="creativity_title">Kreativnost</string>
 	<string name="crop_label">Obrezane fotografije</string>
 	<string name="cta_agreement_declare"><Data>Kako biste u potpunosti razumjeli vaša prava kao korisnika kao i načine na koje koristimo vaše podatke, pročitajte i prihvatite naše &lt;a href=\"%1$s\">Korisnički ugovor&lt;/a> i &lt;a href=\"%2$s\">Pravila o privatnosti&lt;/a> prije korištenja ove aplikacije.</Data></string>
+	<string name="cta_hybrid_feedback_network_declare">Da biste vidjeli rješenja za najčešće probleme, prvo dopustite ovoj aplikaciji da se poveže s mrežom.</string>
 	<string name="cta_network_declare">Za sinkronizaciju fotografija i videozapisa s Xiaomi Cloudom ova se aplikacija mora povezati s internetom.</string>
 	<string name="cta_screenthrow_declare">"Da biste mogli emitirati zaslon ovog uređaja na vanjske monitore, ova se aplikacija mora povezati s internetom."</string>
 	<string name="custom_select_title_deselect_all">Poništi odabir</string>
@@ -1936,11 +1937,13 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
 	<string name="passport_user_id_hint">E-mail/broj telefona/ID Xiaomi Računa</string>
 	<string name="passport_user_id_intro">Unesite zaporku za %1$s</string>
 	<string name="passport_user_password_hint">Zaporka</string>
+	<string name="passport_vcode_what_app_send_prompt">Vaš WhatsApp kontrolni kôd bit će poslan na vaš telefon za oporavak (&lt;font color=#1F93FF>%s&lt;/font>).</string>
 	<string name="passport_wechat_not_install">Prvo instalirajte WeChat</string>
 	<string name="passport_wrong_captcha">Kôd koji ste unijeli nije točan</string>
 	<string name="passport_wrong_phone_number_format">Format telefonskog broja koji ste unijeli nije valjan</string>
 	<string name="passport_wrong_vcode">Kôd koji ste unijeli nije točan</string>
 	<string name="passport_wrong_voice">Kôd koji ste unijeli nije točan</string>
+	<string name="picture_not_support_privacy_watermark">"Nije moguće dodati oznake. Ova je slika premala."</string>
 	<string name="pc_device_model_name">Računalo</string>
 	<string name="pc_redmi_device_model_name">Redmi laptop</string>
 	<string name="pc_xiaomi_device_model_name">Xiaomi laptop</string>
@@ -2397,7 +2400,8 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
 	<string name="search_clear_histories">Očisti</string>
 	<string name="search_connection_error">"Ne mogu se povezati na mrežu"</string>
 	<string name="search_connection_error_and_set">Dodirnite za provjeru mrežnih postavki</string>
-	<string name="search_edit_hint">Tražite datoteke ili albume</string>
+	<string name="search_domestic_edit_hint">Pretraživanje fotografija i videozapisa</string>
+	<string name="search_edit_hint">Pretraživanje datoteka ili albuma</string>
 	<string name="search_empty_title">Pronađite fotografije s određenim ljudima, mjestima i objektima u Galeriji</string>
 	<string name="search_error">Došlo je do pogreške</string>
 	<string name="search_error_and_retry">Došlo je do pogreške, dodirnite za ponovni pokušaj</string>

@@ -4695,6 +4695,7 @@ Isklj. maks.: %2$s</string>
   <string name="privacy_flares_current_detail_mic">Ova aplikacija koristi mikrofon</string>
   <string name="privacy_flares_current_detail_mic_loc">Ova aplikacija koristi mikrofon i pristupa vašoj lokaciji</string>
   <string name="privacy_flares_current_detail_more">Ova aplikacija koristi osjetljivo dopuštenje</string>
+  <string name="privacy_flares_current_multiple">%s i drugi</string>
   <string name="privacy_flares_recent">Nedavna radnja</string>
   <string name="privacy_flares_recent_detail_cam">Ova aplikacija koristi kameru</string>
   <string name="privacy_flares_recent_detail_cam_loc">Ova je aplikacija koristila kameru i pristupila vašoj lokaciji</string>
@@ -6634,6 +6635,7 @@ Pokušajte povećati rezoluciju!"</string>
   <string name="virus_app_type_uninstalled">APK</string>
   <string name="virus_app_verison_text">Verzija: %s</string>
   <string name="virus_auto_update_engine">Autom. ažuriraj: %s</string>
+  <string name="virus_auto_update_engine_1">Ažuriraj definicije automatski</string>
   <string name="virus_clear_dialog_title">Izbriši zlonamjerne aplikacije</string>
   <string name="virus_detail_app">Sadrži viruse</string>
   <string name="virus_detail_split_line_text"> | </string>

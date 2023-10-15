@@ -60,6 +60,7 @@
     <string name="alarm_notify_text">Odgodite ili obustavite alarm.</string>
 	 <string name="alarm_permanent_alert">Zvonjenje</string>
     <string name="alarm_repeat">Ponovi</string>
+	 <string name="alarm_repeat_self_define_button">Prilagodi</string>
     <string name="alarm_ringtone">Melodije zvona alarma</string>
     <string name="alarm_ringtone_picker">Alarmi</string>
 	 <string name="alarm_set_new">Alarm će se uključiti za manje od %d minuta.</string>
@@ -260,6 +261,7 @@
     <string name="menu_item_dock_settings">Postavke Docka</string>
     <string name="menu_item_sort_by_gmt_offset">Poredaj po vremenu</string>
     <string name="menu_item_sort_by_name">Poredaj po nazivu</string>
+	 <string name="look_sleep_data">Prikaz podataka o spavanju</string>
     <string name="miui_clock_city_name_local">Lokalno</string>
     <string name="miui_clock_city_name_second">Drugi sat</string>
     <string name="miui_lock_screen_date">dd.MM EEEE</string>
@@ -414,6 +416,10 @@ mm"</string>
     <string name="notification_adv_time_entries4"><xliff id="HOUR" refersto="1">%d</xliff> sat unaprijed</string>
     <string name="notification_adv_time_entries5">Ništa</string>
 	 <string name="notification_permission_desc">"Ako ne odobrite dopuštenja za obavijesti, nećete moći isključiti alarme kada zazvone. Odobriti sada?"</string>
+	 <string name="notification_permission_dialog_content">Dopustite ovoj aplikaciji slanje obavijesti kako bi primala obavijesti o alarmu. Ovo dopuštenje možete dati u postavkama.</string>
+    <string name="notification_permission_dialog_not_open">Ne sada</string>
+    <string name="notification_permission_dialog_open">Postavke</string>
+    <string name="notification_permission_dialog_title">Potrebna dopuštenja</string>
     <string name="oneshot_alarm">Izbriši alarm nakon isklj.</string>
     <string name="open_keep_screen">Zaslon će ostati uključen</string>
 	 <string name="open_notification_permission_remind">Dopusti obavijestima da bi mogle isključiti alarme</string>
@@ -614,6 +620,7 @@ nakon što Xiaomi Health analizira dovoljno podataka</string>
     <string name="unselect_all">Poništi odabir</string>
     <string name="upcoming_alarm">Nadolazeći alarm: %s</string>
     <string name="upcoming_alarm_hint">Možete isključiti ovaj alarm sada</string>
+	 <string name="upcoming_alarm_new">Nadolazeći alarm: %s</string>
     <string name="update_health_app">Ažurirajte Xiaomi Health</string>
     <string name="update_health_app_desc">Funkciju praćenja spavanja pruža Xiaomi Health. Ažurirajte Xiaomi Health na najnoviju verziju da biste pristupili povezanim značajkama.</string>
     <string name="update_health_app_desc_new">Značajku praćenja spavanja pruža Mi Fitness. Ažurirajte Mi Fitness na najnoviju verziju da biste pristupili povezanim značajkama.</string>
