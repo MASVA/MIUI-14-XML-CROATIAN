@@ -114,9 +114,9 @@
     <string name="disagreement_function">"Ako ne pristanete odobriti ta dopuštenja ili dijeliti i slati vaše osobne podatke, nećete moći koristiti ovu značajku. Možete odlučiti da nećete koristiti ovu značajku u takvim slučajevima."</string>
     <string name="disagreement_location_service">"Ako ne pristanete odobriti ta dopuštenja ili dijeliti i slati vaše osobne podatke, nećete moći koristiti ovu uslugu."</string>
     <string name="disagreement_location_service_abnormal">"Ako ne pristanete odobriti ta dopuštenja, nećete moći koristiti usluge lokacije. Usluge lokacije možete uključiti ili isključiti u bilo kojem trenutku u Postavke > Zaštita privatnosti."</string>
-    <string name="disagreement_mi_account_abnormal">"Ako ne pristanete odobriti ta dopuštenja, nećete moći koristiti usluge Mi Računa. Usluge Mi Računa možete uključiti ili isključiti u bilo kojem trenutku u Postavke > Mi Account."</string>
+    <string name="disagreement_mi_account_abnormal">"Ako ne pristanete odobriti ta dopuštenja, nećete moći koristiti usluge Xiaomi računa. Usluge Xiaomi računa možete uključiti ili isključiti u bilo kojem trenutku u Postavke > Xiaomi račun."</string>
     <string name="disagreement_service_not_working_properly">"Ako ne pristanete odobriti ta dopuštenja, nećete moći koristiti ovu aplikaciju."</string>
-    <string name="disagreement_terminate_bluetooth">"Ako ne pristanete odobriti ta dopuštenja, nećete moći koristiti Bluetooth. Možete uključiti i isključiti Bluetooth te dodati Bluetooth uređaje u Postavkama."</string>
+    <string name="disagreement_terminate_bluetooth">"Ako ne pristanete odobriti ta dopuštenja, nećete moći koristiti Bluetooth. Možete uključiti i isključiti Bluetooth te dodati Bluetooth uređaje u Postavke > Bluetooth."</string>
     <string name="disagreement_terminate_miuidaemon">"Dopuštenja ćemo koristiti samo kad počnete slati podatke s uređaja kada je njegov zaslon oštećen. Ako ne pristanete odobriti ta dopuštenja, nećete moći koristiti ovu aplikaciju."</string>
     <string name="disagreement_terminate_service">"Ako ne pristanete odobriti ta dopuštenja ili dijeliti i slati vaše osobne podatke, nećete moći koristiti ovu uslugu. U takvim slučajevima možete odabrati deinstaliranje, odjavu ili ograničenje dopuštenja u postavkama."</string>
     <string name="download_introduction">Preuzimanja je aplikacija koju pruža Xunlei i koristi se za preuzimanja i upravljanje preuzimanim sadržajem (uključujući sadržaj trgovine aplikacija, videozapise, ažuriranja sustava, teme i sadržaj preglednika) za korisnike Xiaomi uređaja.</string>
@@ -132,13 +132,13 @@
     <string name="fast_pairing_introduction">Mi Link koristi MIUI Bluetooth mogućnosti za brzo povezivanje s obližnjim Bluetooth uređajima.</string>
     <string name="font_hint_large">Zadana veličina teksta</string>
     <string name="font_hint_normal">Povećaj veličinu teksta</string>
-    <string name="framework_introduction">Mi Services Framework omogućuje vam upotrebu Mi Računa, Mi Push, Mi Stats i MIUI BI.</string>
-    <string name="framwork_base_service">Da bismo vam pružili ove usluge, Mi Services Framework (Mi Račun, Mi Push, Mi Stats, MIUI BI) treba se povezati s internetom, pristupiti vašoj lokaciji, broju telefona, IMEI i IMSI i omogućiti vašem uređaju da prima push obavijesti.</string>
+    <string name="framework_introduction">Xiaomi Services Framework omogućuje vam upotrebu Xiaomi računa, Mi Push, Mi Stats i MIUI BI.</string>
+    <string name="framwork_base_service">Da bismo vam pružili ove usluge, Xiaomi Services Framework (Xiaomi račun, Mi Push, Mi Stats, MIUI BI) treba se povezati s internetom, pristupiti vašoj lokaciji, broju telefona, IMEI i IMSI i omogućiti vašem uređaju da prima push obavijesti.</string>
     <string name="friday">Petak</string>
     <string name="friday_short">Pet</string>
     <string name="friday_shortest">P</string>
     <string name="game_introduction">Dodatak za igre omogućuje vam prijavu, stvaranje narudžbi, dovršavanje plaćanja, korištenje kupona i sudjelovanje u promotivnim događajima.</string>
-    <string name="google_service_introduction">Da bi mogao normalno raditi, Google Play treba se povezati s internetom, pristupiti vašoj lokaciji, moći slati SMS i MMS, snimati zvukove, upućivati pozive, pristupiti događajima iz kalendara, povijesti poziva, senzorima, pohrani, kameri, informacijama o uređaju i računima.</string>
+    <string name="google_service_introduction">Da bi mogao normalno raditi, Trgovina Play treba se povezati s internetom, pristupiti vašoj lokaciji, moći slati SMS i MMS, snimati zvukove, upućivati pozive, pristupiti događajima iz kalendara, povijesti poziva, senzorima, pohrani, kameri, informacijama o uređaju i računima.</string>
     <string name="home_settings_miui_home">Klasično</string>
     <string name="home_settings_poco_launcher">Ladica za aplikacije</string>
     <string name="home_settings_title">Odaberite zadani pokretač</string>
@@ -201,7 +201,7 @@ Značajke su podložne promjenama. Neke od gore navedenih značajki možda neće
     <string name="location_location">Agencije za hitno spašavanje mogu dobiti vaše trenutno mjesto na zahtjev</string>
     <string name="lockscreen_introduction">Wallpaper Carousel omogućava vam da svakodnevno dobijate nove slike pozadina Zaklj. zaslona.</string>
     <string name="message_introduction">Ovu aplikaciju možete koristiti za slanje i primanje SMS poruka.</string>
-    <string name="mi_account_introduction">Mi Račun vam omogućuje registraciju, prijavu i upravljanje računima sustava.</string>
+    <string name="mi_account_introduction">Xiaomi račun vam omogućuje registraciju, prijavu i upravljanje računima sustava.</string>
     <string name="mint_keyboard_oobe_checkbox">"Pročitao sam i prihvatio Pravila o privatnosti Mint Keyboard"</string>
     <string name="mint_keyboard_oobe_terms">Pravila o privatnosti Mint Keyboard</string>
 	 <string name="miui14_start_up_slogan">Priprema. Pozor. Kreni.</string>
@@ -219,6 +219,7 @@ Značajke su podložne promjenama. Neke od gore navedenih značajki možda neće
     <string name="miuix_appcompat_delete_description">Izbriši</string>
     <string name="miuix_appcompat_deselect_all">Poništi odabir</string>
     <string name="miuix_appcompat_deselect_all_description">Poništi odabir</string>
+	 <string name="miuix_appcompat_edit">Uredi</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Odustani</string>
     <string name="miuix_appcompat_search_input_description">Traži</string>
     <string name="miuix_appcompat_select_all">Odaberi sve</string>
@@ -284,7 +285,7 @@ Značajke su podložne promjenama. Neke od gore navedenih značajki možda neće
     <string name="msim_setting_default_voice">Zadani SIM za pozive</string>
     <string name="multisim_settings_category">Postavke poželjne SIM kartice</string>
     <string name="multisim_settings_sb_title">Otkrivena %d SIM kartica</string>
-    <string name="multisim_settings_title">Otkrivene 2 SIM kartice</string>
+    <string name="multisim_settings_title">Otkrivene %d SIM kartice</string>
     <string name="navigation_picker_gesture_guide">Vodič za geste</string>
     <string name="navigation_picker_radio_text_full_screen">Geste u cijelom zaslonu</string>
     <string name="navigation_picker_radio_text_virtual_key">Tipke</string>
@@ -332,7 +333,7 @@ Ovom značajkom možete upravljati u Postavke&gt; Zaporke &amp; sigurnost &gt; P
     <string name="permission_access_calendar">Pristup kalendaru</string>
     <string name="permission_access_calendar_fast_application_summary">Za omogućavanje brzim aplikacijama pristup kalendaru:</string>
     <string name="permission_account">Pristup informacijama o računu</string>
-    <string name="permission_account_introduction">Za prijavu pomoću Mi Računa</string>
+    <string name="permission_account_introduction">Za prijavu pomoću Xiaomi računa</string>
     <string name="permission_application_package_introduction">Za pristup pohrani radi analize i skeniranja instalacijskih paketa</string>
     <string name="permission_backup">Pristup pohrani</string>
     <string name="permission_backup_introduction">Za pristup i spremanje sigurnosnih kopija na vaš uređaj</string>
@@ -466,6 +467,7 @@ Ovom značajkom možete upravljati u Postavke&gt; Zaporke &amp; sigurnost &gt; P
     <string name="saturday">Subota</string>
     <string name="saturday_short">Sub</string>
     <string name="saturday_shortest">S</string>
+	 <string name="switch_network">Promjena mreže</string>
     <string name="screen_recording_introduction">"Ova aplikacija omogućuje vam snimanje onoga što se događa na vašem zaslonu."</string>
     <string name="search_menu_title">Traži</string>
     <string name="security_introduction">Ovom aplikacijom možete očistiti smeće na svom uređaju, pronaći i neutralizirati viruse, optimizirati performanse za igre, uštedjeti bateriju, upravljati aplikacijama, dopuštenjima i još mnogo toga.</string>
@@ -476,7 +478,7 @@ Ovom značajkom možete upravljati u Postavke&gt; Zaporke &amp; sigurnost &gt; P
     <string name="service_fast_pairing_policy"><Data>Pročitajte i prihvatite &lt;a href=%1$s>Mi Link Privacy Policy&lt;/a > prije nego nastavite.</Data></string>
     <string name="service_interconnection_communication">Xiaomi Internet Communication Services</string>
     <string name="service_location_share_policy"><Data>Pročitajte i prihvatite &lt;a href=%1$s>Location Services Privacy Statement&lt;/a > prije nego nastavite.</Data></string>
-    <string name="service_mi_account">Mi Račun</string>
+    <string name="service_mi_account">Xiaomi račun</string>
     <string name="service_name_MIUIDaemon">MIUI Daemon</string>
     <string name="service_name_address_dialing">Kontakti i Telefon</string>
     <string name="service_name_album">Galerija</string>
@@ -513,7 +515,7 @@ Ovom značajkom možete upravljati u Postavke&gt; Zaporke &amp; sigurnost &gt; P
     <string name="servicestate_title">Izjava o osnovnim uslugama</string>
     <string name="setting_locale">Postavljanje regije…</string>
     <string name="shut_down">Isključivanje</string>
-    <string name="sim_activation_introduction">Usluga aktivacije SIM kartice provjerava podatke trenutno umetnute SIM kartice kako bi se uvjerila da usluge MIUI mogu normalno raditi. Ove usluge uključuju Pronađi uređaj, Mi poruku, izradu Mi Računa pomoću telefonskih brojeva te sinkronizaciju poruka i povijesti poziva.</string>
+    <string name="sim_activation_introduction">Usluga aktivacije SIM kartice provjerava podatke trenutno umetnute SIM kartice kako bi se uvjerila da usluge MIUI mogu normalno raditi. Ove usluge uključuju Pronađi uređaj, Mi poruku, izradu Xiaomi računa pomoću telefonskih brojeva te sinkronizaciju poruka i povijesti poziva.</string>
     <string name="sim_card_detecting">Provjeravam SIM karticu…</string>
     <string name="sim_card_detecting_check">"Ne mogu pronaći SIM karticu. Provjerite je li SIM kartica pravilno umetnuta i imate li dovoljno sredstava na svom računu."</string>
     <string name="sim_card_detecting_confirm_turn_on_network">Dopustiti povezivanje s mobilnim podatkovnim mrežama? Ako to učinite, SIM kartica koju umetnete koristit će se za povezivanje s mobilnim podatkovnim mrežama.</string>
@@ -565,7 +567,7 @@ Ovom značajkom možete upravljati u Postavke&gt; Zaporke &amp; sigurnost &gt; P
     <string name="terms_of_use_label_joyose">Joyose</string>
     <string name="terms_of_use_label_landscape">funkcionalnost optimizacije pejzažnog prikaza</string>
     <string name="terms_of_use_label_mab">MAB</string>
-    <string name="terms_of_use_label_mi_account">Komponente Mi Računa</string>
+    <string name="terms_of_use_label_mi_account">Komponente Xiaomi računa</string>
     <string name="terms_of_use_label_miuiDaemon">MIUI Daemon</string>
     <string name="terms_of_use_label_miuisdk">MIUI SDK</string>
     <string name="terms_of_use_label_os">OS AI Postavke</string>

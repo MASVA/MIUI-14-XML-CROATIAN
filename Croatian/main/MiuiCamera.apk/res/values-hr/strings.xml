@@ -32,6 +32,8 @@
   <string name="accessibility_aperture_adjust">Otvor blende</string>
   <string name="accessibility_aperture_default">Automatsko podešavanje otvora blende</string>
   <string name="accessibility_aperture_panel_on">Otvorite panel otvora blende</string>
+  <string name="accessibility_auto_macro_off">Automatski fokus je isključen</string>
+  <string name="accessibility_auto_macro_on">Automatski fokus je uključen</string>
   <string name="accessibility_flash_fillin_auto">Dopunsko svjetlo uključeno je automatski</string>
   <string name="accessibility_flash_fillin_off">Dopunsko svjetlo je isključeno</string>
   <string name="accessibility_flash_fillin_on">Dopunsko svjetlo je uključeno</string>
@@ -188,6 +190,7 @@
   <string name="accessibility_peak">Tipka vrha fokusa</string>
   <string name="accessibility_picturesize_1_1_button">Omjer slike 1:1</string>
   <string name="accessibility_picturesize_3_4_button">Omjer slike 3.4</string>
+  <string name="accessibility_picturesize_8_9_button">Omjer slike 8:9</string>
   <string name="accessibility_picturesize_9_16_button">Omjer slike 9:16</string>
   <string name="accessibility_picturesize_fullscreen_button">Omjer slike cijeli zaslon</string>
   <string name="accessibility_portrait_button">Portretni način</string>
@@ -726,6 +729,9 @@ Preporučujemo povezivanje na %s GHz Wi-Fi mreže koje podržavaju standard šes
   <string name="dialog_button_ok">U redu</string>
   <string name="dialog_button_reject">Odbijam</string>
   <string name="dialog_button_scan">Traži uređaje</string>
+  <string name="dialog_location_guide_message">Da biste mogli dodati podatke o lokaciji svojim fotografijama i videozapisima, najprije dopustite Kameri da pristupi vašoj lokaciji.</string>
+  <string name="dialog_location_guide_positive">Dopusti</string>
+  <string name="dialog_location_guide_title">Potreban je pristup lokaciji</string>
   <string name="dialog_google_lens_option_0">Google Leće (preporučeno)</string>
   <string name="dialog_ok">U redu</string>
   <string name="dialog_ok_time">U redu (%ds)</string>
@@ -926,6 +932,7 @@ Snimanje s dva telefona također vam omogućuje povezivanje s drugim uređajem i
   <string name="flat_selfie_tip_text">Okrenite uređaj za korištenje kamere</string>
   <string name="flat_selfie_tip_text_main">Okrenite uređaj da biste koristili kameru</string>
   <string name="flat_selfie_tip_text_sub">Promijenite kamere na vanjskom zaslonu i okrenite uređaj za povratak na unutarnji zaslon</string>
+  <string name="flat_selfie_tip_text_sub_v1">"Zatvorite kameru vanjskog zaslona za povratak na unutarnji zaslon"</string>
   <string name="focal_length">Žarišna duljina</string>
   <string name="folder_camera">Kamera</string>
   <string name="folder_download">Preuzimanja</string>
@@ -948,6 +955,7 @@ Snimanje s dva telefona također vam omogućuje povezivanje s drugim uređajem i
   <string name="groupshot_mode_use_hint">"Više fotografija će biti odabrano za najbolji
 izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="guide_pop_window_msg_mimoji">Dodirnite za korištenje avatara</string>
+  <string name="guide_pop_window_msg_softlight">Dodirnite za podešavanje slabe bljeskalice</string>
   <string name="hand_gesture_open_tip">Pokažite dlan u kameru da biste pokrenuli timer</string>
   <string name="hand_gesture_tip">Slikanje dlanom</string>
   <string name="hand_night_exit_button_text">Izlaz iz Hand-held Twilight</string>
@@ -1476,6 +1484,7 @@ Ultra RAW slike štede %d bit podataka zadržavajući još više detalja."</stri
   <string name="parameter_metering_description">Prosječno mjerenje uzima u obzir sva područja vaše slike, radeći najbolje za ravnomjerno osvijetljene prizore. Mjerenje u središnjem dijelu uglavnom se usredotočuje na središnji dio kadra i uzima u obzir svjetlinu okolnog područja, što je pogodno za snimanje predmeta u središtu kadra. Točkovno mjerenje obuhvaća područje samo na jednom mjestu, pružajući vam preciznu kontrolu nad ekspozicijom.</string>
   <string name="parameter_metering_title">Načini mjerenja</string>
   <string name="parameter_peak_focus_description">"Kad fokusirate ručno, koristite vrhunac fokusa da postavite crveni naglasak na područje izoštravanja."</string>
+  <string name="parameter_peak_focus_description_v2">Koristite izoštravanje fokusa za postavljanje zelenih isticanja na područje u fokusu prilikom ručnog fokusiranja.</string>
   <string name="parameter_peak_focus_title">Vrh fokusa</string>
   <string name="parameter_peak_raw_description">Ovaj format slike bilježi sve slikovne podatke koje je snimio senzor kad fotografirate. Nekomprimirani podaci pružaju više mogućnosti u naknadnoj obradi.</string>
   <string name="parameter_peak_raw_title">RAW format</string>
@@ -1696,10 +1705,11 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_camera_first_tag_tips">Označeno uspješno</string>
   <string name="pref_camera_fisheye_title">Riblje oko</string>
   <string name="pref_camera_flashmode_entry_auto">Auto</string>
-  <string name="pref_camera_flashmode_entry_back_soft_light">Meko svjetlo</string>
+  <string name="pref_camera_flashmode_entry_back_soft_light">Slabo svjetlo</string>
   <string name="pref_camera_flashmode_entry_off">Isključeno</string>
   <string name="pref_camera_flashmode_entry_on">Uključeno</string>
   <string name="pref_camera_flashmode_entry_screen_halo">Svjetlo prstena</string>
+  <string name="pref_camera_flashmode_entry_softlight">Slaba bljeskalica</string>
   <string name="pref_camera_flashmode_entry_torch">Bljeskalica</string>
   <string name="pref_camera_flashmode_title">Način bljeskalice</string>
   <string name="pref_camera_focus_shoot_summary">Dodirnite za fokusiranje, a zatim ponovno dodirnite da biste snimili fotografiju.</string>
@@ -2278,6 +2288,13 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="slow_shutter_title4">Neka vaš subjekt ostane miran</string>
   <string name="snap_cancel">Odustani</string>
   <string name="snap_confirmed">Zamijeni</string>
+  <string name="softlight_fragment_lighting_mode_brightness">Svjetlina</string>
+  <string name="softlight_fragment_lighting_mode_candle">Svijeća</string>
+  <string name="softlight_fragment_lighting_mode_color_temp">Temperatura</string>
+  <string name="softlight_fragment_tab_name">Slaba bljeskalica</string>
+  <string name="softlight_fragment_tab_name_brightness">Svjetlina</string>
+  <string name="softlight_fragment_tab_name_color_temp">Temperatura</string>
+  <string name="softlight_fragment_tab_name_lighting_mode">Petlja</string>
   <string name="snapshot_lower_than_video">Veličina pregledane snimke manja je od veličine videozapisa. Prekrivanje na veličinu videozapisa. Odaberite razlučivost višu ili jednaku trenutnoj veličini videozapisa.</string>
   <string name="snapshot_qcif_and_d1">Za ovu rezoluciju podržana je samo veličina snimke videozapisa.</string>
   <string name="snapshotsize_low_powermode">Razlučivost slika u Niskom načinu energije nije podržan. Veličina snimka videa će se koristiti.</string>
@@ -2289,7 +2306,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="sorftlight_style_warm_alert">Restoran</string>
   <string name="spaceIsLow_content">SD kartici ponestaje prostora. Smanjite kvalitetu ili izbrišite neke slike ili druge datoteke.</string>
   <string name="spaceIsLow_content_external_storage_priority">SD kartici ponestaje prostora</string>
-  <string name="spaceIsLow_content_primary_storage_priority">USB pohrani ponestaje prostora</string>
+  <string name="spaceIsLow_content_primary_storage_priority">Unutarnjoj pohrani ponestaje prostora</string>
   <string name="spaceIsLow_content_timerburst_infinity_storage_priority">"Izgleda da vam je ponestalo prostora za pohranu. Snimanje slika je zaustavljeno."</string>
   <string name="spaceIsLow_content_timerburst_infinity_storage_priority_immediately">Snimanje će uskoro biti zaustavljeno zbog nedovoljno prostora za pohranu…</string>
   <string name="speech_shutter_open_tip">Recite \"Fotografiraj\" ili \"Snimi fotografiju\" da snimite fotografiju</string>
@@ -2301,7 +2318,14 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="street_tip_middle">Smjestite subjekt unutar %d metara</string>
   <string name="street_tip_near">Smjestite subjekt unutar %1$s metara</string>
   <string name="stop_save_low_battery">Spremi (%ds)</string>
-  <string name="subtitle_network_exception_tips">"Ne mogu se povezati na mrežu. Ne možete naći titlove."</string>
+  <string name="street_auto_desc">Automatska udaljenost fokusiranja</string>
+  <string name="street_far_desc">%1$s-metarska udaljenost fokusa</string>
+  <string name="street_middle_desc">%1$s-metarska udaljenost fokusa</string>
+  <string name="street_near_desc">%1$s-metarska udaljenost fokusa</string>
+  <string name="street_preferred_description">Da biste uključili ovu značajku, idite na Postavke > Pokreni kameru i odaberite \"Snimi fotografiju\"</string>
+  <string name="street_tip_far">Smjesti subjekt unutar %d metara</string>
+  <string name="street_tip_middle">Smjesti subjekt unutar %d metara</string>
+  <string name="subtitle_network_exception_tips">"Ne mogu se povezati na mrežu. Ne mogu naći titlove."</string>
   <string name="success_message_import_from_account">Uvezeno</string>
   <string name="sunday">Nedjelja</string>
   <string name="sunday_short">Ned</string>
@@ -2613,6 +2637,7 @@ snimanje i uređivanje videozapisa u pokretu"</string>
   <string name="cv_lens_rotary_focus">Zapetljani bokeh</string>
   <string name="cv_lens_soft_focus">Meki fokus</string>
   <string name="cv_lens_title">Za leće</string>
+  <string name="cv_type_switch_diabled_tip_content">%s radi samo s Leica Vibrant</string>
   <string name="cvtype_btn_select">Koristite \"%1$s\"</string>
   <string name="cvtype_hint_title">Odaberite stil</string>
   <string name="cvtype_item_btn_title1">Leica Authentic</string>

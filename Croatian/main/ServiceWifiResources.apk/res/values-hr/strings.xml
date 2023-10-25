@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="accept">Prihvaćam</string>
+	<string name="apm_enabled_first_time_message">"Vaš uređaj pamti da Wi‑Fi ostane uključen u načinu rada u zrakoplovu. Isključite Wi‑Fi ako ne želite da ostane uključen."</string>
+  <string name="apm_enabled_first_time_title">Wi‑Fi ostaje uključen</string>
 	<string name="decline">Odbijam</string>
 	<string name="dlg_ok">U redu</string>
 	<string name="notification_channel_network_alerts">Mrežna upozorenja</string>
 	<string name="notification_channel_network_available">Mreža dostupna</string>
 	<string name="notification_channel_network_status">Status mreže</string>
 	<string name="ok">U redu</string>
+	<string name="notification_channel_apm_alerts">APM upozorenja</string>
 	<string name="wifiResourcesAppLabel">Wi‑Fi resursi sustava</string>
 	<string name="wifi_available_action_all_networks">Sve mreže</string>
 	<string name="wifi_available_action_connect">Poveži</string>
@@ -114,11 +117,26 @@ Ova promjena može omogućiti da obližnji uređaji prate lokaciju vašeg uređa
 	<string name="wifi_enable_request_dialog_negative_button">"Ne dopusti"</string>
 	<string name="wifi_enable_request_dialog_positive_button">Dopusti</string>
 	<string name="wifi_enable_request_dialog_title">Dopustiti %1$s da uključi Wi‑Fi?</string>
+	<string name="wifi_enabled_apm_first_time_message">"Ako ostavite Wi‑Fi uključenim, vaš uređaj će zapamtiti da ga mora ostaviti uključenim sljedeći put kada budete u načinu rada u zrakoplovu"</string>
+  <string name="wifi_enabled_apm_first_time_title">Wi‑Fi uključen u načinu rada u zrakoplovu</string>
 	<string name="wifi_interface_priority_approve">Dopusti</string>
+	<string name="wifi_interface_priority_interface_name_ap">Wi‑Fi Hotspot</string>
+  <string name="wifi_interface_priority_interface_name_ap_bridge">Wi‑Fi Hotspot</string>
+  <string name="wifi_interface_priority_interface_name_nan">Wi‑Fi Aware</string>
+  <string name="wifi_interface_priority_interface_name_p2p">Wi‑Fi Direct</string>
+  <string name="wifi_interface_priority_interface_name_sta">STA</string>
 	<string name="wifi_interface_priority_message">To može uzrokovati probleme za %3$s.</string>
 	<string name="wifi_interface_priority_message_plural">Ovo može uzrokovati probleme za ove aplikacije: %3$s.</string>
 	<string name="wifi_interface_priority_reject">"Ne dopusti"</string>
 	<string name="wifi_interface_priority_title">%1$s želi koristiti mrežni resurs</string>
+	<string name="wifi_network_disabled_by_admin_button">Zatvori</string>
+  <string name="wifi_network_disabled_by_admin_message">%1$s je onemogućio vaš administrator.</string>
+  <string name="wifi_network_disabled_by_admin_title">Nedostupna mreža</string>
+  <string name="wifi_network_switch_dialog_negative_button">"Nemoj mijenjati"</string>
+  <string name="wifi_network_switch_dialog_positive_button">Prebacivanje</string>
+  <string name="wifi_network_switch_dialog_title_bad_internet">%1$s je niske kvalitete. Prebaciti se na %2$s?</string>
+  <string name="wifi_network_switch_dialog_title_no_internet">Čini se da %1$s nije spojen na internet. Prebaciti se na %2$s?</string>
+  <string name="wifi_p2p_invitation_seconds_remaining">{0, plural, =1 {Prihvati za # sekundu.} ostalo {Prihvati za # sekundi.} }</string>
 	<string name="wifi_tofu_invalid_cert_chain_message">Lanac certifikata poslužitelja nije valjan.</string>
 	<string name="wifi_tofu_invalid_cert_chain_ok_text">U redu</string>
 	<string name="wifi_tofu_invalid_cert_chain_title">"Ne mogu se povezati s %1$s"</string>
