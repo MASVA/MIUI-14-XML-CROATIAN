@@ -30,7 +30,6 @@
     <string name="actionbar_button_up_description">Natrag</string>
     <string name="alphabet">Abeceda</string>
     <string name="app_name">SIM Alat</string>
-	 <string name="bottomsheet_action_expand_halfway">Proširi donju polovicu</string>
     <string name="bottomsheet_action_collapse">Sažmi donju polovicu</string>
     <string name="bottomsheet_action_expand">Proširi donju polovicu</string>
     <string name="bottomsheet_drag_handle_clicked">Ručka za povlačenje dvaput dodirnuta</string>
@@ -65,14 +64,12 @@
     <string name="disable_app">Onemogućeno</string>
     <string name="enable_app">Omogućeno</string>
 	 <string name="error_a11y_label">Pogreška: invalid</string>
-	 <string name="error_icon_content_description">Pogreška</string>
     <string name="expand_button_title">Napredno</string>
     <string name="friday">Petak</string>
     <string name="friday_short">Pet</string>
     <string name="friday_shortest">P</string>
     <string name="help">Pomoć</string>
     <string name="icon_content_description">Ikona dijaloga</string>
-	 <string name="item_view_role_description">Tab</string>
 	 <string name="lable_sim_not_ready">SIM Toolkit nije spreman ili nije podržan</string>
     <string name="menu_back">Natrag</string>
     <string name="menu_end_session">Završi sesiju</string>
@@ -227,7 +224,6 @@
     <string name="error_icon_content_description">Pogreška</string>
     <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>
     <string name="item_view_role_description">Kartica</string>
-	 <string name="lable_sim_not_ready">SIM Alat nije spreman ili nije podržan</string>
     <string name="material_clock_toggle_content_description">Odaberite prijepodne ili poslijepodne</string>
     <string name="material_hour_selection">Odaberite sat</string>
     <string name="material_hour_suffix">%1$s h</string>

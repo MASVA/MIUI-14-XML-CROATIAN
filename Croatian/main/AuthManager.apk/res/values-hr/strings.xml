@@ -48,8 +48,6 @@
 	<string name="HIPS_Perm_NEARBY_DEVICES">Povezivanje s uređajima u blizini</string>
 	<string name="HIPS_Perm_NEARBY_DEVICES_Desc">Otkriti i povezati se s uređajima u blizini</string>
 	<string name="HIPS_Perm_NEARBY_DEVICES_Desc_T_china">Otkriti i povezati se s uređajima u blizini putem Bluetootha i Wi-Fi-ja</string>
-	<string name="HIPS_Perm_operator_wall_paper">Usluge dinamičnih slika pozadina</string>
-  <string name="HIPS_Perm_operator_wall_paper_Desc">Uređivanje usluga dinamičnih slika pozadina sustava</string>
 	<string name="HIPS_Perm_PhoneID">Dobivanje informacija o uređaju</string>
 	<string name="HIPS_Perm_PhoneID_Desc">pristupiti broju telefona, IMEI i IMSI-ju</string>
 	<string name="HIPS_Perm_PhoneID_Desc_Q">Pristup broju telefona i statusu uređaja</string>

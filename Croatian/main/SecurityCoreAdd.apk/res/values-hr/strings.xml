@@ -250,8 +250,7 @@ Provjerite je li naziv vaše korporacije točan. Prije aktivacije pročitajte i 
   <string name="fingerprint_double_tap">Senzor otiska prsta dvaput dodirnite</string>
   <string name="fingerprint_number_upper_limit">Previše neuspješnih pokušaja otključavanja</string>
   <string name="fingerprint_removal_failed">"Ne mogu izbrisati otisak prsta"</string>
-  <string name="friday">Petak</string>
-  <string name="fp_nav_center_back_to_home_title">Dodirnite gumb Početna za povratak na početni zaslon</string>
+  <string name="fp_nav_center_back_to_home_title">Dodirnite tipku Početna za povratak na početni zaslon</string>
   <string name="friday">Petak</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
@@ -313,14 +312,11 @@ Poruke će se pojaviti samo u Drugom prostoru."</string>
   <string name="guide_contact_title_desc">Prikazati privatne stavke u Drugom prostoru?</string>
   <string name="guide_pwd_detail_title">"Zaštitite svoje podatke
 Uđite u Drugi prostor sa zaključanog zaslona"</string>
-  <string name="guide_setting_guide_title">Upravljaj Drugim prosotorom</string>
+  <string name="guide_setting_guide_title">Upravljaj Drugim prostorom</string>
   <string name="guide_start_ads_text">Potpuno nova razina sigurnosti</string>
   <string name="guide_page_up_down">Okretanje stranica</string>
   <string name="guide_phone_call_endcall">Odgovaranje i prekidanje poziva prenesenih na tablet</string>
-  <string name="guide_pwd_detail_title">"Zaštitite svoje podatke
-Unesite drugi razmak sa zaključanog zaslona"</string>
-  <string name="guide_setting_guide_title">Upravljanje drugim prostorom</string>
-  <string name="guide_start_text">Dva razmaka. Jedan uređaj.</string>
+  <string name="guide_start_text">Dva prostora. Jedan uređaj.</string>
   <string name="guide_swipe_up_down">Prijeđite prstom gore i dolje</string>
   <string name="has_created_second_space">"Sada možete otvoriti Drugi prostor.
 Dva prostora. Jedan uređaj."</string>
@@ -629,7 +625,6 @@ Ako držite tipku %s sekundi, umjesto toga otvorit ćete izbornik za isključiva
   <string name="notification_from_owner_user">Prikaži obavijesti iz Prvog prostora</string>
   <string name="notification_from_second_user">Prikaži obavijesti iz Drugog prostora</string>
   <string name="notification_setting_second_space">Postavite Drugi prostor</string>
-  <string name="notification_setting_second_space_desc">Dodajte zaporku Drugog prostora i premjestite podatke</string>
   <string name="notification_tof_gesture_content_text">Uključite ovu značajku za izvođenje različitih radnji bez dodirivanja zaslona</string>
   <string name="notification_setting_second_space_desc">Dodajte zaporku Drugog prostora i premjestite podatke</string>
   <string name="ok_button">U redu</string>

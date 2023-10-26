@@ -1426,7 +1426,6 @@ Rezervne kopije pohranjuju se u Xiaomi Cloudu i mogu im se pristupiti bežično.
   <string name="battery_app_usage_since_last_full_charge_to">Korištenje aplikacije od posljednjeg potpunog punjenja do %s</string>
   <string name="battery_auto_restriction_summary">Otkrij kada aplikacije troše bateriju</string>
   <string name="battery_auto_restriction_title">Upotreba upravitelja baterije</string>
-  <string name="battery_auto_restriction_title">Use Battery Manager</string>
   <string name="battery_bg_usage">^1 u pozadini od posljednjeg potpunog punjenja</string>
   <string name="battery_bg_usage_24hr">^1 u pozadini u posljednja 24 h</string>
   <string name="battery_bg_usage_less_minute">Manje od minute u pozadini od posljednjeg potpunog punjenja</string>

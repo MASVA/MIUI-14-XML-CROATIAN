@@ -511,7 +511,6 @@ Audio"</string>
   <string name="bluetooth_talkback_phone">Telefon</string>
   <string name="bottomsheet_action_collapse">Sažmi donji list</string>
   <string name="bottomsheet_action_expand">Proširi donji list</string>
-  <string name="bottomsheet_action_expand_halfway">Proširi do pola</string>
   <string name="bottomsheet_drag_handle_clicked">Dvaput dodirnuta ručica za povlačenje</string>
   <string name="bottomsheet_drag_handle_content_description">Ručka za povlačenje</string>
   <string name="broadcasting_description_is_broadcasting">Emitiranje</string>
@@ -809,10 +808,8 @@ Ako nastavite, moguća je naplata za potrošeni podatkovni promet."</string>
   <string name="do_financed_disclosure_with_name">Ovaj uređaj pruža %s</string>
   <string name="dock_forced_resizable">Aplikacija možda neće raditi s podijeljenim zaslonom</string>
   <string name="dock_multi_instances_not_supported_text">Ova se aplikacija može otvoriti samo u 1 prozoru.</string>
-  <string name="dock_non_resizeble_failed_to_dock_text">Aplikacija ne podržava podijeljeni zaslon</string>
   <string name="dock_alignment_not_charging">Ponovo namjestite telefon da bi se punio bežično</string>
   <string name="dock_alignment_slow_charging">Ponovo namjestite telefon da bi se brže punio</string>
-  <string name="dock_forced_resizable">Aplikacija možda neće funkcionirati s podijeljenim zaslonom.</string>
   <string name="dock_non_resizeble_failed_to_dock_text">Aplikacija ne podržava podijeljeni zaslon.</string>
   <string name="done">Gotovo</string>
   <string name="download_lock_wallpaper">Dodirnite dvaput da preuzmete Wallpaper Carousel</string>
@@ -1110,8 +1107,6 @@ Kad se ohladi, radit će normalno."</string>
   <string name="input_lockscreen_pin_hint_text">Unesite PIN</string>
   <string name="input_password_after_boot_msg">Potrebno je unijeti zaporku nakon ponovnog pokretanja uređaja</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">"Ne možete promjeniti prostore tijekom poziva"</string>
-  <string name="input_password_after_boot_msg_can_not_switch_when_extrememode_active">"Ne mogu koristiti drugi prostor u načinu hibernacije"</string>
-  <string name="input_password_after_boot_msg_can_not_switch_when_extrememode_endurance_battery_zero_active">"Ne mogu koristiti drugi prostor zbog niske baterije"</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"Ne možete promjeniti prostore kada su uključene roditeljske kontrole"</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"Ne možete promjeniti prostore kada je Ultra štednja baterije uključena"</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">Morate ući u Prvi prostor nakon ponovnog pokretanja uređaja</string>
@@ -2408,7 +2403,6 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="tethering_hardware_offload">Hardversko ubrzanje za modemsko povezivanje</string>
   <string name="tethering_hardware_offload_summary">Upotreba hardverskog ubrzanja za modemsko povezivanje ako je dostupno</string>
   <string name="tethering_settings_not_available">Postavke dijeljenja veze nisu dostupne ovom korisniku</string>
-  <string name="thermal_protection_warning">"Vaš uređaj je pregrijan. Sada ne možete koristiti ovu značajku."</string>
   <string name="thermal_shutdown_dialog_help_text">Pročitajte upute za održavanje</string>
   <string name="thermal_shutdown_dialog_help_url" />
   <string name="thermal_shutdown_dialog_message">"Telefon se pregrijao, stoga se isključio kako bi se ohladio Telefon sada radi normalno.
@@ -2507,8 +2501,6 @@ Dodirnite za više informacija"</string>
   <string name="two_weeks_timestamp">Prije dva tjedna</string>
   <string name="unknown">Nepoznato</string>
   <string name="unlock_failed">Interna pogreška</string>
-  <string name="unlock_to_see_notif_text">Otključajte da biste vidjeli starije obavijesti</string>
-  <string name="unlock_to_view_networks">Otključajte za prikaz mreža</string>
   <string name="unlocking_sim_card">Otključavanje SIM kartice</string>
   <string name="unlockscreen_low_battery">Priključite punjač</string>
   <string name="unlockscreen_recharge_completed">Baterija napunjena</string>

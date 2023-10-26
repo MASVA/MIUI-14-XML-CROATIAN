@@ -2314,17 +2314,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="start_capture">U redu</string>
   <string name="sticker_tab1">Slatko</string>
   <string name="sticker_tab2">Smiješno</string>
-  <string name="street_tip_far">Smjestite subjekt unutar %d metara</string>
-  <string name="street_tip_middle">Smjestite subjekt unutar %d metara</string>
-  <string name="street_tip_near">Smjestite subjekt unutar %1$s metara</string>
   <string name="stop_save_low_battery">Spremi (%ds)</string>
-  <string name="street_auto_desc">Automatska udaljenost fokusiranja</string>
-  <string name="street_far_desc">%1$s-metarska udaljenost fokusa</string>
-  <string name="street_middle_desc">%1$s-metarska udaljenost fokusa</string>
-  <string name="street_near_desc">%1$s-metarska udaljenost fokusa</string>
-  <string name="street_preferred_description">Da biste uključili ovu značajku, idite na Postavke > Pokreni kameru i odaberite \"Snimi fotografiju\"</string>
-  <string name="street_tip_far">Smjesti subjekt unutar %d metara</string>
-  <string name="street_tip_middle">Smjesti subjekt unutar %d metara</string>
   <string name="subtitle_network_exception_tips">"Ne mogu se povezati na mrežu. Ne mogu naći titlove."</string>
   <string name="success_message_import_from_account">Uvezeno</string>
   <string name="sunday">Nedjelja</string>
